@@ -100,3 +100,8 @@ Automate the pipeline for monthly refresh and add lifetime ROAS tracking that ti
 
 In sum, the study demonstrates an integrated approach—combining probabilistic CLV modeling, causal incrementality, and unsupervised segmentation—to quantify customer value and the true financial impact of discounting in a non-contractual retail setting, delivering both strategic insight and operational tooling.
 
+
+Link to original Kaggle dataset: https://www.kaggle.com/datasets/rishikumarrajvansh/marketing-insights-for-e-commerce-company/data
+Link to Calendarific: https://calendarific.com/
+Link to Tableau presentation: https://public.tableau.com/views/RetainandGain_CapstoneProject/RetainGain?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+Link to dbt repository: https://github.com/Lukas-ing/LTV_dbt
