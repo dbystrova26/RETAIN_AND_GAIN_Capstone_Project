@@ -1,4 +1,3 @@
-
 # RETAIN AND GAIN (Capstrone Project)
 
 Using the 2019 Kaggle “Marketing Insights for E-commerce” data, enriched with Calendarific holidays, we estimate CLV with BG-NBD, Pareto/NBD, MBG-NBD, and a Gamma-Gamma spend model on RFM. Seasonality (month + holidays) is built into the CLV pipelines and the promo incrementality read to steer ROAS-positive budget decisions.
@@ -69,25 +68,23 @@ Unsupervised segmentation. Clustering on behavioral and value features creates a
 Visualization and delivery. Reusable SQL tables power Tableau dashboards
 
 
-Key insights 
+#Key insights 
 CLV models provide stable, interpretable forecasts for non-contractual customers and identify high-value cohorts for retention and cross-sell.
 
 Discount effectiveness is heterogeneous: monthly lift varies and cumulative impact can diverge from point estimates—making the dose–response and confidence bands essential for decisioning.
 
 Category-level views highlight where coupons create profit versus where they erode margin, guiding budget reallocation.
 
-
 Segments exhibit distinct elasticity and value profiles, enabling targeted promo intensity rather than uniform discounts.
 
 
-Practical outcomes
+#Practical outcomes
 A reproducible analytics pipeline (data prep → modeling → causal estimation → visualization).
-
 
 A set of database tables engineered for BI consumption (EDA, cohort analysis, diagnostics, ATT, dose–response, incremental revenue, pCLV and Seasonality dashboards) and Tableau workbooks that translate results into decision support for finance and marketing.
 
 
-Limitations and assumptions
+#Limitations and assumptions
 Identification relies on parallel-trends and correct treatment assignment; remaining selection or timing bias may persist.
 ROAS at the category level depends on an allocation rule for shared coupon spend.
 Results reflect the observed horizon and available features; exogenous shocks and unobserved media may confound effects.
@@ -97,17 +94,9 @@ For analysis, coupons marked 'Clicked' are treated as 'Used' (i.e., included in 
 Implications and next steps
 
 Use the segment × category heatmap to reallocate coupons toward profitable pockets and away from margin-destroying ones.
-
-
 Operationalize CLV-based targeting (thresholds or percentiles) for acquisition and retention campaigns.
-
-
 Extend the causal framework with alternative estimators (e.g., CUPED, synthetic controls) and run prospective hold-outs to validate lift.
-
-
 Automate the pipeline for monthly refresh and add lifetime ROAS tracking that ties spend to modeled CLV, not only short-run revenue.
 
 In sum, the study demonstrates an integrated approach—combining probabilistic CLV modeling, causal incrementality, and unsupervised segmentation—to quantify customer value and the true financial impact of discounting in a non-contractual retail setting, delivering both strategic insight and operational tooling.
 
-
->>>>>>> capstrone-local/main
