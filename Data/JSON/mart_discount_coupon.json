@@ -1,0 +1,1431 @@
+{
+"mart_discount_coupon": [
+	{
+		"start_date" : "2019-01-01",
+		"month" : "jan",
+		"end_date" : "2019-01-31",
+		"product_category" : "Apparel",
+		"discount_pct" : 10
+	},
+	{
+		"start_date" : "2019-02-01",
+		"month" : "feb",
+		"end_date" : "2019-02-28",
+		"product_category" : "Apparel",
+		"discount_pct" : 20
+	},
+	{
+		"start_date" : "2019-03-01",
+		"month" : "mar",
+		"end_date" : "2019-03-31",
+		"product_category" : "Apparel",
+		"discount_pct" : 30
+	},
+	{
+		"start_date" : "2019-01-01",
+		"month" : "jan",
+		"end_date" : "2019-01-31",
+		"product_category" : "Nest-USA",
+		"discount_pct" : 10
+	},
+	{
+		"start_date" : "2019-02-01",
+		"month" : "feb",
+		"end_date" : "2019-02-28",
+		"product_category" : "Nest-USA",
+		"discount_pct" : 20
+	},
+	{
+		"start_date" : "2019-03-01",
+		"month" : "mar",
+		"end_date" : "2019-03-31",
+		"product_category" : "Nest-USA",
+		"discount_pct" : 30
+	},
+	{
+		"start_date" : "2019-01-01",
+		"month" : "jan",
+		"end_date" : "2019-01-31",
+		"product_category" : "Office",
+		"discount_pct" : 10
+	},
+	{
+		"start_date" : "2019-02-01",
+		"month" : "feb",
+		"end_date" : "2019-02-28",
+		"product_category" : "Office",
+		"discount_pct" : 20
+	},
+	{
+		"start_date" : "2019-03-01",
+		"month" : "mar",
+		"end_date" : "2019-03-31",
+		"product_category" : "Office",
+		"discount_pct" : 30
+	},
+	{
+		"start_date" : "2019-01-01",
+		"month" : "jan",
+		"end_date" : "2019-01-31",
+		"product_category" : "Drinkware",
+		"discount_pct" : 10
+	},
+	{
+		"start_date" : "2019-02-01",
+		"month" : "feb",
+		"end_date" : "2019-02-28",
+		"product_category" : "Drinkware",
+		"discount_pct" : 20
+	},
+	{
+		"start_date" : "2019-03-01",
+		"month" : "mar",
+		"end_date" : "2019-03-31",
+		"product_category" : "Drinkware",
+		"discount_pct" : 30
+	},
+	{
+		"start_date" : "2019-01-01",
+		"month" : "jan",
+		"end_date" : "2019-01-31",
+		"product_category" : "Lifestyle",
+		"discount_pct" : 10
+	},
+	{
+		"start_date" : "2019-02-01",
+		"month" : "feb",
+		"end_date" : "2019-02-28",
+		"product_category" : "Lifestyle",
+		"discount_pct" : 20
+	},
+	{
+		"start_date" : "2019-03-01",
+		"month" : "mar",
+		"end_date" : "2019-03-31",
+		"product_category" : "Lifestyle",
+		"discount_pct" : 30
+	},
+	{
+		"start_date" : "2019-01-01",
+		"month" : "jan",
+		"end_date" : "2019-01-31",
+		"product_category" : "Bags",
+		"discount_pct" : 10
+	},
+	{
+		"start_date" : "2019-02-01",
+		"month" : "feb",
+		"end_date" : "2019-02-28",
+		"product_category" : "Bags",
+		"discount_pct" : 20
+	},
+	{
+		"start_date" : "2019-03-01",
+		"month" : "mar",
+		"end_date" : "2019-03-31",
+		"product_category" : "Bags",
+		"discount_pct" : 30
+	},
+	{
+		"start_date" : "2019-01-01",
+		"month" : "jan",
+		"end_date" : "2019-01-31",
+		"product_category" : "Notebooks",
+		"discount_pct" : 10
+	},
+	{
+		"start_date" : "2019-02-01",
+		"month" : "feb",
+		"end_date" : "2019-02-28",
+		"product_category" : "Notebooks",
+		"discount_pct" : 20
+	},
+	{
+		"start_date" : "2019-03-01",
+		"month" : "mar",
+		"end_date" : "2019-03-31",
+		"product_category" : "Notebooks",
+		"discount_pct" : 30
+	},
+	{
+		"start_date" : "2019-01-01",
+		"month" : "jan",
+		"end_date" : "2019-01-31",
+		"product_category" : "Headgear",
+		"discount_pct" : 10
+	},
+	{
+		"start_date" : "2019-02-01",
+		"month" : "feb",
+		"end_date" : "2019-02-28",
+		"product_category" : "Headgear",
+		"discount_pct" : 20
+	},
+	{
+		"start_date" : "2019-03-01",
+		"month" : "mar",
+		"end_date" : "2019-03-31",
+		"product_category" : "Headgear",
+		"discount_pct" : 30
+	},
+	{
+		"start_date" : "2019-01-01",
+		"month" : "jan",
+		"end_date" : "2019-01-31",
+		"product_category" : "Nest",
+		"discount_pct" : 10
+	},
+	{
+		"start_date" : "2019-02-01",
+		"month" : "feb",
+		"end_date" : "2019-02-28",
+		"product_category" : "Nest",
+		"discount_pct" : 20
+	},
+	{
+		"start_date" : "2019-03-01",
+		"month" : "mar",
+		"end_date" : "2019-03-31",
+		"product_category" : "Nest",
+		"discount_pct" : 30
+	},
+	{
+		"start_date" : "2019-01-01",
+		"month" : "jan",
+		"end_date" : "2019-01-31",
+		"product_category" : "Waze",
+		"discount_pct" : 10
+	},
+	{
+		"start_date" : "2019-02-01",
+		"month" : "feb",
+		"end_date" : "2019-02-28",
+		"product_category" : "Waze",
+		"discount_pct" : 20
+	},
+	{
+		"start_date" : "2019-03-01",
+		"month" : "mar",
+		"end_date" : "2019-03-31",
+		"product_category" : "Waze",
+		"discount_pct" : 30
+	},
+	{
+		"start_date" : "2019-01-01",
+		"month" : "jan",
+		"end_date" : "2019-01-31",
+		"product_category" : "Bottles",
+		"discount_pct" : 10
+	},
+	{
+		"start_date" : "2019-02-01",
+		"month" : "feb",
+		"end_date" : "2019-02-28",
+		"product_category" : "Bottles",
+		"discount_pct" : 20
+	},
+	{
+		"start_date" : "2019-03-01",
+		"month" : "mar",
+		"end_date" : "2019-03-31",
+		"product_category" : "Bottles",
+		"discount_pct" : 30
+	},
+	{
+		"start_date" : "2019-01-01",
+		"month" : "jan",
+		"end_date" : "2019-01-31",
+		"product_category" : "Nest-Canada",
+		"discount_pct" : 10
+	},
+	{
+		"start_date" : "2019-02-01",
+		"month" : "feb",
+		"end_date" : "2019-02-28",
+		"product_category" : "Nest-Canada",
+		"discount_pct" : 20
+	},
+	{
+		"start_date" : "2019-03-01",
+		"month" : "mar",
+		"end_date" : "2019-03-31",
+		"product_category" : "Nest-Canada",
+		"discount_pct" : 30
+	},
+	{
+		"start_date" : "2019-01-01",
+		"month" : "jan",
+		"end_date" : "2019-01-31",
+		"product_category" : "Housewares",
+		"discount_pct" : 10
+	},
+	{
+		"start_date" : "2019-02-01",
+		"month" : "feb",
+		"end_date" : "2019-02-28",
+		"product_category" : "Housewares",
+		"discount_pct" : 20
+	},
+	{
+		"start_date" : "2019-03-01",
+		"month" : "mar",
+		"end_date" : "2019-03-31",
+		"product_category" : "Housewares",
+		"discount_pct" : 30
+	},
+	{
+		"start_date" : "2019-01-01",
+		"month" : "jan",
+		"end_date" : "2019-01-31",
+		"product_category" : "Accessories",
+		"discount_pct" : 10
+	},
+	{
+		"start_date" : "2019-02-01",
+		"month" : "feb",
+		"end_date" : "2019-02-28",
+		"product_category" : "Accessories",
+		"discount_pct" : 20
+	},
+	{
+		"start_date" : "2019-03-01",
+		"month" : "mar",
+		"end_date" : "2019-03-31",
+		"product_category" : "Accessories",
+		"discount_pct" : 30
+	},
+	{
+		"start_date" : "2019-01-01",
+		"month" : "jan",
+		"end_date" : "2019-01-31",
+		"product_category" : "Gift Cards",
+		"discount_pct" : 10
+	},
+	{
+		"start_date" : "2019-02-01",
+		"month" : "feb",
+		"end_date" : "2019-02-28",
+		"product_category" : "Gift Cards",
+		"discount_pct" : 20
+	},
+	{
+		"start_date" : "2019-03-01",
+		"month" : "mar",
+		"end_date" : "2019-03-31",
+		"product_category" : "Gift Cards",
+		"discount_pct" : 30
+	},
+	{
+		"start_date" : "2019-01-01",
+		"month" : "jan",
+		"end_date" : "2019-01-31",
+		"product_category" : "Notebooks & Journals",
+		"discount_pct" : 10
+	},
+	{
+		"start_date" : "2019-02-01",
+		"month" : "feb",
+		"end_date" : "2019-02-28",
+		"product_category" : "Notebooks & Journals",
+		"discount_pct" : 20
+	},
+	{
+		"start_date" : "2019-03-01",
+		"month" : "mar",
+		"end_date" : "2019-03-31",
+		"product_category" : "Notebooks & Journals",
+		"discount_pct" : 30
+	},
+	{
+		"start_date" : "2019-01-01",
+		"month" : "jan",
+		"end_date" : "2019-01-31",
+		"product_category" : "Android",
+		"discount_pct" : 10
+	},
+	{
+		"start_date" : "2019-02-01",
+		"month" : "feb",
+		"end_date" : "2019-02-28",
+		"product_category" : "Android",
+		"discount_pct" : 20
+	},
+	{
+		"start_date" : "2019-03-01",
+		"month" : "mar",
+		"end_date" : "2019-03-31",
+		"product_category" : "Android",
+		"discount_pct" : 30
+	},
+	{
+		"start_date" : "2019-04-01",
+		"month" : "apr",
+		"end_date" : "2019-04-30",
+		"product_category" : "Apparel",
+		"discount_pct" : 10
+	},
+	{
+		"start_date" : "2019-05-01",
+		"month" : "may",
+		"end_date" : "2019-05-31",
+		"product_category" : "Apparel",
+		"discount_pct" : 20
+	},
+	{
+		"start_date" : "2019-06-01",
+		"month" : "jun",
+		"end_date" : "2019-06-30",
+		"product_category" : "Apparel",
+		"discount_pct" : 30
+	},
+	{
+		"start_date" : "2019-04-01",
+		"month" : "apr",
+		"end_date" : "2019-04-30",
+		"product_category" : "Nest-USA",
+		"discount_pct" : 10
+	},
+	{
+		"start_date" : "2019-05-01",
+		"month" : "may",
+		"end_date" : "2019-05-31",
+		"product_category" : "Nest-USA",
+		"discount_pct" : 20
+	},
+	{
+		"start_date" : "2019-06-01",
+		"month" : "jun",
+		"end_date" : "2019-06-30",
+		"product_category" : "Nest-USA",
+		"discount_pct" : 30
+	},
+	{
+		"start_date" : "2019-04-01",
+		"month" : "apr",
+		"end_date" : "2019-04-30",
+		"product_category" : "Office",
+		"discount_pct" : 10
+	},
+	{
+		"start_date" : "2019-05-01",
+		"month" : "may",
+		"end_date" : "2019-05-31",
+		"product_category" : "Office",
+		"discount_pct" : 20
+	},
+	{
+		"start_date" : "2019-06-01",
+		"month" : "jun",
+		"end_date" : "2019-06-30",
+		"product_category" : "Office",
+		"discount_pct" : 30
+	},
+	{
+		"start_date" : "2019-04-01",
+		"month" : "apr",
+		"end_date" : "2019-04-30",
+		"product_category" : "Drinkware",
+		"discount_pct" : 10
+	},
+	{
+		"start_date" : "2019-05-01",
+		"month" : "may",
+		"end_date" : "2019-05-31",
+		"product_category" : "Drinkware",
+		"discount_pct" : 20
+	},
+	{
+		"start_date" : "2019-06-01",
+		"month" : "jun",
+		"end_date" : "2019-06-30",
+		"product_category" : "Drinkware",
+		"discount_pct" : 30
+	},
+	{
+		"start_date" : "2019-04-01",
+		"month" : "apr",
+		"end_date" : "2019-04-30",
+		"product_category" : "Lifestyle",
+		"discount_pct" : 10
+	},
+	{
+		"start_date" : "2019-05-01",
+		"month" : "may",
+		"end_date" : "2019-05-31",
+		"product_category" : "Lifestyle",
+		"discount_pct" : 20
+	},
+	{
+		"start_date" : "2019-06-01",
+		"month" : "jun",
+		"end_date" : "2019-06-30",
+		"product_category" : "Lifestyle",
+		"discount_pct" : 30
+	},
+	{
+		"start_date" : "2019-04-01",
+		"month" : "apr",
+		"end_date" : "2019-04-30",
+		"product_category" : "Bags",
+		"discount_pct" : 10
+	},
+	{
+		"start_date" : "2019-05-01",
+		"month" : "may",
+		"end_date" : "2019-05-31",
+		"product_category" : "Bags",
+		"discount_pct" : 20
+	},
+	{
+		"start_date" : "2019-06-01",
+		"month" : "jun",
+		"end_date" : "2019-06-30",
+		"product_category" : "Bags",
+		"discount_pct" : 30
+	},
+	{
+		"start_date" : "2019-04-01",
+		"month" : "apr",
+		"end_date" : "2019-04-30",
+		"product_category" : "Notebooks",
+		"discount_pct" : 10
+	},
+	{
+		"start_date" : "2019-05-01",
+		"month" : "may",
+		"end_date" : "2019-05-31",
+		"product_category" : "Notebooks",
+		"discount_pct" : 20
+	},
+	{
+		"start_date" : "2019-06-01",
+		"month" : "jun",
+		"end_date" : "2019-06-30",
+		"product_category" : "Notebooks",
+		"discount_pct" : 30
+	},
+	{
+		"start_date" : "2019-04-01",
+		"month" : "apr",
+		"end_date" : "2019-04-30",
+		"product_category" : "Headgear",
+		"discount_pct" : 10
+	},
+	{
+		"start_date" : "2019-05-01",
+		"month" : "may",
+		"end_date" : "2019-05-31",
+		"product_category" : "Headgear",
+		"discount_pct" : 20
+	},
+	{
+		"start_date" : "2019-06-01",
+		"month" : "jun",
+		"end_date" : "2019-06-30",
+		"product_category" : "Headgear",
+		"discount_pct" : 30
+	},
+	{
+		"start_date" : "2019-04-01",
+		"month" : "apr",
+		"end_date" : "2019-04-30",
+		"product_category" : "Nest",
+		"discount_pct" : 10
+	},
+	{
+		"start_date" : "2019-05-01",
+		"month" : "may",
+		"end_date" : "2019-05-31",
+		"product_category" : "Nest",
+		"discount_pct" : 20
+	},
+	{
+		"start_date" : "2019-06-01",
+		"month" : "jun",
+		"end_date" : "2019-06-30",
+		"product_category" : "Nest",
+		"discount_pct" : 30
+	},
+	{
+		"start_date" : "2019-04-01",
+		"month" : "apr",
+		"end_date" : "2019-04-30",
+		"product_category" : "Waze",
+		"discount_pct" : 10
+	},
+	{
+		"start_date" : "2019-05-01",
+		"month" : "may",
+		"end_date" : "2019-05-31",
+		"product_category" : "Waze",
+		"discount_pct" : 20
+	},
+	{
+		"start_date" : "2019-06-01",
+		"month" : "jun",
+		"end_date" : "2019-06-30",
+		"product_category" : "Waze",
+		"discount_pct" : 30
+	},
+	{
+		"start_date" : "2019-04-01",
+		"month" : "apr",
+		"end_date" : "2019-04-30",
+		"product_category" : "Bottles",
+		"discount_pct" : 10
+	},
+	{
+		"start_date" : "2019-05-01",
+		"month" : "may",
+		"end_date" : "2019-05-31",
+		"product_category" : "Bottles",
+		"discount_pct" : 20
+	},
+	{
+		"start_date" : "2019-06-01",
+		"month" : "jun",
+		"end_date" : "2019-06-30",
+		"product_category" : "Bottles",
+		"discount_pct" : 30
+	},
+	{
+		"start_date" : "2019-04-01",
+		"month" : "apr",
+		"end_date" : "2019-04-30",
+		"product_category" : "Nest-Canada",
+		"discount_pct" : 10
+	},
+	{
+		"start_date" : "2019-05-01",
+		"month" : "may",
+		"end_date" : "2019-05-31",
+		"product_category" : "Nest-Canada",
+		"discount_pct" : 20
+	},
+	{
+		"start_date" : "2019-06-01",
+		"month" : "jun",
+		"end_date" : "2019-06-30",
+		"product_category" : "Nest-Canada",
+		"discount_pct" : 30
+	},
+	{
+		"start_date" : "2019-04-01",
+		"month" : "apr",
+		"end_date" : "2019-04-30",
+		"product_category" : "Housewares",
+		"discount_pct" : 10
+	},
+	{
+		"start_date" : "2019-05-01",
+		"month" : "may",
+		"end_date" : "2019-05-31",
+		"product_category" : "Housewares",
+		"discount_pct" : 20
+	},
+	{
+		"start_date" : "2019-06-01",
+		"month" : "jun",
+		"end_date" : "2019-06-30",
+		"product_category" : "Housewares",
+		"discount_pct" : 30
+	},
+	{
+		"start_date" : "2019-04-01",
+		"month" : "apr",
+		"end_date" : "2019-04-30",
+		"product_category" : "Accessories",
+		"discount_pct" : 10
+	},
+	{
+		"start_date" : "2019-05-01",
+		"month" : "may",
+		"end_date" : "2019-05-31",
+		"product_category" : "Accessories",
+		"discount_pct" : 20
+	},
+	{
+		"start_date" : "2019-06-01",
+		"month" : "jun",
+		"end_date" : "2019-06-30",
+		"product_category" : "Accessories",
+		"discount_pct" : 30
+	},
+	{
+		"start_date" : "2019-04-01",
+		"month" : "apr",
+		"end_date" : "2019-04-30",
+		"product_category" : "Gift Cards",
+		"discount_pct" : 10
+	},
+	{
+		"start_date" : "2019-05-01",
+		"month" : "may",
+		"end_date" : "2019-05-31",
+		"product_category" : "Gift Cards",
+		"discount_pct" : 20
+	},
+	{
+		"start_date" : "2019-06-01",
+		"month" : "jun",
+		"end_date" : "2019-06-30",
+		"product_category" : "Gift Cards",
+		"discount_pct" : 30
+	},
+	{
+		"start_date" : "2019-04-01",
+		"month" : "apr",
+		"end_date" : "2019-04-30",
+		"product_category" : "Notebooks & Journals",
+		"discount_pct" : 10
+	},
+	{
+		"start_date" : "2019-05-01",
+		"month" : "may",
+		"end_date" : "2019-05-31",
+		"product_category" : "Notebooks & Journals",
+		"discount_pct" : 20
+	},
+	{
+		"start_date" : "2019-06-01",
+		"month" : "jun",
+		"end_date" : "2019-06-30",
+		"product_category" : "Notebooks & Journals",
+		"discount_pct" : 30
+	},
+	{
+		"start_date" : "2019-04-01",
+		"month" : "apr",
+		"end_date" : "2019-04-30",
+		"product_category" : "Android",
+		"discount_pct" : 10
+	},
+	{
+		"start_date" : "2019-05-01",
+		"month" : "may",
+		"end_date" : "2019-05-31",
+		"product_category" : "Android",
+		"discount_pct" : 20
+	},
+	{
+		"start_date" : "2019-06-01",
+		"month" : "jun",
+		"end_date" : "2019-06-30",
+		"product_category" : "Android",
+		"discount_pct" : 30
+	},
+	{
+		"start_date" : "2019-07-01",
+		"month" : "jul",
+		"end_date" : "2019-07-31",
+		"product_category" : "Apparel",
+		"discount_pct" : 10
+	},
+	{
+		"start_date" : "2019-08-01",
+		"month" : "aug",
+		"end_date" : "2019-08-31",
+		"product_category" : "Apparel",
+		"discount_pct" : 20
+	},
+	{
+		"start_date" : "2019-09-01",
+		"month" : "sep",
+		"end_date" : "2019-09-30",
+		"product_category" : "Apparel",
+		"discount_pct" : 30
+	},
+	{
+		"start_date" : "2019-07-01",
+		"month" : "jul",
+		"end_date" : "2019-07-31",
+		"product_category" : "Nest-USA",
+		"discount_pct" : 10
+	},
+	{
+		"start_date" : "2019-08-01",
+		"month" : "aug",
+		"end_date" : "2019-08-31",
+		"product_category" : "Nest-USA",
+		"discount_pct" : 20
+	},
+	{
+		"start_date" : "2019-09-01",
+		"month" : "sep",
+		"end_date" : "2019-09-30",
+		"product_category" : "Nest-USA",
+		"discount_pct" : 30
+	},
+	{
+		"start_date" : "2019-07-01",
+		"month" : "jul",
+		"end_date" : "2019-07-31",
+		"product_category" : "Office",
+		"discount_pct" : 10
+	},
+	{
+		"start_date" : "2019-08-01",
+		"month" : "aug",
+		"end_date" : "2019-08-31",
+		"product_category" : "Office",
+		"discount_pct" : 20
+	},
+	{
+		"start_date" : "2019-09-01",
+		"month" : "sep",
+		"end_date" : "2019-09-30",
+		"product_category" : "Office",
+		"discount_pct" : 30
+	},
+	{
+		"start_date" : "2019-07-01",
+		"month" : "jul",
+		"end_date" : "2019-07-31",
+		"product_category" : "Drinkware",
+		"discount_pct" : 10
+	},
+	{
+		"start_date" : "2019-08-01",
+		"month" : "aug",
+		"end_date" : "2019-08-31",
+		"product_category" : "Drinkware",
+		"discount_pct" : 20
+	},
+	{
+		"start_date" : "2019-09-01",
+		"month" : "sep",
+		"end_date" : "2019-09-30",
+		"product_category" : "Drinkware",
+		"discount_pct" : 30
+	},
+	{
+		"start_date" : "2019-07-01",
+		"month" : "jul",
+		"end_date" : "2019-07-31",
+		"product_category" : "Lifestyle",
+		"discount_pct" : 10
+	},
+	{
+		"start_date" : "2019-08-01",
+		"month" : "aug",
+		"end_date" : "2019-08-31",
+		"product_category" : "Lifestyle",
+		"discount_pct" : 20
+	},
+	{
+		"start_date" : "2019-09-01",
+		"month" : "sep",
+		"end_date" : "2019-09-30",
+		"product_category" : "Lifestyle",
+		"discount_pct" : 30
+	},
+	{
+		"start_date" : "2019-07-01",
+		"month" : "jul",
+		"end_date" : "2019-07-31",
+		"product_category" : "Bags",
+		"discount_pct" : 10
+	},
+	{
+		"start_date" : "2019-08-01",
+		"month" : "aug",
+		"end_date" : "2019-08-31",
+		"product_category" : "Bags",
+		"discount_pct" : 20
+	},
+	{
+		"start_date" : "2019-09-01",
+		"month" : "sep",
+		"end_date" : "2019-09-30",
+		"product_category" : "Bags",
+		"discount_pct" : 30
+	},
+	{
+		"start_date" : "2019-07-01",
+		"month" : "jul",
+		"end_date" : "2019-07-31",
+		"product_category" : "Notebooks",
+		"discount_pct" : 10
+	},
+	{
+		"start_date" : "2019-08-01",
+		"month" : "aug",
+		"end_date" : "2019-08-31",
+		"product_category" : "Notebooks",
+		"discount_pct" : 20
+	},
+	{
+		"start_date" : "2019-09-01",
+		"month" : "sep",
+		"end_date" : "2019-09-30",
+		"product_category" : "Notebooks",
+		"discount_pct" : 30
+	},
+	{
+		"start_date" : "2019-07-01",
+		"month" : "jul",
+		"end_date" : "2019-07-31",
+		"product_category" : "Headgear",
+		"discount_pct" : 10
+	},
+	{
+		"start_date" : "2019-08-01",
+		"month" : "aug",
+		"end_date" : "2019-08-31",
+		"product_category" : "Headgear",
+		"discount_pct" : 20
+	},
+	{
+		"start_date" : "2019-09-01",
+		"month" : "sep",
+		"end_date" : "2019-09-30",
+		"product_category" : "Headgear",
+		"discount_pct" : 30
+	},
+	{
+		"start_date" : "2019-07-01",
+		"month" : "jul",
+		"end_date" : "2019-07-31",
+		"product_category" : "Nest",
+		"discount_pct" : 10
+	},
+	{
+		"start_date" : "2019-08-01",
+		"month" : "aug",
+		"end_date" : "2019-08-31",
+		"product_category" : "Nest",
+		"discount_pct" : 20
+	},
+	{
+		"start_date" : "2019-09-01",
+		"month" : "sep",
+		"end_date" : "2019-09-30",
+		"product_category" : "Nest",
+		"discount_pct" : 30
+	},
+	{
+		"start_date" : "2019-07-01",
+		"month" : "jul",
+		"end_date" : "2019-07-31",
+		"product_category" : "Waze",
+		"discount_pct" : 10
+	},
+	{
+		"start_date" : "2019-08-01",
+		"month" : "aug",
+		"end_date" : "2019-08-31",
+		"product_category" : "Waze",
+		"discount_pct" : 20
+	},
+	{
+		"start_date" : "2019-09-01",
+		"month" : "sep",
+		"end_date" : "2019-09-30",
+		"product_category" : "Waze",
+		"discount_pct" : 30
+	},
+	{
+		"start_date" : "2019-07-01",
+		"month" : "jul",
+		"end_date" : "2019-07-31",
+		"product_category" : "Bottles",
+		"discount_pct" : 10
+	},
+	{
+		"start_date" : "2019-08-01",
+		"month" : "aug",
+		"end_date" : "2019-08-31",
+		"product_category" : "Bottles",
+		"discount_pct" : 20
+	},
+	{
+		"start_date" : "2019-09-01",
+		"month" : "sep",
+		"end_date" : "2019-09-30",
+		"product_category" : "Bottles",
+		"discount_pct" : 30
+	},
+	{
+		"start_date" : "2019-07-01",
+		"month" : "jul",
+		"end_date" : "2019-07-31",
+		"product_category" : "Nest-Canada",
+		"discount_pct" : 10
+	},
+	{
+		"start_date" : "2019-08-01",
+		"month" : "aug",
+		"end_date" : "2019-08-31",
+		"product_category" : "Nest-Canada",
+		"discount_pct" : 20
+	},
+	{
+		"start_date" : "2019-09-01",
+		"month" : "sep",
+		"end_date" : "2019-09-30",
+		"product_category" : "Nest-Canada",
+		"discount_pct" : 30
+	},
+	{
+		"start_date" : "2019-07-01",
+		"month" : "jul",
+		"end_date" : "2019-07-31",
+		"product_category" : "Housewares",
+		"discount_pct" : 10
+	},
+	{
+		"start_date" : "2019-08-01",
+		"month" : "aug",
+		"end_date" : "2019-08-31",
+		"product_category" : "Housewares",
+		"discount_pct" : 20
+	},
+	{
+		"start_date" : "2019-09-01",
+		"month" : "sep",
+		"end_date" : "2019-09-30",
+		"product_category" : "Housewares",
+		"discount_pct" : 30
+	},
+	{
+		"start_date" : "2019-07-01",
+		"month" : "jul",
+		"end_date" : "2019-07-31",
+		"product_category" : "Accessories",
+		"discount_pct" : 10
+	},
+	{
+		"start_date" : "2019-08-01",
+		"month" : "aug",
+		"end_date" : "2019-08-31",
+		"product_category" : "Accessories",
+		"discount_pct" : 20
+	},
+	{
+		"start_date" : "2019-09-01",
+		"month" : "sep",
+		"end_date" : "2019-09-30",
+		"product_category" : "Accessories",
+		"discount_pct" : 30
+	},
+	{
+		"start_date" : "2019-07-01",
+		"month" : "jul",
+		"end_date" : "2019-07-31",
+		"product_category" : "Gift Cards",
+		"discount_pct" : 10
+	},
+	{
+		"start_date" : "2019-08-01",
+		"month" : "aug",
+		"end_date" : "2019-08-31",
+		"product_category" : "Gift Cards",
+		"discount_pct" : 20
+	},
+	{
+		"start_date" : "2019-09-01",
+		"month" : "sep",
+		"end_date" : "2019-09-30",
+		"product_category" : "Gift Cards",
+		"discount_pct" : 30
+	},
+	{
+		"start_date" : "2019-07-01",
+		"month" : "jul",
+		"end_date" : "2019-07-31",
+		"product_category" : "Notebooks & Journals",
+		"discount_pct" : 10
+	},
+	{
+		"start_date" : "2019-08-01",
+		"month" : "aug",
+		"end_date" : "2019-08-31",
+		"product_category" : "Notebooks & Journals",
+		"discount_pct" : 20
+	},
+	{
+		"start_date" : "2019-09-01",
+		"month" : "sep",
+		"end_date" : "2019-09-30",
+		"product_category" : "Notebooks & Journals",
+		"discount_pct" : 30
+	},
+	{
+		"start_date" : "2019-07-01",
+		"month" : "jul",
+		"end_date" : "2019-07-31",
+		"product_category" : "Android",
+		"discount_pct" : 10
+	},
+	{
+		"start_date" : "2019-08-01",
+		"month" : "aug",
+		"end_date" : "2019-08-31",
+		"product_category" : "Android",
+		"discount_pct" : 20
+	},
+	{
+		"start_date" : "2019-09-01",
+		"month" : "sep",
+		"end_date" : "2019-09-30",
+		"product_category" : "Android",
+		"discount_pct" : 30
+	},
+	{
+		"start_date" : "2019-10-01",
+		"month" : "oct",
+		"end_date" : "2019-10-31",
+		"product_category" : "Apparel",
+		"discount_pct" : 10
+	},
+	{
+		"start_date" : "2019-11-01",
+		"month" : "nov",
+		"end_date" : "2019-11-30",
+		"product_category" : "Apparel",
+		"discount_pct" : 20
+	},
+	{
+		"start_date" : "2019-12-01",
+		"month" : "dec",
+		"end_date" : "2019-12-31",
+		"product_category" : "Apparel",
+		"discount_pct" : 30
+	},
+	{
+		"start_date" : "2019-10-01",
+		"month" : "oct",
+		"end_date" : "2019-10-31",
+		"product_category" : "Nest-USA",
+		"discount_pct" : 10
+	},
+	{
+		"start_date" : "2019-11-01",
+		"month" : "nov",
+		"end_date" : "2019-11-30",
+		"product_category" : "Nest-USA",
+		"discount_pct" : 20
+	},
+	{
+		"start_date" : "2019-12-01",
+		"month" : "dec",
+		"end_date" : "2019-12-31",
+		"product_category" : "Nest-USA",
+		"discount_pct" : 30
+	},
+	{
+		"start_date" : "2019-10-01",
+		"month" : "oct",
+		"end_date" : "2019-10-31",
+		"product_category" : "Office",
+		"discount_pct" : 10
+	},
+	{
+		"start_date" : "2019-11-01",
+		"month" : "nov",
+		"end_date" : "2019-11-30",
+		"product_category" : "Office",
+		"discount_pct" : 20
+	},
+	{
+		"start_date" : "2019-12-01",
+		"month" : "dec",
+		"end_date" : "2019-12-31",
+		"product_category" : "Office",
+		"discount_pct" : 30
+	},
+	{
+		"start_date" : "2019-10-01",
+		"month" : "oct",
+		"end_date" : "2019-10-31",
+		"product_category" : "Drinkware",
+		"discount_pct" : 10
+	},
+	{
+		"start_date" : "2019-11-01",
+		"month" : "nov",
+		"end_date" : "2019-11-30",
+		"product_category" : "Drinkware",
+		"discount_pct" : 20
+	},
+	{
+		"start_date" : "2019-12-01",
+		"month" : "dec",
+		"end_date" : "2019-12-31",
+		"product_category" : "Drinkware",
+		"discount_pct" : 30
+	},
+	{
+		"start_date" : "2019-10-01",
+		"month" : "oct",
+		"end_date" : "2019-10-31",
+		"product_category" : "Lifestyle",
+		"discount_pct" : 10
+	},
+	{
+		"start_date" : "2019-11-01",
+		"month" : "nov",
+		"end_date" : "2019-11-30",
+		"product_category" : "Lifestyle",
+		"discount_pct" : 20
+	},
+	{
+		"start_date" : "2019-12-01",
+		"month" : "dec",
+		"end_date" : "2019-12-31",
+		"product_category" : "Lifestyle",
+		"discount_pct" : 30
+	},
+	{
+		"start_date" : "2019-10-01",
+		"month" : "oct",
+		"end_date" : "2019-10-31",
+		"product_category" : "Bags",
+		"discount_pct" : 10
+	},
+	{
+		"start_date" : "2019-11-01",
+		"month" : "nov",
+		"end_date" : "2019-11-30",
+		"product_category" : "Bags",
+		"discount_pct" : 20
+	},
+	{
+		"start_date" : "2019-12-01",
+		"month" : "dec",
+		"end_date" : "2019-12-31",
+		"product_category" : "Bags",
+		"discount_pct" : 30
+	},
+	{
+		"start_date" : "2019-10-01",
+		"month" : "oct",
+		"end_date" : "2019-10-31",
+		"product_category" : "Notebooks",
+		"discount_pct" : 10
+	},
+	{
+		"start_date" : "2019-11-01",
+		"month" : "nov",
+		"end_date" : "2019-11-30",
+		"product_category" : "Notebooks",
+		"discount_pct" : 20
+	},
+	{
+		"start_date" : "2019-12-01",
+		"month" : "dec",
+		"end_date" : "2019-12-31",
+		"product_category" : "Notebooks",
+		"discount_pct" : 30
+	},
+	{
+		"start_date" : "2019-10-01",
+		"month" : "oct",
+		"end_date" : "2019-10-31",
+		"product_category" : "Headgear",
+		"discount_pct" : 10
+	},
+	{
+		"start_date" : "2019-11-01",
+		"month" : "nov",
+		"end_date" : "2019-11-30",
+		"product_category" : "Headgear",
+		"discount_pct" : 20
+	},
+	{
+		"start_date" : "2019-12-01",
+		"month" : "dec",
+		"end_date" : "2019-12-31",
+		"product_category" : "Headgear",
+		"discount_pct" : 30
+	},
+	{
+		"start_date" : "2019-10-01",
+		"month" : "oct",
+		"end_date" : "2019-10-31",
+		"product_category" : "Nest",
+		"discount_pct" : 10
+	},
+	{
+		"start_date" : "2019-11-01",
+		"month" : "nov",
+		"end_date" : "2019-11-30",
+		"product_category" : "Nest",
+		"discount_pct" : 20
+	},
+	{
+		"start_date" : "2019-12-01",
+		"month" : "dec",
+		"end_date" : "2019-12-31",
+		"product_category" : "Nest",
+		"discount_pct" : 30
+	},
+	{
+		"start_date" : "2019-10-01",
+		"month" : "oct",
+		"end_date" : "2019-10-31",
+		"product_category" : "Waze",
+		"discount_pct" : 10
+	},
+	{
+		"start_date" : "2019-11-01",
+		"month" : "nov",
+		"end_date" : "2019-11-30",
+		"product_category" : "Waze",
+		"discount_pct" : 20
+	},
+	{
+		"start_date" : "2019-12-01",
+		"month" : "dec",
+		"end_date" : "2019-12-31",
+		"product_category" : "Waze",
+		"discount_pct" : 30
+	},
+	{
+		"start_date" : "2019-10-01",
+		"month" : "oct",
+		"end_date" : "2019-10-31",
+		"product_category" : "Bottles",
+		"discount_pct" : 10
+	},
+	{
+		"start_date" : "2019-11-01",
+		"month" : "nov",
+		"end_date" : "2019-11-30",
+		"product_category" : "Bottles",
+		"discount_pct" : 20
+	},
+	{
+		"start_date" : "2019-12-01",
+		"month" : "dec",
+		"end_date" : "2019-12-31",
+		"product_category" : "Bottles",
+		"discount_pct" : 30
+	},
+	{
+		"start_date" : "2019-10-01",
+		"month" : "oct",
+		"end_date" : "2019-10-31",
+		"product_category" : "Nest-Canada",
+		"discount_pct" : 10
+	},
+	{
+		"start_date" : "2019-11-01",
+		"month" : "nov",
+		"end_date" : "2019-11-30",
+		"product_category" : "Nest-Canada",
+		"discount_pct" : 20
+	},
+	{
+		"start_date" : "2019-12-01",
+		"month" : "dec",
+		"end_date" : "2019-12-31",
+		"product_category" : "Nest-Canada",
+		"discount_pct" : 30
+	},
+	{
+		"start_date" : "2019-10-01",
+		"month" : "oct",
+		"end_date" : "2019-10-31",
+		"product_category" : "Housewares",
+		"discount_pct" : 10
+	},
+	{
+		"start_date" : "2019-11-01",
+		"month" : "nov",
+		"end_date" : "2019-11-30",
+		"product_category" : "Housewares",
+		"discount_pct" : 20
+	},
+	{
+		"start_date" : "2019-12-01",
+		"month" : "dec",
+		"end_date" : "2019-12-31",
+		"product_category" : "Housewares",
+		"discount_pct" : 30
+	},
+	{
+		"start_date" : "2019-10-01",
+		"month" : "oct",
+		"end_date" : "2019-10-31",
+		"product_category" : "Accessories",
+		"discount_pct" : 10
+	},
+	{
+		"start_date" : "2019-11-01",
+		"month" : "nov",
+		"end_date" : "2019-11-30",
+		"product_category" : "Accessories",
+		"discount_pct" : 20
+	},
+	{
+		"start_date" : "2019-12-01",
+		"month" : "dec",
+		"end_date" : "2019-12-31",
+		"product_category" : "Accessories",
+		"discount_pct" : 30
+	},
+	{
+		"start_date" : "2019-10-01",
+		"month" : "oct",
+		"end_date" : "2019-10-31",
+		"product_category" : "Gift Cards",
+		"discount_pct" : 10
+	},
+	{
+		"start_date" : "2019-11-01",
+		"month" : "nov",
+		"end_date" : "2019-11-30",
+		"product_category" : "Gift Cards",
+		"discount_pct" : 20
+	},
+	{
+		"start_date" : "2019-12-01",
+		"month" : "dec",
+		"end_date" : "2019-12-31",
+		"product_category" : "Gift Cards",
+		"discount_pct" : 30
+	},
+	{
+		"start_date" : "2019-10-01",
+		"month" : "oct",
+		"end_date" : "2019-10-31",
+		"product_category" : "Notebooks & Journals",
+		"discount_pct" : 10
+	},
+	{
+		"start_date" : "2019-11-01",
+		"month" : "nov",
+		"end_date" : "2019-11-30",
+		"product_category" : "Notebooks & Journals",
+		"discount_pct" : 20
+	},
+	{
+		"start_date" : "2019-12-01",
+		"month" : "dec",
+		"end_date" : "2019-12-31",
+		"product_category" : "Notebooks & Journals",
+		"discount_pct" : 30
+	},
+	{
+		"start_date" : "2019-10-01",
+		"month" : "oct",
+		"end_date" : "2019-10-31",
+		"product_category" : "Android",
+		"discount_pct" : 10
+	},
+	{
+		"start_date" : "2019-11-01",
+		"month" : "nov",
+		"end_date" : "2019-11-30",
+		"product_category" : "Android",
+		"discount_pct" : 20
+	},
+	{
+		"start_date" : "2019-12-01",
+		"month" : "dec",
+		"end_date" : "2019-12-31",
+		"product_category" : "Android",
+		"discount_pct" : 30
+	}
+]}

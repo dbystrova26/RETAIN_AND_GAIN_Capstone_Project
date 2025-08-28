@@ -1,0 +1,1227 @@
+{
+"discount_coupon": [
+	{
+		"month" : "Jan",
+		"product_category" : "Apparel",
+		"coupon_code" : "SALE10",
+		"discount_pct" : 10
+	},
+	{
+		"month" : "Feb",
+		"product_category" : "Apparel",
+		"coupon_code" : "SALE20",
+		"discount_pct" : 20
+	},
+	{
+		"month" : "Mar",
+		"product_category" : "Apparel",
+		"coupon_code" : "SALE30",
+		"discount_pct" : 30
+	},
+	{
+		"month" : "Jan",
+		"product_category" : "Nest-USA",
+		"coupon_code" : "ELEC10",
+		"discount_pct" : 10
+	},
+	{
+		"month" : "Feb",
+		"product_category" : "Nest-USA",
+		"coupon_code" : "ELEC20",
+		"discount_pct" : 20
+	},
+	{
+		"month" : "Mar",
+		"product_category" : "Nest-USA",
+		"coupon_code" : "ELEC30",
+		"discount_pct" : 30
+	},
+	{
+		"month" : "Jan",
+		"product_category" : "Office",
+		"coupon_code" : "OFF10",
+		"discount_pct" : 10
+	},
+	{
+		"month" : "Feb",
+		"product_category" : "Office",
+		"coupon_code" : "OFF20",
+		"discount_pct" : 20
+	},
+	{
+		"month" : "Mar",
+		"product_category" : "Office",
+		"coupon_code" : "OFF30",
+		"discount_pct" : 30
+	},
+	{
+		"month" : "Jan",
+		"product_category" : "Drinkware",
+		"coupon_code" : "EXTRA10",
+		"discount_pct" : 10
+	},
+	{
+		"month" : "Feb",
+		"product_category" : "Drinkware",
+		"coupon_code" : "EXTRA20",
+		"discount_pct" : 20
+	},
+	{
+		"month" : "Mar",
+		"product_category" : "Drinkware",
+		"coupon_code" : "EXTRA30",
+		"discount_pct" : 30
+	},
+	{
+		"month" : "Jan",
+		"product_category" : "Lifestyle",
+		"coupon_code" : "EXTRA10",
+		"discount_pct" : 10
+	},
+	{
+		"month" : "Feb",
+		"product_category" : "Lifestyle",
+		"coupon_code" : "EXTRA20",
+		"discount_pct" : 20
+	},
+	{
+		"month" : "Mar",
+		"product_category" : "Lifestyle",
+		"coupon_code" : "EXTRA30",
+		"discount_pct" : 30
+	},
+	{
+		"month" : "Jan",
+		"product_category" : "Bags",
+		"coupon_code" : "AIO10",
+		"discount_pct" : 10
+	},
+	{
+		"month" : "Feb",
+		"product_category" : "Bags",
+		"coupon_code" : "AIO20",
+		"discount_pct" : 20
+	},
+	{
+		"month" : "Mar",
+		"product_category" : "Bags",
+		"coupon_code" : "AIO30",
+		"discount_pct" : 30
+	},
+	{
+		"month" : "Jan",
+		"product_category" : "Notebooks",
+		"coupon_code" : "NOTES10",
+		"discount_pct" : 10
+	},
+	{
+		"month" : "Feb",
+		"product_category" : "Notebooks",
+		"coupon_code" : "NOTES20",
+		"discount_pct" : 20
+	},
+	{
+		"month" : "Mar",
+		"product_category" : "Notebooks",
+		"coupon_code" : "NOTES30",
+		"discount_pct" : 30
+	},
+	{
+		"month" : "Jan",
+		"product_category" : "Headgear",
+		"coupon_code" : "HGEAR10",
+		"discount_pct" : 10
+	},
+	{
+		"month" : "Feb",
+		"product_category" : "Headgear",
+		"coupon_code" : "HGEAR20",
+		"discount_pct" : 20
+	},
+	{
+		"month" : "Mar",
+		"product_category" : "Headgear",
+		"coupon_code" : "HGEAR30",
+		"discount_pct" : 30
+	},
+	{
+		"month" : "Jan",
+		"product_category" : "Nest",
+		"coupon_code" : "NE10",
+		"discount_pct" : 10
+	},
+	{
+		"month" : "Feb",
+		"product_category" : "Nest",
+		"coupon_code" : "NE20",
+		"discount_pct" : 20
+	},
+	{
+		"month" : "Mar",
+		"product_category" : "Nest",
+		"coupon_code" : "NE30",
+		"discount_pct" : 30
+	},
+	{
+		"month" : "Jan",
+		"product_category" : "Waze",
+		"coupon_code" : "WEMP10",
+		"discount_pct" : 10
+	},
+	{
+		"month" : "Feb",
+		"product_category" : "Waze",
+		"coupon_code" : "WEMP20",
+		"discount_pct" : 20
+	},
+	{
+		"month" : "Mar",
+		"product_category" : "Waze",
+		"coupon_code" : "WEMP30",
+		"discount_pct" : 30
+	},
+	{
+		"month" : "Jan",
+		"product_category" : "Bottles",
+		"coupon_code" : "BT10",
+		"discount_pct" : 10
+	},
+	{
+		"month" : "Feb",
+		"product_category" : "Bottles",
+		"coupon_code" : "BT20",
+		"discount_pct" : 20
+	},
+	{
+		"month" : "Mar",
+		"product_category" : "Bottles",
+		"coupon_code" : "BT30",
+		"discount_pct" : 30
+	},
+	{
+		"month" : "Jan",
+		"product_category" : "Nest-Canada",
+		"coupon_code" : "NCA10",
+		"discount_pct" : 10
+	},
+	{
+		"month" : "Feb",
+		"product_category" : "Nest-Canada",
+		"coupon_code" : "NCA20",
+		"discount_pct" : 20
+	},
+	{
+		"month" : "Mar",
+		"product_category" : "Nest-Canada",
+		"coupon_code" : "NCA30",
+		"discount_pct" : 30
+	},
+	{
+		"month" : "Jan",
+		"product_category" : "Housewares",
+		"coupon_code" : "HOU10",
+		"discount_pct" : 10
+	},
+	{
+		"month" : "Feb",
+		"product_category" : "Housewares",
+		"coupon_code" : "HOU20",
+		"discount_pct" : 20
+	},
+	{
+		"month" : "Mar",
+		"product_category" : "Housewares",
+		"coupon_code" : "HOU30",
+		"discount_pct" : 30
+	},
+	{
+		"month" : "Jan",
+		"product_category" : "Accessories",
+		"coupon_code" : "ACC10",
+		"discount_pct" : 10
+	},
+	{
+		"month" : "Feb",
+		"product_category" : "Accessories",
+		"coupon_code" : "ACC20",
+		"discount_pct" : 20
+	},
+	{
+		"month" : "Mar",
+		"product_category" : "Accessories",
+		"coupon_code" : "ACC30",
+		"discount_pct" : 30
+	},
+	{
+		"month" : "Jan",
+		"product_category" : "Gift Cards",
+		"coupon_code" : "GC10",
+		"discount_pct" : 10
+	},
+	{
+		"month" : "Feb",
+		"product_category" : "Gift Cards",
+		"coupon_code" : "GC20",
+		"discount_pct" : 20
+	},
+	{
+		"month" : "Mar",
+		"product_category" : "Gift Cards",
+		"coupon_code" : "GC30",
+		"discount_pct" : 30
+	},
+	{
+		"month" : "Jan",
+		"product_category" : "Notebooks & Journals",
+		"coupon_code" : "NJ10",
+		"discount_pct" : 10
+	},
+	{
+		"month" : "Feb",
+		"product_category" : "Notebooks & Journals",
+		"coupon_code" : "NJ20",
+		"discount_pct" : 20
+	},
+	{
+		"month" : "Mar",
+		"product_category" : "Notebooks & Journals",
+		"coupon_code" : "NJ30",
+		"discount_pct" : 30
+	},
+	{
+		"month" : "Jan",
+		"product_category" : "Android",
+		"coupon_code" : "AND10",
+		"discount_pct" : 10
+	},
+	{
+		"month" : "Feb",
+		"product_category" : "Android",
+		"coupon_code" : "AND20",
+		"discount_pct" : 20
+	},
+	{
+		"month" : "Mar",
+		"product_category" : "Android",
+		"coupon_code" : "AND30",
+		"discount_pct" : 30
+	},
+	{
+		"month" : "Apr",
+		"product_category" : "Apparel",
+		"coupon_code" : "SALE10",
+		"discount_pct" : 10
+	},
+	{
+		"month" : "May",
+		"product_category" : "Apparel",
+		"coupon_code" : "SALE20",
+		"discount_pct" : 20
+	},
+	{
+		"month" : "Jun",
+		"product_category" : "Apparel",
+		"coupon_code" : "SALE30",
+		"discount_pct" : 30
+	},
+	{
+		"month" : "Apr",
+		"product_category" : "Nest-USA",
+		"coupon_code" : "ELEC10",
+		"discount_pct" : 10
+	},
+	{
+		"month" : "May",
+		"product_category" : "Nest-USA",
+		"coupon_code" : "ELEC20",
+		"discount_pct" : 20
+	},
+	{
+		"month" : "Jun",
+		"product_category" : "Nest-USA",
+		"coupon_code" : "ELEC30",
+		"discount_pct" : 30
+	},
+	{
+		"month" : "Apr",
+		"product_category" : "Office",
+		"coupon_code" : "OFF10",
+		"discount_pct" : 10
+	},
+	{
+		"month" : "May",
+		"product_category" : "Office",
+		"coupon_code" : "OFF20",
+		"discount_pct" : 20
+	},
+	{
+		"month" : "Jun",
+		"product_category" : "Office",
+		"coupon_code" : "OFF30",
+		"discount_pct" : 30
+	},
+	{
+		"month" : "Apr",
+		"product_category" : "Drinkware",
+		"coupon_code" : "EXTRA10",
+		"discount_pct" : 10
+	},
+	{
+		"month" : "May",
+		"product_category" : "Drinkware",
+		"coupon_code" : "EXTRA20",
+		"discount_pct" : 20
+	},
+	{
+		"month" : "Jun",
+		"product_category" : "Drinkware",
+		"coupon_code" : "EXTRA30",
+		"discount_pct" : 30
+	},
+	{
+		"month" : "Apr",
+		"product_category" : "Lifestyle",
+		"coupon_code" : "EXTRA10",
+		"discount_pct" : 10
+	},
+	{
+		"month" : "May",
+		"product_category" : "Lifestyle",
+		"coupon_code" : "EXTRA20",
+		"discount_pct" : 20
+	},
+	{
+		"month" : "Jun",
+		"product_category" : "Lifestyle",
+		"coupon_code" : "EXTRA30",
+		"discount_pct" : 30
+	},
+	{
+		"month" : "Apr",
+		"product_category" : "Bags",
+		"coupon_code" : "AIO10",
+		"discount_pct" : 10
+	},
+	{
+		"month" : "May",
+		"product_category" : "Bags",
+		"coupon_code" : "AIO20",
+		"discount_pct" : 20
+	},
+	{
+		"month" : "Jun",
+		"product_category" : "Bags",
+		"coupon_code" : "AIO30",
+		"discount_pct" : 30
+	},
+	{
+		"month" : "Apr",
+		"product_category" : "Notebooks",
+		"coupon_code" : "NOTES10",
+		"discount_pct" : 10
+	},
+	{
+		"month" : "May",
+		"product_category" : "Notebooks",
+		"coupon_code" : "NOTES20",
+		"discount_pct" : 20
+	},
+	{
+		"month" : "Jun",
+		"product_category" : "Notebooks",
+		"coupon_code" : "NOTES30",
+		"discount_pct" : 30
+	},
+	{
+		"month" : "Apr",
+		"product_category" : "Headgear",
+		"coupon_code" : "HGEAR10",
+		"discount_pct" : 10
+	},
+	{
+		"month" : "May",
+		"product_category" : "Headgear",
+		"coupon_code" : "HGEAR20",
+		"discount_pct" : 20
+	},
+	{
+		"month" : "Jun",
+		"product_category" : "Headgear",
+		"coupon_code" : "HGEAR30",
+		"discount_pct" : 30
+	},
+	{
+		"month" : "Apr",
+		"product_category" : "Nest",
+		"coupon_code" : "NE10",
+		"discount_pct" : 10
+	},
+	{
+		"month" : "May",
+		"product_category" : "Nest",
+		"coupon_code" : "NE20",
+		"discount_pct" : 20
+	},
+	{
+		"month" : "Jun",
+		"product_category" : "Nest",
+		"coupon_code" : "NE30",
+		"discount_pct" : 30
+	},
+	{
+		"month" : "Apr",
+		"product_category" : "Waze",
+		"coupon_code" : "WEMP10",
+		"discount_pct" : 10
+	},
+	{
+		"month" : "May",
+		"product_category" : "Waze",
+		"coupon_code" : "WEMP20",
+		"discount_pct" : 20
+	},
+	{
+		"month" : "Jun",
+		"product_category" : "Waze",
+		"coupon_code" : "WEMP30",
+		"discount_pct" : 30
+	},
+	{
+		"month" : "Apr",
+		"product_category" : "Bottles",
+		"coupon_code" : "BT10",
+		"discount_pct" : 10
+	},
+	{
+		"month" : "May",
+		"product_category" : "Bottles",
+		"coupon_code" : "BT20",
+		"discount_pct" : 20
+	},
+	{
+		"month" : "Jun",
+		"product_category" : "Bottles",
+		"coupon_code" : "BT30",
+		"discount_pct" : 30
+	},
+	{
+		"month" : "Apr",
+		"product_category" : "Nest-Canada",
+		"coupon_code" : "NCA10",
+		"discount_pct" : 10
+	},
+	{
+		"month" : "May",
+		"product_category" : "Nest-Canada",
+		"coupon_code" : "NCA20",
+		"discount_pct" : 20
+	},
+	{
+		"month" : "Jun",
+		"product_category" : "Nest-Canada",
+		"coupon_code" : "NCA30",
+		"discount_pct" : 30
+	},
+	{
+		"month" : "Apr",
+		"product_category" : "Housewares",
+		"coupon_code" : "HOU10",
+		"discount_pct" : 10
+	},
+	{
+		"month" : "May",
+		"product_category" : "Housewares",
+		"coupon_code" : "HOU20",
+		"discount_pct" : 20
+	},
+	{
+		"month" : "Jun",
+		"product_category" : "Housewares",
+		"coupon_code" : "HOU30",
+		"discount_pct" : 30
+	},
+	{
+		"month" : "Apr",
+		"product_category" : "Accessories",
+		"coupon_code" : "ACC10",
+		"discount_pct" : 10
+	},
+	{
+		"month" : "May",
+		"product_category" : "Accessories",
+		"coupon_code" : "ACC20",
+		"discount_pct" : 20
+	},
+	{
+		"month" : "Jun",
+		"product_category" : "Accessories",
+		"coupon_code" : "ACC30",
+		"discount_pct" : 30
+	},
+	{
+		"month" : "Apr",
+		"product_category" : "Gift Cards",
+		"coupon_code" : "GC10",
+		"discount_pct" : 10
+	},
+	{
+		"month" : "May",
+		"product_category" : "Gift Cards",
+		"coupon_code" : "GC20",
+		"discount_pct" : 20
+	},
+	{
+		"month" : "Jun",
+		"product_category" : "Gift Cards",
+		"coupon_code" : "GC30",
+		"discount_pct" : 30
+	},
+	{
+		"month" : "Apr",
+		"product_category" : "Notebooks & Journals",
+		"coupon_code" : "NJ10",
+		"discount_pct" : 10
+	},
+	{
+		"month" : "May",
+		"product_category" : "Notebooks & Journals",
+		"coupon_code" : "NJ20",
+		"discount_pct" : 20
+	},
+	{
+		"month" : "Jun",
+		"product_category" : "Notebooks & Journals",
+		"coupon_code" : "NJ30",
+		"discount_pct" : 30
+	},
+	{
+		"month" : "Apr",
+		"product_category" : "Android",
+		"coupon_code" : "AND10",
+		"discount_pct" : 10
+	},
+	{
+		"month" : "May",
+		"product_category" : "Android",
+		"coupon_code" : "AND20",
+		"discount_pct" : 20
+	},
+	{
+		"month" : "Jun",
+		"product_category" : "Android",
+		"coupon_code" : "AND30",
+		"discount_pct" : 30
+	},
+	{
+		"month" : "Jul",
+		"product_category" : "Apparel",
+		"coupon_code" : "SALE10",
+		"discount_pct" : 10
+	},
+	{
+		"month" : "Aug",
+		"product_category" : "Apparel",
+		"coupon_code" : "SALE20",
+		"discount_pct" : 20
+	},
+	{
+		"month" : "Sep",
+		"product_category" : "Apparel",
+		"coupon_code" : "SALE30",
+		"discount_pct" : 30
+	},
+	{
+		"month" : "Jul",
+		"product_category" : "Nest-USA",
+		"coupon_code" : "ELEC10",
+		"discount_pct" : 10
+	},
+	{
+		"month" : "Aug",
+		"product_category" : "Nest-USA",
+		"coupon_code" : "ELEC20",
+		"discount_pct" : 20
+	},
+	{
+		"month" : "Sep",
+		"product_category" : "Nest-USA",
+		"coupon_code" : "ELEC30",
+		"discount_pct" : 30
+	},
+	{
+		"month" : "Jul",
+		"product_category" : "Office",
+		"coupon_code" : "OFF10",
+		"discount_pct" : 10
+	},
+	{
+		"month" : "Aug",
+		"product_category" : "Office",
+		"coupon_code" : "OFF20",
+		"discount_pct" : 20
+	},
+	{
+		"month" : "Sep",
+		"product_category" : "Office",
+		"coupon_code" : "OFF30",
+		"discount_pct" : 30
+	},
+	{
+		"month" : "Jul",
+		"product_category" : "Drinkware",
+		"coupon_code" : "EXTRA10",
+		"discount_pct" : 10
+	},
+	{
+		"month" : "Aug",
+		"product_category" : "Drinkware",
+		"coupon_code" : "EXTRA20",
+		"discount_pct" : 20
+	},
+	{
+		"month" : "Sep",
+		"product_category" : "Drinkware",
+		"coupon_code" : "EXTRA30",
+		"discount_pct" : 30
+	},
+	{
+		"month" : "Jul",
+		"product_category" : "Lifestyle",
+		"coupon_code" : "EXTRA10",
+		"discount_pct" : 10
+	},
+	{
+		"month" : "Aug",
+		"product_category" : "Lifestyle",
+		"coupon_code" : "EXTRA20",
+		"discount_pct" : 20
+	},
+	{
+		"month" : "Sep",
+		"product_category" : "Lifestyle",
+		"coupon_code" : "EXTRA30",
+		"discount_pct" : 30
+	},
+	{
+		"month" : "Jul",
+		"product_category" : "Bags",
+		"coupon_code" : "AIO10",
+		"discount_pct" : 10
+	},
+	{
+		"month" : "Aug",
+		"product_category" : "Bags",
+		"coupon_code" : "AIO20",
+		"discount_pct" : 20
+	},
+	{
+		"month" : "Sep",
+		"product_category" : "Bags",
+		"coupon_code" : "AIO30",
+		"discount_pct" : 30
+	},
+	{
+		"month" : "Jul",
+		"product_category" : "Notebooks",
+		"coupon_code" : "NOTES10",
+		"discount_pct" : 10
+	},
+	{
+		"month" : "Aug",
+		"product_category" : "Notebooks",
+		"coupon_code" : "NOTES20",
+		"discount_pct" : 20
+	},
+	{
+		"month" : "Sep",
+		"product_category" : "Notebooks",
+		"coupon_code" : "NOTES30",
+		"discount_pct" : 30
+	},
+	{
+		"month" : "Jul",
+		"product_category" : "Headgear",
+		"coupon_code" : "HGEAR10",
+		"discount_pct" : 10
+	},
+	{
+		"month" : "Aug",
+		"product_category" : "Headgear",
+		"coupon_code" : "HGEAR20",
+		"discount_pct" : 20
+	},
+	{
+		"month" : "Sep",
+		"product_category" : "Headgear",
+		"coupon_code" : "HGEAR30",
+		"discount_pct" : 30
+	},
+	{
+		"month" : "Jul",
+		"product_category" : "Nest",
+		"coupon_code" : "NE10",
+		"discount_pct" : 10
+	},
+	{
+		"month" : "Aug",
+		"product_category" : "Nest",
+		"coupon_code" : "NE20",
+		"discount_pct" : 20
+	},
+	{
+		"month" : "Sep",
+		"product_category" : "Nest",
+		"coupon_code" : "NE30",
+		"discount_pct" : 30
+	},
+	{
+		"month" : "Jul",
+		"product_category" : "Waze",
+		"coupon_code" : "WEMP10",
+		"discount_pct" : 10
+	},
+	{
+		"month" : "Aug",
+		"product_category" : "Waze",
+		"coupon_code" : "WEMP20",
+		"discount_pct" : 20
+	},
+	{
+		"month" : "Sep",
+		"product_category" : "Waze",
+		"coupon_code" : "WEMP30",
+		"discount_pct" : 30
+	},
+	{
+		"month" : "Jul",
+		"product_category" : "Bottles",
+		"coupon_code" : "BT10",
+		"discount_pct" : 10
+	},
+	{
+		"month" : "Aug",
+		"product_category" : "Bottles",
+		"coupon_code" : "BT20",
+		"discount_pct" : 20
+	},
+	{
+		"month" : "Sep",
+		"product_category" : "Bottles",
+		"coupon_code" : "BT30",
+		"discount_pct" : 30
+	},
+	{
+		"month" : "Jul",
+		"product_category" : "Nest-Canada",
+		"coupon_code" : "NCA10",
+		"discount_pct" : 10
+	},
+	{
+		"month" : "Aug",
+		"product_category" : "Nest-Canada",
+		"coupon_code" : "NCA20",
+		"discount_pct" : 20
+	},
+	{
+		"month" : "Sep",
+		"product_category" : "Nest-Canada",
+		"coupon_code" : "NCA30",
+		"discount_pct" : 30
+	},
+	{
+		"month" : "Jul",
+		"product_category" : "Housewares",
+		"coupon_code" : "HOU10",
+		"discount_pct" : 10
+	},
+	{
+		"month" : "Aug",
+		"product_category" : "Housewares",
+		"coupon_code" : "HOU20",
+		"discount_pct" : 20
+	},
+	{
+		"month" : "Sep",
+		"product_category" : "Housewares",
+		"coupon_code" : "HOU30",
+		"discount_pct" : 30
+	},
+	{
+		"month" : "Jul",
+		"product_category" : "Accessories",
+		"coupon_code" : "ACC10",
+		"discount_pct" : 10
+	},
+	{
+		"month" : "Aug",
+		"product_category" : "Accessories",
+		"coupon_code" : "ACC20",
+		"discount_pct" : 20
+	},
+	{
+		"month" : "Sep",
+		"product_category" : "Accessories",
+		"coupon_code" : "ACC30",
+		"discount_pct" : 30
+	},
+	{
+		"month" : "Jul",
+		"product_category" : "Gift Cards",
+		"coupon_code" : "GC10",
+		"discount_pct" : 10
+	},
+	{
+		"month" : "Aug",
+		"product_category" : "Gift Cards",
+		"coupon_code" : "GC20",
+		"discount_pct" : 20
+	},
+	{
+		"month" : "Sep",
+		"product_category" : "Gift Cards",
+		"coupon_code" : "GC30",
+		"discount_pct" : 30
+	},
+	{
+		"month" : "Jul",
+		"product_category" : "Notebooks & Journals",
+		"coupon_code" : "NJ10",
+		"discount_pct" : 10
+	},
+	{
+		"month" : "Aug",
+		"product_category" : "Notebooks & Journals",
+		"coupon_code" : "NJ20",
+		"discount_pct" : 20
+	},
+	{
+		"month" : "Sep",
+		"product_category" : "Notebooks & Journals",
+		"coupon_code" : "NJ30",
+		"discount_pct" : 30
+	},
+	{
+		"month" : "Jul",
+		"product_category" : "Android",
+		"coupon_code" : "AND10",
+		"discount_pct" : 10
+	},
+	{
+		"month" : "Aug",
+		"product_category" : "Android",
+		"coupon_code" : "AND20",
+		"discount_pct" : 20
+	},
+	{
+		"month" : "Sep",
+		"product_category" : "Android",
+		"coupon_code" : "AND30",
+		"discount_pct" : 30
+	},
+	{
+		"month" : "Oct",
+		"product_category" : "Apparel",
+		"coupon_code" : "SALE10",
+		"discount_pct" : 10
+	},
+	{
+		"month" : "Nov",
+		"product_category" : "Apparel",
+		"coupon_code" : "SALE20",
+		"discount_pct" : 20
+	},
+	{
+		"month" : "Dec",
+		"product_category" : "Apparel",
+		"coupon_code" : "SALE30",
+		"discount_pct" : 30
+	},
+	{
+		"month" : "Oct",
+		"product_category" : "Nest-USA",
+		"coupon_code" : "ELEC10",
+		"discount_pct" : 10
+	},
+	{
+		"month" : "Nov",
+		"product_category" : "Nest-USA",
+		"coupon_code" : "ELEC20",
+		"discount_pct" : 20
+	},
+	{
+		"month" : "Dec",
+		"product_category" : "Nest-USA",
+		"coupon_code" : "ELEC30",
+		"discount_pct" : 30
+	},
+	{
+		"month" : "Oct",
+		"product_category" : "Office",
+		"coupon_code" : "OFF10",
+		"discount_pct" : 10
+	},
+	{
+		"month" : "Nov",
+		"product_category" : "Office",
+		"coupon_code" : "OFF20",
+		"discount_pct" : 20
+	},
+	{
+		"month" : "Dec",
+		"product_category" : "Office",
+		"coupon_code" : "OFF30",
+		"discount_pct" : 30
+	},
+	{
+		"month" : "Oct",
+		"product_category" : "Drinkware",
+		"coupon_code" : "EXTRA10",
+		"discount_pct" : 10
+	},
+	{
+		"month" : "Nov",
+		"product_category" : "Drinkware",
+		"coupon_code" : "EXTRA20",
+		"discount_pct" : 20
+	},
+	{
+		"month" : "Dec",
+		"product_category" : "Drinkware",
+		"coupon_code" : "EXTRA30",
+		"discount_pct" : 30
+	},
+	{
+		"month" : "Oct",
+		"product_category" : "Lifestyle",
+		"coupon_code" : "EXTRA10",
+		"discount_pct" : 10
+	},
+	{
+		"month" : "Nov",
+		"product_category" : "Lifestyle",
+		"coupon_code" : "EXTRA20",
+		"discount_pct" : 20
+	},
+	{
+		"month" : "Dec",
+		"product_category" : "Lifestyle",
+		"coupon_code" : "EXTRA30",
+		"discount_pct" : 30
+	},
+	{
+		"month" : "Oct",
+		"product_category" : "Bags",
+		"coupon_code" : "AIO10",
+		"discount_pct" : 10
+	},
+	{
+		"month" : "Nov",
+		"product_category" : "Bags",
+		"coupon_code" : "AIO20",
+		"discount_pct" : 20
+	},
+	{
+		"month" : "Dec",
+		"product_category" : "Bags",
+		"coupon_code" : "AIO30",
+		"discount_pct" : 30
+	},
+	{
+		"month" : "Oct",
+		"product_category" : "Notebooks",
+		"coupon_code" : "NOTES10",
+		"discount_pct" : 10
+	},
+	{
+		"month" : "Nov",
+		"product_category" : "Notebooks",
+		"coupon_code" : "NOTES20",
+		"discount_pct" : 20
+	},
+	{
+		"month" : "Dec",
+		"product_category" : "Notebooks",
+		"coupon_code" : "NOTES30",
+		"discount_pct" : 30
+	},
+	{
+		"month" : "Oct",
+		"product_category" : "Headgear",
+		"coupon_code" : "HGEAR10",
+		"discount_pct" : 10
+	},
+	{
+		"month" : "Nov",
+		"product_category" : "Headgear",
+		"coupon_code" : "HGEAR20",
+		"discount_pct" : 20
+	},
+	{
+		"month" : "Dec",
+		"product_category" : "Headgear",
+		"coupon_code" : "HGEAR30",
+		"discount_pct" : 30
+	},
+	{
+		"month" : "Oct",
+		"product_category" : "Nest",
+		"coupon_code" : "NE10",
+		"discount_pct" : 10
+	},
+	{
+		"month" : "Nov",
+		"product_category" : "Nest",
+		"coupon_code" : "NE20",
+		"discount_pct" : 20
+	},
+	{
+		"month" : "Dec",
+		"product_category" : "Nest",
+		"coupon_code" : "NE30",
+		"discount_pct" : 30
+	},
+	{
+		"month" : "Oct",
+		"product_category" : "Waze",
+		"coupon_code" : "WEMP10",
+		"discount_pct" : 10
+	},
+	{
+		"month" : "Nov",
+		"product_category" : "Waze",
+		"coupon_code" : "WEMP20",
+		"discount_pct" : 20
+	},
+	{
+		"month" : "Dec",
+		"product_category" : "Waze",
+		"coupon_code" : "WEMP30",
+		"discount_pct" : 30
+	},
+	{
+		"month" : "Oct",
+		"product_category" : "Bottles",
+		"coupon_code" : "BT10",
+		"discount_pct" : 10
+	},
+	{
+		"month" : "Nov",
+		"product_category" : "Bottles",
+		"coupon_code" : "BT20",
+		"discount_pct" : 20
+	},
+	{
+		"month" : "Dec",
+		"product_category" : "Bottles",
+		"coupon_code" : "BT30",
+		"discount_pct" : 30
+	},
+	{
+		"month" : "Oct",
+		"product_category" : "Nest-Canada",
+		"coupon_code" : "NCA10",
+		"discount_pct" : 10
+	},
+	{
+		"month" : "Nov",
+		"product_category" : "Nest-Canada",
+		"coupon_code" : "NCA20",
+		"discount_pct" : 20
+	},
+	{
+		"month" : "Dec",
+		"product_category" : "Nest-Canada",
+		"coupon_code" : "NCA30",
+		"discount_pct" : 30
+	},
+	{
+		"month" : "Oct",
+		"product_category" : "Housewares",
+		"coupon_code" : "HOU10",
+		"discount_pct" : 10
+	},
+	{
+		"month" : "Nov",
+		"product_category" : "Housewares",
+		"coupon_code" : "HOU20",
+		"discount_pct" : 20
+	},
+	{
+		"month" : "Dec",
+		"product_category" : "Housewares",
+		"coupon_code" : "HOU30",
+		"discount_pct" : 30
+	},
+	{
+		"month" : "Oct",
+		"product_category" : "Accessories",
+		"coupon_code" : "ACC10",
+		"discount_pct" : 10
+	},
+	{
+		"month" : "Nov",
+		"product_category" : "Accessories",
+		"coupon_code" : "ACC20",
+		"discount_pct" : 20
+	},
+	{
+		"month" : "Dec",
+		"product_category" : "Accessories",
+		"coupon_code" : "ACC30",
+		"discount_pct" : 30
+	},
+	{
+		"month" : "Oct",
+		"product_category" : "Gift Cards",
+		"coupon_code" : "GC10",
+		"discount_pct" : 10
+	},
+	{
+		"month" : "Nov",
+		"product_category" : "Gift Cards",
+		"coupon_code" : "GC20",
+		"discount_pct" : 20
+	},
+	{
+		"month" : "Dec",
+		"product_category" : "Gift Cards",
+		"coupon_code" : "GC30",
+		"discount_pct" : 30
+	},
+	{
+		"month" : "Oct",
+		"product_category" : "Notebooks & Journals",
+		"coupon_code" : "NJ10",
+		"discount_pct" : 10
+	},
+	{
+		"month" : "Nov",
+		"product_category" : "Notebooks & Journals",
+		"coupon_code" : "NJ20",
+		"discount_pct" : 20
+	},
+	{
+		"month" : "Dec",
+		"product_category" : "Notebooks & Journals",
+		"coupon_code" : "NJ30",
+		"discount_pct" : 30
+	},
+	{
+		"month" : "Oct",
+		"product_category" : "Android",
+		"coupon_code" : "AND10",
+		"discount_pct" : 10
+	},
+	{
+		"month" : "Nov",
+		"product_category" : "Android",
+		"coupon_code" : "AND20",
+		"discount_pct" : 20
+	},
+	{
+		"month" : "Dec",
+		"product_category" : "Android",
+		"coupon_code" : "AND30",
+		"discount_pct" : 30
+	}
+]}

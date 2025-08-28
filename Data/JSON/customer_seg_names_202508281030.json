@@ -1,0 +1,33 @@
+{
+"customer_seg_names": [
+	{
+		"frequency_segment" : "Freq_Seg1",
+		"value_segment" : "Value_Seg1",
+		"customer_seg_name" : "At Risk Low"
+	},
+	{
+		"frequency_segment" : "Freq_Seg1",
+		"value_segment" : "Value_Seg2",
+		"customer_seg_name" : "At Risk Medium"
+	},
+	{
+		"frequency_segment" : "Freq_Seg1",
+		"value_segment" : "Value_Seg3",
+		"customer_seg_name" : "Potential Loyalists"
+	},
+	{
+		"frequency_segment" : "Freq_Seg2",
+		"value_segment" : "Value_Seg1",
+		"customer_seg_name" : "Frequent Low"
+	},
+	{
+		"frequency_segment" : "Freq_Seg2",
+		"value_segment" : "Value_Seg2",
+		"customer_seg_name" : "Core Customers"
+	},
+	{
+		"frequency_segment" : "Freq_Seg2",
+		"value_segment" : "Value_Seg3",
+		"customer_seg_name" : "Champions"
+	}
+]}

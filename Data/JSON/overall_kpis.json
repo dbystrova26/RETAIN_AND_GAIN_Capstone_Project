@@ -1,0 +1,11 @@
+{
+"overall_kpis": [
+	{
+		"ltv" : 3560.919407356948,
+		"repeat_purchase_rate" : 0.9148501362397821,
+		"retention_rate" : 0.39509536784741145,
+		"retention_rate_6m" : 0.3371934604904632,
+		"churn_rate" : 0.2677111716621253,
+		"ltv:cac_ratio" : 2.6881590600319623
+	}
+]}

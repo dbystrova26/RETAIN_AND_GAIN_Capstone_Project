@@ -1,0 +1,3653 @@
+{
+"holiday_marks": [
+	{
+		"date_iso" : "2019-01-01",
+		"name" : "New Year's Day",
+		"description" : "New Year's Day is the first day of the Gregorian calendar, which is widely used in many countries such as the USA.",
+		"type" : "National holiday",
+		"national_holiday" : true,
+		"christian_holiday" : false,
+		"muslim_holiday" : false,
+		"worldwide_observance" : false
+	},
+	{
+		"date_iso" : "2019-01-02",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-01-03",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-01-04",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-01-05",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-01-06",
+		"name" : "Epiphany",
+		"description" : "Many people in the United States annually observe Epiphany, or Three Kings’ Day, on January 6. It is a Christian observance and a public holiday in the US Virgin Islands.",
+		"type" : "Christian",
+		"national_holiday" : false,
+		"christian_holiday" : true,
+		"muslim_holiday" : false,
+		"worldwide_observance" : false
+	},
+	{
+		"date_iso" : "2019-01-07",
+		"name" : "International Programmers' Day",
+		"description" : "Many people celebrate International Programmers’ Day on January 7, while others observe this event on the 256th day of the year, usually on September 13 or on September 12 in leap years.",
+		"type" : "Worldwide observance",
+		"national_holiday" : false,
+		"christian_holiday" : false,
+		"muslim_holiday" : false,
+		"worldwide_observance" : true
+	},
+	{
+		"date_iso" : "2019-01-08",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-01-09",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-01-10",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-01-11",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-01-12",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-01-13",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-01-14",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-01-15",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-01-16",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-01-17",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-01-18",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-01-19",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-01-20",
+		"name" : "World Religion Day",
+		"description" : "World Religion Day fosters interfaith dialogue and understanding of all religions.",
+		"type" : "Worldwide observance",
+		"national_holiday" : false,
+		"christian_holiday" : false,
+		"muslim_holiday" : false,
+		"worldwide_observance" : true
+	},
+	{
+		"date_iso" : "2019-01-21",
+		"name" : "Martin Luther King Jr. Day",
+		"description" : "Martin Luther King Day marks the anniversary of the date of birth of the influential American civil right leader of the same name.",
+		"type" : "National holiday",
+		"national_holiday" : true,
+		"christian_holiday" : false,
+		"muslim_holiday" : false,
+		"worldwide_observance" : false
+	},
+	{
+		"date_iso" : "2019-01-22",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-01-23",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-01-24",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-01-25",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-01-26",
+		"name" : "International Customs Day",
+		"description" : "International Customs Day celebrates custom personnel and agencies worldwide.",
+		"type" : "Worldwide observance",
+		"national_holiday" : false,
+		"christian_holiday" : false,
+		"muslim_holiday" : false,
+		"worldwide_observance" : true
+	},
+	{
+		"date_iso" : "2019-01-27",
+		"name" : "World Leprosy Day",
+		"description" : "World Leprosy Day brings awareness of leprosy, also known as Hansen's disease, and ways to prevent the disease.",
+		"type" : "Worldwide observance",
+		"national_holiday" : false,
+		"christian_holiday" : false,
+		"muslim_holiday" : false,
+		"worldwide_observance" : true
+	},
+	{
+		"date_iso" : "2019-01-28",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-01-29",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-01-30",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-01-31",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-02-01",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-02-02",
+		"name" : "World Wetlands Day",
+		"description" : "World Wetlands Day raises awareness about the important role that the wetlands play in the environment and in our lives.",
+		"type" : "Worldwide observance",
+		"national_holiday" : false,
+		"christian_holiday" : false,
+		"muslim_holiday" : false,
+		"worldwide_observance" : true
+	},
+	{
+		"date_iso" : "2019-02-03",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-02-04",
+		"name" : "World Cancer Day",
+		"description" : "World Cancer Day is an annual global event on February 4 to raise people’s awareness of cancer.",
+		"type" : "Worldwide observance",
+		"national_holiday" : false,
+		"christian_holiday" : false,
+		"muslim_holiday" : false,
+		"worldwide_observance" : true
+	},
+	{
+		"date_iso" : "2019-02-05",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-02-06",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-02-07",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-02-08",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-02-09",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-02-10",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-02-11",
+		"name" : "World Day of the Sick",
+		"description" : "World Day of the Sick is a global event when people remember or pray for the sick.",
+		"type" : "Worldwide observance",
+		"national_holiday" : false,
+		"christian_holiday" : false,
+		"muslim_holiday" : false,
+		"worldwide_observance" : true
+	},
+	{
+		"date_iso" : "2019-02-12",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-02-13",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-02-14",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-02-15",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-02-16",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-02-17",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-02-18",
+		"name" : "Presidents' Day",
+		"description" : "Washington's Birthday, or Presidents' Day, honors the life and work of the first president of the United States, George Washington.",
+		"type" : "National holiday",
+		"national_holiday" : true,
+		"christian_holiday" : false,
+		"muslim_holiday" : false,
+		"worldwide_observance" : false
+	},
+	{
+		"date_iso" : "2019-02-19",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-02-20",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-02-21",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-02-22",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-02-23",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-02-24",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-02-25",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-02-26",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-02-27",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-02-28",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-03-01",
+		"name" : "Self-Injury Awareness Day, St. David's Day",
+		"description" : ", Many Welsh communities in the United States celebrate the life of their patron saint, St David, and their links with Wales on St David’s Day.",
+		"type" : "Worldwide observance, Observance, Christian",
+		"national_holiday" : false,
+		"christian_holiday" : true,
+		"muslim_holiday" : false,
+		"worldwide_observance" : true
+	},
+	{
+		"date_iso" : "2019-03-02",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-03-03",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-03-04",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-03-05",
+		"name" : "Shrove Tuesday\/Mardi Gras",
+		"description" : "Shrove Tuesday is traditionally known as the day prior to Lent but it also serves as a day of celebration, known as Mardi Gras.",
+		"type" : "Observance, Christian",
+		"national_holiday" : false,
+		"christian_holiday" : true,
+		"muslim_holiday" : false,
+		"worldwide_observance" : false
+	},
+	{
+		"date_iso" : "2019-03-06",
+		"name" : "Ash Wednesday",
+		"description" : "Ash Wednesday is a Christian observance that marks the first day of Lent, which is prior to Easter.",
+		"type" : "Christian",
+		"national_holiday" : false,
+		"christian_holiday" : true,
+		"muslim_holiday" : false,
+		"worldwide_observance" : false
+	},
+	{
+		"date_iso" : "2019-03-07",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-03-08",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-03-09",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-03-10",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-03-11",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-03-12",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-03-13",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-03-14",
+		"name" : "World Kidney Day",
+		"description" : "World Kidney Day is an annual observation that attempts to raise global awareness about the importance of kidney health and tries to bring attention to the unique challenges faced by those who suffer from Chronic Kidney Disease.",
+		"type" : "Worldwide observance",
+		"national_holiday" : false,
+		"christian_holiday" : false,
+		"muslim_holiday" : false,
+		"worldwide_observance" : true
+	},
+	{
+		"date_iso" : "2019-03-15",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-03-16",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-03-17",
+		"name" : "St. Patrick's Day",
+		"description" : "St Patrick's Day marks the life and deeds of St Patrick, one of Ireland's patron saints. It is an Irish-American celebration in the USA.",
+		"type" : "Observance, Christian",
+		"national_holiday" : false,
+		"christian_holiday" : true,
+		"muslim_holiday" : false,
+		"worldwide_observance" : false
+	},
+	{
+		"date_iso" : "2019-03-18",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-03-19",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-03-20",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-03-21",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-03-22",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-03-23",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-03-24",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-03-25",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-03-26",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-03-27",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-03-28",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-03-29",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-03-30",
+		"name" : "Earth Hour",
+		"description" : "Earth Hour is an annual event in which many people worldwide turn their lights off on the last Saturday in March.",
+		"type" : "Worldwide observance",
+		"national_holiday" : false,
+		"christian_holiday" : false,
+		"muslim_holiday" : false,
+		"worldwide_observance" : true
+	},
+	{
+		"date_iso" : "2019-03-31",
+		"name" : "International Transgender Day of Visibility",
+		"description" : "International Transgender Day of Visibility is a worldwide observance in the USA",
+		"type" : "Worldwide observance",
+		"national_holiday" : false,
+		"christian_holiday" : false,
+		"muslim_holiday" : false,
+		"worldwide_observance" : true
+	},
+	{
+		"date_iso" : "2019-04-01",
+		"name" : "April Fool's Day",
+		"description" : "April Fool's Day, on April 1, is a day to play practical jokes and tricks.",
+		"type" : "Worldwide observance",
+		"national_holiday" : false,
+		"christian_holiday" : false,
+		"muslim_holiday" : false,
+		"worldwide_observance" : true
+	},
+	{
+		"date_iso" : "2019-04-02",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-04-03",
+		"name" : "Isra and Mi'raj",
+		"description" : "Isra and Mi'raj (Isra Me'raj, Israa and Mi'raaj, Laylat Al-Isra wa Al-Miraj, Lailat al Miraj, Night Journey and Ascension to Heaven) marks the night when the Prophet Mohammad traveled from Mecca to Jerusalem, ascended to heaven and returned.",
+		"type" : "Muslim",
+		"national_holiday" : false,
+		"christian_holiday" : false,
+		"muslim_holiday" : true,
+		"worldwide_observance" : false
+	},
+	{
+		"date_iso" : "2019-04-04",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-04-05",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-04-06",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-04-07",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-04-08",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-04-09",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-04-10",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-04-11",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-04-12",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-04-13",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-08-01",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-08-02",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-08-03",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-04-14",
+		"name" : "Palm Sunday",
+		"description" : "Palm Sunday in the United States celebrates Jesus Christ’s entry into Jerusalem. It is also the Sunday before Easter Sunday.",
+		"type" : "Christian",
+		"national_holiday" : false,
+		"christian_holiday" : true,
+		"muslim_holiday" : false,
+		"worldwide_observance" : false
+	},
+	{
+		"date_iso" : "2019-04-15",
+		"name" : "World Art Day",
+		"description" : "World Art Day is a worldwide observance in the USA",
+		"type" : "Worldwide observance",
+		"national_holiday" : false,
+		"christian_holiday" : false,
+		"muslim_holiday" : false,
+		"worldwide_observance" : true
+	},
+	{
+		"date_iso" : "2019-04-16",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-04-17",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-04-18",
+		"name" : "Maundy Thursday, International Day for Monuments and Sites",
+		"description" : "Maundy Thursday, which is also known as Holy Thursday, is the day before Good Friday., The International Day for Monuments and Sites raises awareness on preserving and conserving historical and archeological heritage sites.",
+		"type" : "Christian, Worldwide observance",
+		"national_holiday" : false,
+		"christian_holiday" : true,
+		"muslim_holiday" : false,
+		"worldwide_observance" : true
+	},
+	{
+		"date_iso" : "2019-04-19",
+		"name" : "Good Friday",
+		"description" : "Good Friday commemorates Jesus Christ's crucifixion.",
+		"type" : "Local holiday, Christian",
+		"national_holiday" : false,
+		"christian_holiday" : true,
+		"muslim_holiday" : false,
+		"worldwide_observance" : false
+	},
+	{
+		"date_iso" : "2019-04-20",
+		"name" : "Holy Saturday",
+		"description" : "Holy Saturday is the day before Easter Sunday in the United States.",
+		"type" : "Christian",
+		"national_holiday" : false,
+		"christian_holiday" : true,
+		"muslim_holiday" : false,
+		"worldwide_observance" : false
+	},
+	{
+		"date_iso" : "2019-04-21",
+		"name" : "Easter Sunday",
+		"description" : "Easter Sunday is an important day in the Christian church calendar because it celebrates Jesus Christ's resurrection, according to Christian belief.",
+		"type" : "Observance, Christian",
+		"national_holiday" : false,
+		"christian_holiday" : true,
+		"muslim_holiday" : false,
+		"worldwide_observance" : false
+	},
+	{
+		"date_iso" : "2019-04-22",
+		"name" : "Easter Monday",
+		"description" : "Easter Monday is the day after Easter Sunday. It is not a federal holiday in the United States of America (USA).",
+		"type" : "Observance, Christian",
+		"national_holiday" : false,
+		"christian_holiday" : true,
+		"muslim_holiday" : false,
+		"worldwide_observance" : false
+	},
+	{
+		"date_iso" : "2019-04-23",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-04-24",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-04-25",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-04-26",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-04-27",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-04-28",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-04-29",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-04-30",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-05-01",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-05-02",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-05-03",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-05-04",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-05-05",
+		"name" : "International Family Equality Day",
+		"description" : "International Family Equality Day is a worldwide observance in the USA",
+		"type" : "Worldwide observance",
+		"national_holiday" : false,
+		"christian_holiday" : false,
+		"muslim_holiday" : false,
+		"worldwide_observance" : true
+	},
+	{
+		"date_iso" : "2019-05-06",
+		"name" : "Ramadan Starts",
+		"description" : "Many Muslims in the United States fast in the hours of daylight during Ramadan, the ninth month in the Islamic calendar.",
+		"type" : "Muslim",
+		"national_holiday" : false,
+		"christian_holiday" : false,
+		"muslim_holiday" : true,
+		"worldwide_observance" : false
+	},
+	{
+		"date_iso" : "2019-05-07",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-05-08",
+		"name" : "World Ovarian Cancer Day, World Red Cross and Red Crescent Day",
+		"description" : "World Ovarian Cancer Day aims to spread global awareness about ovarian cancer., World Red Cross and Red Crescent Day is a worldwide observance in the USA",
+		"type" : "Worldwide observance, Worldwide observance",
+		"national_holiday" : false,
+		"christian_holiday" : false,
+		"muslim_holiday" : false,
+		"worldwide_observance" : true
+	},
+	{
+		"date_iso" : "2019-05-09",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-05-10",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-05-11",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-05-12",
+		"name" : "International Nurses Day",
+		"description" : "International Nurses Day focuses on the critical contribution of nurses around the world in maintaining public health.",
+		"type" : "Worldwide observance",
+		"national_holiday" : false,
+		"christian_holiday" : false,
+		"muslim_holiday" : false,
+		"worldwide_observance" : true
+	},
+	{
+		"date_iso" : "2019-05-13",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-05-14",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-05-15",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-05-16",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-05-17",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-05-18",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-05-19",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-05-20",
+		"name" : "World Autoimmune \/ Autoinflammatory Arthritis Day",
+		"description" : "World Autoimmune \/ Autoinflammatory Arthritis Day is a worldwide observance in the USA",
+		"type" : "Worldwide observance",
+		"national_holiday" : false,
+		"christian_holiday" : false,
+		"muslim_holiday" : false,
+		"worldwide_observance" : true
+	},
+	{
+		"date_iso" : "2019-05-21",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-05-22",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-05-23",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-05-24",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-05-25",
+		"name" : "African Liberation Day",
+		"description" : "African Liberation Day celebrates African nations' hard-fought freedom from European colonial powers.",
+		"type" : "Worldwide observance",
+		"national_holiday" : false,
+		"christian_holiday" : false,
+		"muslim_holiday" : false,
+		"worldwide_observance" : true
+	},
+	{
+		"date_iso" : "2019-05-26",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-05-27",
+		"name" : "Memorial Day",
+		"description" : "Memorial Day commemorates all Americans who have died in military service for the United States.",
+		"type" : "National holiday",
+		"national_holiday" : true,
+		"christian_holiday" : false,
+		"muslim_holiday" : false,
+		"worldwide_observance" : false
+	},
+	{
+		"date_iso" : "2019-05-28",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-05-29",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-05-30",
+		"name" : "Ascension Day",
+		"description" : "Ascension Day is the 40th day of Easter and commemorates the ascension of Jesus Christ into heaven.",
+		"type" : "Christian",
+		"national_holiday" : false,
+		"christian_holiday" : true,
+		"muslim_holiday" : false,
+		"worldwide_observance" : false
+	},
+	{
+		"date_iso" : "2019-05-31",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-06-01",
+		"name" : "Lailat al-Qadr",
+		"description" : "Laylat al Qadr is most likely to be held on one of the last 10 days of month of Ramadan in the Islamic calendar.",
+		"type" : "Muslim",
+		"national_holiday" : false,
+		"christian_holiday" : false,
+		"muslim_holiday" : true,
+		"worldwide_observance" : false
+	},
+	{
+		"date_iso" : "2019-06-02",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-06-03",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-06-04",
+		"name" : "Eid al-Fitr",
+		"description" : "Eid al-Fitr is a holiday to mark the end of the Islamic month of Ramadan, during which Muslims fast during the hours of daylight.",
+		"type" : "Muslim",
+		"national_holiday" : false,
+		"christian_holiday" : false,
+		"muslim_holiday" : true,
+		"worldwide_observance" : false
+	},
+	{
+		"date_iso" : "2019-06-05",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-06-06",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-06-07",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-06-08",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-06-09",
+		"name" : "Pentecost",
+		"description" : "Many Christians in the United States observe Pentecost, also known as Whitsunday or Whit Sunday.",
+		"type" : "Christian",
+		"national_holiday" : false,
+		"christian_holiday" : true,
+		"muslim_holiday" : false,
+		"worldwide_observance" : false
+	},
+	{
+		"date_iso" : "2019-06-10",
+		"name" : "Whit Monday",
+		"description" : "Many Christians in the United States will observe Whit Monday, or Pentecost Monday. It is the day after Pentecost, which is also known as Whit Sunday or Whitsunday.",
+		"type" : "Christian",
+		"national_holiday" : false,
+		"christian_holiday" : true,
+		"muslim_holiday" : false,
+		"worldwide_observance" : false
+	},
+	{
+		"date_iso" : "2019-06-11",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-06-12",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-06-13",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-06-14",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-06-15",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-06-16",
+		"name" : "Trinity Sunday",
+		"description" : "Trinity Sunday is the first Sunday after Pentecost and is celebrated by many Christians in the United States.",
+		"type" : "Christian",
+		"national_holiday" : false,
+		"christian_holiday" : true,
+		"muslim_holiday" : false,
+		"worldwide_observance" : false
+	},
+	{
+		"date_iso" : "2019-06-17",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-06-18",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-06-19",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-06-20",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-06-21",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-06-22",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-06-23",
+		"name" : "Corpus Christi",
+		"description" : "Corpus Christi is observed in honor of the Holy Eucharist.",
+		"type" : "Christian",
+		"national_holiday" : false,
+		"christian_holiday" : true,
+		"muslim_holiday" : false,
+		"worldwide_observance" : false
+	},
+	{
+		"date_iso" : "2019-06-24",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-06-25",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-06-26",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-06-27",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-06-28",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-06-29",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-06-30",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-07-01",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-07-02",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-07-03",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-07-04",
+		"name" : "Independence Day",
+		"description" : "On Independence Day, Americans celebrate the anniversary of publication of the Declaration of Independence from Great Britain in 1776.",
+		"type" : "National holiday",
+		"national_holiday" : true,
+		"christian_holiday" : false,
+		"muslim_holiday" : false,
+		"worldwide_observance" : false
+	},
+	{
+		"date_iso" : "2019-07-05",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-07-06",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-07-07",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-07-08",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-07-09",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-07-10",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-07-11",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-07-12",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-07-13",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-07-14",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-07-15",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-07-16",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-07-17",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-07-18",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-07-19",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-07-20",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-07-21",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-07-22",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-07-23",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-07-24",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-07-25",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-07-26",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-07-27",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-07-28",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-07-29",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-07-30",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-07-31",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-08-04",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-08-05",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-08-06",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-08-07",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-08-08",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-08-09",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-08-10",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-08-11",
+		"name" : "Eid al-Adha",
+		"description" : "For more than 3 millions Muslims in the US, Eid al-Adha, the Festival of Sacrifice, is one of the most important dates in the calendar.",
+		"type" : "Muslim",
+		"national_holiday" : false,
+		"christian_holiday" : false,
+		"muslim_holiday" : true,
+		"worldwide_observance" : false
+	},
+	{
+		"date_iso" : "2019-08-12",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-08-13",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-08-14",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-08-15",
+		"name" : "Assumption of Mary",
+		"description" : "Assumption Day is a Christian observance in the United States that is held annually on August 15. Catholics observe the Dormition (falling asleep) or the day that the Blessed Virgin Mary was received into heaven.",
+		"type" : "Christian",
+		"national_holiday" : false,
+		"christian_holiday" : true,
+		"muslim_holiday" : false,
+		"worldwide_observance" : false
+	},
+	{
+		"date_iso" : "2019-08-16",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-08-17",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-08-18",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-08-19",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-08-20",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-08-21",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-08-22",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-08-23",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-08-24",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-08-25",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-08-26",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-08-27",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-08-28",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-08-29",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-08-30",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-08-31",
+		"name" : "Muharram, International Overdose Awareness Day",
+		"description" : "The first day of Muharram, which is the first month in the Islamic calendar, marks the start of the Islamic New Year.,  International Overdose Awareness Day is an annual observation which aims to raise global awareness of about the impact of drug overdose on families and communities. The campaign also attempts to remove the stigma associated with overdose.",
+		"type" : "Muslim, Worldwide observance",
+		"national_holiday" : false,
+		"christian_holiday" : false,
+		"muslim_holiday" : true,
+		"worldwide_observance" : true
+	},
+	{
+		"date_iso" : "2019-09-01",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-09-02",
+		"name" : "Labor Day",
+		"description" : "Labor Day is a federal holiday in the United States. It gives workers a day of rest and it celebrates their contribution to the American economy.",
+		"type" : "National holiday",
+		"national_holiday" : true,
+		"christian_holiday" : false,
+		"muslim_holiday" : false,
+		"worldwide_observance" : false
+	},
+	{
+		"date_iso" : "2019-09-03",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-09-04",
+		"name" : "World Sexual Health Day",
+		"description" : " World Sexual Health Day is an annual awareness day that attempts to break down social and cultural taboos associated with sexuality and to promote sexual health around the world.",
+		"type" : "Worldwide observance",
+		"national_holiday" : false,
+		"christian_holiday" : false,
+		"muslim_holiday" : false,
+		"worldwide_observance" : true
+	},
+	{
+		"date_iso" : "2019-09-05",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-09-06",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-09-07",
+		"name" : "Still's Disease Awareness Day",
+		"description" : "Still's Disease Awareness Day is a worldwide observance in the USA",
+		"type" : "Worldwide observance",
+		"national_holiday" : false,
+		"christian_holiday" : false,
+		"muslim_holiday" : false,
+		"worldwide_observance" : true
+	},
+	{
+		"date_iso" : "2019-09-08",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-09-09",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-09-10",
+		"name" : "Ashura, World Suicide Prevention Day",
+		"description" : "Ashura is a Muslim in the USA, World Suicide Prevention Day promotes worldwide action to prevent suicides on September 10 each year.",
+		"type" : "Muslim, Worldwide observance",
+		"national_holiday" : false,
+		"christian_holiday" : false,
+		"muslim_holiday" : true,
+		"worldwide_observance" : true
+	},
+	{
+		"date_iso" : "2019-09-11",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-09-12",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-09-13",
+		"name" : "International Programmers' Day, Friday the 13th",
+		"description" : "Many people celebrate International Programmers’ Day on January 7, while others observe this event on the 256th day of the year, usually on September 13 or on September 12 in leap years., Friday the 13th is a day full of superstitious beliefs in communities worldwide.",
+		"type" : "Worldwide observance, Worldwide observance",
+		"national_holiday" : false,
+		"christian_holiday" : false,
+		"muslim_holiday" : false,
+		"worldwide_observance" : true
+	},
+	{
+		"date_iso" : "2019-09-14",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-09-15",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-09-16",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-09-17",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-09-18",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-09-19",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-09-20",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-09-21",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-09-22",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-09-23",
+		"name" : "International Celebrate Bisexuality Day",
+		"description" : "International Celebrate Bisexuality Day, also known as Bi Visibility Day, promotes the rights of bisexual people around the world.",
+		"type" : "Worldwide observance",
+		"national_holiday" : false,
+		"christian_holiday" : false,
+		"muslim_holiday" : false,
+		"worldwide_observance" : true
+	},
+	{
+		"date_iso" : "2019-09-24",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-09-25",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-09-26",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-09-27",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-09-28",
+		"name" : "World Rabies Day",
+		"description" : "World Rabies Day is annually observed on September 28 to raise awareness about rabies and how it can be prevented.",
+		"type" : "Worldwide observance",
+		"national_holiday" : false,
+		"christian_holiday" : false,
+		"muslim_holiday" : false,
+		"worldwide_observance" : true
+	},
+	{
+		"date_iso" : "2019-09-29",
+		"name" : "World Heart Day",
+		"description" : "World Heart Day raises awareness of cardiovascular diseases and ways to reduce their risk.",
+		"type" : "Worldwide observance",
+		"national_holiday" : false,
+		"christian_holiday" : false,
+		"muslim_holiday" : false,
+		"worldwide_observance" : true
+	},
+	{
+		"date_iso" : "2019-09-30",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-10-01",
+		"name" : "World Vegetarian Day",
+		"description" : "World Vegetarian Day is an annual observation that spreads awareness about the health, environmental, and ethical benefits of following a vegetarian lifestyle. The unofficial holiday encourages people to avoid eating foods that include animal products and to adopt a plant-based diet.",
+		"type" : "Worldwide observance",
+		"national_holiday" : false,
+		"christian_holiday" : false,
+		"muslim_holiday" : false,
+		"worldwide_observance" : true
+	},
+	{
+		"date_iso" : "2019-10-02",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-10-03",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-10-04",
+		"name" : "Feast of St Francis of Assisi",
+		"description" : "Many Catholics in the United States, particularly those with pets, celebrate the Feast of St Francis of Assisi, the patron saint of animals and the environment, on October 4 each year.",
+		"type" : "Christian",
+		"national_holiday" : false,
+		"christian_holiday" : true,
+		"muslim_holiday" : false,
+		"worldwide_observance" : false
+	},
+	{
+		"date_iso" : "2019-10-05",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-10-06",
+		"name" : "World Cerebral Palsy Day",
+		"description" : "World Cerebral Palsy Day is an annual awareness observation that brings together people with cerebral palsy, their families and loved ones, and organizations working to ensure equal rights for them.",
+		"type" : "Worldwide observance",
+		"national_holiday" : false,
+		"christian_holiday" : false,
+		"muslim_holiday" : false,
+		"worldwide_observance" : true
+	},
+	{
+		"date_iso" : "2019-10-07",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-10-08",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-10-09",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-10-10",
+		"name" : "World Sight Day",
+		"description" : "World Sight Day is annually held on the second Thursday of October to raise awareness about blindness and vision impairment.",
+		"type" : "Worldwide observance",
+		"national_holiday" : false,
+		"christian_holiday" : false,
+		"muslim_holiday" : false,
+		"worldwide_observance" : true
+	},
+	{
+		"date_iso" : "2019-10-11",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-10-12",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-10-13",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-10-14",
+		"name" : "Columbus Day",
+		"description" : "Columbus Day celebrates 15th century explorer Christopher Columbus's arrival in America in 1492.",
+		"type" : "National holiday",
+		"national_holiday" : true,
+		"christian_holiday" : false,
+		"muslim_holiday" : false,
+		"worldwide_observance" : false
+	},
+	{
+		"date_iso" : "2019-10-15",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-10-16",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-10-17",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-10-18",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-10-19",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-10-20",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-10-21",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-10-22",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-10-23",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-10-24",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-10-25",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-10-26",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-10-27",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-10-28",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-10-29",
+		"name" : "World Stroke Day",
+		"description" : "World Stroke Day is annually held on October 29 to raise awareness about stroke and ways to combat it.",
+		"type" : "Worldwide observance",
+		"national_holiday" : false,
+		"christian_holiday" : false,
+		"muslim_holiday" : false,
+		"worldwide_observance" : true
+	},
+	{
+		"date_iso" : "2019-10-30",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-10-31",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-11-01",
+		"name" : "All Saints' Day, World Vegan Day",
+		"description" : "Many Catholics honor all the saints on All Saints' Day, also known as All Hallows' Day, in the United States., World Vegan Day is an annual observation that brings together vegans around the world to bring attention to animal rights and to spread the word about the health advantages of following a vegan diet.",
+		"type" : "Christian, Worldwide observance",
+		"national_holiday" : false,
+		"christian_holiday" : true,
+		"muslim_holiday" : false,
+		"worldwide_observance" : true
+	},
+	{
+		"date_iso" : "2019-11-02",
+		"name" : "All Souls' Day",
+		"description" : "Prayers for the dead are made on All Souls’ Day in the United States, which falls on November 2 each year. The Day of the Dead is also celebrated on this day.",
+		"type" : "Christian",
+		"national_holiday" : false,
+		"christian_holiday" : true,
+		"muslim_holiday" : false,
+		"worldwide_observance" : false
+	},
+	{
+		"date_iso" : "2019-11-03",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-11-04",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-11-05",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-11-06",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-11-07",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-11-08",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-11-09",
+		"name" : "The Prophet's Birthday",
+		"description" : "Eid Milad ul-Nabi (Mawlid or Milad-un-Nabi) commemorates the Prophet Muhammed's birthday.",
+		"type" : "Muslim",
+		"national_holiday" : false,
+		"christian_holiday" : false,
+		"muslim_holiday" : true,
+		"worldwide_observance" : false
+	},
+	{
+		"date_iso" : "2019-11-10",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-11-11",
+		"name" : "Singles’ Day, Veterans Day",
+		"description" : ", Veterans Day in the USA is a holiday to honor all who have served in the United States Military Services.",
+		"type" : "Worldwide observance, National holiday",
+		"national_holiday" : true,
+		"christian_holiday" : false,
+		"muslim_holiday" : false,
+		"worldwide_observance" : true
+	},
+	{
+		"date_iso" : "2019-11-12",
+		"name" : "World Pneumonia Day",
+		"description" : "World Pneumonia Day supports all efforts made to protect and treat people against pneumonia, the single largest cause of child deaths worldwide.",
+		"type" : "Worldwide observance",
+		"national_holiday" : false,
+		"christian_holiday" : false,
+		"muslim_holiday" : false,
+		"worldwide_observance" : true
+	},
+	{
+		"date_iso" : "2019-11-13",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-11-14",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-11-15",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-11-16",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-11-17",
+		"name" : "World Prematurity Day",
+		"description" : " World Prematurity Day is an annual observance that is dedicated to raising awareness about the health and emotional issues surrounding preterm birth.",
+		"type" : "Worldwide observance",
+		"national_holiday" : false,
+		"christian_holiday" : false,
+		"muslim_holiday" : false,
+		"worldwide_observance" : true
+	},
+	{
+		"date_iso" : "2019-11-18",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-11-19",
+		"name" : "International Men's Day",
+		"description" : "International Men’s Day celebrates men's achievements worldwide and throughout history.",
+		"type" : "Worldwide observance",
+		"national_holiday" : false,
+		"christian_holiday" : false,
+		"muslim_holiday" : false,
+		"worldwide_observance" : true
+	},
+	{
+		"date_iso" : "2019-11-20",
+		"name" : "Transgender Day of Remembrance",
+		"description" : "Transgender Day of Remembrance is a worldwide observance in the USA",
+		"type" : "Worldwide observance",
+		"national_holiday" : false,
+		"christian_holiday" : false,
+		"muslim_holiday" : false,
+		"worldwide_observance" : true
+	},
+	{
+		"date_iso" : "2019-11-21",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-11-22",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-11-23",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-11-24",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-11-25",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-11-26",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-11-27",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-11-28",
+		"name" : "Thanksgiving Day",
+		"description" : "Thanksgiving Day in the United States is traditionally a holiday to give thanks for the food collected at the end of the harvest season.",
+		"type" : "National holiday",
+		"national_holiday" : true,
+		"christian_holiday" : false,
+		"muslim_holiday" : false,
+		"worldwide_observance" : false
+	},
+	{
+		"date_iso" : "2019-11-29",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-11-30",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-12-01",
+		"name" : "First Sunday of Advent",
+		"description" : "Many Christians in the United States observe the first Sunday of Advent, which marks the start of the Christian year.",
+		"type" : "Christian",
+		"national_holiday" : false,
+		"christian_holiday" : true,
+		"muslim_holiday" : false,
+		"worldwide_observance" : false
+	},
+	{
+		"date_iso" : "2019-12-02",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-12-03",
+		"name" : "Giving Tuesday",
+		"description" : "",
+		"type" : "Worldwide observance",
+		"national_holiday" : false,
+		"christian_holiday" : false,
+		"muslim_holiday" : false,
+		"worldwide_observance" : true
+	},
+	{
+		"date_iso" : "2019-12-04",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-12-05",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-12-06",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-12-07",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-12-08",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-12-09",
+		"name" : "Feast of the Immaculate Conception, Green Monday",
+		"description" : "The Feast of the Immaculate Conception is a Christian observance on December 8 each year., The last Monday at least ten days before Christmas has been dubbed “Green Monday” by online marketers.",
+		"type" : "Christian, Worldwide observance",
+		"national_holiday" : false,
+		"christian_holiday" : true,
+		"muslim_holiday" : false,
+		"worldwide_observance" : true
+	},
+	{
+		"date_iso" : "2019-12-10",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-12-11",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-12-12",
+		"name" : "Feast of Our Lady of Guadalupe",
+		"description" : "The Feast of Our Lady Guadalupe, in honor of Jesus’ mother Mary, is a Catholic observance in the United States.",
+		"type" : "Christian",
+		"national_holiday" : false,
+		"christian_holiday" : true,
+		"muslim_holiday" : false,
+		"worldwide_observance" : false
+	},
+	{
+		"date_iso" : "2019-12-13",
+		"name" : "Friday the 13th",
+		"description" : "Friday the 13th is a day full of superstitious beliefs in communities worldwide.",
+		"type" : "Worldwide observance",
+		"national_holiday" : false,
+		"christian_holiday" : false,
+		"muslim_holiday" : false,
+		"worldwide_observance" : true
+	},
+	{
+		"date_iso" : "2019-12-14",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-12-15",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-12-16",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-12-17",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-12-18",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-12-19",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-12-20",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-12-21",
+		"name" : "Super Saturday",
+		"description" : "The final Saturday before Christmas has become a very popular shopping day in the US, earning the nickname Super Saturday.",
+		"type" : "Worldwide observance",
+		"national_holiday" : false,
+		"christian_holiday" : false,
+		"muslim_holiday" : false,
+		"worldwide_observance" : true
+	},
+	{
+		"date_iso" : "2019-12-22",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-12-23",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-12-24",
+		"name" : "Christmas Eve, Christmas Eve",
+		"description" : "Christmas Eve in the United States is on December 24 each year., Christmas Eve in the United States is on December 24 each year.",
+		"type" : "Observance, Christian, National holiday",
+		"national_holiday" : true,
+		"christian_holiday" : true,
+		"muslim_holiday" : false,
+		"worldwide_observance" : false
+	},
+	{
+		"date_iso" : "2019-12-25",
+		"name" : "Christmas Day, Christmas Day, Christmas Day, Christmas Day, Christmas Day",
+		"description" : "Christmas Day celebrates Jesus Christ's birth., Christmas Day celebrates Jesus Christ's birth., Christmas Day celebrates Jesus Christ's birth., Christmas Day celebrates Jesus Christ's birth., Christmas Day celebrates Jesus Christ's birth.",
+		"type" : "National holiday, Christian, Local holiday, Christian, Local holiday, Christian, Local holiday, Christian, Local holiday, Christian",
+		"national_holiday" : true,
+		"christian_holiday" : true,
+		"muslim_holiday" : false,
+		"worldwide_observance" : false
+	},
+	{
+		"date_iso" : "2019-12-26",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-12-27",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-12-28",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-12-29",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-12-30",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	},
+	{
+		"date_iso" : "2019-12-31",
+		"name" : null,
+		"description" : null,
+		"type" : null,
+		"national_holiday" : null,
+		"christian_holiday" : null,
+		"muslim_holiday" : null,
+		"worldwide_observance" : null
+	}
+]}

@@ -1,0 +1,51 @@
+{
+"i_incremental_by_month": [
+	{
+		"month_str" : "2019-01",
+		"i_incremental_revenue_est" : -2100.448228507238
+	},
+	{
+		"month_str" : "2019-02",
+		"i_incremental_revenue_est" : -4200.896457014476
+	},
+	{
+		"month_str" : "2019-03",
+		"i_incremental_revenue_est" : -6301.3446855217135
+	},
+	{
+		"month_str" : "2019-04",
+		"i_incremental_revenue_est" : -2100.448228507238
+	},
+	{
+		"month_str" : "2019-05",
+		"i_incremental_revenue_est" : -4200.896457014476
+	},
+	{
+		"month_str" : "2019-06",
+		"i_incremental_revenue_est" : -6301.3446855217135
+	},
+	{
+		"month_str" : "2019-07",
+		"i_incremental_revenue_est" : -2100.448228507238
+	},
+	{
+		"month_str" : "2019-08",
+		"i_incremental_revenue_est" : -4200.896457014476
+	},
+	{
+		"month_str" : "2019-09",
+		"i_incremental_revenue_est" : -6301.3446855217135
+	},
+	{
+		"month_str" : "2019-10",
+		"i_incremental_revenue_est" : -2100.448228507238
+	},
+	{
+		"month_str" : "2019-11",
+		"i_incremental_revenue_est" : -4200.896457014476
+	},
+	{
+		"month_str" : "2019-12",
+		"i_incremental_revenue_est" : -6301.3446855217135
+	}
+]}

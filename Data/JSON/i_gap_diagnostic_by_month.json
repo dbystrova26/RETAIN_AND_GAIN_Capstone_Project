@@ -1,0 +1,75 @@
+{
+"i_gap_diagnostic_by_month": [
+	{
+		"month_str" : "2019-01",
+		"control_mean" : 852.5799999999999,
+		"treated_mean" : 30630.438666666665,
+		"i_treated_control_gap_diag" : 29777.858666666667
+	},
+	{
+		"month_str" : "2019-02",
+		"control_mean" : 814.6175,
+		"treated_mean" : 25484.137857142858,
+		"i_treated_control_gap_diag" : 24669.520357142857
+	},
+	{
+		"month_str" : "2019-03",
+		"control_mean" : 1349.2525,
+		"treated_mean" : 27000.734666666667,
+		"i_treated_control_gap_diag" : 25651.48216666667
+	},
+	{
+		"month_str" : "2019-04",
+		"control_mean" : 1331.5525,
+		"treated_mean" : 29184.93,
+		"i_treated_control_gap_diag" : 27853.3775
+	},
+	{
+		"month_str" : "2019-05",
+		"control_mean" : 1114.205,
+		"treated_mean" : 22980.184666666668,
+		"i_treated_control_gap_diag" : 21865.979666666666
+	},
+	{
+		"month_str" : "2019-06",
+		"control_mean" : 819.1233333333333,
+		"treated_mean" : 23742.506,
+		"i_treated_control_gap_diag" : 22923.38266666667
+	},
+	{
+		"month_str" : "2019-07",
+		"control_mean" : 1274.76,
+		"treated_mean" : 27835.848,
+		"i_treated_control_gap_diag" : 26561.088000000003
+	},
+	{
+		"month_str" : "2019-08",
+		"control_mean" : 756.3033333333333,
+		"treated_mean" : 28752.564375,
+		"i_treated_control_gap_diag" : 27996.26104166667
+	},
+	{
+		"month_str" : "2019-09",
+		"control_mean" : 497.26,
+		"treated_mean" : 26703.95333333333,
+		"i_treated_control_gap_diag" : 26206.693333333333
+	},
+	{
+		"month_str" : "2019-10",
+		"control_mean" : 868.2399999999999,
+		"treated_mean" : 32421.905714285713,
+		"i_treated_control_gap_diag" : 31553.66571428571
+	},
+	{
+		"month_str" : "2019-11",
+		"control_mean" : 383.96,
+		"treated_mean" : 49170.053636363635,
+		"i_treated_control_gap_diag" : 48786.093636363636
+	},
+	{
+		"month_str" : "2019-12",
+		"control_mean" : null,
+		"treated_mean" : 43164.62923076923,
+		"i_treated_control_gap_diag" : null
+	}
+]}

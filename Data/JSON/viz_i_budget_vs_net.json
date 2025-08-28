@@ -1,0 +1,1828 @@
+{
+"viz_i_budget_vs_net": [
+	{
+		"month" : "2019-01-01",
+		"coupon_budget" : 6924.5,
+		"i_net_profit_after_coupons" : 19278.4458549347
+	},
+	{
+		"month" : "2019-01-02",
+		"coupon_budget" : 7980.36,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-01-03",
+		"coupon_budget" : 6076.38,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-01-04",
+		"coupon_budget" : 7428.55,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-01-05",
+		"coupon_budget" : 8555.3,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-01-06",
+		"coupon_budget" : 8296.85,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-01-07",
+		"coupon_budget" : 7079.52,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-01-08",
+		"coupon_budget" : 7551.38,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-01-09",
+		"coupon_budget" : 8287.83,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-01-10",
+		"coupon_budget" : 5515.44,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-01-11",
+		"coupon_budget" : 6757.58,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-01-12",
+		"coupon_budget" : 7435.97,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-01-13",
+		"coupon_budget" : 7449.65,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-01-14",
+		"coupon_budget" : 6920.57,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-01-15",
+		"coupon_budget" : 4734.68,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-01-16",
+		"coupon_budget" : 6727.61,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-01-17",
+		"coupon_budget" : 3417.73,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-01-18",
+		"coupon_budget" : 4312.5,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-01-19",
+		"coupon_budget" : 5753.56,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-01-20",
+		"coupon_budget" : 5073.51,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-01-21",
+		"coupon_budget" : 3640.93,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-01-22",
+		"coupon_budget" : 2049.73,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-01-23",
+		"coupon_budget" : 2356.59,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-01-24",
+		"coupon_budget" : 1560.02,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-01-25",
+		"coupon_budget" : 2124.95,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-01-26",
+		"coupon_budget" : 1937.58,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-01-27",
+		"coupon_budget" : 1687.86,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-01-28",
+		"coupon_budget" : 1993.69,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-01-29",
+		"coupon_budget" : 1536.13,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-01-30",
+		"coupon_budget" : 1681.86,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-01-31",
+		"coupon_budget" : 2080.14,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-02-01",
+		"coupon_budget" : 1392.67,
+		"i_net_profit_after_coupons" : 2329.47393338181
+	},
+	{
+		"month" : "2019-02-02",
+		"coupon_budget" : 1470.87,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-02-03",
+		"coupon_budget" : 2791.61,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-02-04",
+		"coupon_budget" : 2916.98,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-02-05",
+		"coupon_budget" : 5486.46,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-02-06",
+		"coupon_budget" : 4665.47,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-02-07",
+		"coupon_budget" : 3877.2,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-02-08",
+		"coupon_budget" : 4973.27,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-02-09",
+		"coupon_budget" : 5659.34,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-02-10",
+		"coupon_budget" : 5037.41,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-02-11",
+		"coupon_budget" : 5864.69,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-02-12",
+		"coupon_budget" : 5844.64,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-02-13",
+		"coupon_budget" : 5007.32,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-02-14",
+		"coupon_budget" : 3830.68,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-02-15",
+		"coupon_budget" : 4738.89,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-02-16",
+		"coupon_budget" : 6784.07,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-02-17",
+		"coupon_budget" : 5107.67,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-02-18",
+		"coupon_budget" : 4586.43,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-02-19",
+		"coupon_budget" : 5220.16,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-02-20",
+		"coupon_budget" : 6268.28,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-02-21",
+		"coupon_budget" : 4227.39,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-02-22",
+		"coupon_budget" : 4439.9,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-02-23",
+		"coupon_budget" : 6048.51,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-02-24",
+		"coupon_budget" : 5780.26,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-02-25",
+		"coupon_budget" : 4969.84,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-02-26",
+		"coupon_budget" : 5951.71,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-02-27",
+		"coupon_budget" : 8349.02,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-02-28",
+		"coupon_budget" : 5817.18,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-03-01",
+		"coupon_budget" : 5880.22,
+		"i_net_profit_after_coupons" : -9515.0509154841
+	},
+	{
+		"month" : "2019-03-02",
+		"coupon_budget" : 5258.6,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-03-03",
+		"coupon_budget" : 6066.29,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-03-04",
+		"coupon_budget" : 4642.34,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-03-05",
+		"coupon_budget" : 3653.36,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-03-06",
+		"coupon_budget" : 4327.02,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-03-07",
+		"coupon_budget" : 4835.35,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-03-08",
+		"coupon_budget" : 4418.53,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-03-09",
+		"coupon_budget" : 4268.28,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-03-10",
+		"coupon_budget" : 3794.22,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-03-11",
+		"coupon_budget" : 3473.15,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-03-12",
+		"coupon_budget" : 2731.1,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-03-13",
+		"coupon_budget" : 3498.01,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-03-14",
+		"coupon_budget" : 3141.27,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-03-15",
+		"coupon_budget" : 3684.18,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-03-16",
+		"coupon_budget" : 4435.12,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-03-17",
+		"coupon_budget" : 3837.87,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-03-18",
+		"coupon_budget" : 2659.57,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-03-19",
+		"coupon_budget" : 2982.2,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-03-20",
+		"coupon_budget" : 3542.81,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-03-21",
+		"coupon_budget" : 4365.81,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-03-22",
+		"coupon_budget" : 4523.41,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-03-23",
+		"coupon_budget" : 3736.63,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-03-24",
+		"coupon_budget" : 3984,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-03-25",
+		"coupon_budget" : 2931.54,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-03-26",
+		"coupon_budget" : 3672.79,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-03-27",
+		"coupon_budget" : 4639.99,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-03-28",
+		"coupon_budget" : 3066.12,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-03-29",
+		"coupon_budget" : 3330.54,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-03-30",
+		"coupon_budget" : 2692.02,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-03-31",
+		"coupon_budget" : 4177.75,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-04-01",
+		"coupon_budget" : 6019.93,
+		"i_net_profit_after_coupons" : 29184.3329015334
+	},
+	{
+		"month" : "2019-04-02",
+		"coupon_budget" : 4409.27,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-04-03",
+		"coupon_budget" : 4248.14,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-04-04",
+		"coupon_budget" : 3636.06,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-04-05",
+		"coupon_budget" : 4842.68,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-04-06",
+		"coupon_budget" : 4807.25,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-04-07",
+		"coupon_budget" : 5219.46,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-04-08",
+		"coupon_budget" : 4700.69,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-04-09",
+		"coupon_budget" : 4740.91,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-04-10",
+		"coupon_budget" : 5143.39,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-04-11",
+		"coupon_budget" : 3804.85,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-04-12",
+		"coupon_budget" : 4631.25,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-04-13",
+		"coupon_budget" : 5872.23,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-04-14",
+		"coupon_budget" : 4747,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-04-15",
+		"coupon_budget" : 4593.58,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-04-16",
+		"coupon_budget" : 6168.04,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-04-17",
+		"coupon_budget" : 6526.49,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-04-18",
+		"coupon_budget" : 5476.58,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-04-19",
+		"coupon_budget" : 5754.92,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-04-20",
+		"coupon_budget" : 5330.34,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-04-21",
+		"coupon_budget" : 7078.84,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-04-22",
+		"coupon_budget" : 5608.26,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-04-23",
+		"coupon_budget" : 6607.11,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-04-24",
+		"coupon_budget" : 5150.62,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-04-25",
+		"coupon_budget" : 4120.94,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-04-26",
+		"coupon_budget" : 4863.31,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-04-27",
+		"coupon_budget" : 5556.17,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-04-28",
+		"coupon_budget" : 5519.73,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-04-29",
+		"coupon_budget" : 7049.13,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-04-30",
+		"coupon_budget" : 4799.66,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-05-01",
+		"coupon_budget" : 4108.88,
+		"i_net_profit_after_coupons" : 2003.47869575161
+	},
+	{
+		"month" : "2019-05-02",
+		"coupon_budget" : 3732.47,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-05-03",
+		"coupon_budget" : 5406.31,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-05-04",
+		"coupon_budget" : 5407.55,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-05-05",
+		"coupon_budget" : 4177.76,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-05-06",
+		"coupon_budget" : 5100.89,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-05-07",
+		"coupon_budget" : 5271,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-05-08",
+		"coupon_budget" : 3869.25,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-05-09",
+		"coupon_budget" : 4771.32,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-05-10",
+		"coupon_budget" : 4942.13,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-05-11",
+		"coupon_budget" : 4801.66,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-05-12",
+		"coupon_budget" : 5113.63,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-05-13",
+		"coupon_budget" : 5697.6,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-05-14",
+		"coupon_budget" : 4651.7,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-05-15",
+		"coupon_budget" : 3182.42,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-05-16",
+		"coupon_budget" : 4105.63,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-05-17",
+		"coupon_budget" : 5552.49,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-05-18",
+		"coupon_budget" : 5305.79,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-05-19",
+		"coupon_budget" : 4831.31,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-05-20",
+		"coupon_budget" : 4798.34,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-05-21",
+		"coupon_budget" : 1882.98,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-05-22",
+		"coupon_budget" : 1979.08,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-05-23",
+		"coupon_budget" : 2196.03,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-05-24",
+		"coupon_budget" : 1670.51,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-05-25",
+		"coupon_budget" : 3565.75,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-05-26",
+		"coupon_budget" : 3752.13,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-05-27",
+		"coupon_budget" : 2976.31,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-05-28",
+		"coupon_budget" : 965.4,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-05-29",
+		"coupon_budget" : 1170.64,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-05-30",
+		"coupon_budget" : 1762.38,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-05-31",
+		"coupon_budget" : 1510.3,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-06-01",
+		"coupon_budget" : 820.25,
+		"i_net_profit_after_coupons" : -9887.08185571167
+	},
+	{
+		"month" : "2019-06-02",
+		"coupon_budget" : 2122.46,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-06-03",
+		"coupon_budget" : 1730.43,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-06-04",
+		"coupon_budget" : 6053.18,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-06-05",
+		"coupon_budget" : 6702.1,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-06-06",
+		"coupon_budget" : 4626.87,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-06-07",
+		"coupon_budget" : 5194.16,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-06-08",
+		"coupon_budget" : 5098.46,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-06-09",
+		"coupon_budget" : 6440.1,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-06-10",
+		"coupon_budget" : 5381.94,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-06-11",
+		"coupon_budget" : 4428.32,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-06-12",
+		"coupon_budget" : 5321.52,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-06-13",
+		"coupon_budget" : 4084.43,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-06-14",
+		"coupon_budget" : 4749.49,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-06-15",
+		"coupon_budget" : 4919.84,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-06-16",
+		"coupon_budget" : 5009.36,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-06-17",
+		"coupon_budget" : 5743.71,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-06-18",
+		"coupon_budget" : 5789.42,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-06-19",
+		"coupon_budget" : 6117.14,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-06-20",
+		"coupon_budget" : 4519.59,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-06-21",
+		"coupon_budget" : 4973.98,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-06-22",
+		"coupon_budget" : 5717.07,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-06-23",
+		"coupon_budget" : 5783.08,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-06-24",
+		"coupon_budget" : 5475.15,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-06-25",
+		"coupon_budget" : 2456.13,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-06-26",
+		"coupon_budget" : 2978.19,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-06-27",
+		"coupon_budget" : 2149.14,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-06-28",
+		"coupon_budget" : 3209.84,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-06-29",
+		"coupon_budget" : 4152.13,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-06-30",
+		"coupon_budget" : 2570.66,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-07-01",
+		"coupon_budget" : 3432.64,
+		"i_net_profit_after_coupons" : 15125.0995783499
+	},
+	{
+		"month" : "2019-07-02",
+		"coupon_budget" : 3108.03,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-07-03",
+		"coupon_budget" : 2526.96,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-07-04",
+		"coupon_budget" : 4227.95,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-07-05",
+		"coupon_budget" : 4103.13,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-07-06",
+		"coupon_budget" : 4663.67,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-07-07",
+		"coupon_budget" : 4249.45,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-07-08",
+		"coupon_budget" : 4553.01,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-07-09",
+		"coupon_budget" : 4370.67,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-07-10",
+		"coupon_budget" : 3740.47,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-07-11",
+		"coupon_budget" : 3628.09,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-07-12",
+		"coupon_budget" : 3423.4,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-07-13",
+		"coupon_budget" : 4989.36,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-07-14",
+		"coupon_budget" : 4564.34,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-07-15",
+		"coupon_budget" : 4116.22,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-07-16",
+		"coupon_budget" : 3163.11,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-07-17",
+		"coupon_budget" : 3331.1,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-07-18",
+		"coupon_budget" : 4408.61,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-07-19",
+		"coupon_budget" : 5444.24,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-07-20",
+		"coupon_budget" : 4097.22,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-07-21",
+		"coupon_budget" : 3253.24,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-07-22",
+		"coupon_budget" : 4521.31,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-07-23",
+		"coupon_budget" : 4260.92,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-07-24",
+		"coupon_budget" : 3350.14,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-07-25",
+		"coupon_budget" : 3669.05,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-07-26",
+		"coupon_budget" : 4127.19,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-07-27",
+		"coupon_budget" : 3651.7,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-07-28",
+		"coupon_budget" : 4925.35,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-07-29",
+		"coupon_budget" : 3853.73,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-07-30",
+		"coupon_budget" : 1978.27,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-07-31",
+		"coupon_budget" : 2485.28,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-08-01",
+		"coupon_budget" : 2141.12,
+		"i_net_profit_after_coupons" : -6591.91064049418
+	},
+	{
+		"month" : "2019-08-02",
+		"coupon_budget" : 3655.96,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-08-03",
+		"coupon_budget" : 3993.64,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-08-04",
+		"coupon_budget" : 4188.98,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-08-05",
+		"coupon_budget" : 3516.04,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-08-06",
+		"coupon_budget" : 4143.02,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-08-07",
+		"coupon_budget" : 4946.56,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-08-08",
+		"coupon_budget" : 4486.8,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-08-09",
+		"coupon_budget" : 5285.79,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-08-10",
+		"coupon_budget" : 4662.28,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-08-11",
+		"coupon_budget" : 5563.83,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-08-12",
+		"coupon_budget" : 4890.41,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-08-13",
+		"coupon_budget" : 5346.18,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-08-14",
+		"coupon_budget" : 5484.92,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-08-15",
+		"coupon_budget" : 4622.49,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-08-16",
+		"coupon_budget" : 5192.8,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-08-17",
+		"coupon_budget" : 6852.38,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-08-18",
+		"coupon_budget" : 5196.64,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-08-19",
+		"coupon_budget" : 6074.56,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-08-20",
+		"coupon_budget" : 3980.23,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-08-21",
+		"coupon_budget" : 4028.1,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-08-22",
+		"coupon_budget" : 3672.96,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-08-23",
+		"coupon_budget" : 4401.56,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-08-24",
+		"coupon_budget" : 4668.34,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-08-25",
+		"coupon_budget" : 4441.38,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-08-26",
+		"coupon_budget" : 3594.77,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-08-27",
+		"coupon_budget" : 5117.28,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-08-28",
+		"coupon_budget" : 5178.57,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-08-29",
+		"coupon_budget" : 4056.67,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-08-30",
+		"coupon_budget" : 5223.08,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-08-31",
+		"coupon_budget" : 4296.81,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-09-01",
+		"coupon_budget" : 5424.97,
+		"i_net_profit_after_coupons" : -20547.2655260893
+	},
+	{
+		"month" : "2019-09-02",
+		"coupon_budget" : 4307.62,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-09-03",
+		"coupon_budget" : 4506.42,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-09-04",
+		"coupon_budget" : 3755.01,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-09-05",
+		"coupon_budget" : 3701.09,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-09-06",
+		"coupon_budget" : 3792.58,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-09-07",
+		"coupon_budget" : 5004.83,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-09-08",
+		"coupon_budget" : 3862.1,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-09-09",
+		"coupon_budget" : 4249.21,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-09-10",
+		"coupon_budget" : 5441.62,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-09-11",
+		"coupon_budget" : 4683.99,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-09-12",
+		"coupon_budget" : 4117.36,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-09-13",
+		"coupon_budget" : 4079.34,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-09-14",
+		"coupon_budget" : 4408.06,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-09-15",
+		"coupon_budget" : 5546.67,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-09-16",
+		"coupon_budget" : 4514.85,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-09-17",
+		"coupon_budget" : 5287.02,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-09-18",
+		"coupon_budget" : 4797.87,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-09-19",
+		"coupon_budget" : 3572.89,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-09-20",
+		"coupon_budget" : 3997.56,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-09-21",
+		"coupon_budget" : 3598.2,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-09-22",
+		"coupon_budget" : 4395.73,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-09-23",
+		"coupon_budget" : 5408.1,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-09-24",
+		"coupon_budget" : 4310.85,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-09-25",
+		"coupon_budget" : 4736.19,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-09-26",
+		"coupon_budget" : 3767.58,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-09-27",
+		"coupon_budget" : 4660.74,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-09-28",
+		"coupon_budget" : 4394.83,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-09-29",
+		"coupon_budget" : 6713.1,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-09-30",
+		"coupon_budget" : 4478.16,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-10-01",
+		"coupon_budget" : 4991.44,
+		"i_net_profit_after_coupons" : 21181.4667782633
+	},
+	{
+		"month" : "2019-10-02",
+		"coupon_budget" : 3899.05,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-10-03",
+		"coupon_budget" : 5015.98,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-10-04",
+		"coupon_budget" : 5411.39,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-10-05",
+		"coupon_budget" : 4511.94,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-10-06",
+		"coupon_budget" : 5230.76,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-10-07",
+		"coupon_budget" : 5154.78,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-10-08",
+		"coupon_budget" : 5299.54,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-10-09",
+		"coupon_budget" : 4234.31,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-10-10",
+		"coupon_budget" : 7205.5,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-10-11",
+		"coupon_budget" : 4950.93,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-10-12",
+		"coupon_budget" : 6339.32,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-10-13",
+		"coupon_budget" : 4853.34,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-10-14",
+		"coupon_budget" : 5614.35,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-10-15",
+		"coupon_budget" : 3817.89,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-10-16",
+		"coupon_budget" : 3718.6,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-10-17",
+		"coupon_budget" : 4283.56,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-10-18",
+		"coupon_budget" : 3650.51,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-10-19",
+		"coupon_budget" : 4131.19,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-10-20",
+		"coupon_budget" : 5327.25,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-10-21",
+		"coupon_budget" : 5348.39,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-10-22",
+		"coupon_budget" : 5400.77,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-10-23",
+		"coupon_budget" : 4653.81,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-10-24",
+		"coupon_budget" : 5830.24,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-10-25",
+		"coupon_budget" : 4916.14,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-10-26",
+		"coupon_budget" : 5874.99,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-10-27",
+		"coupon_budget" : 6771.55,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-10-28",
+		"coupon_budget" : 5191.02,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-10-29",
+		"coupon_budget" : 3564.09,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-10-30",
+		"coupon_budget" : 2780.15,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-10-31",
+		"coupon_budget" : 3251.87,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-11-01",
+		"coupon_budget" : 3224.01,
+		"i_net_profit_after_coupons" : -2561.3208367983
+	},
+	{
+		"month" : "2019-11-02",
+		"coupon_budget" : 4437.58,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-11-03",
+		"coupon_budget" : 4294.09,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-11-04",
+		"coupon_budget" : 4478.79,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-11-05",
+		"coupon_budget" : 5519.94,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-11-06",
+		"coupon_budget" : 6046.6,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-11-07",
+		"coupon_budget" : 4752.63,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-11-08",
+		"coupon_budget" : 5587.49,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-11-09",
+		"coupon_budget" : 6426.69,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-11-10",
+		"coupon_budget" : 5931.73,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-11-11",
+		"coupon_budget" : 6143.34,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-11-12",
+		"coupon_budget" : 7390.82,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-11-13",
+		"coupon_budget" : 6400.95,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-11-14",
+		"coupon_budget" : 4855.19,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-11-15",
+		"coupon_budget" : 4737.08,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-11-16",
+		"coupon_budget" : 6716.48,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-11-17",
+		"coupon_budget" : 6964.3,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-11-18",
+		"coupon_budget" : 6825.78,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-11-19",
+		"coupon_budget" : 4415.27,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-11-20",
+		"coupon_budget" : 4393.03,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-11-21",
+		"coupon_budget" : 2984.9,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-11-22",
+		"coupon_budget" : 4571.31,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-11-23",
+		"coupon_budget" : 5472.6,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-11-24",
+		"coupon_budget" : 6375.08,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-11-25",
+		"coupon_budget" : 5143.59,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-11-26",
+		"coupon_budget" : 4642.31,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-11-27",
+		"coupon_budget" : 5819.58,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-11-28",
+		"coupon_budget" : 4375.26,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-11-29",
+		"coupon_budget" : 7556.93,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-11-30",
+		"coupon_budget" : 4661.61,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-12-01",
+		"coupon_budget" : 5358.1,
+		"i_net_profit_after_coupons" : -9247.29866075255
+	},
+	{
+		"month" : "2019-12-02",
+		"coupon_budget" : 4907.19,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-12-03",
+		"coupon_budget" : 5511.57,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-12-04",
+		"coupon_budget" : 4409.19,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-12-05",
+		"coupon_budget" : 6473.53,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-12-06",
+		"coupon_budget" : 5457.58,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-12-07",
+		"coupon_budget" : 6896.14,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-12-08",
+		"coupon_budget" : 6171.9,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-12-09",
+		"coupon_budget" : 5981.51,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-12-10",
+		"coupon_budget" : 7897.2,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-12-11",
+		"coupon_budget" : 5612.93,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-12-12",
+		"coupon_budget" : 6904.23,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-12-13",
+		"coupon_budget" : 7100.42,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-12-14",
+		"coupon_budget" : 7434.31,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-12-15",
+		"coupon_budget" : 7577.45,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-12-16",
+		"coupon_budget" : 7116.98,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-12-17",
+		"coupon_budget" : 6158.91,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-12-18",
+		"coupon_budget" : 5163.46,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-12-19",
+		"coupon_budget" : 7329.71,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-12-20",
+		"coupon_budget" : 7376.39,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-12-21",
+		"coupon_budget" : 7612.73,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-12-22",
+		"coupon_budget" : 6809.46,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-12-23",
+		"coupon_budget" : 6699.69,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-12-24",
+		"coupon_budget" : 7749.46,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-12-25",
+		"coupon_budget" : 5133.7,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-12-26",
+		"coupon_budget" : 5881.66,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-12-27",
+		"coupon_budget" : 7396.87,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-12-28",
+		"coupon_budget" : 7246.84,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-12-29",
+		"coupon_budget" : 6546.58,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-12-30",
+		"coupon_budget" : 4674.31,
+		"i_net_profit_after_coupons" : null
+	},
+	{
+		"month" : "2019-12-31",
+		"coupon_budget" : 6058.75,
+		"i_net_profit_after_coupons" : null
+	}
+]}

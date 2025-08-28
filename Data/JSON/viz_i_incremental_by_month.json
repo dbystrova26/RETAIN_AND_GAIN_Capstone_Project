@@ -1,0 +1,63 @@
+{
+"viz_i_incremental_by_month": [
+	{
+		"month" : "2019-01-01",
+		"i_incremental_dollars" : -2100.44822850724,
+		"i_cum_incremental_dollars" : -50410.75748417372
+	},
+	{
+		"month" : "2019-02-01",
+		"i_incremental_dollars" : -4200.89645701448,
+		"i_cum_incremental_dollars" : -50410.75748417372
+	},
+	{
+		"month" : "2019-03-01",
+		"i_incremental_dollars" : -6301.34468552171,
+		"i_cum_incremental_dollars" : -50410.75748417372
+	},
+	{
+		"month" : "2019-04-01",
+		"i_incremental_dollars" : -2100.44822850724,
+		"i_cum_incremental_dollars" : -50410.75748417372
+	},
+	{
+		"month" : "2019-05-01",
+		"i_incremental_dollars" : -4200.89645701448,
+		"i_cum_incremental_dollars" : -50410.75748417372
+	},
+	{
+		"month" : "2019-06-01",
+		"i_incremental_dollars" : -6301.34468552171,
+		"i_cum_incremental_dollars" : -50410.75748417372
+	},
+	{
+		"month" : "2019-07-01",
+		"i_incremental_dollars" : -2100.44822850724,
+		"i_cum_incremental_dollars" : -50410.75748417372
+	},
+	{
+		"month" : "2019-08-01",
+		"i_incremental_dollars" : -4200.89645701448,
+		"i_cum_incremental_dollars" : -50410.75748417372
+	},
+	{
+		"month" : "2019-09-01",
+		"i_incremental_dollars" : -6301.34468552171,
+		"i_cum_incremental_dollars" : -50410.75748417372
+	},
+	{
+		"month" : "2019-10-01",
+		"i_incremental_dollars" : -2100.44822850724,
+		"i_cum_incremental_dollars" : -50410.75748417372
+	},
+	{
+		"month" : "2019-11-01",
+		"i_incremental_dollars" : -4200.89645701448,
+		"i_cum_incremental_dollars" : -50410.75748417372
+	},
+	{
+		"month" : "2019-12-01",
+		"i_incremental_dollars" : -6301.34468552171,
+		"i_cum_incremental_dollars" : -50410.75748417372
+	}
+]}

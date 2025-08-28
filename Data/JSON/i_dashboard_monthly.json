@@ -1,0 +1,147 @@
+{
+"i_dashboard_monthly": [
+	{
+		"month" : "2019-01",
+		"i_arpu" : 343.08793462696474,
+		"treated_cust" : 188,
+		"i_revenue" : 64500.53170986937,
+		"coupon_budget" : 12971.820000000002,
+		"i_gross_profit" : 32250.265854934685,
+		"i_net_profit_after_coupons" : 19278.445854934682,
+		"i_cum_revenue" : 64500.53170986937,
+		"i_cum_net_profit" : 19278.445854934682,
+		"go_flag" : "GO"
+	},
+	{
+		"month" : "2019-02",
+		"i_arpu" : 430.7486719481547,
+		"treated_cust" : 101,
+		"i_revenue" : 43505.61586676363,
+		"coupon_budget" : 19423.334000000003,
+		"i_gross_profit" : 21752.807933381813,
+		"i_net_profit_after_coupons" : 2329.4739333818106,
+		"i_cum_revenue" : 108006.147576633,
+		"i_cum_net_profit" : 21607.919788316492,
+		"go_flag" : "GO"
+	},
+	{
+		"month" : "2019-03",
+		"i_arpu" : 254.70326129704063,
+		"treated_cust" : 192,
+		"i_revenue" : 48903.0261690318,
+		"coupon_budget" : 33966.564,
+		"i_gross_profit" : 24451.5130845159,
+		"i_net_profit_after_coupons" : -9515.050915484098,
+		"i_cum_revenue" : 156909.1737456648,
+		"i_cum_net_profit" : 12092.868872832394,
+		"go_flag" : "NO-GO"
+	},
+	{
+		"month" : "2019-04",
+		"i_arpu" : 441.7071077879112,
+		"treated_cust" : 193,
+		"i_revenue" : 85249.47180306686,
+		"coupon_budget" : 13440.403,
+		"i_gross_profit" : 42624.73590153343,
+		"i_net_profit_after_coupons" : 29184.33290153343,
+		"i_cum_revenue" : 242158.64554873167,
+		"i_cum_net_profit" : 41277.20177436582,
+		"go_flag" : "GO"
+	},
+	{
+		"month" : "2019-05",
+		"i_arpu" : 245.7974670088425,
+		"treated_cust" : 170,
+		"i_revenue" : 41785.569391503224,
+		"coupon_budget" : 18889.306,
+		"i_gross_profit" : 20892.784695751612,
+		"i_net_profit_after_coupons" : 2003.4786957516117,
+		"i_cum_revenue" : 283944.2149402349,
+		"i_cum_net_profit" : 43280.68047011743,
+		"go_flag" : "GO"
+	},
+	{
+		"month" : "2019-06",
+		"i_arpu" : 190.44515507938738,
+		"treated_cust" : 234,
+		"i_revenue" : 44564.16628857665,
+		"coupon_budget" : 32169.164999999997,
+		"i_gross_profit" : 22282.083144288325,
+		"i_net_profit_after_coupons" : -9887.081855711673,
+		"i_cum_revenue" : 328508.3812288116,
+		"i_cum_net_profit" : 33393.59861440576,
+		"go_flag" : "NO-GO"
+	},
+	{
+		"month" : "2019-07",
+		"i_arpu" : 272.737523400501,
+		"treated_cust" : 199,
+		"i_revenue" : 54274.7671566997,
+		"coupon_budget" : 12012.284,
+		"i_gross_profit" : 27137.38357834985,
+		"i_net_profit_after_coupons" : 15125.099578349851,
+		"i_cum_revenue" : 382783.14838551125,
+		"i_cum_net_profit" : 48518.69819275561,
+		"go_flag" : "GO"
+	},
+	{
+		"month" : "2019-08",
+		"i_arpu" : 160.58399522019266,
+		"treated_cust" : 268,
+		"i_revenue" : 43036.51071901163,
+		"coupon_budget" : 28110.166,
+		"i_gross_profit" : 21518.255359505816,
+		"i_net_profit_after_coupons" : -6591.910640494185,
+		"i_cum_revenue" : 425819.6591045229,
+		"i_cum_net_profit" : 41926.78755226143,
+		"go_flag" : "NO-GO"
+	},
+	{
+		"month" : "2019-09",
+		"i_arpu" : 227.37759618608976,
+		"treated_cust" : 171,
+		"i_revenue" : 38881.568947821346,
+		"coupon_budget" : 39988.049999999996,
+		"i_gross_profit" : 19440.784473910673,
+		"i_net_profit_after_coupons" : -20547.265526089323,
+		"i_cum_revenue" : 464701.22805234423,
+		"i_cum_net_profit" : 21379.522026172104,
+		"go_flag" : "NO-GO"
+	},
+	{
+		"month" : "2019-10",
+		"i_arpu" : 381.3078217391575,
+		"treated_cust" : 182,
+		"i_revenue" : 69398.02355652666,
+		"coupon_budget" : 13517.545,
+		"i_gross_profit" : 34699.01177826333,
+		"i_net_profit_after_coupons" : 21181.466778263333,
+		"i_cum_revenue" : 534099.2516088709,
+		"i_cum_net_profit" : 42560.98880443544,
+		"go_flag" : "GO"
+	},
+	{
+		"month" : "2019-11",
+		"i_arpu" : 394.58639480002023,
+		"treated_cust" : 168,
+		"i_revenue" : 66290.5143264034,
+		"coupon_budget" : 35706.578,
+		"i_gross_profit" : 33145.2571632017,
+		"i_net_profit_after_coupons" : -2561.3208367983025,
+		"i_cum_revenue" : 600389.7659352743,
+		"i_cum_net_profit" : 39999.667967637135,
+		"go_flag" : "NO-GO"
+	},
+	{
+		"month" : "2019-12",
+		"i_arpu" : 391.7530269122981,
+		"treated_cust" : 211,
+		"i_revenue" : 82659.8886784949,
+		"coupon_budget" : 50577.242999999995,
+		"i_gross_profit" : 41329.94433924745,
+		"i_net_profit_after_coupons" : -9247.298660752545,
+		"i_cum_revenue" : 683049.6546137691,
+		"i_cum_net_profit" : 30752.36930688459,
+		"go_flag" : "NO-GO"
+	}
+]}

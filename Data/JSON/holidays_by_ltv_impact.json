@@ -1,0 +1,153 @@
+{
+"holidays_by_ltv_impact": [
+	{
+		"holiday" : "Victory Day",
+		"group" : "no_holiday",
+		"avg_ltv" : 865.60004
+	},
+	{
+		"holiday" : "International Youth Day",
+		"group" : "no_holiday",
+		"avg_ltv" : 865.60004
+	},
+	{
+		"holiday" : "Lunar New Year",
+		"group" : "no_holiday",
+		"avg_ltv" : 865.8133
+	},
+	{
+		"holiday" : "World Youth Skills Day",
+		"group" : "no_holiday",
+		"avg_ltv" : 854.953
+	},
+	{
+		"holiday" : "International Day for Preventing the Exploitation of the Environment in War and Armed Conflict",
+		"group" : "no_holiday",
+		"avg_ltv" : 860.05096
+	},
+	{
+		"holiday" : "Memorial Day",
+		"group" : "no_holiday",
+		"avg_ltv" : 874.3003
+	},
+	{
+		"holiday" : "Ronald Reagan Day",
+		"group" : "no_holiday",
+		"avg_ltv" : 857.6571
+	},
+	{
+		"holiday" : "International Day of Zero Tolerance for Female Genital Mutilation",
+		"group" : "no_holiday",
+		"avg_ltv" : 857.6571
+	},
+	{
+		"holiday" : "National Girls and Women in Sports Day",
+		"group" : "no_holiday",
+		"avg_ltv" : 857.6571
+	},
+	{
+		"holiday" : "Sustainable Gastronomy Day",
+		"group" : "no_holiday",
+		"avg_ltv" : 852.6936
+	},
+	{
+		"holiday" : "Labor Day",
+		"group" : "no_holiday",
+		"avg_ltv" : 863.2928
+	},
+	{
+		"holiday" : "Ganesh Chaturthi",
+		"group" : "no_holiday",
+		"avg_ltv" : 863.2928
+	},
+	{
+		"holiday" : "Sweetest Day",
+		"group" : "no_holiday",
+		"avg_ltv" : 858.5652
+	},
+	{
+		"holiday" : "International Day of United Nations Peacekeepers",
+		"group" : "no_holiday",
+		"avg_ltv" : 866.232
+	},
+	{
+		"holiday" : "New Year's Eve",
+		"group" : "no_holiday",
+		"avg_ltv" : 864.20776
+	},
+	{
+		"holiday" : "Victory Day",
+		"group" : "with_holiday",
+		"avg_ltv" : 6823.725
+	},
+	{
+		"holiday" : "International Youth Day",
+		"group" : "with_holiday",
+		"avg_ltv" : 6823.725
+	},
+	{
+		"holiday" : "Lunar New Year",
+		"group" : "with_holiday",
+		"avg_ltv" : 6719.5854
+	},
+	{
+		"holiday" : "World Youth Skills Day",
+		"group" : "with_holiday",
+		"avg_ltv" : 6438.9893
+	},
+	{
+		"holiday" : "International Day for Preventing the Exploitation of the Environment in War and Armed Conflict",
+		"group" : "with_holiday",
+		"avg_ltv" : 6064.1245
+	},
+	{
+		"holiday" : "Memorial Day",
+		"group" : "with_holiday",
+		"avg_ltv" : 5976.6475
+	},
+	{
+		"holiday" : "Ronald Reagan Day",
+		"group" : "with_holiday",
+		"avg_ltv" : 5780.092
+	},
+	{
+		"holiday" : "International Day of Zero Tolerance for Female Genital Mutilation",
+		"group" : "with_holiday",
+		"avg_ltv" : 5780.092
+	},
+	{
+		"holiday" : "National Girls and Women in Sports Day",
+		"group" : "with_holiday",
+		"avg_ltv" : 5780.092
+	},
+	{
+		"holiday" : "Sustainable Gastronomy Day",
+		"group" : "with_holiday",
+		"avg_ltv" : 5455.3203
+	},
+	{
+		"holiday" : "Labor Day",
+		"group" : "with_holiday",
+		"avg_ltv" : 5115.5693
+	},
+	{
+		"holiday" : "Ganesh Chaturthi",
+		"group" : "with_holiday",
+		"avg_ltv" : 5115.5693
+	},
+	{
+		"holiday" : "Sweetest Day",
+		"group" : "with_holiday",
+		"avg_ltv" : 4383.759
+	},
+	{
+		"holiday" : "International Day of United Nations Peacekeepers",
+		"group" : "with_holiday",
+		"avg_ltv" : 4255.5664
+	},
+	{
+		"holiday" : "New Year's Eve",
+		"group" : "with_holiday",
+		"avg_ltv" : 4183.918
+	}
+]}

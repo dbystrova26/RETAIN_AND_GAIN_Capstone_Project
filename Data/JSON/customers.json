@@ -1,0 +1,8811 @@
+{
+"customers": [
+	{
+		"customer_id" : 17850,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 12
+	},
+	{
+		"customer_id" : 13047,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 43
+	},
+	{
+		"customer_id" : 12583,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 33
+	},
+	{
+		"customer_id" : 13748,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 30
+	},
+	{
+		"customer_id" : 15100,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 49
+	},
+	{
+		"customer_id" : 15291,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 32
+	},
+	{
+		"customer_id" : 14688,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 46
+	},
+	{
+		"customer_id" : 17809,
+		"gender" : "F",
+		"location" : "New Jersey",
+		"tenure_months" : 24
+	},
+	{
+		"customer_id" : 15311,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 40
+	},
+	{
+		"customer_id" : 14527,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 43
+	},
+	{
+		"customer_id" : 16098,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 49
+	},
+	{
+		"customer_id" : 18074,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 10
+	},
+	{
+		"customer_id" : 17420,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 19
+	},
+	{
+		"customer_id" : 16029,
+		"gender" : "F",
+		"location" : "Washington DC",
+		"tenure_months" : 40
+	},
+	{
+		"customer_id" : 16250,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 30
+	},
+	{
+		"customer_id" : 12431,
+		"gender" : "F",
+		"location" : "New Jersey",
+		"tenure_months" : 14
+	},
+	{
+		"customer_id" : 17511,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 25
+	},
+	{
+		"customer_id" : 17548,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 50
+	},
+	{
+		"customer_id" : 13705,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 39
+	},
+	{
+		"customer_id" : 13747,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 21
+	},
+	{
+		"customer_id" : 13408,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 30
+	},
+	{
+		"customer_id" : 13767,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 29
+	},
+	{
+		"customer_id" : 17924,
+		"gender" : "M",
+		"location" : "New Jersey",
+		"tenure_months" : 26
+	},
+	{
+		"customer_id" : 13448,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 41
+	},
+	{
+		"customer_id" : 15862,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 24
+	},
+	{
+		"customer_id" : 15513,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 21
+	},
+	{
+		"customer_id" : 12791,
+		"gender" : "F",
+		"location" : "Washington DC",
+		"tenure_months" : 26
+	},
+	{
+		"customer_id" : 16218,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 40
+	},
+	{
+		"customer_id" : 14045,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 14
+	},
+	{
+		"customer_id" : 14307,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 28
+	},
+	{
+		"customer_id" : 17908,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 15
+	},
+	{
+		"customer_id" : 17920,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 18
+	},
+	{
+		"customer_id" : 12838,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 31
+	},
+	{
+		"customer_id" : 13255,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 15
+	},
+	{
+		"customer_id" : 16583,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 27
+	},
+	{
+		"customer_id" : 18085,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 34
+	},
+	{
+		"customer_id" : 13758,
+		"gender" : "M",
+		"location" : "Washington DC",
+		"tenure_months" : 46
+	},
+	{
+		"customer_id" : 13694,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 44
+	},
+	{
+		"customer_id" : 15983,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 25
+	},
+	{
+		"customer_id" : 14849,
+		"gender" : "F",
+		"location" : "New Jersey",
+		"tenure_months" : 45
+	},
+	{
+		"customer_id" : 17968,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 33
+	},
+	{
+		"customer_id" : 16210,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 49
+	},
+	{
+		"customer_id" : 17897,
+		"gender" : "M",
+		"location" : "Washington DC",
+		"tenure_months" : 19
+	},
+	{
+		"customer_id" : 17377,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 34
+	},
+	{
+		"customer_id" : 16552,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 27
+	},
+	{
+		"customer_id" : 17181,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 49
+	},
+	{
+		"customer_id" : 17951,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 36
+	},
+	{
+		"customer_id" : 14729,
+		"gender" : "M",
+		"location" : "Washington DC",
+		"tenure_months" : 43
+	},
+	{
+		"customer_id" : 12748,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 28
+	},
+	{
+		"customer_id" : 15012,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 42
+	},
+	{
+		"customer_id" : 12868,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 8
+	},
+	{
+		"customer_id" : 17572,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 49
+	},
+	{
+		"customer_id" : 14078,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 7
+	},
+	{
+		"customer_id" : 14001,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 10
+	},
+	{
+		"customer_id" : 12662,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 21
+	},
+	{
+		"customer_id" : 15525,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 48
+	},
+	{
+		"customer_id" : 14237,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 39
+	},
+	{
+		"customer_id" : 17905,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 42
+	},
+	{
+		"customer_id" : 15485,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 25
+	},
+	{
+		"customer_id" : 12433,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 32
+	},
+	{
+		"customer_id" : 16955,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 15
+	},
+	{
+		"customer_id" : 15350,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 48
+	},
+	{
+		"customer_id" : 15605,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 21
+	},
+	{
+		"customer_id" : 18144,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 26
+	},
+	{
+		"customer_id" : 15922,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 29
+	},
+	{
+		"customer_id" : 14594,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 5
+	},
+	{
+		"customer_id" : 15165,
+		"gender" : "F",
+		"location" : "New Jersey",
+		"tenure_months" : 36
+	},
+	{
+		"customer_id" : 14911,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 34
+	},
+	{
+		"customer_id" : 16456,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 47
+	},
+	{
+		"customer_id" : 17841,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 21
+	},
+	{
+		"customer_id" : 12472,
+		"gender" : "F",
+		"location" : "New Jersey",
+		"tenure_months" : 2
+	},
+	{
+		"customer_id" : 17346,
+		"gender" : "F",
+		"location" : "New Jersey",
+		"tenure_months" : 12
+	},
+	{
+		"customer_id" : 17643,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 33
+	},
+	{
+		"customer_id" : 17873,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 26
+	},
+	{
+		"customer_id" : 13093,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 35
+	},
+	{
+		"customer_id" : 12921,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 49
+	},
+	{
+		"customer_id" : 13468,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 33
+	},
+	{
+		"customer_id" : 17760,
+		"gender" : "F",
+		"location" : "New Jersey",
+		"tenure_months" : 45
+	},
+	{
+		"customer_id" : 16928,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 19
+	},
+	{
+		"customer_id" : 16048,
+		"gender" : "M",
+		"location" : "New Jersey",
+		"tenure_months" : 12
+	},
+	{
+		"customer_id" : 16274,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 43
+	},
+	{
+		"customer_id" : 14496,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 47
+	},
+	{
+		"customer_id" : 14696,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 48
+	},
+	{
+		"customer_id" : 16539,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 2
+	},
+	{
+		"customer_id" : 17025,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 45
+	},
+	{
+		"customer_id" : 13777,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 7
+	},
+	{
+		"customer_id" : 17690,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 6
+	},
+	{
+		"customer_id" : 12947,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 48
+	},
+	{
+		"customer_id" : 17460,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 35
+	},
+	{
+		"customer_id" : 18229,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 16
+	},
+	{
+		"customer_id" : 14142,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 21
+	},
+	{
+		"customer_id" : 17069,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 10
+	},
+	{
+		"customer_id" : 13065,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 32
+	},
+	{
+		"customer_id" : 14606,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 33
+	},
+	{
+		"customer_id" : 16835,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 11
+	},
+	{
+		"customer_id" : 15235,
+		"gender" : "F",
+		"location" : "New Jersey",
+		"tenure_months" : 23
+	},
+	{
+		"customer_id" : 13576,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 23
+	},
+	{
+		"customer_id" : 18011,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 7
+	},
+	{
+		"customer_id" : 13090,
+		"gender" : "M",
+		"location" : "New Jersey",
+		"tenure_months" : 4
+	},
+	{
+		"customer_id" : 15694,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 41
+	},
+	{
+		"customer_id" : 14741,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 32
+	},
+	{
+		"customer_id" : 13715,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 23
+	},
+	{
+		"customer_id" : 14092,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 41
+	},
+	{
+		"customer_id" : 17732,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 8
+	},
+	{
+		"customer_id" : 12855,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 33
+	},
+	{
+		"customer_id" : 15752,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 27
+	},
+	{
+		"customer_id" : 17855,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 13
+	},
+	{
+		"customer_id" : 14047,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 10
+	},
+	{
+		"customer_id" : 17925,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 12
+	},
+	{
+		"customer_id" : 13941,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 38
+	},
+	{
+		"customer_id" : 17017,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 40
+	},
+	{
+		"customer_id" : 14135,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 21
+	},
+	{
+		"customer_id" : 13108,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 45
+	},
+	{
+		"customer_id" : 12471,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 11
+	},
+	{
+		"customer_id" : 15601,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 46
+	},
+	{
+		"customer_id" : 13418,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 22
+	},
+	{
+		"customer_id" : 14766,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 24
+	},
+	{
+		"customer_id" : 15658,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 24
+	},
+	{
+		"customer_id" : 14388,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 6
+	},
+	{
+		"customer_id" : 14901,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 4
+	},
+	{
+		"customer_id" : 18041,
+		"gender" : "M",
+		"location" : "Washington DC",
+		"tenure_months" : 30
+	},
+	{
+		"customer_id" : 15955,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 49
+	},
+	{
+		"customer_id" : 15070,
+		"gender" : "F",
+		"location" : "Washington DC",
+		"tenure_months" : 39
+	},
+	{
+		"customer_id" : 16244,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 36
+	},
+	{
+		"customer_id" : 15111,
+		"gender" : "M",
+		"location" : "New Jersey",
+		"tenure_months" : 9
+	},
+	{
+		"customer_id" : 14390,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 37
+	},
+	{
+		"customer_id" : 16546,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 42
+	},
+	{
+		"customer_id" : 15260,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 45
+	},
+	{
+		"customer_id" : 13305,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 38
+	},
+	{
+		"customer_id" : 14491,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 6
+	},
+	{
+		"customer_id" : 14060,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 22
+	},
+	{
+		"customer_id" : 15923,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 34
+	},
+	{
+		"customer_id" : 16752,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 42
+	},
+	{
+		"customer_id" : 17287,
+		"gender" : "F",
+		"location" : "Washington DC",
+		"tenure_months" : 45
+	},
+	{
+		"customer_id" : 15363,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 32
+	},
+	{
+		"customer_id" : 12915,
+		"gender" : "F",
+		"location" : "Washington DC",
+		"tenure_months" : 3
+	},
+	{
+		"customer_id" : 15544,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 22
+	},
+	{
+		"customer_id" : 15738,
+		"gender" : "M",
+		"location" : "New Jersey",
+		"tenure_months" : 16
+	},
+	{
+		"customer_id" : 16042,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 16
+	},
+	{
+		"customer_id" : 17381,
+		"gender" : "M",
+		"location" : "New Jersey",
+		"tenure_months" : 17
+	},
+	{
+		"customer_id" : 15827,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 3
+	},
+	{
+		"customer_id" : 14180,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 11
+	},
+	{
+		"customer_id" : 13117,
+		"gender" : "M",
+		"location" : "New Jersey",
+		"tenure_months" : 30
+	},
+	{
+		"customer_id" : 16916,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 7
+	},
+	{
+		"customer_id" : 17964,
+		"gender" : "M",
+		"location" : "New Jersey",
+		"tenure_months" : 5
+	},
+	{
+		"customer_id" : 14466,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 18
+	},
+	{
+		"customer_id" : 17235,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 12
+	},
+	{
+		"customer_id" : 16510,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 39
+	},
+	{
+		"customer_id" : 17802,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 13
+	},
+	{
+		"customer_id" : 15107,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 20
+	},
+	{
+		"customer_id" : 17976,
+		"gender" : "M",
+		"location" : "Washington DC",
+		"tenure_months" : 12
+	},
+	{
+		"customer_id" : 14449,
+		"gender" : "M",
+		"location" : "New Jersey",
+		"tenure_months" : 39
+	},
+	{
+		"customer_id" : 15838,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 9
+	},
+	{
+		"customer_id" : 16781,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 38
+	},
+	{
+		"customer_id" : 17547,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 41
+	},
+	{
+		"customer_id" : 13491,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 16
+	},
+	{
+		"customer_id" : 16186,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 18
+	},
+	{
+		"customer_id" : 17685,
+		"gender" : "M",
+		"location" : "Washington DC",
+		"tenure_months" : 37
+	},
+	{
+		"customer_id" : 17581,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 25
+	},
+	{
+		"customer_id" : 15732,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 21
+	},
+	{
+		"customer_id" : 13138,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 21
+	},
+	{
+		"customer_id" : 15823,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 27
+	},
+	{
+		"customer_id" : 17567,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 9
+	},
+	{
+		"customer_id" : 15061,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 7
+	},
+	{
+		"customer_id" : 16203,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 9
+	},
+	{
+		"customer_id" : 15640,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 30
+	},
+	{
+		"customer_id" : 15574,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 5
+	},
+	{
+		"customer_id" : 16770,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 26
+	},
+	{
+		"customer_id" : 17838,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 14
+	},
+	{
+		"customer_id" : 17228,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 42
+	},
+	{
+		"customer_id" : 14829,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 15
+	},
+	{
+		"customer_id" : 17412,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 19
+	},
+	{
+		"customer_id" : 14031,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 17
+	},
+	{
+		"customer_id" : 14775,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 25
+	},
+	{
+		"customer_id" : 12971,
+		"gender" : "F",
+		"location" : "Washington DC",
+		"tenure_months" : 43
+	},
+	{
+		"customer_id" : 15834,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 12
+	},
+	{
+		"customer_id" : 17659,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 33
+	},
+	{
+		"customer_id" : 15299,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 25
+	},
+	{
+		"customer_id" : 15646,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 10
+	},
+	{
+		"customer_id" : 13958,
+		"gender" : "F",
+		"location" : "New Jersey",
+		"tenure_months" : 22
+	},
+	{
+		"customer_id" : 14443,
+		"gender" : "F",
+		"location" : "New Jersey",
+		"tenure_months" : 41
+	},
+	{
+		"customer_id" : 14156,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 5
+	},
+	{
+		"customer_id" : 16995,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 50
+	},
+	{
+		"customer_id" : 13402,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 42
+	},
+	{
+		"customer_id" : 18168,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 5
+	},
+	{
+		"customer_id" : 17757,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 45
+	},
+	{
+		"customer_id" : 14625,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 14
+	},
+	{
+		"customer_id" : 13011,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 18
+	},
+	{
+		"customer_id" : 13798,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 37
+	},
+	{
+		"customer_id" : 15384,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 30
+	},
+	{
+		"customer_id" : 14264,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 16
+	},
+	{
+		"customer_id" : 13295,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 33
+	},
+	{
+		"customer_id" : 16754,
+		"gender" : "F",
+		"location" : "New Jersey",
+		"tenure_months" : 5
+	},
+	{
+		"customer_id" : 16634,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 33
+	},
+	{
+		"customer_id" : 18239,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 20
+	},
+	{
+		"customer_id" : 14576,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 26
+	},
+	{
+		"customer_id" : 13145,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 4
+	},
+	{
+		"customer_id" : 14395,
+		"gender" : "M",
+		"location" : "New Jersey",
+		"tenure_months" : 4
+	},
+	{
+		"customer_id" : 14865,
+		"gender" : "F",
+		"location" : "New Jersey",
+		"tenure_months" : 8
+	},
+	{
+		"customer_id" : 15093,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 46
+	},
+	{
+		"customer_id" : 12738,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 42
+	},
+	{
+		"customer_id" : 16150,
+		"gender" : "F",
+		"location" : "Washington DC",
+		"tenure_months" : 34
+	},
+	{
+		"customer_id" : 17552,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 44
+	},
+	{
+		"customer_id" : 14236,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 18
+	},
+	{
+		"customer_id" : 17961,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 10
+	},
+	{
+		"customer_id" : 14573,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 40
+	},
+	{
+		"customer_id" : 17135,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 45
+	},
+	{
+		"customer_id" : 17396,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 13
+	},
+	{
+		"customer_id" : 14213,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 25
+	},
+	{
+		"customer_id" : 12967,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 34
+	},
+	{
+		"customer_id" : 12686,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 30
+	},
+	{
+		"customer_id" : 14679,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 26
+	},
+	{
+		"customer_id" : 15240,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 40
+	},
+	{
+		"customer_id" : 18225,
+		"gender" : "F",
+		"location" : "New Jersey",
+		"tenure_months" : 28
+	},
+	{
+		"customer_id" : 13370,
+		"gender" : "M",
+		"location" : "Washington DC",
+		"tenure_months" : 41
+	},
+	{
+		"customer_id" : 16883,
+		"gender" : "F",
+		"location" : "Washington DC",
+		"tenure_months" : 37
+	},
+	{
+		"customer_id" : 13520,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 19
+	},
+	{
+		"customer_id" : 12841,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 19
+	},
+	{
+		"customer_id" : 16905,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 33
+	},
+	{
+		"customer_id" : 12427,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 37
+	},
+	{
+		"customer_id" : 17967,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 6
+	},
+	{
+		"customer_id" : 16891,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 12
+	},
+	{
+		"customer_id" : 14589,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 48
+	},
+	{
+		"customer_id" : 14680,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 37
+	},
+	{
+		"customer_id" : 17884,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 37
+	},
+	{
+		"customer_id" : 12557,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 50
+	},
+	{
+		"customer_id" : 14083,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 41
+	},
+	{
+		"customer_id" : 13013,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 13
+	},
+	{
+		"customer_id" : 14210,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 18
+	},
+	{
+		"customer_id" : 16477,
+		"gender" : "F",
+		"location" : "Washington DC",
+		"tenure_months" : 50
+	},
+	{
+		"customer_id" : 12600,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 39
+	},
+	{
+		"customer_id" : 16013,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 31
+	},
+	{
+		"customer_id" : 17949,
+		"gender" : "F",
+		"location" : "New Jersey",
+		"tenure_months" : 15
+	},
+	{
+		"customer_id" : 12779,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 28
+	},
+	{
+		"customer_id" : 16926,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 48
+	},
+	{
+		"customer_id" : 17787,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 8
+	},
+	{
+		"customer_id" : 12682,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 33
+	},
+	{
+		"customer_id" : 14723,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 4
+	},
+	{
+		"customer_id" : 17954,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 22
+	},
+	{
+		"customer_id" : 17819,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 13
+	},
+	{
+		"customer_id" : 12712,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 37
+	},
+	{
+		"customer_id" : 15373,
+		"gender" : "M",
+		"location" : "Washington DC",
+		"tenure_months" : 24
+	},
+	{
+		"customer_id" : 16140,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 34
+	},
+	{
+		"customer_id" : 17198,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 18
+	},
+	{
+		"customer_id" : 17238,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 20
+	},
+	{
+		"customer_id" : 12793,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 39
+	},
+	{
+		"customer_id" : 15769,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 25
+	},
+	{
+		"customer_id" : 14396,
+		"gender" : "M",
+		"location" : "New Jersey",
+		"tenure_months" : 9
+	},
+	{
+		"customer_id" : 14898,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 25
+	},
+	{
+		"customer_id" : 12725,
+		"gender" : "F",
+		"location" : "New Jersey",
+		"tenure_months" : 48
+	},
+	{
+		"customer_id" : 16725,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 48
+	},
+	{
+		"customer_id" : 12395,
+		"gender" : "F",
+		"location" : "New Jersey",
+		"tenure_months" : 10
+	},
+	{
+		"customer_id" : 16455,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 23
+	},
+	{
+		"customer_id" : 13081,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 5
+	},
+	{
+		"customer_id" : 15545,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 39
+	},
+	{
+		"customer_id" : 17243,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 9
+	},
+	{
+		"customer_id" : 15465,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 14
+	},
+	{
+		"customer_id" : 15708,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 49
+	},
+	{
+		"customer_id" : 13089,
+		"gender" : "F",
+		"location" : "New Jersey",
+		"tenure_months" : 25
+	},
+	{
+		"customer_id" : 16033,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 48
+	},
+	{
+		"customer_id" : 13838,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 5
+	},
+	{
+		"customer_id" : 15351,
+		"gender" : "F",
+		"location" : "Washington DC",
+		"tenure_months" : 29
+	},
+	{
+		"customer_id" : 18055,
+		"gender" : "F",
+		"location" : "Washington DC",
+		"tenure_months" : 18
+	},
+	{
+		"customer_id" : 15038,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 37
+	},
+	{
+		"customer_id" : 18109,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 9
+	},
+	{
+		"customer_id" : 13069,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 38
+	},
+	{
+		"customer_id" : 16241,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 34
+	},
+	{
+		"customer_id" : 14800,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 21
+	},
+	{
+		"customer_id" : 16839,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 10
+	},
+	{
+		"customer_id" : 16168,
+		"gender" : "M",
+		"location" : "Washington DC",
+		"tenure_months" : 24
+	},
+	{
+		"customer_id" : 16931,
+		"gender" : "F",
+		"location" : "New Jersey",
+		"tenure_months" : 37
+	},
+	{
+		"customer_id" : 16814,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 22
+	},
+	{
+		"customer_id" : 13269,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 41
+	},
+	{
+		"customer_id" : 14813,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 32
+	},
+	{
+		"customer_id" : 12567,
+		"gender" : "F",
+		"location" : "Washington DC",
+		"tenure_months" : 23
+	},
+	{
+		"customer_id" : 17062,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 44
+	},
+	{
+		"customer_id" : 15332,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 30
+	},
+	{
+		"customer_id" : 14810,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 21
+	},
+	{
+		"customer_id" : 16353,
+		"gender" : "M",
+		"location" : "Washington DC",
+		"tenure_months" : 6
+	},
+	{
+		"customer_id" : 18118,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 24
+	},
+	{
+		"customer_id" : 13831,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 35
+	},
+	{
+		"customer_id" : 13506,
+		"gender" : "M",
+		"location" : "New Jersey",
+		"tenure_months" : 30
+	},
+	{
+		"customer_id" : 17796,
+		"gender" : "F",
+		"location" : "Washington DC",
+		"tenure_months" : 5
+	},
+	{
+		"customer_id" : 15716,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 2
+	},
+	{
+		"customer_id" : 18156,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 26
+	},
+	{
+		"customer_id" : 15221,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 7
+	},
+	{
+		"customer_id" : 16983,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 21
+	},
+	{
+		"customer_id" : 17059,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 24
+	},
+	{
+		"customer_id" : 16327,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 44
+	},
+	{
+		"customer_id" : 17211,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 29
+	},
+	{
+		"customer_id" : 17026,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 23
+	},
+	{
+		"customer_id" : 15570,
+		"gender" : "F",
+		"location" : "New Jersey",
+		"tenure_months" : 34
+	},
+	{
+		"customer_id" : 15880,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 33
+	},
+	{
+		"customer_id" : 16718,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 39
+	},
+	{
+		"customer_id" : 15808,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 6
+	},
+	{
+		"customer_id" : 17858,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 34
+	},
+	{
+		"customer_id" : 16393,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 20
+	},
+	{
+		"customer_id" : 14161,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 41
+	},
+	{
+		"customer_id" : 17863,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 50
+	},
+	{
+		"customer_id" : 16411,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 40
+	},
+	{
+		"customer_id" : 16402,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 31
+	},
+	{
+		"customer_id" : 15023,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 40
+	},
+	{
+		"customer_id" : 17402,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 37
+	},
+	{
+		"customer_id" : 15426,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 17
+	},
+	{
+		"customer_id" : 12647,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 28
+	},
+	{
+		"customer_id" : 15894,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 44
+	},
+	{
+		"customer_id" : 15867,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 11
+	},
+	{
+		"customer_id" : 14506,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 34
+	},
+	{
+		"customer_id" : 15555,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 34
+	},
+	{
+		"customer_id" : 13034,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 40
+	},
+	{
+		"customer_id" : 15889,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 21
+	},
+	{
+		"customer_id" : 15953,
+		"gender" : "M",
+		"location" : "New Jersey",
+		"tenure_months" : 23
+	},
+	{
+		"customer_id" : 16143,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 9
+	},
+	{
+		"customer_id" : 12720,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 20
+	},
+	{
+		"customer_id" : 16422,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 35
+	},
+	{
+		"customer_id" : 12747,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 9
+	},
+	{
+		"customer_id" : 15502,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 27
+	},
+	{
+		"customer_id" : 12763,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 48
+	},
+	{
+		"customer_id" : 14081,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 49
+	},
+	{
+		"customer_id" : 17965,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 7
+	},
+	{
+		"customer_id" : 14404,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 32
+	},
+	{
+		"customer_id" : 13579,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 49
+	},
+	{
+		"customer_id" : 13174,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 25
+	},
+	{
+		"customer_id" : 15987,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 32
+	},
+	{
+		"customer_id" : 17677,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 3
+	},
+	{
+		"customer_id" : 13652,
+		"gender" : "F",
+		"location" : "Washington DC",
+		"tenure_months" : 35
+	},
+	{
+		"customer_id" : 12586,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 3
+	},
+	{
+		"customer_id" : 17428,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 14
+	},
+	{
+		"customer_id" : 16161,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 10
+	},
+	{
+		"customer_id" : 16858,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 47
+	},
+	{
+		"customer_id" : 18219,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 32
+	},
+	{
+		"customer_id" : 14293,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 18
+	},
+	{
+		"customer_id" : 14748,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 31
+	},
+	{
+		"customer_id" : 16638,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 34
+	},
+	{
+		"customer_id" : 17674,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 2
+	},
+	{
+		"customer_id" : 12808,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 32
+	},
+	{
+		"customer_id" : 13094,
+		"gender" : "M",
+		"location" : "Washington DC",
+		"tenure_months" : 10
+	},
+	{
+		"customer_id" : 15899,
+		"gender" : "F",
+		"location" : "Washington DC",
+		"tenure_months" : 24
+	},
+	{
+		"customer_id" : 12708,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 25
+	},
+	{
+		"customer_id" : 15898,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 27
+	},
+	{
+		"customer_id" : 17691,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 48
+	},
+	{
+		"customer_id" : 17227,
+		"gender" : "F",
+		"location" : "New Jersey",
+		"tenure_months" : 19
+	},
+	{
+		"customer_id" : 15039,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 19
+	},
+	{
+		"customer_id" : 15919,
+		"gender" : "F",
+		"location" : "Washington DC",
+		"tenure_months" : 24
+	},
+	{
+		"customer_id" : 13497,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 22
+	},
+	{
+		"customer_id" : 15860,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 46
+	},
+	{
+		"customer_id" : 14189,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 7
+	},
+	{
+		"customer_id" : 15304,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 12
+	},
+	{
+		"customer_id" : 14867,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 50
+	},
+	{
+		"customer_id" : 14344,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 15
+	},
+	{
+		"customer_id" : 12474,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 17
+	},
+	{
+		"customer_id" : 16719,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 40
+	},
+	{
+		"customer_id" : 15048,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 17
+	},
+	{
+		"customer_id" : 15301,
+		"gender" : "F",
+		"location" : "New Jersey",
+		"tenure_months" : 19
+	},
+	{
+		"customer_id" : 14708,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 16
+	},
+	{
+		"customer_id" : 16898,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 40
+	},
+	{
+		"customer_id" : 14825,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 34
+	},
+	{
+		"customer_id" : 18113,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 3
+	},
+	{
+		"customer_id" : 17596,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 38
+	},
+	{
+		"customer_id" : 15078,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 6
+	},
+	{
+		"customer_id" : 14085,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 5
+	},
+	{
+		"customer_id" : 17860,
+		"gender" : "F",
+		"location" : "New Jersey",
+		"tenure_months" : 49
+	},
+	{
+		"customer_id" : 13155,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 8
+	},
+	{
+		"customer_id" : 15028,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 8
+	},
+	{
+		"customer_id" : 16919,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 10
+	},
+	{
+		"customer_id" : 17259,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 8
+	},
+	{
+		"customer_id" : 17019,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 25
+	},
+	{
+		"customer_id" : 14487,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 41
+	},
+	{
+		"customer_id" : 16722,
+		"gender" : "F",
+		"location" : "New Jersey",
+		"tenure_months" : 45
+	},
+	{
+		"customer_id" : 15882,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 45
+	},
+	{
+		"customer_id" : 14667,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 30
+	},
+	{
+		"customer_id" : 16710,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 30
+	},
+	{
+		"customer_id" : 16550,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 34
+	},
+	{
+		"customer_id" : 15984,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 25
+	},
+	{
+		"customer_id" : 17682,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 39
+	},
+	{
+		"customer_id" : 16658,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 40
+	},
+	{
+		"customer_id" : 17068,
+		"gender" : "F",
+		"location" : "Washington DC",
+		"tenure_months" : 31
+	},
+	{
+		"customer_id" : 15356,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 32
+	},
+	{
+		"customer_id" : 17223,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 10
+	},
+	{
+		"customer_id" : 16817,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 20
+	},
+	{
+		"customer_id" : 13030,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 39
+	},
+	{
+		"customer_id" : 17191,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 13
+	},
+	{
+		"customer_id" : 15194,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 33
+	},
+	{
+		"customer_id" : 14409,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 15
+	},
+	{
+		"customer_id" : 16654,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 15
+	},
+	{
+		"customer_id" : 16861,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 41
+	},
+	{
+		"customer_id" : 16138,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 20
+	},
+	{
+		"customer_id" : 13481,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 6
+	},
+	{
+		"customer_id" : 13495,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 25
+	},
+	{
+		"customer_id" : 17519,
+		"gender" : "F",
+		"location" : "New Jersey",
+		"tenure_months" : 46
+	},
+	{
+		"customer_id" : 17218,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 31
+	},
+	{
+		"customer_id" : 17812,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 20
+	},
+	{
+		"customer_id" : 14215,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 29
+	},
+	{
+		"customer_id" : 15602,
+		"gender" : "F",
+		"location" : "New Jersey",
+		"tenure_months" : 10
+	},
+	{
+		"customer_id" : 17320,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 40
+	},
+	{
+		"customer_id" : 16782,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 45
+	},
+	{
+		"customer_id" : 12913,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 21
+	},
+	{
+		"customer_id" : 17869,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 50
+	},
+	{
+		"customer_id" : 13564,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 26
+	},
+	{
+		"customer_id" : 14850,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 21
+	},
+	{
+		"customer_id" : 15021,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 35
+	},
+	{
+		"customer_id" : 13963,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 40
+	},
+	{
+		"customer_id" : 17450,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 17
+	},
+	{
+		"customer_id" : 17091,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 37
+	},
+	{
+		"customer_id" : 17470,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 48
+	},
+	{
+		"customer_id" : 17616,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 6
+	},
+	{
+		"customer_id" : 15649,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 22
+	},
+	{
+		"customer_id" : 12681,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 27
+	},
+	{
+		"customer_id" : 14907,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 46
+	},
+	{
+		"customer_id" : 17735,
+		"gender" : "M",
+		"location" : "New Jersey",
+		"tenure_months" : 49
+	},
+	{
+		"customer_id" : 16059,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 44
+	},
+	{
+		"customer_id" : 17720,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 28
+	},
+	{
+		"customer_id" : 15018,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 22
+	},
+	{
+		"customer_id" : 14733,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 30
+	},
+	{
+		"customer_id" : 13756,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 6
+	},
+	{
+		"customer_id" : 14176,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 13
+	},
+	{
+		"customer_id" : 13319,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 27
+	},
+	{
+		"customer_id" : 15353,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 46
+	},
+	{
+		"customer_id" : 18119,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 20
+	},
+	{
+		"customer_id" : 17491,
+		"gender" : "F",
+		"location" : "New Jersey",
+		"tenure_months" : 31
+	},
+	{
+		"customer_id" : 14282,
+		"gender" : "F",
+		"location" : "New Jersey",
+		"tenure_months" : 37
+	},
+	{
+		"customer_id" : 13569,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 14
+	},
+	{
+		"customer_id" : 15498,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 14
+	},
+	{
+		"customer_id" : 14673,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 9
+	},
+	{
+		"customer_id" : 13488,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 22
+	},
+	{
+		"customer_id" : 16221,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 9
+	},
+	{
+		"customer_id" : 15002,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 41
+	},
+	{
+		"customer_id" : 15965,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 26
+	},
+	{
+		"customer_id" : 15024,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 9
+	},
+	{
+		"customer_id" : 17675,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 17
+	},
+	{
+		"customer_id" : 13769,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 20
+	},
+	{
+		"customer_id" : 16904,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 17
+	},
+	{
+		"customer_id" : 16086,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 47
+	},
+	{
+		"customer_id" : 13786,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 21
+	},
+	{
+		"customer_id" : 13880,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 40
+	},
+	{
+		"customer_id" : 13173,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 8
+	},
+	{
+		"customer_id" : 15858,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 18
+	},
+	{
+		"customer_id" : 15180,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 41
+	},
+	{
+		"customer_id" : 12347,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 20
+	},
+	{
+		"customer_id" : 14739,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 27
+	},
+	{
+		"customer_id" : 16293,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 13
+	},
+	{
+		"customer_id" : 17419,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 48
+	},
+	{
+		"customer_id" : 16775,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 19
+	},
+	{
+		"customer_id" : 16306,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 13
+	},
+	{
+		"customer_id" : 16950,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 26
+	},
+	{
+		"customer_id" : 17591,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 25
+	},
+	{
+		"customer_id" : 12839,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 45
+	},
+	{
+		"customer_id" : 13807,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 33
+	},
+	{
+		"customer_id" : 16125,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 22
+	},
+	{
+		"customer_id" : 15081,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 24
+	},
+	{
+		"customer_id" : 18102,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 48
+	},
+	{
+		"customer_id" : 16365,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 49
+	},
+	{
+		"customer_id" : 17870,
+		"gender" : "M",
+		"location" : "New Jersey",
+		"tenure_months" : 40
+	},
+	{
+		"customer_id" : 14821,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 41
+	},
+	{
+		"customer_id" : 16863,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 22
+	},
+	{
+		"customer_id" : 13078,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 28
+	},
+	{
+		"customer_id" : 13267,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 46
+	},
+	{
+		"customer_id" : 13050,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 10
+	},
+	{
+		"customer_id" : 12709,
+		"gender" : "M",
+		"location" : "Washington DC",
+		"tenure_months" : 36
+	},
+	{
+		"customer_id" : 15628,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 4
+	},
+	{
+		"customer_id" : 12386,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 38
+	},
+	{
+		"customer_id" : 14796,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 3
+	},
+	{
+		"customer_id" : 16779,
+		"gender" : "M",
+		"location" : "Washington DC",
+		"tenure_months" : 11
+	},
+	{
+		"customer_id" : 13599,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 46
+	},
+	{
+		"customer_id" : 13329,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 2
+	},
+	{
+		"customer_id" : 18077,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 34
+	},
+	{
+		"customer_id" : 14744,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 31
+	},
+	{
+		"customer_id" : 17406,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 3
+	},
+	{
+		"customer_id" : 15750,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 7
+	},
+	{
+		"customer_id" : 13983,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 30
+	},
+	{
+		"customer_id" : 13842,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 5
+	},
+	{
+		"customer_id" : 12441,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 39
+	},
+	{
+		"customer_id" : 13199,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 47
+	},
+	{
+		"customer_id" : 14032,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 50
+	},
+	{
+		"customer_id" : 17706,
+		"gender" : "M",
+		"location" : "New Jersey",
+		"tenure_months" : 29
+	},
+	{
+		"customer_id" : 16081,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 14
+	},
+	{
+		"customer_id" : 16525,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 47
+	},
+	{
+		"customer_id" : 14952,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 28
+	},
+	{
+		"customer_id" : 17975,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 6
+	},
+	{
+		"customer_id" : 16122,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 43
+	},
+	{
+		"customer_id" : 13126,
+		"gender" : "F",
+		"location" : "Washington DC",
+		"tenure_months" : 37
+	},
+	{
+		"customer_id" : 15973,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 9
+	},
+	{
+		"customer_id" : 16558,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 35
+	},
+	{
+		"customer_id" : 16713,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 5
+	},
+	{
+		"customer_id" : 16893,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 50
+	},
+	{
+		"customer_id" : 15529,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 16
+	},
+	{
+		"customer_id" : 18043,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 18
+	},
+	{
+		"customer_id" : 16016,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 19
+	},
+	{
+		"customer_id" : 17722,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 12
+	},
+	{
+		"customer_id" : 17324,
+		"gender" : "M",
+		"location" : "New Jersey",
+		"tenure_months" : 49
+	},
+	{
+		"customer_id" : 17341,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 13
+	},
+	{
+		"customer_id" : 14051,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 6
+	},
+	{
+		"customer_id" : 15916,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 37
+	},
+	{
+		"customer_id" : 16233,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 23
+	},
+	{
+		"customer_id" : 16385,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 19
+	},
+	{
+		"customer_id" : 15032,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 4
+	},
+	{
+		"customer_id" : 17213,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 25
+	},
+	{
+		"customer_id" : 18061,
+		"gender" : "M",
+		"location" : "Washington DC",
+		"tenure_months" : 4
+	},
+	{
+		"customer_id" : 13113,
+		"gender" : "M",
+		"location" : "New Jersey",
+		"tenure_months" : 44
+	},
+	{
+		"customer_id" : 16553,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 39
+	},
+	{
+		"customer_id" : 13455,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 38
+	},
+	{
+		"customer_id" : 14217,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 10
+	},
+	{
+		"customer_id" : 17262,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 22
+	},
+	{
+		"customer_id" : 14299,
+		"gender" : "F",
+		"location" : "Washington DC",
+		"tenure_months" : 18
+	},
+	{
+		"customer_id" : 18259,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 5
+	},
+	{
+		"customer_id" : 17676,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 15
+	},
+	{
+		"customer_id" : 16679,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 28
+	},
+	{
+		"customer_id" : 18269,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 25
+	},
+	{
+		"customer_id" : 12766,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 22
+	},
+	{
+		"customer_id" : 15298,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 2
+	},
+	{
+		"customer_id" : 18193,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 31
+	},
+	{
+		"customer_id" : 13523,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 13
+	},
+	{
+		"customer_id" : 12870,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 28
+	},
+	{
+		"customer_id" : 15005,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 30
+	},
+	{
+		"customer_id" : 15581,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 18
+	},
+	{
+		"customer_id" : 15680,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 32
+	},
+	{
+		"customer_id" : 13649,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 34
+	},
+	{
+		"customer_id" : 17894,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 37
+	},
+	{
+		"customer_id" : 13270,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 7
+	},
+	{
+		"customer_id" : 14618,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 13
+	},
+	{
+		"customer_id" : 14866,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 43
+	},
+	{
+		"customer_id" : 13077,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 45
+	},
+	{
+		"customer_id" : 13115,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 26
+	},
+	{
+		"customer_id" : 13531,
+		"gender" : "F",
+		"location" : "New Jersey",
+		"tenure_months" : 48
+	},
+	{
+		"customer_id" : 13848,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 35
+	},
+	{
+		"customer_id" : 13140,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 34
+	},
+	{
+		"customer_id" : 15713,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 3
+	},
+	{
+		"customer_id" : 17999,
+		"gender" : "F",
+		"location" : "New Jersey",
+		"tenure_months" : 30
+	},
+	{
+		"customer_id" : 15347,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 48
+	},
+	{
+		"customer_id" : 17340,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 36
+	},
+	{
+		"customer_id" : 13984,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 34
+	},
+	{
+		"customer_id" : 15996,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 26
+	},
+	{
+		"customer_id" : 14030,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 5
+	},
+	{
+		"customer_id" : 16252,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 37
+	},
+	{
+		"customer_id" : 16596,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 18
+	},
+	{
+		"customer_id" : 16700,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 7
+	},
+	{
+		"customer_id" : 16011,
+		"gender" : "M",
+		"location" : "New Jersey",
+		"tenure_months" : 10
+	},
+	{
+		"customer_id" : 17655,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 2
+	},
+	{
+		"customer_id" : 16717,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 42
+	},
+	{
+		"customer_id" : 14243,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 46
+	},
+	{
+		"customer_id" : 12963,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 9
+	},
+	{
+		"customer_id" : 15079,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 45
+	},
+	{
+		"customer_id" : 14437,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 3
+	},
+	{
+		"customer_id" : 12942,
+		"gender" : "F",
+		"location" : "New Jersey",
+		"tenure_months" : 4
+	},
+	{
+		"customer_id" : 15660,
+		"gender" : "M",
+		"location" : "New Jersey",
+		"tenure_months" : 13
+	},
+	{
+		"customer_id" : 18092,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 34
+	},
+	{
+		"customer_id" : 15358,
+		"gender" : "F",
+		"location" : "New Jersey",
+		"tenure_months" : 35
+	},
+	{
+		"customer_id" : 12481,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 49
+	},
+	{
+		"customer_id" : 12721,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 5
+	},
+	{
+		"customer_id" : 12621,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 44
+	},
+	{
+		"customer_id" : 18071,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 24
+	},
+	{
+		"customer_id" : 12683,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 15
+	},
+	{
+		"customer_id" : 12755,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 37
+	},
+	{
+		"customer_id" : 13854,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 44
+	},
+	{
+		"customer_id" : 12797,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 34
+	},
+	{
+		"customer_id" : 13369,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 24
+	},
+	{
+		"customer_id" : 12494,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 28
+	},
+	{
+		"customer_id" : 17857,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 47
+	},
+	{
+		"customer_id" : 17411,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 16
+	},
+	{
+		"customer_id" : 14932,
+		"gender" : "M",
+		"location" : "New Jersey",
+		"tenure_months" : 35
+	},
+	{
+		"customer_id" : 12429,
+		"gender" : "F",
+		"location" : "New Jersey",
+		"tenure_months" : 43
+	},
+	{
+		"customer_id" : 14987,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 3
+	},
+	{
+		"customer_id" : 14355,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 7
+	},
+	{
+		"customer_id" : 17526,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 22
+	},
+	{
+		"customer_id" : 14896,
+		"gender" : "F",
+		"location" : "Washington DC",
+		"tenure_months" : 40
+	},
+	{
+		"customer_id" : 14440,
+		"gender" : "F",
+		"location" : "New Jersey",
+		"tenure_months" : 10
+	},
+	{
+		"customer_id" : 13240,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 24
+	},
+	{
+		"customer_id" : 14479,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 17
+	},
+	{
+		"customer_id" : 16065,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 41
+	},
+	{
+		"customer_id" : 17430,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 36
+	},
+	{
+		"customer_id" : 16520,
+		"gender" : "F",
+		"location" : "Washington DC",
+		"tenure_months" : 37
+	},
+	{
+		"customer_id" : 15945,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 13
+	},
+	{
+		"customer_id" : 15181,
+		"gender" : "F",
+		"location" : "New Jersey",
+		"tenure_months" : 20
+	},
+	{
+		"customer_id" : 15856,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 4
+	},
+	{
+		"customer_id" : 13102,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 10
+	},
+	{
+		"customer_id" : 14205,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 26
+	},
+	{
+		"customer_id" : 17702,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 28
+	},
+	{
+		"customer_id" : 15271,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 37
+	},
+	{
+		"customer_id" : 13982,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 13
+	},
+	{
+		"customer_id" : 15288,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 50
+	},
+	{
+		"customer_id" : 17978,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 15
+	},
+	{
+		"customer_id" : 16795,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 20
+	},
+	{
+		"customer_id" : 16519,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 45
+	},
+	{
+		"customer_id" : 17816,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 29
+	},
+	{
+		"customer_id" : 13021,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 29
+	},
+	{
+		"customer_id" : 16255,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 7
+	},
+	{
+		"customer_id" : 17671,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 34
+	},
+	{
+		"customer_id" : 17646,
+		"gender" : "M",
+		"location" : "New Jersey",
+		"tenure_months" : 13
+	},
+	{
+		"customer_id" : 12649,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 33
+	},
+	{
+		"customer_id" : 16350,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 31
+	},
+	{
+		"customer_id" : 12872,
+		"gender" : "M",
+		"location" : "New Jersey",
+		"tenure_months" : 20
+	},
+	{
+		"customer_id" : 17339,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 21
+	},
+	{
+		"customer_id" : 18230,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 36
+	},
+	{
+		"customer_id" : 16499,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 31
+	},
+	{
+		"customer_id" : 17097,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 33
+	},
+	{
+		"customer_id" : 15192,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 37
+	},
+	{
+		"customer_id" : 14441,
+		"gender" : "M",
+		"location" : "New Jersey",
+		"tenure_months" : 19
+	},
+	{
+		"customer_id" : 15279,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 10
+	},
+	{
+		"customer_id" : 16579,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 50
+	},
+	{
+		"customer_id" : 15380,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 9
+	},
+	{
+		"customer_id" : 17442,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 34
+	},
+	{
+		"customer_id" : 17950,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 39
+	},
+	{
+		"customer_id" : 12826,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 33
+	},
+	{
+		"customer_id" : 17456,
+		"gender" : "F",
+		"location" : "New Jersey",
+		"tenure_months" : 34
+	},
+	{
+		"customer_id" : 17307,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 17
+	},
+	{
+		"customer_id" : 15811,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 27
+	},
+	{
+		"customer_id" : 13327,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 14
+	},
+	{
+		"customer_id" : 17700,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 21
+	},
+	{
+		"customer_id" : 13136,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 48
+	},
+	{
+		"customer_id" : 15535,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 24
+	},
+	{
+		"customer_id" : 12605,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 37
+	},
+	{
+		"customer_id" : 15329,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 48
+	},
+	{
+		"customer_id" : 15211,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 40
+	},
+	{
+		"customer_id" : 15596,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 39
+	},
+	{
+		"customer_id" : 16163,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 22
+	},
+	{
+		"customer_id" : 16907,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 16
+	},
+	{
+		"customer_id" : 17576,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 23
+	},
+	{
+		"customer_id" : 14713,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 42
+	},
+	{
+		"customer_id" : 14702,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 50
+	},
+	{
+		"customer_id" : 13230,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 30
+	},
+	{
+		"customer_id" : 13969,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 15
+	},
+	{
+		"customer_id" : 17530,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 28
+	},
+	{
+		"customer_id" : 15805,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 33
+	},
+	{
+		"customer_id" : 17696,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 2
+	},
+	{
+		"customer_id" : 17076,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 46
+	},
+	{
+		"customer_id" : 17827,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 32
+	},
+	{
+		"customer_id" : 16265,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 38
+	},
+	{
+		"customer_id" : 17880,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 12
+	},
+	{
+		"customer_id" : 13000,
+		"gender" : "M",
+		"location" : "New Jersey",
+		"tenure_months" : 32
+	},
+	{
+		"customer_id" : 17790,
+		"gender" : "F",
+		"location" : "Washington DC",
+		"tenure_months" : 34
+	},
+	{
+		"customer_id" : 12731,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 28
+	},
+	{
+		"customer_id" : 14419,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 20
+	},
+	{
+		"customer_id" : 14082,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 31
+	},
+	{
+		"customer_id" : 17912,
+		"gender" : "M",
+		"location" : "New Jersey",
+		"tenure_months" : 7
+	},
+	{
+		"customer_id" : 15723,
+		"gender" : "F",
+		"location" : "Washington DC",
+		"tenure_months" : 4
+	},
+	{
+		"customer_id" : 16656,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 46
+	},
+	{
+		"customer_id" : 14037,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 24
+	},
+	{
+		"customer_id" : 14256,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 7
+	},
+	{
+		"customer_id" : 14543,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 11
+	},
+	{
+		"customer_id" : 16062,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 20
+	},
+	{
+		"customer_id" : 18116,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 38
+	},
+	{
+		"customer_id" : 16019,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 34
+	},
+	{
+		"customer_id" : 18178,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 33
+	},
+	{
+		"customer_id" : 18065,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 47
+	},
+	{
+		"customer_id" : 13148,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 16
+	},
+	{
+		"customer_id" : 12989,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 5
+	},
+	{
+		"customer_id" : 14107,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 11
+	},
+	{
+		"customer_id" : 15881,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 34
+	},
+	{
+		"customer_id" : 12785,
+		"gender" : "F",
+		"location" : "New Jersey",
+		"tenure_months" : 36
+	},
+	{
+		"customer_id" : 16727,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 11
+	},
+	{
+		"customer_id" : 15514,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 22
+	},
+	{
+		"customer_id" : 13787,
+		"gender" : "F",
+		"location" : "New Jersey",
+		"tenure_months" : 35
+	},
+	{
+		"customer_id" : 17865,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 12
+	},
+	{
+		"customer_id" : 17220,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 19
+	},
+	{
+		"customer_id" : 16565,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 2
+	},
+	{
+		"customer_id" : 16873,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 6
+	},
+	{
+		"customer_id" : 14062,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 18
+	},
+	{
+		"customer_id" : 15179,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 19
+	},
+	{
+		"customer_id" : 18016,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 16
+	},
+	{
+		"customer_id" : 14448,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 42
+	},
+	{
+		"customer_id" : 15503,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 45
+	},
+	{
+		"customer_id" : 17251,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 46
+	},
+	{
+		"customer_id" : 16923,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 23
+	},
+	{
+		"customer_id" : 14159,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 13
+	},
+	{
+		"customer_id" : 17126,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 32
+	},
+	{
+		"customer_id" : 15224,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 28
+	},
+	{
+		"customer_id" : 14577,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 36
+	},
+	{
+		"customer_id" : 12753,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 13
+	},
+	{
+		"customer_id" : 17236,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 28
+	},
+	{
+		"customer_id" : 17372,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 4
+	},
+	{
+		"customer_id" : 16367,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 20
+	},
+	{
+		"customer_id" : 12875,
+		"gender" : "F",
+		"location" : "New Jersey",
+		"tenure_months" : 24
+	},
+	{
+		"customer_id" : 17917,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 40
+	},
+	{
+		"customer_id" : 16010,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 5
+	},
+	{
+		"customer_id" : 17085,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 19
+	},
+	{
+		"customer_id" : 13668,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 15
+	},
+	{
+		"customer_id" : 14684,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 4
+	},
+	{
+		"customer_id" : 17188,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 8
+	},
+	{
+		"customer_id" : 15547,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 40
+	},
+	{
+		"customer_id" : 15998,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 16
+	},
+	{
+		"customer_id" : 14413,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 34
+	},
+	{
+		"customer_id" : 18004,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 30
+	},
+	{
+		"customer_id" : 13959,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 38
+	},
+	{
+		"customer_id" : 16665,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 31
+	},
+	{
+		"customer_id" : 15454,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 39
+	},
+	{
+		"customer_id" : 15044,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 31
+	},
+	{
+		"customer_id" : 17937,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 38
+	},
+	{
+		"customer_id" : 14608,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 48
+	},
+	{
+		"customer_id" : 17618,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 17
+	},
+	{
+		"customer_id" : 14505,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 8
+	},
+	{
+		"customer_id" : 18037,
+		"gender" : "M",
+		"location" : "New Jersey",
+		"tenure_months" : 46
+	},
+	{
+		"customer_id" : 13198,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 50
+	},
+	{
+		"customer_id" : 12540,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 25
+	},
+	{
+		"customer_id" : 13225,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 50
+	},
+	{
+		"customer_id" : 15361,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 2
+	},
+	{
+		"customer_id" : 15689,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 16
+	},
+	{
+		"customer_id" : 14290,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 17
+	},
+	{
+		"customer_id" : 13209,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 18
+	},
+	{
+		"customer_id" : 13999,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 48
+	},
+	{
+		"customer_id" : 14498,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 25
+	},
+	{
+		"customer_id" : 15854,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 44
+	},
+	{
+		"customer_id" : 16701,
+		"gender" : "F",
+		"location" : "Washington DC",
+		"tenure_months" : 14
+	},
+	{
+		"customer_id" : 16927,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 45
+	},
+	{
+		"customer_id" : 17990,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 20
+	},
+	{
+		"customer_id" : 14544,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 6
+	},
+	{
+		"customer_id" : 17338,
+		"gender" : "F",
+		"location" : "New Jersey",
+		"tenure_months" : 40
+	},
+	{
+		"customer_id" : 17231,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 5
+	},
+	{
+		"customer_id" : 17799,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 14
+	},
+	{
+		"customer_id" : 14565,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 39
+	},
+	{
+		"customer_id" : 16726,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 19
+	},
+	{
+		"customer_id" : 17303,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 39
+	},
+	{
+		"customer_id" : 14639,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 46
+	},
+	{
+		"customer_id" : 17611,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 26
+	},
+	{
+		"customer_id" : 17179,
+		"gender" : "F",
+		"location" : "New Jersey",
+		"tenure_months" : 31
+	},
+	{
+		"customer_id" : 17524,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 4
+	},
+	{
+		"customer_id" : 12476,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 14
+	},
+	{
+		"customer_id" : 17293,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 16
+	},
+	{
+		"customer_id" : 17890,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 27
+	},
+	{
+		"customer_id" : 17375,
+		"gender" : "M",
+		"location" : "New Jersey",
+		"tenure_months" : 21
+	},
+	{
+		"customer_id" : 17371,
+		"gender" : "M",
+		"location" : "New Jersey",
+		"tenure_months" : 24
+	},
+	{
+		"customer_id" : 17969,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 11
+	},
+	{
+		"customer_id" : 15159,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 29
+	},
+	{
+		"customer_id" : 13211,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 33
+	},
+	{
+		"customer_id" : 15777,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 24
+	},
+	{
+		"customer_id" : 14525,
+		"gender" : "F",
+		"location" : "New Jersey",
+		"tenure_months" : 48
+	},
+	{
+		"customer_id" : 13324,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 24
+	},
+	{
+		"customer_id" : 13802,
+		"gender" : "F",
+		"location" : "New Jersey",
+		"tenure_months" : 40
+	},
+	{
+		"customer_id" : 13948,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 9
+	},
+	{
+		"customer_id" : 13008,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 48
+	},
+	{
+		"customer_id" : 14206,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 24
+	},
+	{
+		"customer_id" : 16202,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 44
+	},
+	{
+		"customer_id" : 16442,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 46
+	},
+	{
+		"customer_id" : 18075,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 12
+	},
+	{
+		"customer_id" : 15468,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 23
+	},
+	{
+		"customer_id" : 16570,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 15
+	},
+	{
+		"customer_id" : 14524,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 15
+	},
+	{
+		"customer_id" : 18141,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 28
+	},
+	{
+		"customer_id" : 12434,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 32
+	},
+	{
+		"customer_id" : 16810,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 12
+	},
+	{
+		"customer_id" : 14961,
+		"gender" : "M",
+		"location" : "Washington DC",
+		"tenure_months" : 34
+	},
+	{
+		"customer_id" : 17041,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 15
+	},
+	{
+		"customer_id" : 16458,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 12
+	},
+	{
+		"customer_id" : 16083,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 21
+	},
+	{
+		"customer_id" : 16262,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 11
+	},
+	{
+		"customer_id" : 17194,
+		"gender" : "F",
+		"location" : "New Jersey",
+		"tenure_months" : 19
+	},
+	{
+		"customer_id" : 14057,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 39
+	},
+	{
+		"customer_id" : 14871,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 27
+	},
+	{
+		"customer_id" : 13178,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 9
+	},
+	{
+		"customer_id" : 18044,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 9
+	},
+	{
+		"customer_id" : 16812,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 40
+	},
+	{
+		"customer_id" : 16191,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 19
+	},
+	{
+		"customer_id" : 12370,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 21
+	},
+	{
+		"customer_id" : 14298,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 41
+	},
+	{
+		"customer_id" : 17158,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 17
+	},
+	{
+		"customer_id" : 14415,
+		"gender" : "M",
+		"location" : "New Jersey",
+		"tenure_months" : 47
+	},
+	{
+		"customer_id" : 16899,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 36
+	},
+	{
+		"customer_id" : 16531,
+		"gender" : "M",
+		"location" : "New Jersey",
+		"tenure_months" : 28
+	},
+	{
+		"customer_id" : 17404,
+		"gender" : "F",
+		"location" : "New Jersey",
+		"tenure_months" : 11
+	},
+	{
+		"customer_id" : 16556,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 19
+	},
+	{
+		"customer_id" : 16805,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 15
+	},
+	{
+		"customer_id" : 16503,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 29
+	},
+	{
+		"customer_id" : 17739,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 7
+	},
+	{
+		"customer_id" : 13238,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 19
+	},
+	{
+		"customer_id" : 12829,
+		"gender" : "M",
+		"location" : "New Jersey",
+		"tenure_months" : 15
+	},
+	{
+		"customer_id" : 13097,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 33
+	},
+	{
+		"customer_id" : 12867,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 32
+	},
+	{
+		"customer_id" : 15392,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 50
+	},
+	{
+		"customer_id" : 13846,
+		"gender" : "F",
+		"location" : "New Jersey",
+		"tenure_months" : 4
+	},
+	{
+		"customer_id" : 14401,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 20
+	},
+	{
+		"customer_id" : 16145,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 9
+	},
+	{
+		"customer_id" : 17629,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 11
+	},
+	{
+		"customer_id" : 14150,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 48
+	},
+	{
+		"customer_id" : 13496,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 21
+	},
+	{
+		"customer_id" : 13611,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 5
+	},
+	{
+		"customer_id" : 16954,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 6
+	},
+	{
+		"customer_id" : 17454,
+		"gender" : "M",
+		"location" : "New Jersey",
+		"tenure_months" : 15
+	},
+	{
+		"customer_id" : 17449,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 24
+	},
+	{
+		"customer_id" : 17230,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 29
+	},
+	{
+		"customer_id" : 12865,
+		"gender" : "M",
+		"location" : "New Jersey",
+		"tenure_months" : 34
+	},
+	{
+		"customer_id" : 15950,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 44
+	},
+	{
+		"customer_id" : 15512,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 42
+	},
+	{
+		"customer_id" : 17525,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 11
+	},
+	{
+		"customer_id" : 13458,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 33
+	},
+	{
+		"customer_id" : 14426,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 13
+	},
+	{
+		"customer_id" : 16003,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 10
+	},
+	{
+		"customer_id" : 13092,
+		"gender" : "F",
+		"location" : "Washington DC",
+		"tenure_months" : 2
+	},
+	{
+		"customer_id" : 13426,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 38
+	},
+	{
+		"customer_id" : 15101,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 40
+	},
+	{
+		"customer_id" : 17033,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 47
+	},
+	{
+		"customer_id" : 13221,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 35
+	},
+	{
+		"customer_id" : 14201,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 12
+	},
+	{
+		"customer_id" : 17692,
+		"gender" : "F",
+		"location" : "New Jersey",
+		"tenure_months" : 11
+	},
+	{
+		"customer_id" : 15822,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 4
+	},
+	{
+		"customer_id" : 16134,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 5
+	},
+	{
+		"customer_id" : 17551,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 32
+	},
+	{
+		"customer_id" : 18050,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 48
+	},
+	{
+		"customer_id" : 14913,
+		"gender" : "M",
+		"location" : "Washington DC",
+		"tenure_months" : 4
+	},
+	{
+		"customer_id" : 12666,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 13
+	},
+	{
+		"customer_id" : 15641,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 6
+	},
+	{
+		"customer_id" : 13124,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 4
+	},
+	{
+		"customer_id" : 17214,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 28
+	},
+	{
+		"customer_id" : 15456,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 28
+	},
+	{
+		"customer_id" : 15062,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 22
+	},
+	{
+		"customer_id" : 12928,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 21
+	},
+	{
+		"customer_id" : 15727,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 40
+	},
+	{
+		"customer_id" : 17980,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 47
+	},
+	{
+		"customer_id" : 15290,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 3
+	},
+	{
+		"customer_id" : 17752,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 38
+	},
+	{
+		"customer_id" : 15615,
+		"gender" : "M",
+		"location" : "Washington DC",
+		"tenure_months" : 19
+	},
+	{
+		"customer_id" : 12577,
+		"gender" : "F",
+		"location" : "New Jersey",
+		"tenure_months" : 10
+	},
+	{
+		"customer_id" : 17044,
+		"gender" : "F",
+		"location" : "Washington DC",
+		"tenure_months" : 29
+	},
+	{
+		"customer_id" : 13829,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 38
+	},
+	{
+		"customer_id" : 17633,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 17
+	},
+	{
+		"customer_id" : 13266,
+		"gender" : "F",
+		"location" : "Washington DC",
+		"tenure_months" : 12
+	},
+	{
+		"customer_id" : 17820,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 35
+	},
+	{
+		"customer_id" : 15664,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 10
+	},
+	{
+		"customer_id" : 17189,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 42
+	},
+	{
+		"customer_id" : 17496,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 7
+	},
+	{
+		"customer_id" : 16607,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 31
+	},
+	{
+		"customer_id" : 13317,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 17
+	},
+	{
+		"customer_id" : 13890,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 31
+	},
+	{
+		"customer_id" : 17001,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 18
+	},
+	{
+		"customer_id" : 15246,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 2
+	},
+	{
+		"customer_id" : 16996,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 13
+	},
+	{
+		"customer_id" : 15482,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 18
+	},
+	{
+		"customer_id" : 16037,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 15
+	},
+	{
+		"customer_id" : 14841,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 50
+	},
+	{
+		"customer_id" : 16670,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 48
+	},
+	{
+		"customer_id" : 16985,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 5
+	},
+	{
+		"customer_id" : 16705,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 18
+	},
+	{
+		"customer_id" : 16470,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 13
+	},
+	{
+		"customer_id" : 14414,
+		"gender" : "F",
+		"location" : "New Jersey",
+		"tenure_months" : 7
+	},
+	{
+		"customer_id" : 15563,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 41
+	},
+	{
+		"customer_id" : 12980,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 23
+	},
+	{
+		"customer_id" : 16746,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 16
+	},
+	{
+		"customer_id" : 14878,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 12
+	},
+	{
+		"customer_id" : 16743,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 9
+	},
+	{
+		"customer_id" : 17146,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 5
+	},
+	{
+		"customer_id" : 12877,
+		"gender" : "F",
+		"location" : "New Jersey",
+		"tenure_months" : 23
+	},
+	{
+		"customer_id" : 15394,
+		"gender" : "F",
+		"location" : "New Jersey",
+		"tenure_months" : 38
+	},
+	{
+		"customer_id" : 14621,
+		"gender" : "F",
+		"location" : "New Jersey",
+		"tenure_months" : 41
+	},
+	{
+		"customer_id" : 15379,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 10
+	},
+	{
+		"customer_id" : 14309,
+		"gender" : "F",
+		"location" : "New Jersey",
+		"tenure_months" : 49
+	},
+	{
+		"customer_id" : 17288,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 3
+	},
+	{
+		"customer_id" : 14709,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 45
+	},
+	{
+		"customer_id" : 15157,
+		"gender" : "F",
+		"location" : "New Jersey",
+		"tenure_months" : 43
+	},
+	{
+		"customer_id" : 17744,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 42
+	},
+	{
+		"customer_id" : 16316,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 44
+	},
+	{
+		"customer_id" : 15620,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 48
+	},
+	{
+		"customer_id" : 15789,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 28
+	},
+	{
+		"customer_id" : 16560,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 49
+	},
+	{
+		"customer_id" : 13534,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 20
+	},
+	{
+		"customer_id" : 17580,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 30
+	},
+	{
+		"customer_id" : 14777,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 40
+	},
+	{
+		"customer_id" : 15759,
+		"gender" : "M",
+		"location" : "Washington DC",
+		"tenure_months" : 26
+	},
+	{
+		"customer_id" : 14373,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 40
+	},
+	{
+		"customer_id" : 18176,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 19
+	},
+	{
+		"customer_id" : 15366,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 37
+	},
+	{
+		"customer_id" : 14735,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 46
+	},
+	{
+		"customer_id" : 16271,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 24
+	},
+	{
+		"customer_id" : 18223,
+		"gender" : "M",
+		"location" : "Washington DC",
+		"tenure_months" : 44
+	},
+	{
+		"customer_id" : 15532,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 23
+	},
+	{
+		"customer_id" : 16816,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 31
+	},
+	{
+		"customer_id" : 16684,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 43
+	},
+	{
+		"customer_id" : 14334,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 41
+	},
+	{
+		"customer_id" : 16945,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 9
+	},
+	{
+		"customer_id" : 14643,
+		"gender" : "F",
+		"location" : "Washington DC",
+		"tenure_months" : 4
+	},
+	{
+		"customer_id" : 15197,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 45
+	},
+	{
+		"customer_id" : 14220,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 19
+	},
+	{
+		"customer_id" : 13874,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 39
+	},
+	{
+		"customer_id" : 18260,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 43
+	},
+	{
+		"customer_id" : 17848,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 25
+	},
+	{
+		"customer_id" : 17392,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 6
+	},
+	{
+		"customer_id" : 12348,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 39
+	},
+	{
+		"customer_id" : 14985,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 4
+	},
+	{
+		"customer_id" : 13004,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 37
+	},
+	{
+		"customer_id" : 14560,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 40
+	},
+	{
+		"customer_id" : 12931,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 44
+	},
+	{
+		"customer_id" : 13627,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 49
+	},
+	{
+		"customer_id" : 12551,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 41
+	},
+	{
+		"customer_id" : 12782,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 19
+	},
+	{
+		"customer_id" : 14769,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 26
+	},
+	{
+		"customer_id" : 15780,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 19
+	},
+	{
+		"customer_id" : 12417,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 37
+	},
+	{
+		"customer_id" : 17315,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 10
+	},
+	{
+		"customer_id" : 16711,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 34
+	},
+	{
+		"customer_id" : 12726,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 25
+	},
+	{
+		"customer_id" : 15204,
+		"gender" : "M",
+		"location" : "New Jersey",
+		"tenure_months" : 29
+	},
+	{
+		"customer_id" : 17888,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 37
+	},
+	{
+		"customer_id" : 17007,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 3
+	},
+	{
+		"customer_id" : 15160,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 30
+	},
+	{
+		"customer_id" : 14016,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 41
+	},
+	{
+		"customer_id" : 13033,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 50
+	},
+	{
+		"customer_id" : 12691,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 7
+	},
+	{
+		"customer_id" : 13869,
+		"gender" : "F",
+		"location" : "New Jersey",
+		"tenure_months" : 6
+	},
+	{
+		"customer_id" : 14146,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 29
+	},
+	{
+		"customer_id" : 12705,
+		"gender" : "F",
+		"location" : "New Jersey",
+		"tenure_months" : 45
+	},
+	{
+		"customer_id" : 16885,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 27
+	},
+	{
+		"customer_id" : 17913,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 29
+	},
+	{
+		"customer_id" : 12668,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 32
+	},
+	{
+		"customer_id" : 14472,
+		"gender" : "F",
+		"location" : "Washington DC",
+		"tenure_months" : 10
+	},
+	{
+		"customer_id" : 17358,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 6
+	},
+	{
+		"customer_id" : 16686,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 31
+	},
+	{
+		"customer_id" : 18245,
+		"gender" : "F",
+		"location" : "Washington DC",
+		"tenure_months" : 5
+	},
+	{
+		"customer_id" : 17343,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 32
+	},
+	{
+		"customer_id" : 18256,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 45
+	},
+	{
+		"customer_id" : 16153,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 29
+	},
+	{
+		"customer_id" : 12377,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 27
+	},
+	{
+		"customer_id" : 14646,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 45
+	},
+	{
+		"customer_id" : 12944,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 43
+	},
+	{
+		"customer_id" : 15312,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 47
+	},
+	{
+		"customer_id" : 14099,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 32
+	},
+	{
+		"customer_id" : 14113,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 23
+	},
+	{
+		"customer_id" : 13104,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 20
+	},
+	{
+		"customer_id" : 17204,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 29
+	},
+	{
+		"customer_id" : 13027,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 15
+	},
+	{
+		"customer_id" : 17621,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 25
+	},
+	{
+		"customer_id" : 17090,
+		"gender" : "F",
+		"location" : "New Jersey",
+		"tenure_months" : 23
+	},
+	{
+		"customer_id" : 14119,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 8
+	},
+	{
+		"customer_id" : 15527,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 21
+	},
+	{
+		"customer_id" : 18097,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 6
+	},
+	{
+		"customer_id" : 15460,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 4
+	},
+	{
+		"customer_id" : 15034,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 2
+	},
+	{
+		"customer_id" : 12423,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 9
+	},
+	{
+		"customer_id" : 12678,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 27
+	},
+	{
+		"customer_id" : 15208,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 16
+	},
+	{
+		"customer_id" : 17306,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 9
+	},
+	{
+		"customer_id" : 14737,
+		"gender" : "F",
+		"location" : "New Jersey",
+		"tenure_months" : 21
+	},
+	{
+		"customer_id" : 13029,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 35
+	},
+	{
+		"customer_id" : 16270,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 37
+	},
+	{
+		"customer_id" : 13487,
+		"gender" : "M",
+		"location" : "Washington DC",
+		"tenure_months" : 6
+	},
+	{
+		"customer_id" : 12515,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 28
+	},
+	{
+		"customer_id" : 17400,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 45
+	},
+	{
+		"customer_id" : 17593,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 22
+	},
+	{
+		"customer_id" : 13953,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 16
+	},
+	{
+		"customer_id" : 14533,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 30
+	},
+	{
+		"customer_id" : 12734,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 27
+	},
+	{
+		"customer_id" : 14944,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 18
+	},
+	{
+		"customer_id" : 17239,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 28
+	},
+	{
+		"customer_id" : 14532,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 44
+	},
+	{
+		"customer_id" : 12383,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 32
+	},
+	{
+		"customer_id" : 15562,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 26
+	},
+	{
+		"customer_id" : 15587,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 6
+	},
+	{
+		"customer_id" : 13922,
+		"gender" : "F",
+		"location" : "New Jersey",
+		"tenure_months" : 11
+	},
+	{
+		"customer_id" : 13817,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 14
+	},
+	{
+		"customer_id" : 12585,
+		"gender" : "F",
+		"location" : "New Jersey",
+		"tenure_months" : 4
+	},
+	{
+		"customer_id" : 13165,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 31
+	},
+	{
+		"customer_id" : 13304,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 12
+	},
+	{
+		"customer_id" : 13313,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 42
+	},
+	{
+		"customer_id" : 16875,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 3
+	},
+	{
+		"customer_id" : 16282,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 20
+	},
+	{
+		"customer_id" : 12957,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 44
+	},
+	{
+		"customer_id" : 14462,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 42
+	},
+	{
+		"customer_id" : 13397,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 40
+	},
+	{
+		"customer_id" : 13680,
+		"gender" : "M",
+		"location" : "Washington DC",
+		"tenure_months" : 34
+	},
+	{
+		"customer_id" : 12483,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 39
+	},
+	{
+		"customer_id" : 15164,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 28
+	},
+	{
+		"customer_id" : 17457,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 47
+	},
+	{
+		"customer_id" : 14732,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 33
+	},
+	{
+		"customer_id" : 14221,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 39
+	},
+	{
+		"customer_id" : 14553,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 25
+	},
+	{
+		"customer_id" : 13253,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 38
+	},
+	{
+		"customer_id" : 17389,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 2
+	},
+	{
+		"customer_id" : 12578,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 8
+	},
+	{
+		"customer_id" : 15841,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 6
+	},
+	{
+		"customer_id" : 16112,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 16
+	},
+	{
+		"customer_id" : 13629,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 22
+	},
+	{
+		"customer_id" : 16600,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 32
+	},
+	{
+		"customer_id" : 15661,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 24
+	},
+	{
+		"customer_id" : 16532,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 7
+	},
+	{
+		"customer_id" : 15266,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 22
+	},
+	{
+		"customer_id" : 14653,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 2
+	},
+	{
+		"customer_id" : 16771,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 39
+	},
+	{
+		"customer_id" : 17585,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 26
+	},
+	{
+		"customer_id" : 15046,
+		"gender" : "F",
+		"location" : "New Jersey",
+		"tenure_months" : 4
+	},
+	{
+		"customer_id" : 13082,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 45
+	},
+	{
+		"customer_id" : 15464,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 40
+	},
+	{
+		"customer_id" : 18226,
+		"gender" : "F",
+		"location" : "New Jersey",
+		"tenure_months" : 40
+	},
+	{
+		"customer_id" : 18062,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 25
+	},
+	{
+		"customer_id" : 12415,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 29
+	},
+	{
+		"customer_id" : 12503,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 36
+	},
+	{
+		"customer_id" : 17368,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 8
+	},
+	{
+		"customer_id" : 14258,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 31
+	},
+	{
+		"customer_id" : 15719,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 16
+	},
+	{
+		"customer_id" : 13368,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 43
+	},
+	{
+		"customer_id" : 17634,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 32
+	},
+	{
+		"customer_id" : 16676,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 4
+	},
+	{
+		"customer_id" : 16424,
+		"gender" : "M",
+		"location" : "New Jersey",
+		"tenure_months" : 29
+	},
+	{
+		"customer_id" : 18283,
+		"gender" : "F",
+		"location" : "New Jersey",
+		"tenure_months" : 36
+	},
+	{
+		"customer_id" : 12735,
+		"gender" : "M",
+		"location" : "Washington DC",
+		"tenure_months" : 5
+	},
+	{
+		"customer_id" : 13764,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 14
+	},
+	{
+		"customer_id" : 13656,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 44
+	},
+	{
+		"customer_id" : 12413,
+		"gender" : "F",
+		"location" : "New Jersey",
+		"tenure_months" : 15
+	},
+	{
+		"customer_id" : 14312,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 27
+	},
+	{
+		"customer_id" : 13280,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 43
+	},
+	{
+		"customer_id" : 15845,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 22
+	},
+	{
+		"customer_id" : 16094,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 16
+	},
+	{
+		"customer_id" : 13187,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 50
+	},
+	{
+		"customer_id" : 16567,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 20
+	},
+	{
+		"customer_id" : 14828,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 25
+	},
+	{
+		"customer_id" : 12530,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 29
+	},
+	{
+		"customer_id" : 16551,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 10
+	},
+	{
+		"customer_id" : 16889,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 23
+	},
+	{
+		"customer_id" : 16473,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 36
+	},
+	{
+		"customer_id" : 13750,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 20
+	},
+	{
+		"customer_id" : 12501,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 8
+	},
+	{
+		"customer_id" : 15607,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 40
+	},
+	{
+		"customer_id" : 15139,
+		"gender" : "M",
+		"location" : "New Jersey",
+		"tenure_months" : 16
+	},
+	{
+		"customer_id" : 12489,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 2
+	},
+	{
+		"customer_id" : 17707,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 4
+	},
+	{
+		"customer_id" : 18198,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 29
+	},
+	{
+		"customer_id" : 12484,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 44
+	},
+	{
+		"customer_id" : 18179,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 6
+	},
+	{
+		"customer_id" : 17284,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 38
+	},
+	{
+		"customer_id" : 13233,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 30
+	},
+	{
+		"customer_id" : 14889,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 6
+	},
+	{
+		"customer_id" : 12480,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 22
+	},
+	{
+		"customer_id" : 14672,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 8
+	},
+	{
+		"customer_id" : 13593,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 28
+	},
+	{
+		"customer_id" : 13162,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 14
+	},
+	{
+		"customer_id" : 13183,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 42
+	},
+	{
+		"customer_id" : 17095,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 35
+	},
+	{
+		"customer_id" : 12939,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 19
+	},
+	{
+		"customer_id" : 15611,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 4
+	},
+	{
+		"customer_id" : 17114,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 19
+	},
+	{
+		"customer_id" : 15059,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 20
+	},
+	{
+		"customer_id" : 16326,
+		"gender" : "M",
+		"location" : "Washington DC",
+		"tenure_months" : 6
+	},
+	{
+		"customer_id" : 17128,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 47
+	},
+	{
+		"customer_id" : 14761,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 17
+	},
+	{
+		"customer_id" : 17555,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 27
+	},
+	{
+		"customer_id" : 12651,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 44
+	},
+	{
+		"customer_id" : 16735,
+		"gender" : "M",
+		"location" : "New Jersey",
+		"tenure_months" : 42
+	},
+	{
+		"customer_id" : 16833,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 46
+	},
+	{
+		"customer_id" : 17800,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 12
+	},
+	{
+		"customer_id" : 16748,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 41
+	},
+	{
+		"customer_id" : 14755,
+		"gender" : "F",
+		"location" : "New Jersey",
+		"tenure_months" : 50
+	},
+	{
+		"customer_id" : 16549,
+		"gender" : "F",
+		"location" : "New Jersey",
+		"tenure_months" : 17
+	},
+	{
+		"customer_id" : 13565,
+		"gender" : "F",
+		"location" : "New Jersey",
+		"tenure_months" : 8
+	},
+	{
+		"customer_id" : 15799,
+		"gender" : "M",
+		"location" : "New Jersey",
+		"tenure_months" : 31
+	},
+	{
+		"customer_id" : 18032,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 37
+	},
+	{
+		"customer_id" : 13451,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 12
+	},
+	{
+		"customer_id" : 14794,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 31
+	},
+	{
+		"customer_id" : 12539,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 13
+	},
+	{
+		"customer_id" : 12500,
+		"gender" : "F",
+		"location" : "Washington DC",
+		"tenure_months" : 46
+	},
+	{
+		"customer_id" : 18171,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 21
+	},
+	{
+		"customer_id" : 16279,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 40
+	},
+	{
+		"customer_id" : 12524,
+		"gender" : "F",
+		"location" : "Washington DC",
+		"tenure_months" : 20
+	},
+	{
+		"customer_id" : 17811,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 35
+	},
+	{
+		"customer_id" : 16850,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 22
+	},
+	{
+		"customer_id" : 14321,
+		"gender" : "F",
+		"location" : "Washington DC",
+		"tenure_months" : 24
+	},
+	{
+		"customer_id" : 15326,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 45
+	},
+	{
+		"customer_id" : 17849,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 8
+	},
+	{
+		"customer_id" : 13672,
+		"gender" : "F",
+		"location" : "New Jersey",
+		"tenure_months" : 45
+	},
+	{
+		"customer_id" : 14229,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 29
+	},
+	{
+		"customer_id" : 13107,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 20
+	},
+	{
+		"customer_id" : 16497,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 16
+	},
+	{
+		"customer_id" : 16303,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 12
+	},
+	{
+		"customer_id" : 15281,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 36
+	},
+	{
+		"customer_id" : 12736,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 3
+	},
+	{
+		"customer_id" : 13473,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 5
+	},
+	{
+		"customer_id" : 14320,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 29
+	},
+	{
+		"customer_id" : 12393,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 39
+	},
+	{
+		"customer_id" : 17742,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 35
+	},
+	{
+		"customer_id" : 16351,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 20
+	},
+	{
+		"customer_id" : 12601,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 10
+	},
+	{
+		"customer_id" : 13144,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 38
+	},
+	{
+		"customer_id" : 15346,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 15
+	},
+	{
+		"customer_id" : 15370,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 38
+	},
+	{
+		"customer_id" : 12643,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 48
+	},
+	{
+		"customer_id" : 14295,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 7
+	},
+	{
+		"customer_id" : 16034,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 26
+	},
+	{
+		"customer_id" : 17365,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 11
+	},
+	{
+		"customer_id" : 15189,
+		"gender" : "F",
+		"location" : "Washington DC",
+		"tenure_months" : 11
+	},
+	{
+		"customer_id" : 14669,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 39
+	},
+	{
+		"customer_id" : 18095,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 14
+	},
+	{
+		"customer_id" : 15518,
+		"gender" : "F",
+		"location" : "New Jersey",
+		"tenure_months" : 7
+	},
+	{
+		"customer_id" : 15749,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 44
+	},
+	{
+		"customer_id" : 14209,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 29
+	},
+	{
+		"customer_id" : 15569,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 32
+	},
+	{
+		"customer_id" : 12728,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 5
+	},
+	{
+		"customer_id" : 17569,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 41
+	},
+	{
+		"customer_id" : 13784,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 30
+	},
+	{
+		"customer_id" : 12724,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 19
+	},
+	{
+		"customer_id" : 13862,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 32
+	},
+	{
+		"customer_id" : 16791,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 7
+	},
+	{
+		"customer_id" : 16235,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 34
+	},
+	{
+		"customer_id" : 14270,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 6
+	},
+	{
+		"customer_id" : 12665,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 10
+	},
+	{
+		"customer_id" : 12523,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 35
+	},
+	{
+		"customer_id" : 16655,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 40
+	},
+	{
+		"customer_id" : 16359,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 49
+	},
+	{
+		"customer_id" : 16554,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 4
+	},
+	{
+		"customer_id" : 12359,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 41
+	},
+	{
+		"customer_id" : 15939,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 11
+	},
+	{
+		"customer_id" : 14587,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 30
+	},
+	{
+		"customer_id" : 14715,
+		"gender" : "F",
+		"location" : "New Jersey",
+		"tenure_months" : 2
+	},
+	{
+		"customer_id" : 14185,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 19
+	},
+	{
+		"customer_id" : 12437,
+		"gender" : "F",
+		"location" : "New Jersey",
+		"tenure_months" : 50
+	},
+	{
+		"customer_id" : 14040,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 10
+	},
+	{
+		"customer_id" : 12652,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 21
+	},
+	{
+		"customer_id" : 14514,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 29
+	},
+	{
+		"customer_id" : 15171,
+		"gender" : "F",
+		"location" : "New Jersey",
+		"tenure_months" : 48
+	},
+	{
+		"customer_id" : 14167,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 29
+	},
+	{
+		"customer_id" : 17048,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 39
+	},
+	{
+		"customer_id" : 17364,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 39
+	},
+	{
+		"customer_id" : 13284,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 14
+	},
+	{
+		"customer_id" : 16500,
+		"gender" : "M",
+		"location" : "New Jersey",
+		"tenure_months" : 6
+	},
+	{
+		"customer_id" : 12951,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 18
+	},
+	{
+		"customer_id" : 15835,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 46
+	},
+	{
+		"customer_id" : 18190,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 8
+	},
+	{
+		"customer_id" : 13993,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 49
+	},
+	{
+		"customer_id" : 14114,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 18
+	},
+	{
+		"customer_id" : 15447,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 34
+	},
+	{
+		"customer_id" : 16315,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 35
+	},
+	{
+		"customer_id" : 14978,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 36
+	},
+	{
+		"customer_id" : 16395,
+		"gender" : "M",
+		"location" : "Washington DC",
+		"tenure_months" : 18
+	},
+	{
+		"customer_id" : 15510,
+		"gender" : "F",
+		"location" : "New Jersey",
+		"tenure_months" : 15
+	},
+	{
+		"customer_id" : 13614,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 20
+	},
+	{
+		"customer_id" : 13246,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 25
+	},
+	{
+		"customer_id" : 15687,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 20
+	},
+	{
+		"customer_id" : 16493,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 37
+	},
+	{
+		"customer_id" : 12490,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 26
+	},
+	{
+		"customer_id" : 12672,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 43
+	},
+	{
+		"customer_id" : 13385,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 26
+	},
+	{
+		"customer_id" : 15626,
+		"gender" : "F",
+		"location" : "New Jersey",
+		"tenure_months" : 8
+	},
+	{
+		"customer_id" : 12553,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 8
+	},
+	{
+		"customer_id" : 15213,
+		"gender" : "M",
+		"location" : "Washington DC",
+		"tenure_months" : 41
+	},
+	{
+		"customer_id" : 14175,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 37
+	},
+	{
+		"customer_id" : 18106,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 49
+	},
+	{
+		"customer_id" : 15033,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 10
+	},
+	{
+		"customer_id" : 14329,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 22
+	},
+	{
+		"customer_id" : 16401,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 40
+	},
+	{
+		"customer_id" : 16206,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 28
+	},
+	{
+		"customer_id" : 13782,
+		"gender" : "M",
+		"location" : "New Jersey",
+		"tenure_months" : 17
+	},
+	{
+		"customer_id" : 12924,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 45
+	},
+	{
+		"customer_id" : 16593,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 4
+	},
+	{
+		"customer_id" : 13700,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 42
+	},
+	{
+		"customer_id" : 13064,
+		"gender" : "M",
+		"location" : "New Jersey",
+		"tenure_months" : 15
+	},
+	{
+		"customer_id" : 13048,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 45
+	},
+	{
+		"customer_id" : 18069,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 10
+	},
+	{
+		"customer_id" : 13634,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 21
+	},
+	{
+		"customer_id" : 16843,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 31
+	},
+	{
+		"customer_id" : 17064,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 7
+	},
+	{
+		"customer_id" : 17609,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 21
+	},
+	{
+		"customer_id" : 15673,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 24
+	},
+	{
+		"customer_id" : 12626,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 30
+	},
+	{
+		"customer_id" : 14976,
+		"gender" : "M",
+		"location" : "New Jersey",
+		"tenure_months" : 17
+	},
+	{
+		"customer_id" : 12388,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 31
+	},
+	{
+		"customer_id" : 13527,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 44
+	},
+	{
+		"customer_id" : 15696,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 12
+	},
+	{
+		"customer_id" : 15316,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 28
+	},
+	{
+		"customer_id" : 12673,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 4
+	},
+	{
+		"customer_id" : 15296,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 40
+	},
+	{
+		"customer_id" : 17988,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 45
+	},
+	{
+		"customer_id" : 12820,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 24
+	},
+	{
+		"customer_id" : 13001,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 45
+	},
+	{
+		"customer_id" : 14101,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 25
+	},
+	{
+		"customer_id" : 14238,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 21
+	},
+	{
+		"customer_id" : 17730,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 30
+	},
+	{
+		"customer_id" : 13929,
+		"gender" : "F",
+		"location" : "Washington DC",
+		"tenure_months" : 21
+	},
+	{
+		"customer_id" : 14657,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 2
+	},
+	{
+		"customer_id" : 13859,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 45
+	},
+	{
+		"customer_id" : 18212,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 37
+	},
+	{
+		"customer_id" : 14292,
+		"gender" : "M",
+		"location" : "New Jersey",
+		"tenure_months" : 22
+	},
+	{
+		"customer_id" : 13883,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 36
+	},
+	{
+		"customer_id" : 18233,
+		"gender" : "F",
+		"location" : "New Jersey",
+		"tenure_months" : 2
+	},
+	{
+		"customer_id" : 17018,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 26
+	},
+	{
+		"customer_id" : 14242,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 26
+	},
+	{
+		"customer_id" : 12356,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 31
+	},
+	{
+		"customer_id" : 12346,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 31
+	},
+	{
+		"customer_id" : 13898,
+		"gender" : "F",
+		"location" : "New Jersey",
+		"tenure_months" : 23
+	},
+	{
+		"customer_id" : 16948,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 2
+	},
+	{
+		"customer_id" : 16997,
+		"gender" : "F",
+		"location" : "New Jersey",
+		"tenure_months" : 35
+	},
+	{
+		"customer_id" : 12527,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 25
+	},
+	{
+		"customer_id" : 15395,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 4
+	},
+	{
+		"customer_id" : 12510,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 25
+	},
+	{
+		"customer_id" : 13693,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 3
+	},
+	{
+		"customer_id" : 13263,
+		"gender" : "M",
+		"location" : "New Jersey",
+		"tenure_months" : 16
+	},
+	{
+		"customer_id" : 14428,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 23
+	},
+	{
+		"customer_id" : 12451,
+		"gender" : "M",
+		"location" : "Washington DC",
+		"tenure_months" : 49
+	},
+	{
+		"customer_id" : 12422,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 50
+	},
+	{
+		"customer_id" : 17708,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 44
+	},
+	{
+		"customer_id" : 14090,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 32
+	},
+	{
+		"customer_id" : 15606,
+		"gender" : "F",
+		"location" : "Washington DC",
+		"tenure_months" : 15
+	},
+	{
+		"customer_id" : 15831,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 39
+	},
+	{
+		"customer_id" : 13310,
+		"gender" : "M",
+		"location" : "New Jersey",
+		"tenure_months" : 15
+	},
+	{
+		"customer_id" : 14916,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 42
+	},
+	{
+		"customer_id" : 17602,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 40
+	},
+	{
+		"customer_id" : 14572,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 43
+	},
+	{
+		"customer_id" : 13502,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 32
+	},
+	{
+		"customer_id" : 14784,
+		"gender" : "F",
+		"location" : "New Jersey",
+		"tenure_months" : 25
+	},
+	{
+		"customer_id" : 15938,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 34
+	},
+	{
+		"customer_id" : 12637,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 13
+	},
+	{
+		"customer_id" : 17418,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 26
+	},
+	{
+		"customer_id" : 14779,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 17
+	},
+	{
+		"customer_id" : 16321,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 18
+	},
+	{
+		"customer_id" : 15262,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 40
+	},
+	{
+		"customer_id" : 17862,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 17
+	},
+	{
+		"customer_id" : 16892,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 16
+	},
+	{
+		"customer_id" : 12402,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 22
+	},
+	{
+		"customer_id" : 17771,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 33
+	},
+	{
+		"customer_id" : 15422,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 6
+	},
+	{
+		"customer_id" : 14770,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 39
+	},
+	{
+		"customer_id" : 16912,
+		"gender" : "F",
+		"location" : "Washington DC",
+		"tenure_months" : 16
+	},
+	{
+		"customer_id" : 15174,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 34
+	},
+	{
+		"customer_id" : 14895,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 42
+	},
+	{
+		"customer_id" : 12594,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 13
+	},
+	{
+		"customer_id" : 17504,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 9
+	},
+	{
+		"customer_id" : 16387,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 20
+	},
+	{
+		"customer_id" : 12664,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 14
+	},
+	{
+		"customer_id" : 16618,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 11
+	},
+	{
+		"customer_id" : 17277,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 31
+	},
+	{
+		"customer_id" : 14088,
+		"gender" : "M",
+		"location" : "Washington DC",
+		"tenure_months" : 39
+	},
+	{
+		"customer_id" : 17094,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 35
+	},
+	{
+		"customer_id" : 14692,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 16
+	},
+	{
+		"customer_id" : 12970,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 2
+	},
+	{
+		"customer_id" : 17889,
+		"gender" : "F",
+		"location" : "New Jersey",
+		"tenure_months" : 40
+	},
+	{
+		"customer_id" : 17644,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 5
+	},
+	{
+		"customer_id" : 17714,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 6
+	},
+	{
+		"customer_id" : 12916,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 2
+	},
+	{
+		"customer_id" : 17769,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 32
+	},
+	{
+		"customer_id" : 14450,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 29
+	},
+	{
+		"customer_id" : 16085,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 15
+	},
+	{
+		"customer_id" : 13659,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 8
+	},
+	{
+		"customer_id" : 15167,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 2
+	},
+	{
+		"customer_id" : 15443,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 27
+	},
+	{
+		"customer_id" : 14224,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 3
+	},
+	{
+		"customer_id" : 13742,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 6
+	},
+	{
+		"customer_id" : 17673,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 12
+	},
+	{
+		"customer_id" : 12727,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 6
+	},
+	{
+		"customer_id" : 14068,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 32
+	},
+	{
+		"customer_id" : 13068,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 47
+	},
+	{
+		"customer_id" : 14368,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 4
+	},
+	{
+		"customer_id" : 15497,
+		"gender" : "F",
+		"location" : "New Jersey",
+		"tenure_months" : 2
+	},
+	{
+		"customer_id" : 12559,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 25
+	},
+	{
+		"customer_id" : 13819,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 7
+	},
+	{
+		"customer_id" : 14501,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 20
+	},
+	{
+		"customer_id" : 14782,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 12
+	},
+	{
+		"customer_id" : 17861,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 37
+	},
+	{
+		"customer_id" : 14439,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 48
+	},
+	{
+		"customer_id" : 18161,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 47
+	},
+	{
+		"customer_id" : 15820,
+		"gender" : "F",
+		"location" : "New Jersey",
+		"tenure_months" : 8
+	},
+	{
+		"customer_id" : 18136,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 28
+	},
+	{
+		"customer_id" : 16660,
+		"gender" : "F",
+		"location" : "New Jersey",
+		"tenure_months" : 3
+	},
+	{
+		"customer_id" : 12693,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 4
+	},
+	{
+		"customer_id" : 12625,
+		"gender" : "M",
+		"location" : "New Jersey",
+		"tenure_months" : 26
+	},
+	{
+		"customer_id" : 13396,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 25
+	},
+	{
+		"customer_id" : 12935,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 23
+	},
+	{
+		"customer_id" : 16730,
+		"gender" : "F",
+		"location" : "Washington DC",
+		"tenure_months" : 9
+	},
+	{
+		"customer_id" : 14541,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 24
+	},
+	{
+		"customer_id" : 13551,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 46
+	},
+	{
+		"customer_id" : 12421,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 38
+	},
+	{
+		"customer_id" : 15797,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 27
+	},
+	{
+		"customer_id" : 15052,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 33
+	},
+	{
+		"customer_id" : 14130,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 50
+	},
+	{
+		"customer_id" : 15222,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 26
+	},
+	{
+		"customer_id" : 13615,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 11
+	},
+	{
+		"customer_id" : 13901,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 10
+	},
+	{
+		"customer_id" : 13158,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 47
+	},
+	{
+		"customer_id" : 14257,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 38
+	},
+	{
+		"customer_id" : 15218,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 11
+	},
+	{
+		"customer_id" : 15110,
+		"gender" : "F",
+		"location" : "New Jersey",
+		"tenure_months" : 8
+	},
+	{
+		"customer_id" : 14534,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 14
+	},
+	{
+		"customer_id" : 15967,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 12
+	},
+	{
+		"customer_id" : 16757,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 22
+	},
+	{
+		"customer_id" : 12854,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 42
+	},
+	{
+		"customer_id" : 13815,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 33
+	},
+	{
+		"customer_id" : 18008,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 25
+	},
+	{
+		"customer_id" : 18277,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 47
+	},
+	{
+		"customer_id" : 14389,
+		"gender" : "M",
+		"location" : "Washington DC",
+		"tenure_months" : 38
+	},
+	{
+		"customer_id" : 13703,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 18
+	},
+	{
+		"customer_id" : 15339,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 47
+	},
+	{
+		"customer_id" : 12744,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 16
+	},
+	{
+		"customer_id" : 16222,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 45
+	},
+	{
+		"customer_id" : 14341,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 3
+	},
+	{
+		"customer_id" : 13168,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 24
+	},
+	{
+		"customer_id" : 16943,
+		"gender" : "M",
+		"location" : "Washington DC",
+		"tenure_months" : 34
+	},
+	{
+		"customer_id" : 17515,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 44
+	},
+	{
+		"customer_id" : 17082,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 30
+	},
+	{
+		"customer_id" : 14248,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 34
+	},
+	{
+		"customer_id" : 12609,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 3
+	},
+	{
+		"customer_id" : 13002,
+		"gender" : "F",
+		"location" : "Washington DC",
+		"tenure_months" : 44
+	},
+	{
+		"customer_id" : 16133,
+		"gender" : "F",
+		"location" : "New Jersey",
+		"tenure_months" : 22
+	},
+	{
+		"customer_id" : 13049,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 3
+	},
+	{
+		"customer_id" : 14548,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 48
+	},
+	{
+		"customer_id" : 13405,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 7
+	},
+	{
+		"customer_id" : 14049,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 45
+	},
+	{
+		"customer_id" : 16043,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 19
+	},
+	{
+		"customer_id" : 15812,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 32
+	},
+	{
+		"customer_id" : 13837,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 5
+	},
+	{
+		"customer_id" : 17118,
+		"gender" : "F",
+		"location" : "New Jersey",
+		"tenure_months" : 49
+	},
+	{
+		"customer_id" : 14616,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 33
+	},
+	{
+		"customer_id" : 14233,
+		"gender" : "F",
+		"location" : "New Jersey",
+		"tenure_months" : 2
+	},
+	{
+		"customer_id" : 17075,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 24
+	},
+	{
+		"customer_id" : 16714,
+		"gender" : "M",
+		"location" : "New Jersey",
+		"tenure_months" : 38
+	},
+	{
+		"customer_id" : 13098,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 5
+	},
+	{
+		"customer_id" : 17027,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 32
+	},
+	{
+		"customer_id" : 12591,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 25
+	},
+	{
+		"customer_id" : 17786,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 9
+	},
+	{
+		"customer_id" : 16124,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 34
+	},
+	{
+		"customer_id" : 16409,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 45
+	},
+	{
+		"customer_id" : 13754,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 7
+	},
+	{
+		"customer_id" : 15227,
+		"gender" : "M",
+		"location" : "Washington DC",
+		"tenure_months" : 42
+	},
+	{
+		"customer_id" : 12997,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 45
+	},
+	{
+		"customer_id" : 15215,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 15
+	},
+	{
+		"customer_id" : 16918,
+		"gender" : "M",
+		"location" : "Washington DC",
+		"tenure_months" : 47
+	},
+	{
+		"customer_id" : 16882,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 28
+	},
+	{
+		"customer_id" : 14442,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 44
+	},
+	{
+		"customer_id" : 16496,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 16
+	},
+	{
+		"customer_id" : 12764,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 25
+	},
+	{
+		"customer_id" : 17311,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 6
+	},
+	{
+		"customer_id" : 15910,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 8
+	},
+	{
+		"customer_id" : 16949,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 44
+	},
+	{
+		"customer_id" : 14970,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 46
+	},
+	{
+		"customer_id" : 14701,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 43
+	},
+	{
+		"customer_id" : 12645,
+		"gender" : "F",
+		"location" : "New Jersey",
+		"tenure_months" : 50
+	},
+	{
+		"customer_id" : 12468,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 9
+	},
+	{
+		"customer_id" : 16767,
+		"gender" : "M",
+		"location" : "Washington DC",
+		"tenure_months" : 29
+	},
+	{
+		"customer_id" : 14738,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 13
+	},
+	{
+		"customer_id" : 17540,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 37
+	},
+	{
+		"customer_id" : 14239,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 46
+	},
+	{
+		"customer_id" : 18125,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 3
+	},
+	{
+		"customer_id" : 13328,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 18
+	},
+	{
+		"customer_id" : 15549,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 5
+	},
+	{
+		"customer_id" : 15864,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 17
+	},
+	{
+		"customer_id" : 14662,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 36
+	},
+	{
+		"customer_id" : 17180,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 35
+	},
+	{
+		"customer_id" : 15057,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 12
+	},
+	{
+		"customer_id" : 12574,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 48
+	},
+	{
+		"customer_id" : 13330,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 47
+	},
+	{
+		"customer_id" : 13552,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 50
+	},
+	{
+		"customer_id" : 12853,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 11
+	},
+	{
+		"customer_id" : 13538,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 32
+	},
+	{
+		"customer_id" : 16755,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 33
+	},
+	{
+		"customer_id" : 14133,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 32
+	},
+	{
+		"customer_id" : 16523,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 6
+	},
+	{
+		"customer_id" : 14659,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 42
+	},
+	{
+		"customer_id" : 13141,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 25
+	},
+	{
+		"customer_id" : 15365,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 30
+	},
+	{
+		"customer_id" : 13707,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 28
+	},
+	{
+		"customer_id" : 13709,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 22
+	},
+	{
+		"customer_id" : 17329,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 9
+	},
+	{
+		"customer_id" : 14805,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 20
+	},
+	{
+		"customer_id" : 16897,
+		"gender" : "M",
+		"location" : "New Jersey",
+		"tenure_months" : 49
+	},
+	{
+		"customer_id" : 15579,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 21
+	},
+	{
+		"customer_id" : 14595,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 33
+	},
+	{
+		"customer_id" : 13161,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 4
+	},
+	{
+		"customer_id" : 15415,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 27
+	},
+	{
+		"customer_id" : 17431,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 7
+	},
+	{
+		"customer_id" : 17463,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 27
+	},
+	{
+		"customer_id" : 14502,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 22
+	},
+	{
+		"customer_id" : 12528,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 43
+	},
+	{
+		"customer_id" : 15448,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 24
+	},
+	{
+		"customer_id" : 17314,
+		"gender" : "M",
+		"location" : "Washington DC",
+		"tenure_months" : 24
+	},
+	{
+		"customer_id" : 17373,
+		"gender" : "M",
+		"location" : "New Jersey",
+		"tenure_months" : 11
+	},
+	{
+		"customer_id" : 18145,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 36
+	},
+	{
+		"customer_id" : 14467,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 34
+	},
+	{
+		"customer_id" : 12908,
+		"gender" : "M",
+		"location" : "Washington DC",
+		"tenure_months" : 32
+	},
+	{
+		"customer_id" : 15144,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 35
+	},
+	{
+		"customer_id" : 14776,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 42
+	},
+	{
+		"customer_id" : 16403,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 26
+	},
+	{
+		"customer_id" : 16407,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 48
+	},
+	{
+		"customer_id" : 17619,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 30
+	},
+	{
+		"customer_id" : 12778,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 42
+	},
+	{
+		"customer_id" : 17256,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 43
+	},
+	{
+		"customer_id" : 17604,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 28
+	},
+	{
+		"customer_id" : 14006,
+		"gender" : "F",
+		"location" : "New Jersey",
+		"tenure_months" : 3
+	},
+	{
+		"customer_id" : 13600,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 13
+	},
+	{
+		"customer_id" : 15058,
+		"gender" : "M",
+		"location" : "New Jersey",
+		"tenure_months" : 8
+	},
+	{
+		"customer_id" : 17147,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 24
+	},
+	{
+		"customer_id" : 13881,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 22
+	},
+	{
+		"customer_id" : 16612,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 17
+	},
+	{
+		"customer_id" : 14627,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 46
+	},
+	{
+		"customer_id" : 17356,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 8
+	},
+	{
+		"customer_id" : 12477,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 10
+	},
+	{
+		"customer_id" : 12836,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 6
+	},
+	{
+		"customer_id" : 13939,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 36
+	},
+	{
+		"customer_id" : 16745,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 29
+	},
+	{
+		"customer_id" : 13606,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 28
+	},
+	{
+		"customer_id" : 13494,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 33
+	},
+	{
+		"customer_id" : 12929,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 26
+	},
+	{
+		"customer_id" : 16419,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 50
+	},
+	{
+		"customer_id" : 17035,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 10
+	},
+	{
+		"customer_id" : 15203,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 19
+	},
+	{
+		"customer_id" : 16515,
+		"gender" : "F",
+		"location" : "New Jersey",
+		"tenure_months" : 19
+	},
+	{
+		"customer_id" : 12373,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 23
+	},
+	{
+		"customer_id" : 18202,
+		"gender" : "F",
+		"location" : "New Jersey",
+		"tenure_months" : 18
+	},
+	{
+		"customer_id" : 12775,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 21
+	},
+	{
+		"customer_id" : 14549,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 22
+	},
+	{
+		"customer_id" : 15981,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 13
+	},
+	{
+		"customer_id" : 16110,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 29
+	},
+	{
+		"customer_id" : 17376,
+		"gender" : "F",
+		"location" : "New Jersey",
+		"tenure_months" : 34
+	},
+	{
+		"customer_id" : 13110,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 36
+	},
+	{
+		"customer_id" : 16716,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 44
+	},
+	{
+		"customer_id" : 12676,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 38
+	},
+	{
+		"customer_id" : 15940,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 32
+	},
+	{
+		"customer_id" : 15971,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 39
+	},
+	{
+		"customer_id" : 14665,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 4
+	},
+	{
+		"customer_id" : 14457,
+		"gender" : "F",
+		"location" : "New Jersey",
+		"tenure_months" : 4
+	},
+	{
+		"customer_id" : 15589,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 11
+	},
+	{
+		"customer_id" : 14411,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 17
+	},
+	{
+		"customer_id" : 17560,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 19
+	},
+	{
+		"customer_id" : 15226,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 37
+	},
+	{
+		"customer_id" : 14460,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 38
+	},
+	{
+		"customer_id" : 16156,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 24
+	},
+	{
+		"customer_id" : 13728,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 2
+	},
+	{
+		"customer_id" : 14127,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 17
+	},
+	{
+		"customer_id" : 16378,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 4
+	},
+	{
+		"customer_id" : 13894,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 16
+	},
+	{
+		"customer_id" : 13824,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 42
+	},
+	{
+		"customer_id" : 18250,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 15
+	},
+	{
+		"customer_id" : 15270,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 36
+	},
+	{
+		"customer_id" : 14188,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 50
+	},
+	{
+		"customer_id" : 18017,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 37
+	},
+	{
+		"customer_id" : 15421,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 49
+	},
+	{
+		"customer_id" : 17446,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 42
+	},
+	{
+		"customer_id" : 12414,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 43
+	},
+	{
+		"customer_id" : 14798,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 37
+	},
+	{
+		"customer_id" : 12990,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 47
+	},
+	{
+		"customer_id" : 12350,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 25
+	},
+	{
+		"customer_id" : 16992,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 7
+	},
+	{
+		"customer_id" : 17337,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 44
+	},
+	{
+		"customer_id" : 16405,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 20
+	},
+	{
+		"customer_id" : 17071,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 15
+	},
+	{
+		"customer_id" : 13873,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 24
+	},
+	{
+		"customer_id" : 17362,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 46
+	},
+	{
+		"customer_id" : 13394,
+		"gender" : "M",
+		"location" : "Washington DC",
+		"tenure_months" : 6
+	},
+	{
+		"customer_id" : 12502,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 23
+	},
+	{
+		"customer_id" : 16333,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 41
+	},
+	{
+		"customer_id" : 16030,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 50
+	},
+	{
+		"customer_id" : 14044,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 49
+	},
+	{
+		"customer_id" : 13800,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 27
+	},
+	{
+		"customer_id" : 17672,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 39
+	},
+	{
+		"customer_id" : 12464,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 26
+	},
+	{
+		"customer_id" : 13581,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 47
+	},
+	{
+		"customer_id" : 14540,
+		"gender" : "F",
+		"location" : "New Jersey",
+		"tenure_months" : 12
+	},
+	{
+		"customer_id" : 13539,
+		"gender" : "M",
+		"location" : "New York",
+		"tenure_months" : 24
+	},
+	{
+		"customer_id" : 15885,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 39
+	},
+	{
+		"customer_id" : 14497,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 42
+	},
+	{
+		"customer_id" : 17507,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 25
+	},
+	{
+		"customer_id" : 13208,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 4
+	},
+	{
+		"customer_id" : 17334,
+		"gender" : "F",
+		"location" : "Washington DC",
+		"tenure_months" : 8
+	},
+	{
+		"customer_id" : 13871,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 17
+	},
+	{
+		"customer_id" : 16938,
+		"gender" : "F",
+		"location" : "New Jersey",
+		"tenure_months" : 7
+	},
+	{
+		"customer_id" : 12754,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 11
+	},
+	{
+		"customer_id" : 12410,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 8
+	},
+	{
+		"customer_id" : 17929,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 4
+	},
+	{
+		"customer_id" : 14778,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 26
+	},
+	{
+		"customer_id" : 17517,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 20
+	},
+	{
+		"customer_id" : 17226,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 22
+	},
+	{
+		"customer_id" : 13137,
+		"gender" : "M",
+		"location" : "California",
+		"tenure_months" : 37
+	},
+	{
+		"customer_id" : 13725,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 48
+	},
+	{
+		"customer_id" : 13309,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 14
+	},
+	{
+		"customer_id" : 12842,
+		"gender" : "F",
+		"location" : "New Jersey",
+		"tenure_months" : 27
+	},
+	{
+		"customer_id" : 16109,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 50
+	},
+	{
+		"customer_id" : 17291,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 14
+	},
+	{
+		"customer_id" : 15090,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 17
+	},
+	{
+		"customer_id" : 15199,
+		"gender" : "F",
+		"location" : "New Jersey",
+		"tenure_months" : 41
+	},
+	{
+		"customer_id" : 13911,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 30
+	},
+	{
+		"customer_id" : 14194,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 19
+	},
+	{
+		"customer_id" : 14842,
+		"gender" : "F",
+		"location" : "New Jersey",
+		"tenure_months" : 14
+	},
+	{
+		"customer_id" : 13584,
+		"gender" : "M",
+		"location" : "Chicago",
+		"tenure_months" : 35
+	},
+	{
+		"customer_id" : 17105,
+		"gender" : "F",
+		"location" : "New Jersey",
+		"tenure_months" : 38
+	},
+	{
+		"customer_id" : 14438,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 41
+	},
+	{
+		"customer_id" : 12956,
+		"gender" : "F",
+		"location" : "Chicago",
+		"tenure_months" : 48
+	},
+	{
+		"customer_id" : 15781,
+		"gender" : "M",
+		"location" : "New Jersey",
+		"tenure_months" : 19
+	},
+	{
+		"customer_id" : 14410,
+		"gender" : "F",
+		"location" : "New York",
+		"tenure_months" : 45
+	},
+	{
+		"customer_id" : 14600,
+		"gender" : "F",
+		"location" : "California",
+		"tenure_months" : 7
+	}
+]}

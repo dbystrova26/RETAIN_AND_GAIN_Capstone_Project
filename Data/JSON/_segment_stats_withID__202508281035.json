@@ -1,0 +1,2563 @@
+{
+"segment_stats_withID": [
+	{
+		"customer_id" : 12386,
+		"AOV_segment" : "Medium-Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2857.3203125,
+		"median_actual_LTV_6m" : 1259.605,
+		"mean_AOV" : 153.89245868441932,
+		"median_AOV" : 155.60416666666669,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 12395,
+		"AOV_segment" : "Medium-Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2857.3203125,
+		"median_actual_LTV_6m" : 1259.605,
+		"mean_AOV" : 153.89245868441932,
+		"median_AOV" : 155.60416666666669,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 12427,
+		"AOV_segment" : "High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 3219.7440625,
+		"median_actual_LTV_6m" : 1807.635,
+		"mean_AOV" : 346.58022822166134,
+		"median_AOV" : 306.0183333333333,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 12431,
+		"AOV_segment" : "High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 3219.7440625,
+		"median_actual_LTV_6m" : 1807.635,
+		"mean_AOV" : 346.58022822166134,
+		"median_AOV" : 306.0183333333333,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 12433,
+		"AOV_segment" : "High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 3219.7440625,
+		"median_actual_LTV_6m" : 1807.635,
+		"mean_AOV" : 346.58022822166134,
+		"median_AOV" : 306.0183333333333,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 12471,
+		"AOV_segment" : "Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2300.35265625,
+		"median_actual_LTV_6m" : 1142.935,
+		"mean_AOV" : 82.87733947805262,
+		"median_AOV" : 90.28,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 12474,
+		"AOV_segment" : "High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 3219.7440625,
+		"median_actual_LTV_6m" : 1807.635,
+		"mean_AOV" : 346.58022822166134,
+		"median_AOV" : 306.0183333333333,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 12557,
+		"AOV_segment" : "Medium-Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2857.3203125,
+		"median_actual_LTV_6m" : 1259.605,
+		"mean_AOV" : 153.89245868441932,
+		"median_AOV" : 155.60416666666669,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 12583,
+		"AOV_segment" : "High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 3219.7440625,
+		"median_actual_LTV_6m" : 1807.635,
+		"mean_AOV" : 346.58022822166134,
+		"median_AOV" : 306.0183333333333,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 12600,
+		"AOV_segment" : "Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2300.35265625,
+		"median_actual_LTV_6m" : 1142.935,
+		"mean_AOV" : 82.87733947805262,
+		"median_AOV" : 90.28,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 12647,
+		"AOV_segment" : "Medium-Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2857.3203125,
+		"median_actual_LTV_6m" : 1259.605,
+		"mean_AOV" : 153.89245868441932,
+		"median_AOV" : 155.60416666666669,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 12681,
+		"AOV_segment" : "High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 3219.7440625,
+		"median_actual_LTV_6m" : 1807.635,
+		"mean_AOV" : 346.58022822166134,
+		"median_AOV" : 306.0183333333333,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 12682,
+		"AOV_segment" : "Medium-Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2857.3203125,
+		"median_actual_LTV_6m" : 1259.605,
+		"mean_AOV" : 153.89245868441932,
+		"median_AOV" : 155.60416666666669,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 12708,
+		"AOV_segment" : "Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2300.35265625,
+		"median_actual_LTV_6m" : 1142.935,
+		"mean_AOV" : 82.87733947805262,
+		"median_AOV" : 90.28,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 12709,
+		"AOV_segment" : "Medium-Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2857.3203125,
+		"median_actual_LTV_6m" : 1259.605,
+		"mean_AOV" : 153.89245868441932,
+		"median_AOV" : 155.60416666666669,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 12712,
+		"AOV_segment" : "Medium-Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2857.3203125,
+		"median_actual_LTV_6m" : 1259.605,
+		"mean_AOV" : 153.89245868441932,
+		"median_AOV" : 155.60416666666669,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 12720,
+		"AOV_segment" : "Medium-High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 5530.321875,
+		"median_actual_LTV_6m" : 2274.98,
+		"mean_AOV" : 200.37305932389376,
+		"median_AOV" : 200.72766203703705,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 12747,
+		"AOV_segment" : "High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 3219.7440625,
+		"median_actual_LTV_6m" : 1807.635,
+		"mean_AOV" : 346.58022822166134,
+		"median_AOV" : 306.0183333333333,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 12748,
+		"AOV_segment" : "Medium-High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 5530.321875,
+		"median_actual_LTV_6m" : 2274.98,
+		"mean_AOV" : 200.37305932389376,
+		"median_AOV" : 200.72766203703705,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 12779,
+		"AOV_segment" : "High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 3219.7440625,
+		"median_actual_LTV_6m" : 1807.635,
+		"mean_AOV" : 346.58022822166134,
+		"median_AOV" : 306.0183333333333,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 12793,
+		"AOV_segment" : "High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 3219.7440625,
+		"median_actual_LTV_6m" : 1807.635,
+		"mean_AOV" : 346.58022822166134,
+		"median_AOV" : 306.0183333333333,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 12839,
+		"AOV_segment" : "Medium-High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 5530.321875,
+		"median_actual_LTV_6m" : 2274.98,
+		"mean_AOV" : 200.37305932389376,
+		"median_AOV" : 200.72766203703705,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 12841,
+		"AOV_segment" : "High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 3219.7440625,
+		"median_actual_LTV_6m" : 1807.635,
+		"mean_AOV" : 346.58022822166134,
+		"median_AOV" : 306.0183333333333,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 12868,
+		"AOV_segment" : "High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 3219.7440625,
+		"median_actual_LTV_6m" : 1807.635,
+		"mean_AOV" : 346.58022822166134,
+		"median_AOV" : 306.0183333333333,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 12921,
+		"AOV_segment" : "Medium-High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 5530.321875,
+		"median_actual_LTV_6m" : 2274.98,
+		"mean_AOV" : 200.37305932389376,
+		"median_AOV" : 200.72766203703705,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 12947,
+		"AOV_segment" : "Medium-High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 5530.321875,
+		"median_actual_LTV_6m" : 2274.98,
+		"mean_AOV" : 200.37305932389376,
+		"median_AOV" : 200.72766203703705,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 12967,
+		"AOV_segment" : "Medium-High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 5530.321875,
+		"median_actual_LTV_6m" : 2274.98,
+		"mean_AOV" : 200.37305932389376,
+		"median_AOV" : 200.72766203703705,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 12971,
+		"AOV_segment" : "High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 3219.7440625,
+		"median_actual_LTV_6m" : 1807.635,
+		"mean_AOV" : 346.58022822166134,
+		"median_AOV" : 306.0183333333333,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 13047,
+		"AOV_segment" : "Medium-Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2857.3203125,
+		"median_actual_LTV_6m" : 1259.605,
+		"mean_AOV" : 153.89245868441932,
+		"median_AOV" : 155.60416666666669,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 13050,
+		"AOV_segment" : "Medium-High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 5530.321875,
+		"median_actual_LTV_6m" : 2274.98,
+		"mean_AOV" : 200.37305932389376,
+		"median_AOV" : 200.72766203703705,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 13069,
+		"AOV_segment" : "Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2300.35265625,
+		"median_actual_LTV_6m" : 1142.935,
+		"mean_AOV" : 82.87733947805262,
+		"median_AOV" : 90.28,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 13078,
+		"AOV_segment" : "High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 3219.7440625,
+		"median_actual_LTV_6m" : 1807.635,
+		"mean_AOV" : 346.58022822166134,
+		"median_AOV" : 306.0183333333333,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 13081,
+		"AOV_segment" : "Medium-High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 5530.321875,
+		"median_actual_LTV_6m" : 2274.98,
+		"mean_AOV" : 200.37305932389376,
+		"median_AOV" : 200.72766203703705,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 13089,
+		"AOV_segment" : "Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2300.35265625,
+		"median_actual_LTV_6m" : 1142.935,
+		"mean_AOV" : 82.87733947805262,
+		"median_AOV" : 90.28,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 13090,
+		"AOV_segment" : "Medium-High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 5530.321875,
+		"median_actual_LTV_6m" : 2274.98,
+		"mean_AOV" : 200.37305932389376,
+		"median_AOV" : 200.72766203703705,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 13093,
+		"AOV_segment" : "Medium-High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 5530.321875,
+		"median_actual_LTV_6m" : 2274.98,
+		"mean_AOV" : 200.37305932389376,
+		"median_AOV" : 200.72766203703705,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 13094,
+		"AOV_segment" : "Medium-Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2857.3203125,
+		"median_actual_LTV_6m" : 1259.605,
+		"mean_AOV" : 153.89245868441932,
+		"median_AOV" : 155.60416666666669,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 13117,
+		"AOV_segment" : "Medium-High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 5530.321875,
+		"median_actual_LTV_6m" : 2274.98,
+		"mean_AOV" : 200.37305932389376,
+		"median_AOV" : 200.72766203703705,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 13126,
+		"AOV_segment" : "Medium-Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2857.3203125,
+		"median_actual_LTV_6m" : 1259.605,
+		"mean_AOV" : 153.89245868441932,
+		"median_AOV" : 155.60416666666669,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 13155,
+		"AOV_segment" : "Medium-High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 5530.321875,
+		"median_actual_LTV_6m" : 2274.98,
+		"mean_AOV" : 200.37305932389376,
+		"median_AOV" : 200.72766203703705,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 13199,
+		"AOV_segment" : "Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2300.35265625,
+		"median_actual_LTV_6m" : 1142.935,
+		"mean_AOV" : 82.87733947805262,
+		"median_AOV" : 90.28,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 13267,
+		"AOV_segment" : "High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 3219.7440625,
+		"median_actual_LTV_6m" : 1807.635,
+		"mean_AOV" : 346.58022822166134,
+		"median_AOV" : 306.0183333333333,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 13269,
+		"AOV_segment" : "Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2300.35265625,
+		"median_actual_LTV_6m" : 1142.935,
+		"mean_AOV" : 82.87733947805262,
+		"median_AOV" : 90.28,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 13295,
+		"AOV_segment" : "Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2300.35265625,
+		"median_actual_LTV_6m" : 1142.935,
+		"mean_AOV" : 82.87733947805262,
+		"median_AOV" : 90.28,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 13319,
+		"AOV_segment" : "Medium-High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 5530.321875,
+		"median_actual_LTV_6m" : 2274.98,
+		"mean_AOV" : 200.37305932389376,
+		"median_AOV" : 200.72766203703705,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 13329,
+		"AOV_segment" : "Medium-High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 5530.321875,
+		"median_actual_LTV_6m" : 2274.98,
+		"mean_AOV" : 200.37305932389376,
+		"median_AOV" : 200.72766203703705,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 13370,
+		"AOV_segment" : "Medium-Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2857.3203125,
+		"median_actual_LTV_6m" : 1259.605,
+		"mean_AOV" : 153.89245868441932,
+		"median_AOV" : 155.60416666666669,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 13408,
+		"AOV_segment" : "Medium-Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2857.3203125,
+		"median_actual_LTV_6m" : 1259.605,
+		"mean_AOV" : 153.89245868441932,
+		"median_AOV" : 155.60416666666669,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 13418,
+		"AOV_segment" : "Medium-High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 5530.321875,
+		"median_actual_LTV_6m" : 2274.98,
+		"mean_AOV" : 200.37305932389376,
+		"median_AOV" : 200.72766203703705,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 13448,
+		"AOV_segment" : "Medium-Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2857.3203125,
+		"median_actual_LTV_6m" : 1259.605,
+		"mean_AOV" : 153.89245868441932,
+		"median_AOV" : 155.60416666666669,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 13468,
+		"AOV_segment" : "Medium-High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 5530.321875,
+		"median_actual_LTV_6m" : 2274.98,
+		"mean_AOV" : 200.37305932389376,
+		"median_AOV" : 200.72766203703705,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 13488,
+		"AOV_segment" : "Medium-High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 5530.321875,
+		"median_actual_LTV_6m" : 2274.98,
+		"mean_AOV" : 200.37305932389376,
+		"median_AOV" : 200.72766203703705,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 13491,
+		"AOV_segment" : "High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 3219.7440625,
+		"median_actual_LTV_6m" : 1807.635,
+		"mean_AOV" : 346.58022822166134,
+		"median_AOV" : 306.0183333333333,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 13495,
+		"AOV_segment" : "High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 3219.7440625,
+		"median_actual_LTV_6m" : 1807.635,
+		"mean_AOV" : 346.58022822166134,
+		"median_AOV" : 306.0183333333333,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 13520,
+		"AOV_segment" : "High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 3219.7440625,
+		"median_actual_LTV_6m" : 1807.635,
+		"mean_AOV" : 346.58022822166134,
+		"median_AOV" : 306.0183333333333,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 13564,
+		"AOV_segment" : "Medium-High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 5530.321875,
+		"median_actual_LTV_6m" : 2274.98,
+		"mean_AOV" : 200.37305932389376,
+		"median_AOV" : 200.72766203703705,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 13576,
+		"AOV_segment" : "Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2300.35265625,
+		"median_actual_LTV_6m" : 1142.935,
+		"mean_AOV" : 82.87733947805262,
+		"median_AOV" : 90.28,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 13599,
+		"AOV_segment" : "Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2300.35265625,
+		"median_actual_LTV_6m" : 1142.935,
+		"mean_AOV" : 82.87733947805262,
+		"median_AOV" : 90.28,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 13694,
+		"AOV_segment" : "Medium-Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2857.3203125,
+		"median_actual_LTV_6m" : 1259.605,
+		"mean_AOV" : 153.89245868441932,
+		"median_AOV" : 155.60416666666669,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 13715,
+		"AOV_segment" : "Medium-Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2857.3203125,
+		"median_actual_LTV_6m" : 1259.605,
+		"mean_AOV" : 153.89245868441932,
+		"median_AOV" : 155.60416666666669,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 13756,
+		"AOV_segment" : "Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2300.35265625,
+		"median_actual_LTV_6m" : 1142.935,
+		"mean_AOV" : 82.87733947805262,
+		"median_AOV" : 90.28,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 13758,
+		"AOV_segment" : "Medium-Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2857.3203125,
+		"median_actual_LTV_6m" : 1259.605,
+		"mean_AOV" : 153.89245868441932,
+		"median_AOV" : 155.60416666666669,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 13767,
+		"AOV_segment" : "Medium-High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 5530.321875,
+		"median_actual_LTV_6m" : 2274.98,
+		"mean_AOV" : 200.37305932389376,
+		"median_AOV" : 200.72766203703705,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 13769,
+		"AOV_segment" : "Medium-High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 5530.321875,
+		"median_actual_LTV_6m" : 2274.98,
+		"mean_AOV" : 200.37305932389376,
+		"median_AOV" : 200.72766203703705,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 13777,
+		"AOV_segment" : "Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2300.35265625,
+		"median_actual_LTV_6m" : 1142.935,
+		"mean_AOV" : 82.87733947805262,
+		"median_AOV" : 90.28,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 13798,
+		"AOV_segment" : "Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2300.35265625,
+		"median_actual_LTV_6m" : 1142.935,
+		"mean_AOV" : 82.87733947805262,
+		"median_AOV" : 90.28,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 13842,
+		"AOV_segment" : "High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 3219.7440625,
+		"median_actual_LTV_6m" : 1807.635,
+		"mean_AOV" : 346.58022822166134,
+		"median_AOV" : 306.0183333333333,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 13963,
+		"AOV_segment" : "Medium-High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 5530.321875,
+		"median_actual_LTV_6m" : 2274.98,
+		"mean_AOV" : 200.37305932389376,
+		"median_AOV" : 200.72766203703705,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 13983,
+		"AOV_segment" : "High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 3219.7440625,
+		"median_actual_LTV_6m" : 1807.635,
+		"mean_AOV" : 346.58022822166134,
+		"median_AOV" : 306.0183333333333,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 14031,
+		"AOV_segment" : "Medium-Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2857.3203125,
+		"median_actual_LTV_6m" : 1259.605,
+		"mean_AOV" : 153.89245868441932,
+		"median_AOV" : 155.60416666666669,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 14032,
+		"AOV_segment" : "High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 3219.7440625,
+		"median_actual_LTV_6m" : 1807.635,
+		"mean_AOV" : 346.58022822166134,
+		"median_AOV" : 306.0183333333333,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 14045,
+		"AOV_segment" : "Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2300.35265625,
+		"median_actual_LTV_6m" : 1142.935,
+		"mean_AOV" : 82.87733947805262,
+		"median_AOV" : 90.28,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 14047,
+		"AOV_segment" : "Medium-Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2857.3203125,
+		"median_actual_LTV_6m" : 1259.605,
+		"mean_AOV" : 153.89245868441932,
+		"median_AOV" : 155.60416666666669,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 14060,
+		"AOV_segment" : "Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2300.35265625,
+		"median_actual_LTV_6m" : 1142.935,
+		"mean_AOV" : 82.87733947805262,
+		"median_AOV" : 90.28,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 14083,
+		"AOV_segment" : "Medium-High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 5530.321875,
+		"median_actual_LTV_6m" : 2274.98,
+		"mean_AOV" : 200.37305932389376,
+		"median_AOV" : 200.72766203703705,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 14085,
+		"AOV_segment" : "High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 3219.7440625,
+		"median_actual_LTV_6m" : 1807.635,
+		"mean_AOV" : 346.58022822166134,
+		"median_AOV" : 306.0183333333333,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 14092,
+		"AOV_segment" : "Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2300.35265625,
+		"median_actual_LTV_6m" : 1142.935,
+		"mean_AOV" : 82.87733947805262,
+		"median_AOV" : 90.28,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 14135,
+		"AOV_segment" : "Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2300.35265625,
+		"median_actual_LTV_6m" : 1142.935,
+		"mean_AOV" : 82.87733947805262,
+		"median_AOV" : 90.28,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 14156,
+		"AOV_segment" : "Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2300.35265625,
+		"median_actual_LTV_6m" : 1142.935,
+		"mean_AOV" : 82.87733947805262,
+		"median_AOV" : 90.28,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 14176,
+		"AOV_segment" : "Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2300.35265625,
+		"median_actual_LTV_6m" : 1142.935,
+		"mean_AOV" : 82.87733947805262,
+		"median_AOV" : 90.28,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 14180,
+		"AOV_segment" : "High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 3219.7440625,
+		"median_actual_LTV_6m" : 1807.635,
+		"mean_AOV" : 346.58022822166134,
+		"median_AOV" : 306.0183333333333,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 14189,
+		"AOV_segment" : "Medium-Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2857.3203125,
+		"median_actual_LTV_6m" : 1259.605,
+		"mean_AOV" : 153.89245868441932,
+		"median_AOV" : 155.60416666666669,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 14210,
+		"AOV_segment" : "Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2300.35265625,
+		"median_actual_LTV_6m" : 1142.935,
+		"mean_AOV" : 82.87733947805262,
+		"median_AOV" : 90.28,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 14215,
+		"AOV_segment" : "Medium-High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 5530.321875,
+		"median_actual_LTV_6m" : 2274.98,
+		"mean_AOV" : 200.37305932389376,
+		"median_AOV" : 200.72766203703705,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 14307,
+		"AOV_segment" : "Medium-High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 5530.321875,
+		"median_actual_LTV_6m" : 2274.98,
+		"mean_AOV" : 200.37305932389376,
+		"median_AOV" : 200.72766203703705,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 14344,
+		"AOV_segment" : "Medium-Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2857.3203125,
+		"median_actual_LTV_6m" : 1259.605,
+		"mean_AOV" : 153.89245868441932,
+		"median_AOV" : 155.60416666666669,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 14388,
+		"AOV_segment" : "Medium-High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 5530.321875,
+		"median_actual_LTV_6m" : 2274.98,
+		"mean_AOV" : 200.37305932389376,
+		"median_AOV" : 200.72766203703705,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 14395,
+		"AOV_segment" : "Medium-Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2857.3203125,
+		"median_actual_LTV_6m" : 1259.605,
+		"mean_AOV" : 153.89245868441932,
+		"median_AOV" : 155.60416666666669,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 14404,
+		"AOV_segment" : "Medium-Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2857.3203125,
+		"median_actual_LTV_6m" : 1259.605,
+		"mean_AOV" : 153.89245868441932,
+		"median_AOV" : 155.60416666666669,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 14527,
+		"AOV_segment" : "Medium-Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2857.3203125,
+		"median_actual_LTV_6m" : 1259.605,
+		"mean_AOV" : 153.89245868441932,
+		"median_AOV" : 155.60416666666669,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 14606,
+		"AOV_segment" : "Medium-High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 5530.321875,
+		"median_actual_LTV_6m" : 2274.98,
+		"mean_AOV" : 200.37305932389376,
+		"median_AOV" : 200.72766203703705,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 14625,
+		"AOV_segment" : "Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2300.35265625,
+		"median_actual_LTV_6m" : 1142.935,
+		"mean_AOV" : 82.87733947805262,
+		"median_AOV" : 90.28,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 14667,
+		"AOV_segment" : "Medium-Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2857.3203125,
+		"median_actual_LTV_6m" : 1259.605,
+		"mean_AOV" : 153.89245868441932,
+		"median_AOV" : 155.60416666666669,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 14680,
+		"AOV_segment" : "Medium-High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 5530.321875,
+		"median_actual_LTV_6m" : 2274.98,
+		"mean_AOV" : 200.37305932389376,
+		"median_AOV" : 200.72766203703705,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 14688,
+		"AOV_segment" : "Medium-High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 5530.321875,
+		"median_actual_LTV_6m" : 2274.98,
+		"mean_AOV" : 200.37305932389376,
+		"median_AOV" : 200.72766203703705,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 14696,
+		"AOV_segment" : "Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2300.35265625,
+		"median_actual_LTV_6m" : 1142.935,
+		"mean_AOV" : 82.87733947805262,
+		"median_AOV" : 90.28,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 14708,
+		"AOV_segment" : "High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 3219.7440625,
+		"median_actual_LTV_6m" : 1807.635,
+		"mean_AOV" : 346.58022822166134,
+		"median_AOV" : 306.0183333333333,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 14723,
+		"AOV_segment" : "Medium-High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 5530.321875,
+		"median_actual_LTV_6m" : 2274.98,
+		"mean_AOV" : 200.37305932389376,
+		"median_AOV" : 200.72766203703705,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 14733,
+		"AOV_segment" : "High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 3219.7440625,
+		"median_actual_LTV_6m" : 1807.635,
+		"mean_AOV" : 346.58022822166134,
+		"median_AOV" : 306.0183333333333,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 14739,
+		"AOV_segment" : "Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2300.35265625,
+		"median_actual_LTV_6m" : 1142.935,
+		"mean_AOV" : 82.87733947805262,
+		"median_AOV" : 90.28,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 14741,
+		"AOV_segment" : "High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 3219.7440625,
+		"median_actual_LTV_6m" : 1807.635,
+		"mean_AOV" : 346.58022822166134,
+		"median_AOV" : 306.0183333333333,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 14748,
+		"AOV_segment" : "Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2300.35265625,
+		"median_actual_LTV_6m" : 1142.935,
+		"mean_AOV" : 82.87733947805262,
+		"median_AOV" : 90.28,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 14766,
+		"AOV_segment" : "Medium-Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2857.3203125,
+		"median_actual_LTV_6m" : 1259.605,
+		"mean_AOV" : 153.89245868441932,
+		"median_AOV" : 155.60416666666669,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 14796,
+		"AOV_segment" : "Medium-Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2857.3203125,
+		"median_actual_LTV_6m" : 1259.605,
+		"mean_AOV" : 153.89245868441932,
+		"median_AOV" : 155.60416666666669,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 14800,
+		"AOV_segment" : "Medium-High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 5530.321875,
+		"median_actual_LTV_6m" : 2274.98,
+		"mean_AOV" : 200.37305932389376,
+		"median_AOV" : 200.72766203703705,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 14810,
+		"AOV_segment" : "Medium-High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 5530.321875,
+		"median_actual_LTV_6m" : 2274.98,
+		"mean_AOV" : 200.37305932389376,
+		"median_AOV" : 200.72766203703705,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 14825,
+		"AOV_segment" : "Medium-Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2857.3203125,
+		"median_actual_LTV_6m" : 1259.605,
+		"mean_AOV" : 153.89245868441932,
+		"median_AOV" : 155.60416666666669,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 14829,
+		"AOV_segment" : "High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 3219.7440625,
+		"median_actual_LTV_6m" : 1807.635,
+		"mean_AOV" : 346.58022822166134,
+		"median_AOV" : 306.0183333333333,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 14849,
+		"AOV_segment" : "Medium-High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 5530.321875,
+		"median_actual_LTV_6m" : 2274.98,
+		"mean_AOV" : 200.37305932389376,
+		"median_AOV" : 200.72766203703705,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 14867,
+		"AOV_segment" : "Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2300.35265625,
+		"median_actual_LTV_6m" : 1142.935,
+		"mean_AOV" : 82.87733947805262,
+		"median_AOV" : 90.28,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 14898,
+		"AOV_segment" : "Medium-Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2857.3203125,
+		"median_actual_LTV_6m" : 1259.605,
+		"mean_AOV" : 153.89245868441932,
+		"median_AOV" : 155.60416666666669,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 14901,
+		"AOV_segment" : "Medium-High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 5530.321875,
+		"median_actual_LTV_6m" : 2274.98,
+		"mean_AOV" : 200.37305932389376,
+		"median_AOV" : 200.72766203703705,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 14907,
+		"AOV_segment" : "High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 3219.7440625,
+		"median_actual_LTV_6m" : 1807.635,
+		"mean_AOV" : 346.58022822166134,
+		"median_AOV" : 306.0183333333333,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 14911,
+		"AOV_segment" : "Medium-High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 5530.321875,
+		"median_actual_LTV_6m" : 2274.98,
+		"mean_AOV" : 200.37305932389376,
+		"median_AOV" : 200.72766203703705,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 14952,
+		"AOV_segment" : "Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2300.35265625,
+		"median_actual_LTV_6m" : 1142.935,
+		"mean_AOV" : 82.87733947805262,
+		"median_AOV" : 90.28,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 15002,
+		"AOV_segment" : "Medium-Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2857.3203125,
+		"median_actual_LTV_6m" : 1259.605,
+		"mean_AOV" : 153.89245868441932,
+		"median_AOV" : 155.60416666666669,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 15023,
+		"AOV_segment" : "High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 3219.7440625,
+		"median_actual_LTV_6m" : 1807.635,
+		"mean_AOV" : 346.58022822166134,
+		"median_AOV" : 306.0183333333333,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 15039,
+		"AOV_segment" : "Medium-High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 5530.321875,
+		"median_actual_LTV_6m" : 2274.98,
+		"mean_AOV" : 200.37305932389376,
+		"median_AOV" : 200.72766203703705,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 15061,
+		"AOV_segment" : "High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 3219.7440625,
+		"median_actual_LTV_6m" : 1807.635,
+		"mean_AOV" : 346.58022822166134,
+		"median_AOV" : 306.0183333333333,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 15078,
+		"AOV_segment" : "High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 3219.7440625,
+		"median_actual_LTV_6m" : 1807.635,
+		"mean_AOV" : 346.58022822166134,
+		"median_AOV" : 306.0183333333333,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 15093,
+		"AOV_segment" : "Medium-High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 5530.321875,
+		"median_actual_LTV_6m" : 2274.98,
+		"mean_AOV" : 200.37305932389376,
+		"median_AOV" : 200.72766203703705,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 15100,
+		"AOV_segment" : "Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2300.35265625,
+		"median_actual_LTV_6m" : 1142.935,
+		"mean_AOV" : 82.87733947805262,
+		"median_AOV" : 90.28,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 15107,
+		"AOV_segment" : "High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 3219.7440625,
+		"median_actual_LTV_6m" : 1807.635,
+		"mean_AOV" : 346.58022822166134,
+		"median_AOV" : 306.0183333333333,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 15194,
+		"AOV_segment" : "Medium-Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2857.3203125,
+		"median_actual_LTV_6m" : 1259.605,
+		"mean_AOV" : 153.89245868441932,
+		"median_AOV" : 155.60416666666669,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 15221,
+		"AOV_segment" : "Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2300.35265625,
+		"median_actual_LTV_6m" : 1142.935,
+		"mean_AOV" : 82.87733947805262,
+		"median_AOV" : 90.28,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 15235,
+		"AOV_segment" : "High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 3219.7440625,
+		"median_actual_LTV_6m" : 1807.635,
+		"mean_AOV" : 346.58022822166134,
+		"median_AOV" : 306.0183333333333,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 15291,
+		"AOV_segment" : "Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2300.35265625,
+		"median_actual_LTV_6m" : 1142.935,
+		"mean_AOV" : 82.87733947805262,
+		"median_AOV" : 90.28,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 15311,
+		"AOV_segment" : "Medium-High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 5530.321875,
+		"median_actual_LTV_6m" : 2274.98,
+		"mean_AOV" : 200.37305932389376,
+		"median_AOV" : 200.72766203703705,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 15332,
+		"AOV_segment" : "Medium-Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2857.3203125,
+		"median_actual_LTV_6m" : 1259.605,
+		"mean_AOV" : 153.89245868441932,
+		"median_AOV" : 155.60416666666669,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 15356,
+		"AOV_segment" : "Medium-High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 5530.321875,
+		"median_actual_LTV_6m" : 2274.98,
+		"mean_AOV" : 200.37305932389376,
+		"median_AOV" : 200.72766203703705,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 15373,
+		"AOV_segment" : "Medium-High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 5530.321875,
+		"median_actual_LTV_6m" : 2274.98,
+		"mean_AOV" : 200.37305932389376,
+		"median_AOV" : 200.72766203703705,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 15384,
+		"AOV_segment" : "Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2300.35265625,
+		"median_actual_LTV_6m" : 1142.935,
+		"mean_AOV" : 82.87733947805262,
+		"median_AOV" : 90.28,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 15465,
+		"AOV_segment" : "High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 3219.7440625,
+		"median_actual_LTV_6m" : 1807.635,
+		"mean_AOV" : 346.58022822166134,
+		"median_AOV" : 306.0183333333333,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 15485,
+		"AOV_segment" : "Medium-Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2857.3203125,
+		"median_actual_LTV_6m" : 1259.605,
+		"mean_AOV" : 153.89245868441932,
+		"median_AOV" : 155.60416666666669,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 15498,
+		"AOV_segment" : "High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 3219.7440625,
+		"median_actual_LTV_6m" : 1807.635,
+		"mean_AOV" : 346.58022822166134,
+		"median_AOV" : 306.0183333333333,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 15513,
+		"AOV_segment" : "High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 3219.7440625,
+		"median_actual_LTV_6m" : 1807.635,
+		"mean_AOV" : 346.58022822166134,
+		"median_AOV" : 306.0183333333333,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 15529,
+		"AOV_segment" : "Medium-Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2857.3203125,
+		"median_actual_LTV_6m" : 1259.605,
+		"mean_AOV" : 153.89245868441932,
+		"median_AOV" : 155.60416666666669,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 15555,
+		"AOV_segment" : "Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2300.35265625,
+		"median_actual_LTV_6m" : 1142.935,
+		"mean_AOV" : 82.87733947805262,
+		"median_AOV" : 90.28,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 15570,
+		"AOV_segment" : "High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 3219.7440625,
+		"median_actual_LTV_6m" : 1807.635,
+		"mean_AOV" : 346.58022822166134,
+		"median_AOV" : 306.0183333333333,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 15574,
+		"AOV_segment" : "High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 3219.7440625,
+		"median_actual_LTV_6m" : 1807.635,
+		"mean_AOV" : 346.58022822166134,
+		"median_AOV" : 306.0183333333333,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 15601,
+		"AOV_segment" : "Medium-High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 5530.321875,
+		"median_actual_LTV_6m" : 2274.98,
+		"mean_AOV" : 200.37305932389376,
+		"median_AOV" : 200.72766203703705,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 15602,
+		"AOV_segment" : "High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 3219.7440625,
+		"median_actual_LTV_6m" : 1807.635,
+		"mean_AOV" : 346.58022822166134,
+		"median_AOV" : 306.0183333333333,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 15640,
+		"AOV_segment" : "Medium-Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2857.3203125,
+		"median_actual_LTV_6m" : 1259.605,
+		"mean_AOV" : 153.89245868441932,
+		"median_AOV" : 155.60416666666669,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 15649,
+		"AOV_segment" : "Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2300.35265625,
+		"median_actual_LTV_6m" : 1142.935,
+		"mean_AOV" : 82.87733947805262,
+		"median_AOV" : 90.28,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 15694,
+		"AOV_segment" : "High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 3219.7440625,
+		"median_actual_LTV_6m" : 1807.635,
+		"mean_AOV" : 346.58022822166134,
+		"median_AOV" : 306.0183333333333,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 15708,
+		"AOV_segment" : "Medium-Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2857.3203125,
+		"median_actual_LTV_6m" : 1259.605,
+		"mean_AOV" : 153.89245868441932,
+		"median_AOV" : 155.60416666666669,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 15738,
+		"AOV_segment" : "Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2300.35265625,
+		"median_actual_LTV_6m" : 1142.935,
+		"mean_AOV" : 82.87733947805262,
+		"median_AOV" : 90.28,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 15750,
+		"AOV_segment" : "Medium-High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 5530.321875,
+		"median_actual_LTV_6m" : 2274.98,
+		"mean_AOV" : 200.37305932389376,
+		"median_AOV" : 200.72766203703705,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 15769,
+		"AOV_segment" : "Medium-Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2857.3203125,
+		"median_actual_LTV_6m" : 1259.605,
+		"mean_AOV" : 153.89245868441932,
+		"median_AOV" : 155.60416666666669,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 15808,
+		"AOV_segment" : "High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 3219.7440625,
+		"median_actual_LTV_6m" : 1807.635,
+		"mean_AOV" : 346.58022822166134,
+		"median_AOV" : 306.0183333333333,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 15823,
+		"AOV_segment" : "Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2300.35265625,
+		"median_actual_LTV_6m" : 1142.935,
+		"mean_AOV" : 82.87733947805262,
+		"median_AOV" : 90.28,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 15867,
+		"AOV_segment" : "Medium-Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2857.3203125,
+		"median_actual_LTV_6m" : 1259.605,
+		"mean_AOV" : 153.89245868441932,
+		"median_AOV" : 155.60416666666669,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 15953,
+		"AOV_segment" : "High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 3219.7440625,
+		"median_actual_LTV_6m" : 1807.635,
+		"mean_AOV" : 346.58022822166134,
+		"median_AOV" : 306.0183333333333,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 15973,
+		"AOV_segment" : "Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2300.35265625,
+		"median_actual_LTV_6m" : 1142.935,
+		"mean_AOV" : 82.87733947805262,
+		"median_AOV" : 90.28,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 15983,
+		"AOV_segment" : "Medium-High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 5530.321875,
+		"median_actual_LTV_6m" : 2274.98,
+		"mean_AOV" : 200.37305932389376,
+		"median_AOV" : 200.72766203703705,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 15984,
+		"AOV_segment" : "Medium-High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 5530.321875,
+		"median_actual_LTV_6m" : 2274.98,
+		"mean_AOV" : 200.37305932389376,
+		"median_AOV" : 200.72766203703705,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 16013,
+		"AOV_segment" : "Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2300.35265625,
+		"median_actual_LTV_6m" : 1142.935,
+		"mean_AOV" : 82.87733947805262,
+		"median_AOV" : 90.28,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 16016,
+		"AOV_segment" : "High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 3219.7440625,
+		"median_actual_LTV_6m" : 1807.635,
+		"mean_AOV" : 346.58022822166134,
+		"median_AOV" : 306.0183333333333,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 16029,
+		"AOV_segment" : "High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 3219.7440625,
+		"median_actual_LTV_6m" : 1807.635,
+		"mean_AOV" : 346.58022822166134,
+		"median_AOV" : 306.0183333333333,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 16033,
+		"AOV_segment" : "High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 3219.7440625,
+		"median_actual_LTV_6m" : 1807.635,
+		"mean_AOV" : 346.58022822166134,
+		"median_AOV" : 306.0183333333333,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 16042,
+		"AOV_segment" : "Medium-Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2857.3203125,
+		"median_actual_LTV_6m" : 1259.605,
+		"mean_AOV" : 153.89245868441932,
+		"median_AOV" : 155.60416666666669,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 16059,
+		"AOV_segment" : "Medium-Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2857.3203125,
+		"median_actual_LTV_6m" : 1259.605,
+		"mean_AOV" : 153.89245868441932,
+		"median_AOV" : 155.60416666666669,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 16122,
+		"AOV_segment" : "Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2300.35265625,
+		"median_actual_LTV_6m" : 1142.935,
+		"mean_AOV" : 82.87733947805262,
+		"median_AOV" : 90.28,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 16143,
+		"AOV_segment" : "High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 3219.7440625,
+		"median_actual_LTV_6m" : 1807.635,
+		"mean_AOV" : 346.58022822166134,
+		"median_AOV" : 306.0183333333333,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 16150,
+		"AOV_segment" : "Medium-High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 5530.321875,
+		"median_actual_LTV_6m" : 2274.98,
+		"mean_AOV" : 200.37305932389376,
+		"median_AOV" : 200.72766203703705,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 16161,
+		"AOV_segment" : "Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2300.35265625,
+		"median_actual_LTV_6m" : 1142.935,
+		"mean_AOV" : 82.87733947805262,
+		"median_AOV" : 90.28,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 16203,
+		"AOV_segment" : "Medium-Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2857.3203125,
+		"median_actual_LTV_6m" : 1259.605,
+		"mean_AOV" : 153.89245868441932,
+		"median_AOV" : 155.60416666666669,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 16210,
+		"AOV_segment" : "Medium-High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 5530.321875,
+		"median_actual_LTV_6m" : 2274.98,
+		"mean_AOV" : 200.37305932389376,
+		"median_AOV" : 200.72766203703705,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 16241,
+		"AOV_segment" : "Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2300.35265625,
+		"median_actual_LTV_6m" : 1142.935,
+		"mean_AOV" : 82.87733947805262,
+		"median_AOV" : 90.28,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 16306,
+		"AOV_segment" : "Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2300.35265625,
+		"median_actual_LTV_6m" : 1142.935,
+		"mean_AOV" : 82.87733947805262,
+		"median_AOV" : 90.28,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 16353,
+		"AOV_segment" : "Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2300.35265625,
+		"median_actual_LTV_6m" : 1142.935,
+		"mean_AOV" : 82.87733947805262,
+		"median_AOV" : 90.28,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 16365,
+		"AOV_segment" : "Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2300.35265625,
+		"median_actual_LTV_6m" : 1142.935,
+		"mean_AOV" : 82.87733947805262,
+		"median_AOV" : 90.28,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 16393,
+		"AOV_segment" : "Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2300.35265625,
+		"median_actual_LTV_6m" : 1142.935,
+		"mean_AOV" : 82.87733947805262,
+		"median_AOV" : 90.28,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 16422,
+		"AOV_segment" : "Medium-Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2857.3203125,
+		"median_actual_LTV_6m" : 1259.605,
+		"mean_AOV" : 153.89245868441932,
+		"median_AOV" : 155.60416666666669,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 16455,
+		"AOV_segment" : "Medium-Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2857.3203125,
+		"median_actual_LTV_6m" : 1259.605,
+		"mean_AOV" : 153.89245868441932,
+		"median_AOV" : 155.60416666666669,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 16477,
+		"AOV_segment" : "Medium-High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 5530.321875,
+		"median_actual_LTV_6m" : 2274.98,
+		"mean_AOV" : 200.37305932389376,
+		"median_AOV" : 200.72766203703705,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 16525,
+		"AOV_segment" : "Medium-High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 5530.321875,
+		"median_actual_LTV_6m" : 2274.98,
+		"mean_AOV" : 200.37305932389376,
+		"median_AOV" : 200.72766203703705,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 16539,
+		"AOV_segment" : "High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 3219.7440625,
+		"median_actual_LTV_6m" : 1807.635,
+		"mean_AOV" : 346.58022822166134,
+		"median_AOV" : 306.0183333333333,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 16558,
+		"AOV_segment" : "Medium-Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2857.3203125,
+		"median_actual_LTV_6m" : 1259.605,
+		"mean_AOV" : 153.89245868441932,
+		"median_AOV" : 155.60416666666669,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 16638,
+		"AOV_segment" : "Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2300.35265625,
+		"median_actual_LTV_6m" : 1142.935,
+		"mean_AOV" : 82.87733947805262,
+		"median_AOV" : 90.28,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 16710,
+		"AOV_segment" : "Medium-Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2857.3203125,
+		"median_actual_LTV_6m" : 1259.605,
+		"mean_AOV" : 153.89245868441932,
+		"median_AOV" : 155.60416666666669,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 16713,
+		"AOV_segment" : "Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2300.35265625,
+		"median_actual_LTV_6m" : 1142.935,
+		"mean_AOV" : 82.87733947805262,
+		"median_AOV" : 90.28,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 16719,
+		"AOV_segment" : "Medium-High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 5530.321875,
+		"median_actual_LTV_6m" : 2274.98,
+		"mean_AOV" : 200.37305932389376,
+		"median_AOV" : 200.72766203703705,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 16722,
+		"AOV_segment" : "Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2300.35265625,
+		"median_actual_LTV_6m" : 1142.935,
+		"mean_AOV" : 82.87733947805262,
+		"median_AOV" : 90.28,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 16725,
+		"AOV_segment" : "Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2300.35265625,
+		"median_actual_LTV_6m" : 1142.935,
+		"mean_AOV" : 82.87733947805262,
+		"median_AOV" : 90.28,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 16770,
+		"AOV_segment" : "High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 3219.7440625,
+		"median_actual_LTV_6m" : 1807.635,
+		"mean_AOV" : 346.58022822166134,
+		"median_AOV" : 306.0183333333333,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 16775,
+		"AOV_segment" : "Medium-Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2857.3203125,
+		"median_actual_LTV_6m" : 1259.605,
+		"mean_AOV" : 153.89245868441932,
+		"median_AOV" : 155.60416666666669,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 16779,
+		"AOV_segment" : "High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 3219.7440625,
+		"median_actual_LTV_6m" : 1807.635,
+		"mean_AOV" : 346.58022822166134,
+		"median_AOV" : 306.0183333333333,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 16781,
+		"AOV_segment" : "Medium-Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2857.3203125,
+		"median_actual_LTV_6m" : 1259.605,
+		"mean_AOV" : 153.89245868441932,
+		"median_AOV" : 155.60416666666669,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 16782,
+		"AOV_segment" : "Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2300.35265625,
+		"median_actual_LTV_6m" : 1142.935,
+		"mean_AOV" : 82.87733947805262,
+		"median_AOV" : 90.28,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 16814,
+		"AOV_segment" : "High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 3219.7440625,
+		"median_actual_LTV_6m" : 1807.635,
+		"mean_AOV" : 346.58022822166134,
+		"median_AOV" : 306.0183333333333,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 16817,
+		"AOV_segment" : "Medium-High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 5530.321875,
+		"median_actual_LTV_6m" : 2274.98,
+		"mean_AOV" : 200.37305932389376,
+		"median_AOV" : 200.72766203703705,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 16839,
+		"AOV_segment" : "Medium-Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2857.3203125,
+		"median_actual_LTV_6m" : 1259.605,
+		"mean_AOV" : 153.89245868441932,
+		"median_AOV" : 155.60416666666669,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 16858,
+		"AOV_segment" : "Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2300.35265625,
+		"median_actual_LTV_6m" : 1142.935,
+		"mean_AOV" : 82.87733947805262,
+		"median_AOV" : 90.28,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 16863,
+		"AOV_segment" : "High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 3219.7440625,
+		"median_actual_LTV_6m" : 1807.635,
+		"mean_AOV" : 346.58022822166134,
+		"median_AOV" : 306.0183333333333,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 16898,
+		"AOV_segment" : "High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 3219.7440625,
+		"median_actual_LTV_6m" : 1807.635,
+		"mean_AOV" : 346.58022822166134,
+		"median_AOV" : 306.0183333333333,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 16904,
+		"AOV_segment" : "Medium-High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 5530.321875,
+		"median_actual_LTV_6m" : 2274.98,
+		"mean_AOV" : 200.37305932389376,
+		"median_AOV" : 200.72766203703705,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 16919,
+		"AOV_segment" : "High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 3219.7440625,
+		"median_actual_LTV_6m" : 1807.635,
+		"mean_AOV" : 346.58022822166134,
+		"median_AOV" : 306.0183333333333,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 16931,
+		"AOV_segment" : "High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 3219.7440625,
+		"median_actual_LTV_6m" : 1807.635,
+		"mean_AOV" : 346.58022822166134,
+		"median_AOV" : 306.0183333333333,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 16955,
+		"AOV_segment" : "Medium-Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2857.3203125,
+		"median_actual_LTV_6m" : 1259.605,
+		"mean_AOV" : 153.89245868441932,
+		"median_AOV" : 155.60416666666669,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 17017,
+		"AOV_segment" : "Medium-High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 5530.321875,
+		"median_actual_LTV_6m" : 2274.98,
+		"mean_AOV" : 200.37305932389376,
+		"median_AOV" : 200.72766203703705,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 17019,
+		"AOV_segment" : "Medium-Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2857.3203125,
+		"median_actual_LTV_6m" : 1259.605,
+		"mean_AOV" : 153.89245868441932,
+		"median_AOV" : 155.60416666666669,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 17062,
+		"AOV_segment" : "High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 3219.7440625,
+		"median_actual_LTV_6m" : 1807.635,
+		"mean_AOV" : 346.58022822166134,
+		"median_AOV" : 306.0183333333333,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 17068,
+		"AOV_segment" : "Medium-Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2857.3203125,
+		"median_actual_LTV_6m" : 1259.605,
+		"mean_AOV" : 153.89245868441932,
+		"median_AOV" : 155.60416666666669,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 17069,
+		"AOV_segment" : "High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 3219.7440625,
+		"median_actual_LTV_6m" : 1807.635,
+		"mean_AOV" : 346.58022822166134,
+		"median_AOV" : 306.0183333333333,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 17091,
+		"AOV_segment" : "High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 3219.7440625,
+		"median_actual_LTV_6m" : 1807.635,
+		"mean_AOV" : 346.58022822166134,
+		"median_AOV" : 306.0183333333333,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 17198,
+		"AOV_segment" : "High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 3219.7440625,
+		"median_actual_LTV_6m" : 1807.635,
+		"mean_AOV" : 346.58022822166134,
+		"median_AOV" : 306.0183333333333,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 17211,
+		"AOV_segment" : "High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 3219.7440625,
+		"median_actual_LTV_6m" : 1807.635,
+		"mean_AOV" : 346.58022822166134,
+		"median_AOV" : 306.0183333333333,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 17218,
+		"AOV_segment" : "Medium-Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2857.3203125,
+		"median_actual_LTV_6m" : 1259.605,
+		"mean_AOV" : 153.89245868441932,
+		"median_AOV" : 155.60416666666669,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 17243,
+		"AOV_segment" : "Medium-High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 5530.321875,
+		"median_actual_LTV_6m" : 2274.98,
+		"mean_AOV" : 200.37305932389376,
+		"median_AOV" : 200.72766203703705,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 17346,
+		"AOV_segment" : "Medium-Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2857.3203125,
+		"median_actual_LTV_6m" : 1259.605,
+		"mean_AOV" : 153.89245868441932,
+		"median_AOV" : 155.60416666666669,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 17377,
+		"AOV_segment" : "Medium-Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2857.3203125,
+		"median_actual_LTV_6m" : 1259.605,
+		"mean_AOV" : 153.89245868441932,
+		"median_AOV" : 155.60416666666669,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 17381,
+		"AOV_segment" : "Medium-Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2857.3203125,
+		"median_actual_LTV_6m" : 1259.605,
+		"mean_AOV" : 153.89245868441932,
+		"median_AOV" : 155.60416666666669,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 17402,
+		"AOV_segment" : "Medium-High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 5530.321875,
+		"median_actual_LTV_6m" : 2274.98,
+		"mean_AOV" : 200.37305932389376,
+		"median_AOV" : 200.72766203703705,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 17406,
+		"AOV_segment" : "Medium-High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 5530.321875,
+		"median_actual_LTV_6m" : 2274.98,
+		"mean_AOV" : 200.37305932389376,
+		"median_AOV" : 200.72766203703705,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 17412,
+		"AOV_segment" : "Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2300.35265625,
+		"median_actual_LTV_6m" : 1142.935,
+		"mean_AOV" : 82.87733947805262,
+		"median_AOV" : 90.28,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 17419,
+		"AOV_segment" : "Medium-Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2857.3203125,
+		"median_actual_LTV_6m" : 1259.605,
+		"mean_AOV" : 153.89245868441932,
+		"median_AOV" : 155.60416666666669,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 17428,
+		"AOV_segment" : "Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2300.35265625,
+		"median_actual_LTV_6m" : 1142.935,
+		"mean_AOV" : 82.87733947805262,
+		"median_AOV" : 90.28,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 17450,
+		"AOV_segment" : "Medium-Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2857.3203125,
+		"median_actual_LTV_6m" : 1259.605,
+		"mean_AOV" : 153.89245868441932,
+		"median_AOV" : 155.60416666666669,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 17491,
+		"AOV_segment" : "Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2300.35265625,
+		"median_actual_LTV_6m" : 1142.935,
+		"mean_AOV" : 82.87733947805262,
+		"median_AOV" : 90.28,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 17511,
+		"AOV_segment" : "Medium-High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 5530.321875,
+		"median_actual_LTV_6m" : 2274.98,
+		"mean_AOV" : 200.37305932389376,
+		"median_AOV" : 200.72766203703705,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 17519,
+		"AOV_segment" : "Medium-High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 5530.321875,
+		"median_actual_LTV_6m" : 2274.98,
+		"mean_AOV" : 200.37305932389376,
+		"median_AOV" : 200.72766203703705,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 17581,
+		"AOV_segment" : "Medium-Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2857.3203125,
+		"median_actual_LTV_6m" : 1259.605,
+		"mean_AOV" : 153.89245868441932,
+		"median_AOV" : 155.60416666666669,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 17659,
+		"AOV_segment" : "High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 3219.7440625,
+		"median_actual_LTV_6m" : 1807.635,
+		"mean_AOV" : 346.58022822166134,
+		"median_AOV" : 306.0183333333333,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 17675,
+		"AOV_segment" : "High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 3219.7440625,
+		"median_actual_LTV_6m" : 1807.635,
+		"mean_AOV" : 346.58022822166134,
+		"median_AOV" : 306.0183333333333,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 17677,
+		"AOV_segment" : "Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2300.35265625,
+		"median_actual_LTV_6m" : 1142.935,
+		"mean_AOV" : 82.87733947805262,
+		"median_AOV" : 90.28,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 17685,
+		"AOV_segment" : "Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2300.35265625,
+		"median_actual_LTV_6m" : 1142.935,
+		"mean_AOV" : 82.87733947805262,
+		"median_AOV" : 90.28,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 17690,
+		"AOV_segment" : "Medium-Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2857.3203125,
+		"median_actual_LTV_6m" : 1259.605,
+		"mean_AOV" : 153.89245868441932,
+		"median_AOV" : 155.60416666666669,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 17691,
+		"AOV_segment" : "Medium-Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2857.3203125,
+		"median_actual_LTV_6m" : 1259.605,
+		"mean_AOV" : 153.89245868441932,
+		"median_AOV" : 155.60416666666669,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 17757,
+		"AOV_segment" : "Medium-High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 5530.321875,
+		"median_actual_LTV_6m" : 2274.98,
+		"mean_AOV" : 200.37305932389376,
+		"median_AOV" : 200.72766203703705,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 17787,
+		"AOV_segment" : "Medium-Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2857.3203125,
+		"median_actual_LTV_6m" : 1259.605,
+		"mean_AOV" : 153.89245868441932,
+		"median_AOV" : 155.60416666666669,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 17796,
+		"AOV_segment" : "Medium-High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 5530.321875,
+		"median_actual_LTV_6m" : 2274.98,
+		"mean_AOV" : 200.37305932389376,
+		"median_AOV" : 200.72766203703705,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 17819,
+		"AOV_segment" : "High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 3219.7440625,
+		"median_actual_LTV_6m" : 1807.635,
+		"mean_AOV" : 346.58022822166134,
+		"median_AOV" : 306.0183333333333,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 17838,
+		"AOV_segment" : "High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 3219.7440625,
+		"median_actual_LTV_6m" : 1807.635,
+		"mean_AOV" : 346.58022822166134,
+		"median_AOV" : 306.0183333333333,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 17841,
+		"AOV_segment" : "Medium-High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 5530.321875,
+		"median_actual_LTV_6m" : 2274.98,
+		"mean_AOV" : 200.37305932389376,
+		"median_AOV" : 200.72766203703705,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 17858,
+		"AOV_segment" : "Medium-Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2857.3203125,
+		"median_actual_LTV_6m" : 1259.605,
+		"mean_AOV" : 153.89245868441932,
+		"median_AOV" : 155.60416666666669,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 17905,
+		"AOV_segment" : "Medium-High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 5530.321875,
+		"median_actual_LTV_6m" : 2274.98,
+		"mean_AOV" : 200.37305932389376,
+		"median_AOV" : 200.72766203703705,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 17924,
+		"AOV_segment" : "Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2300.35265625,
+		"median_actual_LTV_6m" : 1142.935,
+		"mean_AOV" : 82.87733947805262,
+		"median_AOV" : 90.28,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 17949,
+		"AOV_segment" : "Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2300.35265625,
+		"median_actual_LTV_6m" : 1142.935,
+		"mean_AOV" : 82.87733947805262,
+		"median_AOV" : 90.28,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 17951,
+		"AOV_segment" : "Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2300.35265625,
+		"median_actual_LTV_6m" : 1142.935,
+		"mean_AOV" : 82.87733947805262,
+		"median_AOV" : 90.28,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 17954,
+		"AOV_segment" : "Medium-High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 5530.321875,
+		"median_actual_LTV_6m" : 2274.98,
+		"mean_AOV" : 200.37305932389376,
+		"median_AOV" : 200.72766203703705,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 17961,
+		"AOV_segment" : "High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 3219.7440625,
+		"median_actual_LTV_6m" : 1807.635,
+		"mean_AOV" : 346.58022822166134,
+		"median_AOV" : 306.0183333333333,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 17965,
+		"AOV_segment" : "Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2300.35265625,
+		"median_actual_LTV_6m" : 1142.935,
+		"mean_AOV" : 82.87733947805262,
+		"median_AOV" : 90.28,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 17975,
+		"AOV_segment" : "Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2300.35265625,
+		"median_actual_LTV_6m" : 1142.935,
+		"mean_AOV" : 82.87733947805262,
+		"median_AOV" : 90.28,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 18041,
+		"AOV_segment" : "Medium-High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 5530.321875,
+		"median_actual_LTV_6m" : 2274.98,
+		"mean_AOV" : 200.37305932389376,
+		"median_AOV" : 200.72766203703705,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 18055,
+		"AOV_segment" : "Medium-Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2857.3203125,
+		"median_actual_LTV_6m" : 1259.605,
+		"mean_AOV" : 153.89245868441932,
+		"median_AOV" : 155.60416666666669,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 18077,
+		"AOV_segment" : "Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2300.35265625,
+		"median_actual_LTV_6m" : 1142.935,
+		"mean_AOV" : 82.87733947805262,
+		"median_AOV" : 90.28,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 18085,
+		"AOV_segment" : "Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2300.35265625,
+		"median_actual_LTV_6m" : 1142.935,
+		"mean_AOV" : 82.87733947805262,
+		"median_AOV" : 90.28,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 18102,
+		"AOV_segment" : "Medium-Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2857.3203125,
+		"median_actual_LTV_6m" : 1259.605,
+		"mean_AOV" : 153.89245868441932,
+		"median_AOV" : 155.60416666666669,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 18109,
+		"AOV_segment" : "Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2300.35265625,
+		"median_actual_LTV_6m" : 1142.935,
+		"mean_AOV" : 82.87733947805262,
+		"median_AOV" : 90.28,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 18118,
+		"AOV_segment" : "High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 3219.7440625,
+		"median_actual_LTV_6m" : 1807.635,
+		"mean_AOV" : 346.58022822166134,
+		"median_AOV" : 306.0183333333333,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 18144,
+		"AOV_segment" : "Medium-High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 5530.321875,
+		"median_actual_LTV_6m" : 2274.98,
+		"mean_AOV" : 200.37305932389376,
+		"median_AOV" : 200.72766203703705,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 18168,
+		"AOV_segment" : "Medium-Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2857.3203125,
+		"median_actual_LTV_6m" : 1259.605,
+		"mean_AOV" : 153.89245868441932,
+		"median_AOV" : 155.60416666666669,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 18219,
+		"AOV_segment" : "Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2300.35265625,
+		"median_actual_LTV_6m" : 1142.935,
+		"mean_AOV" : 82.87733947805262,
+		"median_AOV" : 90.28,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 18225,
+		"AOV_segment" : "Low",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 2300.35265625,
+		"median_actual_LTV_6m" : 1142.935,
+		"mean_AOV" : 82.87733947805262,
+		"median_AOV" : 90.28,
+		"return_rate" : 1.0
+	},
+	{
+		"customer_id" : 18229,
+		"AOV_segment" : "Medium-High",
+		"n_customers" : 64,
+		"mean_actual_LTV_6m" : 5530.321875,
+		"median_actual_LTV_6m" : 2274.98,
+		"mean_AOV" : 200.37305932389376,
+		"median_AOV" : 200.72766203703705,
+		"return_rate" : 1.0
+	}
+]}

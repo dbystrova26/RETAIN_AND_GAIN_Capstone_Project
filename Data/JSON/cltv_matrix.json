@@ -1,0 +1,15 @@
+{
+"cltv_matrix": [
+	{
+		"frequency_segment" : "Freq_Seg1",
+		"Value_Seg1" : 574.09,
+		"Value_Seg2" : 560.46,
+		"Value_Seg3" : 767.69
+	},
+	{
+		"frequency_segment" : "Freq_Seg2",
+		"Value_Seg1" : 1261.17,
+		"Value_Seg2" : 1369.04,
+		"Value_Seg3" : 1748.93
+	}
+]}

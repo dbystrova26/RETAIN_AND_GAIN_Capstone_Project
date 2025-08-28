@@ -1,0 +1,1828 @@
+{
+"mart_marketing_spend": [
+	{
+		"date" : "2019-01-01",
+		"offline_spend" : 4500,
+		"online_spend" : 2424.5
+	},
+	{
+		"date" : "2019-01-02",
+		"offline_spend" : 4500,
+		"online_spend" : 3480.36
+	},
+	{
+		"date" : "2019-01-03",
+		"offline_spend" : 4500,
+		"online_spend" : 1576.38
+	},
+	{
+		"date" : "2019-01-04",
+		"offline_spend" : 4500,
+		"online_spend" : 2928.55
+	},
+	{
+		"date" : "2019-01-05",
+		"offline_spend" : 4500,
+		"online_spend" : 4055.3
+	},
+	{
+		"date" : "2019-01-06",
+		"offline_spend" : 4500,
+		"online_spend" : 3796.85
+	},
+	{
+		"date" : "2019-01-07",
+		"offline_spend" : 4500,
+		"online_spend" : 2579.52
+	},
+	{
+		"date" : "2019-01-08",
+		"offline_spend" : 5000,
+		"online_spend" : 2551.38
+	},
+	{
+		"date" : "2019-01-09",
+		"offline_spend" : 5000,
+		"online_spend" : 3287.83
+	},
+	{
+		"date" : "2019-01-10",
+		"offline_spend" : 5000,
+		"online_spend" : 515.44
+	},
+	{
+		"date" : "2019-01-11",
+		"offline_spend" : 5000,
+		"online_spend" : 1757.58
+	},
+	{
+		"date" : "2019-01-12",
+		"offline_spend" : 5000,
+		"online_spend" : 2435.97
+	},
+	{
+		"date" : "2019-01-13",
+		"offline_spend" : 5000,
+		"online_spend" : 2449.65
+	},
+	{
+		"date" : "2019-01-14",
+		"offline_spend" : 5000,
+		"online_spend" : 1920.57
+	},
+	{
+		"date" : "2019-01-15",
+		"offline_spend" : 3000,
+		"online_spend" : 1734.68
+	},
+	{
+		"date" : "2019-01-16",
+		"offline_spend" : 3000,
+		"online_spend" : 3727.61
+	},
+	{
+		"date" : "2019-01-17",
+		"offline_spend" : 3000,
+		"online_spend" : 417.73
+	},
+	{
+		"date" : "2019-01-18",
+		"offline_spend" : 3000,
+		"online_spend" : 1312.5
+	},
+	{
+		"date" : "2019-01-19",
+		"offline_spend" : 3000,
+		"online_spend" : 2753.56
+	},
+	{
+		"date" : "2019-01-20",
+		"offline_spend" : 3000,
+		"online_spend" : 2073.51
+	},
+	{
+		"date" : "2019-01-21",
+		"offline_spend" : 3000,
+		"online_spend" : 640.93
+	},
+	{
+		"date" : "2019-01-22",
+		"offline_spend" : 1000,
+		"online_spend" : 1049.73
+	},
+	{
+		"date" : "2019-01-23",
+		"offline_spend" : 1000,
+		"online_spend" : 1356.59
+	},
+	{
+		"date" : "2019-01-24",
+		"offline_spend" : 1000,
+		"online_spend" : 560.02
+	},
+	{
+		"date" : "2019-01-25",
+		"offline_spend" : 1000,
+		"online_spend" : 1124.95
+	},
+	{
+		"date" : "2019-01-26",
+		"offline_spend" : 1000,
+		"online_spend" : 937.58
+	},
+	{
+		"date" : "2019-01-27",
+		"offline_spend" : 1000,
+		"online_spend" : 687.86
+	},
+	{
+		"date" : "2019-01-28",
+		"offline_spend" : 1000,
+		"online_spend" : 993.69
+	},
+	{
+		"date" : "2019-01-29",
+		"offline_spend" : 700,
+		"online_spend" : 836.13
+	},
+	{
+		"date" : "2019-01-30",
+		"offline_spend" : 700,
+		"online_spend" : 981.86
+	},
+	{
+		"date" : "2019-01-31",
+		"offline_spend" : 700,
+		"online_spend" : 1380.14
+	},
+	{
+		"date" : "2019-02-01",
+		"offline_spend" : 700,
+		"online_spend" : 692.67
+	},
+	{
+		"date" : "2019-02-02",
+		"offline_spend" : 700,
+		"online_spend" : 770.87
+	},
+	{
+		"date" : "2019-02-03",
+		"offline_spend" : 700,
+		"online_spend" : 2091.61
+	},
+	{
+		"date" : "2019-02-04",
+		"offline_spend" : 700,
+		"online_spend" : 2216.98
+	},
+	{
+		"date" : "2019-02-05",
+		"offline_spend" : 3000,
+		"online_spend" : 2486.46
+	},
+	{
+		"date" : "2019-02-06",
+		"offline_spend" : 3000,
+		"online_spend" : 1665.47
+	},
+	{
+		"date" : "2019-02-07",
+		"offline_spend" : 3000,
+		"online_spend" : 877.2
+	},
+	{
+		"date" : "2019-02-08",
+		"offline_spend" : 3000,
+		"online_spend" : 1973.27
+	},
+	{
+		"date" : "2019-02-09",
+		"offline_spend" : 3000,
+		"online_spend" : 2659.34
+	},
+	{
+		"date" : "2019-02-10",
+		"offline_spend" : 3000,
+		"online_spend" : 2037.41
+	},
+	{
+		"date" : "2019-02-11",
+		"offline_spend" : 3000,
+		"online_spend" : 2864.69
+	},
+	{
+		"date" : "2019-02-12",
+		"offline_spend" : 3000,
+		"online_spend" : 2844.64
+	},
+	{
+		"date" : "2019-02-13",
+		"offline_spend" : 3000,
+		"online_spend" : 2007.32
+	},
+	{
+		"date" : "2019-02-14",
+		"offline_spend" : 3000,
+		"online_spend" : 830.68
+	},
+	{
+		"date" : "2019-02-15",
+		"offline_spend" : 3000,
+		"online_spend" : 1738.89
+	},
+	{
+		"date" : "2019-02-16",
+		"offline_spend" : 3000,
+		"online_spend" : 3784.07
+	},
+	{
+		"date" : "2019-02-17",
+		"offline_spend" : 3000,
+		"online_spend" : 2107.67
+	},
+	{
+		"date" : "2019-02-18",
+		"offline_spend" : 3000,
+		"online_spend" : 1586.43
+	},
+	{
+		"date" : "2019-02-19",
+		"offline_spend" : 3500,
+		"online_spend" : 1720.16
+	},
+	{
+		"date" : "2019-02-20",
+		"offline_spend" : 3500,
+		"online_spend" : 2768.28
+	},
+	{
+		"date" : "2019-02-21",
+		"offline_spend" : 3500,
+		"online_spend" : 727.39
+	},
+	{
+		"date" : "2019-02-22",
+		"offline_spend" : 3500,
+		"online_spend" : 939.9
+	},
+	{
+		"date" : "2019-02-23",
+		"offline_spend" : 3500,
+		"online_spend" : 2548.51
+	},
+	{
+		"date" : "2019-02-24",
+		"offline_spend" : 3500,
+		"online_spend" : 2280.26
+	},
+	{
+		"date" : "2019-02-25",
+		"offline_spend" : 3500,
+		"online_spend" : 1469.84
+	},
+	{
+		"date" : "2019-02-26",
+		"offline_spend" : 4000,
+		"online_spend" : 1951.71
+	},
+	{
+		"date" : "2019-02-27",
+		"offline_spend" : 4000,
+		"online_spend" : 4349.02
+	},
+	{
+		"date" : "2019-02-28",
+		"offline_spend" : 4000,
+		"online_spend" : 1817.18
+	},
+	{
+		"date" : "2019-03-01",
+		"offline_spend" : 4000,
+		"online_spend" : 1880.22
+	},
+	{
+		"date" : "2019-03-02",
+		"offline_spend" : 4000,
+		"online_spend" : 1258.6
+	},
+	{
+		"date" : "2019-03-03",
+		"offline_spend" : 4000,
+		"online_spend" : 2066.29
+	},
+	{
+		"date" : "2019-03-04",
+		"offline_spend" : 4000,
+		"online_spend" : 642.34
+	},
+	{
+		"date" : "2019-03-05",
+		"offline_spend" : 2500,
+		"online_spend" : 1153.36
+	},
+	{
+		"date" : "2019-03-06",
+		"offline_spend" : 2500,
+		"online_spend" : 1827.02
+	},
+	{
+		"date" : "2019-03-07",
+		"offline_spend" : 2500,
+		"online_spend" : 2335.35
+	},
+	{
+		"date" : "2019-03-08",
+		"offline_spend" : 2500,
+		"online_spend" : 1918.53
+	},
+	{
+		"date" : "2019-03-09",
+		"offline_spend" : 2500,
+		"online_spend" : 1768.28
+	},
+	{
+		"date" : "2019-03-10",
+		"offline_spend" : 2500,
+		"online_spend" : 1294.22
+	},
+	{
+		"date" : "2019-03-11",
+		"offline_spend" : 2500,
+		"online_spend" : 973.15
+	},
+	{
+		"date" : "2019-03-12",
+		"offline_spend" : 2000,
+		"online_spend" : 731.1
+	},
+	{
+		"date" : "2019-03-13",
+		"offline_spend" : 2000,
+		"online_spend" : 1498.01
+	},
+	{
+		"date" : "2019-03-14",
+		"offline_spend" : 2000,
+		"online_spend" : 1141.27
+	},
+	{
+		"date" : "2019-03-15",
+		"offline_spend" : 2000,
+		"online_spend" : 1684.18
+	},
+	{
+		"date" : "2019-03-16",
+		"offline_spend" : 2000,
+		"online_spend" : 2435.12
+	},
+	{
+		"date" : "2019-03-17",
+		"offline_spend" : 2000,
+		"online_spend" : 1837.87
+	},
+	{
+		"date" : "2019-03-18",
+		"offline_spend" : 2000,
+		"online_spend" : 659.57
+	},
+	{
+		"date" : "2019-03-19",
+		"offline_spend" : 2000,
+		"online_spend" : 982.2
+	},
+	{
+		"date" : "2019-03-20",
+		"offline_spend" : 2000,
+		"online_spend" : 1542.81
+	},
+	{
+		"date" : "2019-03-21",
+		"offline_spend" : 2000,
+		"online_spend" : 2365.81
+	},
+	{
+		"date" : "2019-03-22",
+		"offline_spend" : 2000,
+		"online_spend" : 2523.41
+	},
+	{
+		"date" : "2019-03-23",
+		"offline_spend" : 2000,
+		"online_spend" : 1736.63
+	},
+	{
+		"date" : "2019-03-24",
+		"offline_spend" : 2000,
+		"online_spend" : 1984.0
+	},
+	{
+		"date" : "2019-03-25",
+		"offline_spend" : 2000,
+		"online_spend" : 931.54
+	},
+	{
+		"date" : "2019-03-26",
+		"offline_spend" : 2000,
+		"online_spend" : 1672.79
+	},
+	{
+		"date" : "2019-03-27",
+		"offline_spend" : 2000,
+		"online_spend" : 2639.99
+	},
+	{
+		"date" : "2019-03-28",
+		"offline_spend" : 2000,
+		"online_spend" : 1066.12
+	},
+	{
+		"date" : "2019-03-29",
+		"offline_spend" : 2000,
+		"online_spend" : 1330.54
+	},
+	{
+		"date" : "2019-03-30",
+		"offline_spend" : 2000,
+		"online_spend" : 692.02
+	},
+	{
+		"date" : "2019-03-31",
+		"offline_spend" : 2000,
+		"online_spend" : 2177.75
+	},
+	{
+		"date" : "2019-04-01",
+		"offline_spend" : 2000,
+		"online_spend" : 4019.93
+	},
+	{
+		"date" : "2019-04-02",
+		"offline_spend" : 2500,
+		"online_spend" : 1909.27
+	},
+	{
+		"date" : "2019-04-03",
+		"offline_spend" : 2500,
+		"online_spend" : 1748.14
+	},
+	{
+		"date" : "2019-04-04",
+		"offline_spend" : 2500,
+		"online_spend" : 1136.06
+	},
+	{
+		"date" : "2019-04-05",
+		"offline_spend" : 2500,
+		"online_spend" : 2342.68
+	},
+	{
+		"date" : "2019-04-06",
+		"offline_spend" : 2500,
+		"online_spend" : 2307.25
+	},
+	{
+		"date" : "2019-04-07",
+		"offline_spend" : 2500,
+		"online_spend" : 2719.46
+	},
+	{
+		"date" : "2019-04-08",
+		"offline_spend" : 2500,
+		"online_spend" : 2200.69
+	},
+	{
+		"date" : "2019-04-09",
+		"offline_spend" : 3000,
+		"online_spend" : 1740.91
+	},
+	{
+		"date" : "2019-04-10",
+		"offline_spend" : 3000,
+		"online_spend" : 2143.39
+	},
+	{
+		"date" : "2019-04-11",
+		"offline_spend" : 3000,
+		"online_spend" : 804.85
+	},
+	{
+		"date" : "2019-04-12",
+		"offline_spend" : 3000,
+		"online_spend" : 1631.25
+	},
+	{
+		"date" : "2019-04-13",
+		"offline_spend" : 3000,
+		"online_spend" : 2872.23
+	},
+	{
+		"date" : "2019-04-14",
+		"offline_spend" : 3000,
+		"online_spend" : 1747.0
+	},
+	{
+		"date" : "2019-04-15",
+		"offline_spend" : 3000,
+		"online_spend" : 1593.58
+	},
+	{
+		"date" : "2019-04-16",
+		"offline_spend" : 4000,
+		"online_spend" : 2168.04
+	},
+	{
+		"date" : "2019-04-17",
+		"offline_spend" : 4000,
+		"online_spend" : 2526.49
+	},
+	{
+		"date" : "2019-04-18",
+		"offline_spend" : 4000,
+		"online_spend" : 1476.58
+	},
+	{
+		"date" : "2019-04-19",
+		"offline_spend" : 4000,
+		"online_spend" : 1754.92
+	},
+	{
+		"date" : "2019-04-20",
+		"offline_spend" : 4000,
+		"online_spend" : 1330.34
+	},
+	{
+		"date" : "2019-04-21",
+		"offline_spend" : 4000,
+		"online_spend" : 3078.84
+	},
+	{
+		"date" : "2019-04-22",
+		"offline_spend" : 4000,
+		"online_spend" : 1608.26
+	},
+	{
+		"date" : "2019-04-23",
+		"offline_spend" : 3500,
+		"online_spend" : 3107.11
+	},
+	{
+		"date" : "2019-04-24",
+		"offline_spend" : 3500,
+		"online_spend" : 1650.62
+	},
+	{
+		"date" : "2019-04-25",
+		"offline_spend" : 3500,
+		"online_spend" : 620.94
+	},
+	{
+		"date" : "2019-04-26",
+		"offline_spend" : 3500,
+		"online_spend" : 1363.31
+	},
+	{
+		"date" : "2019-04-27",
+		"offline_spend" : 3500,
+		"online_spend" : 2056.17
+	},
+	{
+		"date" : "2019-04-28",
+		"offline_spend" : 3500,
+		"online_spend" : 2019.73
+	},
+	{
+		"date" : "2019-04-29",
+		"offline_spend" : 3500,
+		"online_spend" : 3549.13
+	},
+	{
+		"date" : "2019-04-30",
+		"offline_spend" : 3000,
+		"online_spend" : 1799.66
+	},
+	{
+		"date" : "2019-05-01",
+		"offline_spend" : 3000,
+		"online_spend" : 1108.88
+	},
+	{
+		"date" : "2019-05-02",
+		"offline_spend" : 3000,
+		"online_spend" : 732.47
+	},
+	{
+		"date" : "2019-05-03",
+		"offline_spend" : 3000,
+		"online_spend" : 2406.31
+	},
+	{
+		"date" : "2019-05-04",
+		"offline_spend" : 3000,
+		"online_spend" : 2407.55
+	},
+	{
+		"date" : "2019-05-05",
+		"offline_spend" : 3000,
+		"online_spend" : 1177.76
+	},
+	{
+		"date" : "2019-05-06",
+		"offline_spend" : 3000,
+		"online_spend" : 2100.89
+	},
+	{
+		"date" : "2019-05-07",
+		"offline_spend" : 3000,
+		"online_spend" : 2271.0
+	},
+	{
+		"date" : "2019-05-08",
+		"offline_spend" : 3000,
+		"online_spend" : 869.25
+	},
+	{
+		"date" : "2019-05-09",
+		"offline_spend" : 3000,
+		"online_spend" : 1771.32
+	},
+	{
+		"date" : "2019-05-10",
+		"offline_spend" : 3000,
+		"online_spend" : 1942.13
+	},
+	{
+		"date" : "2019-05-11",
+		"offline_spend" : 3000,
+		"online_spend" : 1801.66
+	},
+	{
+		"date" : "2019-05-12",
+		"offline_spend" : 3000,
+		"online_spend" : 2113.63
+	},
+	{
+		"date" : "2019-05-13",
+		"offline_spend" : 3000,
+		"online_spend" : 2697.6
+	},
+	{
+		"date" : "2019-05-14",
+		"offline_spend" : 2500,
+		"online_spend" : 2151.7
+	},
+	{
+		"date" : "2019-05-15",
+		"offline_spend" : 2500,
+		"online_spend" : 682.42
+	},
+	{
+		"date" : "2019-05-16",
+		"offline_spend" : 2500,
+		"online_spend" : 1605.63
+	},
+	{
+		"date" : "2019-05-17",
+		"offline_spend" : 2500,
+		"online_spend" : 3052.49
+	},
+	{
+		"date" : "2019-05-18",
+		"offline_spend" : 2500,
+		"online_spend" : 2805.79
+	},
+	{
+		"date" : "2019-05-19",
+		"offline_spend" : 2500,
+		"online_spend" : 2331.31
+	},
+	{
+		"date" : "2019-05-20",
+		"offline_spend" : 2500,
+		"online_spend" : 2298.34
+	},
+	{
+		"date" : "2019-05-21",
+		"offline_spend" : 1000,
+		"online_spend" : 882.98
+	},
+	{
+		"date" : "2019-05-22",
+		"offline_spend" : 1000,
+		"online_spend" : 979.08
+	},
+	{
+		"date" : "2019-05-23",
+		"offline_spend" : 1000,
+		"online_spend" : 1196.03
+	},
+	{
+		"date" : "2019-05-24",
+		"offline_spend" : 1000,
+		"online_spend" : 670.51
+	},
+	{
+		"date" : "2019-05-25",
+		"offline_spend" : 1000,
+		"online_spend" : 2565.75
+	},
+	{
+		"date" : "2019-05-26",
+		"offline_spend" : 1000,
+		"online_spend" : 2752.13
+	},
+	{
+		"date" : "2019-05-27",
+		"offline_spend" : 1000,
+		"online_spend" : 1976.31
+	},
+	{
+		"date" : "2019-05-28",
+		"offline_spend" : 500,
+		"online_spend" : 465.4
+	},
+	{
+		"date" : "2019-05-29",
+		"offline_spend" : 500,
+		"online_spend" : 670.64
+	},
+	{
+		"date" : "2019-05-30",
+		"offline_spend" : 500,
+		"online_spend" : 1262.38
+	},
+	{
+		"date" : "2019-05-31",
+		"offline_spend" : 500,
+		"online_spend" : 1010.3
+	},
+	{
+		"date" : "2019-06-01",
+		"offline_spend" : 500,
+		"online_spend" : 320.25
+	},
+	{
+		"date" : "2019-06-02",
+		"offline_spend" : 500,
+		"online_spend" : 1622.46
+	},
+	{
+		"date" : "2019-06-03",
+		"offline_spend" : 500,
+		"online_spend" : 1230.43
+	},
+	{
+		"date" : "2019-06-04",
+		"offline_spend" : 3500,
+		"online_spend" : 2553.18
+	},
+	{
+		"date" : "2019-06-05",
+		"offline_spend" : 3500,
+		"online_spend" : 3202.1
+	},
+	{
+		"date" : "2019-06-06",
+		"offline_spend" : 3500,
+		"online_spend" : 1126.87
+	},
+	{
+		"date" : "2019-06-07",
+		"offline_spend" : 3500,
+		"online_spend" : 1694.16
+	},
+	{
+		"date" : "2019-06-08",
+		"offline_spend" : 3500,
+		"online_spend" : 1598.46
+	},
+	{
+		"date" : "2019-06-09",
+		"offline_spend" : 3500,
+		"online_spend" : 2940.1
+	},
+	{
+		"date" : "2019-06-10",
+		"offline_spend" : 3500,
+		"online_spend" : 1881.94
+	},
+	{
+		"date" : "2019-06-11",
+		"offline_spend" : 3000,
+		"online_spend" : 1428.32
+	},
+	{
+		"date" : "2019-06-12",
+		"offline_spend" : 3000,
+		"online_spend" : 2321.52
+	},
+	{
+		"date" : "2019-06-13",
+		"offline_spend" : 3000,
+		"online_spend" : 1084.43
+	},
+	{
+		"date" : "2019-06-14",
+		"offline_spend" : 3000,
+		"online_spend" : 1749.49
+	},
+	{
+		"date" : "2019-06-15",
+		"offline_spend" : 3000,
+		"online_spend" : 1919.84
+	},
+	{
+		"date" : "2019-06-16",
+		"offline_spend" : 3000,
+		"online_spend" : 2009.36
+	},
+	{
+		"date" : "2019-06-17",
+		"offline_spend" : 3000,
+		"online_spend" : 2743.71
+	},
+	{
+		"date" : "2019-06-18",
+		"offline_spend" : 3500,
+		"online_spend" : 2289.42
+	},
+	{
+		"date" : "2019-06-19",
+		"offline_spend" : 3500,
+		"online_spend" : 2617.14
+	},
+	{
+		"date" : "2019-06-20",
+		"offline_spend" : 3500,
+		"online_spend" : 1019.59
+	},
+	{
+		"date" : "2019-06-21",
+		"offline_spend" : 3500,
+		"online_spend" : 1473.98
+	},
+	{
+		"date" : "2019-06-22",
+		"offline_spend" : 3500,
+		"online_spend" : 2217.07
+	},
+	{
+		"date" : "2019-06-23",
+		"offline_spend" : 3500,
+		"online_spend" : 2283.08
+	},
+	{
+		"date" : "2019-06-24",
+		"offline_spend" : 3500,
+		"online_spend" : 1975.15
+	},
+	{
+		"date" : "2019-06-25",
+		"offline_spend" : 1500,
+		"online_spend" : 956.13
+	},
+	{
+		"date" : "2019-06-26",
+		"offline_spend" : 1500,
+		"online_spend" : 1478.19
+	},
+	{
+		"date" : "2019-06-27",
+		"offline_spend" : 1500,
+		"online_spend" : 649.14
+	},
+	{
+		"date" : "2019-06-28",
+		"offline_spend" : 1500,
+		"online_spend" : 1709.84
+	},
+	{
+		"date" : "2019-06-29",
+		"offline_spend" : 1500,
+		"online_spend" : 2652.13
+	},
+	{
+		"date" : "2019-06-30",
+		"offline_spend" : 1500,
+		"online_spend" : 1070.66
+	},
+	{
+		"date" : "2019-07-01",
+		"offline_spend" : 1500,
+		"online_spend" : 1932.64
+	},
+	{
+		"date" : "2019-07-02",
+		"offline_spend" : 2000,
+		"online_spend" : 1108.03
+	},
+	{
+		"date" : "2019-07-03",
+		"offline_spend" : 2000,
+		"online_spend" : 526.96
+	},
+	{
+		"date" : "2019-07-04",
+		"offline_spend" : 2000,
+		"online_spend" : 2227.95
+	},
+	{
+		"date" : "2019-07-05",
+		"offline_spend" : 2000,
+		"online_spend" : 2103.13
+	},
+	{
+		"date" : "2019-07-06",
+		"offline_spend" : 2000,
+		"online_spend" : 2663.67
+	},
+	{
+		"date" : "2019-07-07",
+		"offline_spend" : 2000,
+		"online_spend" : 2249.45
+	},
+	{
+		"date" : "2019-07-08",
+		"offline_spend" : 2000,
+		"online_spend" : 2553.01
+	},
+	{
+		"date" : "2019-07-09",
+		"offline_spend" : 2500,
+		"online_spend" : 1870.67
+	},
+	{
+		"date" : "2019-07-10",
+		"offline_spend" : 2500,
+		"online_spend" : 1240.47
+	},
+	{
+		"date" : "2019-07-11",
+		"offline_spend" : 2500,
+		"online_spend" : 1128.09
+	},
+	{
+		"date" : "2019-07-12",
+		"offline_spend" : 2500,
+		"online_spend" : 923.4
+	},
+	{
+		"date" : "2019-07-13",
+		"offline_spend" : 2500,
+		"online_spend" : 2489.36
+	},
+	{
+		"date" : "2019-07-14",
+		"offline_spend" : 2500,
+		"online_spend" : 2064.34
+	},
+	{
+		"date" : "2019-07-15",
+		"offline_spend" : 2500,
+		"online_spend" : 1616.22
+	},
+	{
+		"date" : "2019-07-16",
+		"offline_spend" : 2000,
+		"online_spend" : 1163.11
+	},
+	{
+		"date" : "2019-07-17",
+		"offline_spend" : 2000,
+		"online_spend" : 1331.1
+	},
+	{
+		"date" : "2019-07-18",
+		"offline_spend" : 2000,
+		"online_spend" : 2408.61
+	},
+	{
+		"date" : "2019-07-19",
+		"offline_spend" : 2000,
+		"online_spend" : 3444.24
+	},
+	{
+		"date" : "2019-07-20",
+		"offline_spend" : 2000,
+		"online_spend" : 2097.22
+	},
+	{
+		"date" : "2019-07-21",
+		"offline_spend" : 2000,
+		"online_spend" : 1253.24
+	},
+	{
+		"date" : "2019-07-22",
+		"offline_spend" : 2000,
+		"online_spend" : 2521.31
+	},
+	{
+		"date" : "2019-07-23",
+		"offline_spend" : 2500,
+		"online_spend" : 1760.92
+	},
+	{
+		"date" : "2019-07-24",
+		"offline_spend" : 2500,
+		"online_spend" : 850.14
+	},
+	{
+		"date" : "2019-07-25",
+		"offline_spend" : 2500,
+		"online_spend" : 1169.05
+	},
+	{
+		"date" : "2019-07-26",
+		"offline_spend" : 2500,
+		"online_spend" : 1627.19
+	},
+	{
+		"date" : "2019-07-27",
+		"offline_spend" : 2500,
+		"online_spend" : 1151.7
+	},
+	{
+		"date" : "2019-07-28",
+		"offline_spend" : 2500,
+		"online_spend" : 2425.35
+	},
+	{
+		"date" : "2019-07-29",
+		"offline_spend" : 2500,
+		"online_spend" : 1353.73
+	},
+	{
+		"date" : "2019-07-30",
+		"offline_spend" : 1500,
+		"online_spend" : 478.27
+	},
+	{
+		"date" : "2019-07-31",
+		"offline_spend" : 1500,
+		"online_spend" : 985.28
+	},
+	{
+		"date" : "2019-08-01",
+		"offline_spend" : 1500,
+		"online_spend" : 641.12
+	},
+	{
+		"date" : "2019-08-02",
+		"offline_spend" : 1500,
+		"online_spend" : 2155.96
+	},
+	{
+		"date" : "2019-08-03",
+		"offline_spend" : 1500,
+		"online_spend" : 2493.64
+	},
+	{
+		"date" : "2019-08-04",
+		"offline_spend" : 1500,
+		"online_spend" : 2688.98
+	},
+	{
+		"date" : "2019-08-05",
+		"offline_spend" : 1500,
+		"online_spend" : 2016.04
+	},
+	{
+		"date" : "2019-08-06",
+		"offline_spend" : 3000,
+		"online_spend" : 1143.02
+	},
+	{
+		"date" : "2019-08-07",
+		"offline_spend" : 3000,
+		"online_spend" : 1946.56
+	},
+	{
+		"date" : "2019-08-08",
+		"offline_spend" : 3000,
+		"online_spend" : 1486.8
+	},
+	{
+		"date" : "2019-08-09",
+		"offline_spend" : 3000,
+		"online_spend" : 2285.79
+	},
+	{
+		"date" : "2019-08-10",
+		"offline_spend" : 3000,
+		"online_spend" : 1662.28
+	},
+	{
+		"date" : "2019-08-11",
+		"offline_spend" : 3000,
+		"online_spend" : 2563.83
+	},
+	{
+		"date" : "2019-08-12",
+		"offline_spend" : 3000,
+		"online_spend" : 1890.41
+	},
+	{
+		"date" : "2019-08-13",
+		"offline_spend" : 3500,
+		"online_spend" : 1846.18
+	},
+	{
+		"date" : "2019-08-14",
+		"offline_spend" : 3500,
+		"online_spend" : 1984.92
+	},
+	{
+		"date" : "2019-08-15",
+		"offline_spend" : 3500,
+		"online_spend" : 1122.49
+	},
+	{
+		"date" : "2019-08-16",
+		"offline_spend" : 3500,
+		"online_spend" : 1692.8
+	},
+	{
+		"date" : "2019-08-17",
+		"offline_spend" : 3500,
+		"online_spend" : 3352.38
+	},
+	{
+		"date" : "2019-08-18",
+		"offline_spend" : 3500,
+		"online_spend" : 1696.64
+	},
+	{
+		"date" : "2019-08-19",
+		"offline_spend" : 3500,
+		"online_spend" : 2574.56
+	},
+	{
+		"date" : "2019-08-20",
+		"offline_spend" : 2500,
+		"online_spend" : 1480.23
+	},
+	{
+		"date" : "2019-08-21",
+		"offline_spend" : 2500,
+		"online_spend" : 1528.1
+	},
+	{
+		"date" : "2019-08-22",
+		"offline_spend" : 2500,
+		"online_spend" : 1172.96
+	},
+	{
+		"date" : "2019-08-23",
+		"offline_spend" : 2500,
+		"online_spend" : 1901.56
+	},
+	{
+		"date" : "2019-08-24",
+		"offline_spend" : 2500,
+		"online_spend" : 2168.34
+	},
+	{
+		"date" : "2019-08-25",
+		"offline_spend" : 2500,
+		"online_spend" : 1941.38
+	},
+	{
+		"date" : "2019-08-26",
+		"offline_spend" : 2500,
+		"online_spend" : 1094.77
+	},
+	{
+		"date" : "2019-08-27",
+		"offline_spend" : 3000,
+		"online_spend" : 2117.28
+	},
+	{
+		"date" : "2019-08-28",
+		"offline_spend" : 3000,
+		"online_spend" : 2178.57
+	},
+	{
+		"date" : "2019-08-29",
+		"offline_spend" : 3000,
+		"online_spend" : 1056.67
+	},
+	{
+		"date" : "2019-08-30",
+		"offline_spend" : 3000,
+		"online_spend" : 2223.08
+	},
+	{
+		"date" : "2019-08-31",
+		"offline_spend" : 3000,
+		"online_spend" : 1296.81
+	},
+	{
+		"date" : "2019-09-01",
+		"offline_spend" : 3000,
+		"online_spend" : 2424.97
+	},
+	{
+		"date" : "2019-09-02",
+		"offline_spend" : 3000,
+		"online_spend" : 1307.62
+	},
+	{
+		"date" : "2019-09-03",
+		"offline_spend" : 2500,
+		"online_spend" : 2006.42
+	},
+	{
+		"date" : "2019-09-04",
+		"offline_spend" : 2500,
+		"online_spend" : 1255.01
+	},
+	{
+		"date" : "2019-09-05",
+		"offline_spend" : 2500,
+		"online_spend" : 1201.09
+	},
+	{
+		"date" : "2019-09-06",
+		"offline_spend" : 2500,
+		"online_spend" : 1292.58
+	},
+	{
+		"date" : "2019-09-07",
+		"offline_spend" : 2500,
+		"online_spend" : 2504.83
+	},
+	{
+		"date" : "2019-09-08",
+		"offline_spend" : 2500,
+		"online_spend" : 1362.1
+	},
+	{
+		"date" : "2019-09-09",
+		"offline_spend" : 2500,
+		"online_spend" : 1749.21
+	},
+	{
+		"date" : "2019-09-10",
+		"offline_spend" : 3000,
+		"online_spend" : 2441.62
+	},
+	{
+		"date" : "2019-09-11",
+		"offline_spend" : 3000,
+		"online_spend" : 1683.99
+	},
+	{
+		"date" : "2019-09-12",
+		"offline_spend" : 3000,
+		"online_spend" : 1117.36
+	},
+	{
+		"date" : "2019-09-13",
+		"offline_spend" : 3000,
+		"online_spend" : 1079.34
+	},
+	{
+		"date" : "2019-09-14",
+		"offline_spend" : 3000,
+		"online_spend" : 1408.06
+	},
+	{
+		"date" : "2019-09-15",
+		"offline_spend" : 3000,
+		"online_spend" : 2546.67
+	},
+	{
+		"date" : "2019-09-16",
+		"offline_spend" : 3000,
+		"online_spend" : 1514.85
+	},
+	{
+		"date" : "2019-09-17",
+		"offline_spend" : 2500,
+		"online_spend" : 2787.02
+	},
+	{
+		"date" : "2019-09-18",
+		"offline_spend" : 2500,
+		"online_spend" : 2297.87
+	},
+	{
+		"date" : "2019-09-19",
+		"offline_spend" : 2500,
+		"online_spend" : 1072.89
+	},
+	{
+		"date" : "2019-09-20",
+		"offline_spend" : 2500,
+		"online_spend" : 1497.56
+	},
+	{
+		"date" : "2019-09-21",
+		"offline_spend" : 2500,
+		"online_spend" : 1098.2
+	},
+	{
+		"date" : "2019-09-22",
+		"offline_spend" : 2500,
+		"online_spend" : 1895.73
+	},
+	{
+		"date" : "2019-09-23",
+		"offline_spend" : 2500,
+		"online_spend" : 2908.1
+	},
+	{
+		"date" : "2019-09-24",
+		"offline_spend" : 3000,
+		"online_spend" : 1310.85
+	},
+	{
+		"date" : "2019-09-25",
+		"offline_spend" : 3000,
+		"online_spend" : 1736.19
+	},
+	{
+		"date" : "2019-09-26",
+		"offline_spend" : 3000,
+		"online_spend" : 767.58
+	},
+	{
+		"date" : "2019-09-27",
+		"offline_spend" : 3000,
+		"online_spend" : 1660.74
+	},
+	{
+		"date" : "2019-09-28",
+		"offline_spend" : 3000,
+		"online_spend" : 1394.83
+	},
+	{
+		"date" : "2019-09-29",
+		"offline_spend" : 3000,
+		"online_spend" : 3713.1
+	},
+	{
+		"date" : "2019-09-30",
+		"offline_spend" : 3000,
+		"online_spend" : 1478.16
+	},
+	{
+		"date" : "2019-10-01",
+		"offline_spend" : 3000,
+		"online_spend" : 1991.44
+	},
+	{
+		"date" : "2019-10-02",
+		"offline_spend" : 3000,
+		"online_spend" : 899.05
+	},
+	{
+		"date" : "2019-10-03",
+		"offline_spend" : 3000,
+		"online_spend" : 2015.98
+	},
+	{
+		"date" : "2019-10-04",
+		"offline_spend" : 3000,
+		"online_spend" : 2411.39
+	},
+	{
+		"date" : "2019-10-05",
+		"offline_spend" : 3000,
+		"online_spend" : 1511.94
+	},
+	{
+		"date" : "2019-10-06",
+		"offline_spend" : 3000,
+		"online_spend" : 2230.76
+	},
+	{
+		"date" : "2019-10-07",
+		"offline_spend" : 3000,
+		"online_spend" : 2154.78
+	},
+	{
+		"date" : "2019-10-08",
+		"offline_spend" : 3500,
+		"online_spend" : 1799.54
+	},
+	{
+		"date" : "2019-10-09",
+		"offline_spend" : 3500,
+		"online_spend" : 734.31
+	},
+	{
+		"date" : "2019-10-10",
+		"offline_spend" : 3500,
+		"online_spend" : 3705.5
+	},
+	{
+		"date" : "2019-10-11",
+		"offline_spend" : 3500,
+		"online_spend" : 1450.93
+	},
+	{
+		"date" : "2019-10-12",
+		"offline_spend" : 3500,
+		"online_spend" : 2839.32
+	},
+	{
+		"date" : "2019-10-13",
+		"offline_spend" : 3500,
+		"online_spend" : 1353.34
+	},
+	{
+		"date" : "2019-10-14",
+		"offline_spend" : 3500,
+		"online_spend" : 2114.35
+	},
+	{
+		"date" : "2019-10-15",
+		"offline_spend" : 2500,
+		"online_spend" : 1317.89
+	},
+	{
+		"date" : "2019-10-16",
+		"offline_spend" : 2500,
+		"online_spend" : 1218.6
+	},
+	{
+		"date" : "2019-10-17",
+		"offline_spend" : 2500,
+		"online_spend" : 1783.56
+	},
+	{
+		"date" : "2019-10-18",
+		"offline_spend" : 2500,
+		"online_spend" : 1150.51
+	},
+	{
+		"date" : "2019-10-19",
+		"offline_spend" : 2500,
+		"online_spend" : 1631.19
+	},
+	{
+		"date" : "2019-10-20",
+		"offline_spend" : 2500,
+		"online_spend" : 2827.25
+	},
+	{
+		"date" : "2019-10-21",
+		"offline_spend" : 2500,
+		"online_spend" : 2848.39
+	},
+	{
+		"date" : "2019-10-22",
+		"offline_spend" : 3500,
+		"online_spend" : 1900.77
+	},
+	{
+		"date" : "2019-10-23",
+		"offline_spend" : 3500,
+		"online_spend" : 1153.81
+	},
+	{
+		"date" : "2019-10-24",
+		"offline_spend" : 3500,
+		"online_spend" : 2330.24
+	},
+	{
+		"date" : "2019-10-25",
+		"offline_spend" : 3500,
+		"online_spend" : 1416.14
+	},
+	{
+		"date" : "2019-10-26",
+		"offline_spend" : 3500,
+		"online_spend" : 2374.99
+	},
+	{
+		"date" : "2019-10-27",
+		"offline_spend" : 3500,
+		"online_spend" : 3271.55
+	},
+	{
+		"date" : "2019-10-28",
+		"offline_spend" : 3500,
+		"online_spend" : 1691.02
+	},
+	{
+		"date" : "2019-10-29",
+		"offline_spend" : 2000,
+		"online_spend" : 1564.09
+	},
+	{
+		"date" : "2019-10-30",
+		"offline_spend" : 2000,
+		"online_spend" : 780.15
+	},
+	{
+		"date" : "2019-10-31",
+		"offline_spend" : 2000,
+		"online_spend" : 1251.87
+	},
+	{
+		"date" : "2019-11-01",
+		"offline_spend" : 2000,
+		"online_spend" : 1224.01
+	},
+	{
+		"date" : "2019-11-02",
+		"offline_spend" : 2000,
+		"online_spend" : 2437.58
+	},
+	{
+		"date" : "2019-11-03",
+		"offline_spend" : 2000,
+		"online_spend" : 2294.09
+	},
+	{
+		"date" : "2019-11-04",
+		"offline_spend" : 2000,
+		"online_spend" : 2478.79
+	},
+	{
+		"date" : "2019-11-05",
+		"offline_spend" : 3500,
+		"online_spend" : 2019.94
+	},
+	{
+		"date" : "2019-11-06",
+		"offline_spend" : 3500,
+		"online_spend" : 2546.6
+	},
+	{
+		"date" : "2019-11-07",
+		"offline_spend" : 3500,
+		"online_spend" : 1252.63
+	},
+	{
+		"date" : "2019-11-08",
+		"offline_spend" : 3500,
+		"online_spend" : 2087.49
+	},
+	{
+		"date" : "2019-11-09",
+		"offline_spend" : 3500,
+		"online_spend" : 2926.69
+	},
+	{
+		"date" : "2019-11-10",
+		"offline_spend" : 3500,
+		"online_spend" : 2431.73
+	},
+	{
+		"date" : "2019-11-11",
+		"offline_spend" : 3500,
+		"online_spend" : 2643.34
+	},
+	{
+		"date" : "2019-11-12",
+		"offline_spend" : 4000,
+		"online_spend" : 3390.82
+	},
+	{
+		"date" : "2019-11-13",
+		"offline_spend" : 4000,
+		"online_spend" : 2400.95
+	},
+	{
+		"date" : "2019-11-14",
+		"offline_spend" : 4000,
+		"online_spend" : 855.19
+	},
+	{
+		"date" : "2019-11-15",
+		"offline_spend" : 4000,
+		"online_spend" : 737.08
+	},
+	{
+		"date" : "2019-11-16",
+		"offline_spend" : 4000,
+		"online_spend" : 2716.48
+	},
+	{
+		"date" : "2019-11-17",
+		"offline_spend" : 4000,
+		"online_spend" : 2964.3
+	},
+	{
+		"date" : "2019-11-18",
+		"offline_spend" : 4000,
+		"online_spend" : 2825.78
+	},
+	{
+		"date" : "2019-11-19",
+		"offline_spend" : 2500,
+		"online_spend" : 1915.27
+	},
+	{
+		"date" : "2019-11-20",
+		"offline_spend" : 2500,
+		"online_spend" : 1893.03
+	},
+	{
+		"date" : "2019-11-21",
+		"offline_spend" : 2500,
+		"online_spend" : 484.9
+	},
+	{
+		"date" : "2019-11-22",
+		"offline_spend" : 2500,
+		"online_spend" : 2071.31
+	},
+	{
+		"date" : "2019-11-23",
+		"offline_spend" : 2500,
+		"online_spend" : 2972.6
+	},
+	{
+		"date" : "2019-11-24",
+		"offline_spend" : 2500,
+		"online_spend" : 3875.08
+	},
+	{
+		"date" : "2019-11-25",
+		"offline_spend" : 2500,
+		"online_spend" : 2643.59
+	},
+	{
+		"date" : "2019-11-26",
+		"offline_spend" : 3000,
+		"online_spend" : 1642.31
+	},
+	{
+		"date" : "2019-11-27",
+		"offline_spend" : 3000,
+		"online_spend" : 2819.58
+	},
+	{
+		"date" : "2019-11-28",
+		"offline_spend" : 3000,
+		"online_spend" : 1375.26
+	},
+	{
+		"date" : "2019-11-29",
+		"offline_spend" : 3000,
+		"online_spend" : 4556.93
+	},
+	{
+		"date" : "2019-11-30",
+		"offline_spend" : 3000,
+		"online_spend" : 1661.61
+	},
+	{
+		"date" : "2019-12-01",
+		"offline_spend" : 3000,
+		"online_spend" : 2358.1
+	},
+	{
+		"date" : "2019-12-02",
+		"offline_spend" : 3000,
+		"online_spend" : 1907.19
+	},
+	{
+		"date" : "2019-12-03",
+		"offline_spend" : 3500,
+		"online_spend" : 2011.57
+	},
+	{
+		"date" : "2019-12-04",
+		"offline_spend" : 3500,
+		"online_spend" : 909.19
+	},
+	{
+		"date" : "2019-12-05",
+		"offline_spend" : 3500,
+		"online_spend" : 2973.53
+	},
+	{
+		"date" : "2019-12-06",
+		"offline_spend" : 3500,
+		"online_spend" : 1957.58
+	},
+	{
+		"date" : "2019-12-07",
+		"offline_spend" : 3500,
+		"online_spend" : 3396.14
+	},
+	{
+		"date" : "2019-12-08",
+		"offline_spend" : 3500,
+		"online_spend" : 2671.9
+	},
+	{
+		"date" : "2019-12-09",
+		"offline_spend" : 3500,
+		"online_spend" : 2481.51
+	},
+	{
+		"date" : "2019-12-10",
+		"offline_spend" : 4000,
+		"online_spend" : 3897.2
+	},
+	{
+		"date" : "2019-12-11",
+		"offline_spend" : 4000,
+		"online_spend" : 1612.93
+	},
+	{
+		"date" : "2019-12-12",
+		"offline_spend" : 4000,
+		"online_spend" : 2904.23
+	},
+	{
+		"date" : "2019-12-13",
+		"offline_spend" : 4000,
+		"online_spend" : 3100.42
+	},
+	{
+		"date" : "2019-12-14",
+		"offline_spend" : 4000,
+		"online_spend" : 3434.31
+	},
+	{
+		"date" : "2019-12-15",
+		"offline_spend" : 4000,
+		"online_spend" : 3577.45
+	},
+	{
+		"date" : "2019-12-16",
+		"offline_spend" : 4000,
+		"online_spend" : 3116.98
+	},
+	{
+		"date" : "2019-12-17",
+		"offline_spend" : 4500,
+		"online_spend" : 1658.91
+	},
+	{
+		"date" : "2019-12-18",
+		"offline_spend" : 4500,
+		"online_spend" : 663.46
+	},
+	{
+		"date" : "2019-12-19",
+		"offline_spend" : 4500,
+		"online_spend" : 2829.71
+	},
+	{
+		"date" : "2019-12-20",
+		"offline_spend" : 4500,
+		"online_spend" : 2876.39
+	},
+	{
+		"date" : "2019-12-21",
+		"offline_spend" : 4500,
+		"online_spend" : 3112.73
+	},
+	{
+		"date" : "2019-12-22",
+		"offline_spend" : 4500,
+		"online_spend" : 2309.46
+	},
+	{
+		"date" : "2019-12-23",
+		"offline_spend" : 4500,
+		"online_spend" : 2199.69
+	},
+	{
+		"date" : "2019-12-24",
+		"offline_spend" : 4000,
+		"online_spend" : 3749.46
+	},
+	{
+		"date" : "2019-12-25",
+		"offline_spend" : 4000,
+		"online_spend" : 1133.7
+	},
+	{
+		"date" : "2019-12-26",
+		"offline_spend" : 4000,
+		"online_spend" : 1881.66
+	},
+	{
+		"date" : "2019-12-27",
+		"offline_spend" : 4000,
+		"online_spend" : 3396.87
+	},
+	{
+		"date" : "2019-12-28",
+		"offline_spend" : 4000,
+		"online_spend" : 3246.84
+	},
+	{
+		"date" : "2019-12-29",
+		"offline_spend" : 4000,
+		"online_spend" : 2546.58
+	},
+	{
+		"date" : "2019-12-30",
+		"offline_spend" : 4000,
+		"online_spend" : 674.31
+	},
+	{
+		"date" : "2019-12-31",
+		"offline_spend" : 4000,
+		"online_spend" : 2058.75
+	}
+]}

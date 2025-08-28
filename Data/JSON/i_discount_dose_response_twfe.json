@@ -1,0 +1,8 @@
+{
+"i_discount_dose_response_twfe": [
+	{
+		"i_discount_effect_per_1pp" : -210.0448228507238,
+		"ci_low" : -459.1665586239558,
+		"ci_high" : 39.07691292250817
+	}
+]}

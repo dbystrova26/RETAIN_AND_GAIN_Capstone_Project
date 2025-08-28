@@ -1,0 +1,83 @@
+{
+"tax_amount": [
+	{
+		"Product_Category" : "Nest-USA",
+		"GST" : 0.1
+	},
+	{
+		"Product_Category" : "Office",
+		"GST" : 0.1
+	},
+	{
+		"Product_Category" : "Apparel",
+		"GST" : 0.18
+	},
+	{
+		"Product_Category" : "Bags",
+		"GST" : 0.18
+	},
+	{
+		"Product_Category" : "Drinkware",
+		"GST" : 0.18
+	},
+	{
+		"Product_Category" : "Lifestyle",
+		"GST" : 0.18
+	},
+	{
+		"Product_Category" : "Notebooks & Journals",
+		"GST" : 0.05
+	},
+	{
+		"Product_Category" : "Headgear",
+		"GST" : 0.05
+	},
+	{
+		"Product_Category" : "Waze",
+		"GST" : 0.18
+	},
+	{
+		"Product_Category" : "Fun",
+		"GST" : 0.18
+	},
+	{
+		"Product_Category" : "Nest-Canada",
+		"GST" : 0.1
+	},
+	{
+		"Product_Category" : "Backpacks",
+		"GST" : 0.1
+	},
+	{
+		"Product_Category" : "Google",
+		"GST" : 0.1
+	},
+	{
+		"Product_Category" : "Bottles",
+		"GST" : 0.05
+	},
+	{
+		"Product_Category" : "Gift Cards",
+		"GST" : 0.05
+	},
+	{
+		"Product_Category" : "More Bags",
+		"GST" : 0.18
+	},
+	{
+		"Product_Category" : "Housewares",
+		"GST" : 0.12
+	},
+	{
+		"Product_Category" : "Android",
+		"GST" : 0.1
+	},
+	{
+		"Product_Category" : "Accessories",
+		"GST" : 0.1
+	},
+	{
+		"Product_Category" : "Nest",
+		"GST" : 0.05
+	}
+]}

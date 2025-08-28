@@ -1,0 +1,1866 @@
+{
+"actuals_panel_category_month": [
+	{
+		"product_category" : "Accessories",
+		"month_str" : "2019-01",
+		"month_num" : 1,
+		"revenue" : 58.07,
+		"orders" : 1,
+		"discount_pct" : 10.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Accessories",
+		"month_str" : "2019-03",
+		"month_num" : 3,
+		"revenue" : 66.49000000000001,
+		"orders" : 1,
+		"discount_pct" : 30.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Accessories",
+		"month_str" : "2019-04",
+		"month_num" : 4,
+		"revenue" : 191.96,
+		"orders" : 3,
+		"discount_pct" : 10.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Accessories",
+		"month_str" : "2019-05",
+		"month_num" : 5,
+		"revenue" : 190.97,
+		"orders" : 6,
+		"discount_pct" : 20.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Accessories",
+		"month_str" : "2019-06",
+		"month_num" : 6,
+		"revenue" : 263.72,
+		"orders" : 6,
+		"discount_pct" : 30.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Accessories",
+		"month_str" : "2019-07",
+		"month_num" : 7,
+		"revenue" : 1978.8300000000002,
+		"orders" : 5,
+		"discount_pct" : 10.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Accessories",
+		"month_str" : "2019-08",
+		"month_num" : 8,
+		"revenue" : 390.01,
+		"orders" : 8,
+		"discount_pct" : 20.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Accessories",
+		"month_str" : "2019-09",
+		"month_num" : 9,
+		"revenue" : 1495.27,
+		"orders" : 12,
+		"discount_pct" : 30.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Accessories",
+		"month_str" : "2019-10",
+		"month_num" : 10,
+		"revenue" : 1837.21,
+		"orders" : 42,
+		"discount_pct" : 10.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Accessories",
+		"month_str" : "2019-11",
+		"month_num" : 11,
+		"revenue" : 2438.54,
+		"orders" : 60,
+		"discount_pct" : 20.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Accessories",
+		"month_str" : "2019-12",
+		"month_num" : 12,
+		"revenue" : 1172.08,
+		"orders" : 47,
+		"discount_pct" : 30.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Android",
+		"month_str" : "2019-01",
+		"month_num" : 1,
+		"revenue" : 100.24000000000001,
+		"orders" : 4,
+		"discount_pct" : 10.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Android",
+		"month_str" : "2019-02",
+		"month_num" : 2,
+		"revenue" : 26.49,
+		"orders" : 1,
+		"discount_pct" : 20.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Android",
+		"month_str" : "2019-03",
+		"month_num" : 3,
+		"revenue" : 242.22,
+		"orders" : 7,
+		"discount_pct" : 30.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Android",
+		"month_str" : "2019-04",
+		"month_num" : 4,
+		"revenue" : 52.98,
+		"orders" : 2,
+		"discount_pct" : 10.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Android",
+		"month_str" : "2019-05",
+		"month_num" : 5,
+		"revenue" : 121.95,
+		"orders" : 5,
+		"discount_pct" : 20.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Android",
+		"month_str" : "2019-06",
+		"month_num" : 6,
+		"revenue" : 225.9,
+		"orders" : 9,
+		"discount_pct" : 30.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Android",
+		"month_str" : "2019-07",
+		"month_num" : 7,
+		"revenue" : 163.91,
+		"orders" : 8,
+		"discount_pct" : 10.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Android",
+		"month_str" : "2019-08",
+		"month_num" : 8,
+		"revenue" : 144.03,
+		"orders" : 7,
+		"discount_pct" : 20.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Apparel",
+		"month_str" : "2019-01",
+		"month_num" : 1,
+		"revenue" : 53831.06,
+		"orders" : 471,
+		"discount_pct" : 10.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Apparel",
+		"month_str" : "2019-02",
+		"month_num" : 2,
+		"revenue" : 51215.94,
+		"orders" : 497,
+		"discount_pct" : 20.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Apparel",
+		"month_str" : "2019-03",
+		"month_num" : 3,
+		"revenue" : 76105.78,
+		"orders" : 701,
+		"discount_pct" : 30.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Apparel",
+		"month_str" : "2019-04",
+		"month_num" : 4,
+		"revenue" : 101988.41,
+		"orders" : 710,
+		"discount_pct" : 10.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Apparel",
+		"month_str" : "2019-05",
+		"month_num" : 5,
+		"revenue" : 74306.92,
+		"orders" : 891,
+		"discount_pct" : 20.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Apparel",
+		"month_str" : "2019-06",
+		"month_num" : 6,
+		"revenue" : 60368.909999999996,
+		"orders" : 756,
+		"discount_pct" : 30.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Apparel",
+		"month_str" : "2019-07",
+		"month_num" : 7,
+		"revenue" : 83341.61,
+		"orders" : 826,
+		"discount_pct" : 10.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Apparel",
+		"month_str" : "2019-08",
+		"month_num" : 8,
+		"revenue" : 77844.4,
+		"orders" : 1100,
+		"discount_pct" : 20.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Apparel",
+		"month_str" : "2019-09",
+		"month_num" : 9,
+		"revenue" : 69378.37999999999,
+		"orders" : 603,
+		"discount_pct" : 30.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Apparel",
+		"month_str" : "2019-10",
+		"month_num" : 10,
+		"revenue" : 35863.85,
+		"orders" : 507,
+		"discount_pct" : 10.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Apparel",
+		"month_str" : "2019-11",
+		"month_num" : 11,
+		"revenue" : 24309.06,
+		"orders" : 401,
+		"discount_pct" : 20.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Apparel",
+		"month_str" : "2019-12",
+		"month_num" : 12,
+		"revenue" : 59455.92,
+		"orders" : 666,
+		"discount_pct" : 30.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Backpacks",
+		"month_str" : "2019-01",
+		"month_num" : 1,
+		"revenue" : 309.21,
+		"orders" : 3,
+		"discount_pct" : 0.0,
+		"treated" : 0
+	},
+	{
+		"product_category" : "Backpacks",
+		"month_str" : "2019-02",
+		"month_num" : 2,
+		"revenue" : 606.22,
+		"orders" : 5,
+		"discount_pct" : 0.0,
+		"treated" : 0
+	},
+	{
+		"product_category" : "Backpacks",
+		"month_str" : "2019-03",
+		"month_num" : 3,
+		"revenue" : 738.22,
+		"orders" : 6,
+		"discount_pct" : 0.0,
+		"treated" : 0
+	},
+	{
+		"product_category" : "Backpacks",
+		"month_str" : "2019-04",
+		"month_num" : 4,
+		"revenue" : 1191.44,
+		"orders" : 10,
+		"discount_pct" : 0.0,
+		"treated" : 0
+	},
+	{
+		"product_category" : "Backpacks",
+		"month_str" : "2019-05",
+		"month_num" : 5,
+		"revenue" : 1565.82,
+		"orders" : 21,
+		"discount_pct" : 0.0,
+		"treated" : 0
+	},
+	{
+		"product_category" : "Backpacks",
+		"month_str" : "2019-06",
+		"month_num" : 6,
+		"revenue" : 336.84,
+		"orders" : 4,
+		"discount_pct" : 0.0,
+		"treated" : 0
+	},
+	{
+		"product_category" : "Backpacks",
+		"month_str" : "2019-07",
+		"month_num" : 7,
+		"revenue" : 781.9,
+		"orders" : 7,
+		"discount_pct" : 0.0,
+		"treated" : 0
+	},
+	{
+		"product_category" : "Backpacks",
+		"month_str" : "2019-08",
+		"month_num" : 8,
+		"revenue" : 1574.53,
+		"orders" : 10,
+		"discount_pct" : 0.0,
+		"treated" : 0
+	},
+	{
+		"product_category" : "Backpacks",
+		"month_str" : "2019-09",
+		"month_num" : 9,
+		"revenue" : 758.08,
+		"orders" : 6,
+		"discount_pct" : 0.0,
+		"treated" : 0
+	},
+	{
+		"product_category" : "Backpacks",
+		"month_str" : "2019-10",
+		"month_num" : 10,
+		"revenue" : 1689.3899999999999,
+		"orders" : 8,
+		"discount_pct" : 0.0,
+		"treated" : 0
+	},
+	{
+		"product_category" : "Backpacks",
+		"month_str" : "2019-11",
+		"month_num" : 11,
+		"revenue" : 383.96,
+		"orders" : 4,
+		"discount_pct" : 0.0,
+		"treated" : 0
+	},
+	{
+		"product_category" : "Bags",
+		"month_str" : "2019-01",
+		"month_num" : 1,
+		"revenue" : 13966.2,
+		"orders" : 118,
+		"discount_pct" : 10.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Bags",
+		"month_str" : "2019-02",
+		"month_num" : 2,
+		"revenue" : 22117.93,
+		"orders" : 110,
+		"discount_pct" : 20.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Bags",
+		"month_str" : "2019-03",
+		"month_num" : 3,
+		"revenue" : 17635.02,
+		"orders" : 161,
+		"discount_pct" : 30.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Bags",
+		"month_str" : "2019-04",
+		"month_num" : 4,
+		"revenue" : 13134.33,
+		"orders" : 125,
+		"discount_pct" : 10.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Bags",
+		"month_str" : "2019-05",
+		"month_num" : 5,
+		"revenue" : 11669.82,
+		"orders" : 124,
+		"discount_pct" : 20.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Bags",
+		"month_str" : "2019-06",
+		"month_num" : 6,
+		"revenue" : 14270.11,
+		"orders" : 121,
+		"discount_pct" : 30.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Bags",
+		"month_str" : "2019-07",
+		"month_num" : 7,
+		"revenue" : 13915.75,
+		"orders" : 168,
+		"discount_pct" : 10.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Bags",
+		"month_str" : "2019-08",
+		"month_num" : 8,
+		"revenue" : 18737.350000000002,
+		"orders" : 162,
+		"discount_pct" : 20.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Bags",
+		"month_str" : "2019-09",
+		"month_num" : 9,
+		"revenue" : 11167.380000000001,
+		"orders" : 141,
+		"discount_pct" : 30.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Bags",
+		"month_str" : "2019-10",
+		"month_num" : 10,
+		"revenue" : 16272.78,
+		"orders" : 122,
+		"discount_pct" : 10.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Bags",
+		"month_str" : "2019-11",
+		"month_num" : 11,
+		"revenue" : 13935.029999999999,
+		"orders" : 108,
+		"discount_pct" : 20.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Bags",
+		"month_str" : "2019-12",
+		"month_num" : 12,
+		"revenue" : 10137.78,
+		"orders" : 85,
+		"discount_pct" : 30.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Bottles",
+		"month_str" : "2019-01",
+		"month_num" : 1,
+		"revenue" : 1080.43,
+		"orders" : 15,
+		"discount_pct" : 10.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Bottles",
+		"month_str" : "2019-02",
+		"month_num" : 2,
+		"revenue" : 568.11,
+		"orders" : 19,
+		"discount_pct" : 20.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Bottles",
+		"month_str" : "2019-03",
+		"month_num" : 3,
+		"revenue" : 710.9200000000001,
+		"orders" : 22,
+		"discount_pct" : 30.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Bottles",
+		"month_str" : "2019-04",
+		"month_num" : 4,
+		"revenue" : 745.12,
+		"orders" : 18,
+		"discount_pct" : 10.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Bottles",
+		"month_str" : "2019-05",
+		"month_num" : 5,
+		"revenue" : 1506.89,
+		"orders" : 25,
+		"discount_pct" : 20.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Bottles",
+		"month_str" : "2019-06",
+		"month_num" : 6,
+		"revenue" : 799.7900000000001,
+		"orders" : 22,
+		"discount_pct" : 30.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Bottles",
+		"month_str" : "2019-07",
+		"month_num" : 7,
+		"revenue" : 1587.07,
+		"orders" : 38,
+		"discount_pct" : 10.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Bottles",
+		"month_str" : "2019-08",
+		"month_num" : 8,
+		"revenue" : 750.61,
+		"orders" : 37,
+		"discount_pct" : 20.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Bottles",
+		"month_str" : "2019-09",
+		"month_num" : 9,
+		"revenue" : 2057.8700000000003,
+		"orders" : 40,
+		"discount_pct" : 30.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Bottles",
+		"month_str" : "2019-10",
+		"month_num" : 10,
+		"revenue" : 621.81,
+		"orders" : 22,
+		"discount_pct" : 10.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Drinkware",
+		"month_str" : "2019-01",
+		"month_num" : 1,
+		"revenue" : 19010.96,
+		"orders" : 217,
+		"discount_pct" : 10.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Drinkware",
+		"month_str" : "2019-02",
+		"month_num" : 2,
+		"revenue" : 19715.75,
+		"orders" : 203,
+		"discount_pct" : 20.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Drinkware",
+		"month_str" : "2019-03",
+		"month_num" : 3,
+		"revenue" : 28638.739999999998,
+		"orders" : 272,
+		"discount_pct" : 30.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Drinkware",
+		"month_str" : "2019-04",
+		"month_num" : 4,
+		"revenue" : 30711.43,
+		"orders" : 185,
+		"discount_pct" : 10.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Drinkware",
+		"month_str" : "2019-05",
+		"month_num" : 5,
+		"revenue" : 19829.87,
+		"orders" : 211,
+		"discount_pct" : 20.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Drinkware",
+		"month_str" : "2019-06",
+		"month_num" : 6,
+		"revenue" : 20301.54,
+		"orders" : 185,
+		"discount_pct" : 30.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Drinkware",
+		"month_str" : "2019-07",
+		"month_num" : 7,
+		"revenue" : 15543.56,
+		"orders" : 232,
+		"discount_pct" : 10.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Drinkware",
+		"month_str" : "2019-08",
+		"month_num" : 8,
+		"revenue" : 28493.96,
+		"orders" : 327,
+		"discount_pct" : 20.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Drinkware",
+		"month_str" : "2019-09",
+		"month_num" : 9,
+		"revenue" : 22302.1,
+		"orders" : 235,
+		"discount_pct" : 30.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Drinkware",
+		"month_str" : "2019-10",
+		"month_num" : 10,
+		"revenue" : 25462.61,
+		"orders" : 220,
+		"discount_pct" : 10.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Drinkware",
+		"month_str" : "2019-11",
+		"month_num" : 11,
+		"revenue" : 8950.58,
+		"orders" : 135,
+		"discount_pct" : 20.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Drinkware",
+		"month_str" : "2019-12",
+		"month_num" : 12,
+		"revenue" : 11874.91,
+		"orders" : 102,
+		"discount_pct" : 30.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Fun",
+		"month_str" : "2019-01",
+		"month_num" : 1,
+		"revenue" : 408.94,
+		"orders" : 11,
+		"discount_pct" : 0.0,
+		"treated" : 0
+	},
+	{
+		"product_category" : "Fun",
+		"month_str" : "2019-02",
+		"month_num" : 2,
+		"revenue" : 454.3,
+		"orders" : 12,
+		"discount_pct" : 0.0,
+		"treated" : 0
+	},
+	{
+		"product_category" : "Fun",
+		"month_str" : "2019-03",
+		"month_num" : 3,
+		"revenue" : 898.86,
+		"orders" : 15,
+		"discount_pct" : 0.0,
+		"treated" : 0
+	},
+	{
+		"product_category" : "Fun",
+		"month_str" : "2019-04",
+		"month_num" : 4,
+		"revenue" : 2538.29,
+		"orders" : 14,
+		"discount_pct" : 0.0,
+		"treated" : 0
+	},
+	{
+		"product_category" : "Fun",
+		"month_str" : "2019-05",
+		"month_num" : 5,
+		"revenue" : 805.9300000000001,
+		"orders" : 12,
+		"discount_pct" : 0.0,
+		"treated" : 0
+	},
+	{
+		"product_category" : "Fun",
+		"month_str" : "2019-06",
+		"month_num" : 6,
+		"revenue" : 863.07,
+		"orders" : 16,
+		"discount_pct" : 0.0,
+		"treated" : 0
+	},
+	{
+		"product_category" : "Fun",
+		"month_str" : "2019-07",
+		"month_num" : 7,
+		"revenue" : 1252.54,
+		"orders" : 34,
+		"discount_pct" : 0.0,
+		"treated" : 0
+	},
+	{
+		"product_category" : "Fun",
+		"month_str" : "2019-08",
+		"month_num" : 8,
+		"revenue" : 403.86,
+		"orders" : 20,
+		"discount_pct" : 0.0,
+		"treated" : 0
+	},
+	{
+		"product_category" : "Fun",
+		"month_str" : "2019-09",
+		"month_num" : 9,
+		"revenue" : 236.44,
+		"orders" : 9,
+		"discount_pct" : 0.0,
+		"treated" : 0
+	},
+	{
+		"product_category" : "Fun",
+		"month_str" : "2019-10",
+		"month_num" : 10,
+		"revenue" : 47.09,
+		"orders" : 3,
+		"discount_pct" : 0.0,
+		"treated" : 0
+	},
+	{
+		"product_category" : "Gift Cards",
+		"month_str" : "2019-01",
+		"month_num" : 1,
+		"revenue" : 283.69,
+		"orders" : 4,
+		"discount_pct" : 10.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Gift Cards",
+		"month_str" : "2019-02",
+		"month_num" : 2,
+		"revenue" : 400.0,
+		"orders" : 6,
+		"discount_pct" : 20.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Gift Cards",
+		"month_str" : "2019-03",
+		"month_num" : 3,
+		"revenue" : 375.0,
+		"orders" : 6,
+		"discount_pct" : 30.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Gift Cards",
+		"month_str" : "2019-04",
+		"month_num" : 4,
+		"revenue" : 725.0,
+		"orders" : 7,
+		"discount_pct" : 10.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Gift Cards",
+		"month_str" : "2019-05",
+		"month_num" : 5,
+		"revenue" : 1325.0,
+		"orders" : 24,
+		"discount_pct" : 20.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Gift Cards",
+		"month_str" : "2019-06",
+		"month_num" : 6,
+		"revenue" : 1200.0,
+		"orders" : 10,
+		"discount_pct" : 30.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Gift Cards",
+		"month_str" : "2019-07",
+		"month_num" : 7,
+		"revenue" : 500.0,
+		"orders" : 10,
+		"discount_pct" : 10.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Gift Cards",
+		"month_str" : "2019-08",
+		"month_num" : 8,
+		"revenue" : 750.0,
+		"orders" : 9,
+		"discount_pct" : 20.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Gift Cards",
+		"month_str" : "2019-09",
+		"month_num" : 9,
+		"revenue" : 600.0,
+		"orders" : 3,
+		"discount_pct" : 30.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Gift Cards",
+		"month_str" : "2019-10",
+		"month_num" : 10,
+		"revenue" : 12575.0,
+		"orders" : 68,
+		"discount_pct" : 10.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Gift Cards",
+		"month_str" : "2019-12",
+		"month_num" : 12,
+		"revenue" : 800.13,
+		"orders" : 10,
+		"discount_pct" : 30.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Google",
+		"month_str" : "2019-01",
+		"month_num" : 1,
+		"revenue" : 1245.71,
+		"orders" : 21,
+		"discount_pct" : 0.0,
+		"treated" : 0
+	},
+	{
+		"product_category" : "Google",
+		"month_str" : "2019-02",
+		"month_num" : 2,
+		"revenue" : 1722.1299999999999,
+		"orders" : 15,
+		"discount_pct" : 0.0,
+		"treated" : 0
+	},
+	{
+		"product_category" : "Google",
+		"month_str" : "2019-03",
+		"month_num" : 3,
+		"revenue" : 3129.64,
+		"orders" : 17,
+		"discount_pct" : 0.0,
+		"treated" : 0
+	},
+	{
+		"product_category" : "Google",
+		"month_str" : "2019-04",
+		"month_num" : 4,
+		"revenue" : 1141.61,
+		"orders" : 10,
+		"discount_pct" : 0.0,
+		"treated" : 0
+	},
+	{
+		"product_category" : "Google",
+		"month_str" : "2019-05",
+		"month_num" : 5,
+		"revenue" : 1649.85,
+		"orders" : 11,
+		"discount_pct" : 0.0,
+		"treated" : 0
+	},
+	{
+		"product_category" : "Google",
+		"month_str" : "2019-06",
+		"month_num" : 6,
+		"revenue" : 1257.4599999999998,
+		"orders" : 13,
+		"discount_pct" : 0.0,
+		"treated" : 0
+	},
+	{
+		"product_category" : "Google",
+		"month_str" : "2019-07",
+		"month_num" : 7,
+		"revenue" : 1789.8400000000001,
+		"orders" : 12,
+		"discount_pct" : 0.0,
+		"treated" : 0
+	},
+	{
+		"product_category" : "Google",
+		"month_str" : "2019-08",
+		"month_num" : 8,
+		"revenue" : 290.52,
+		"orders" : 6,
+		"discount_pct" : 0.0,
+		"treated" : 0
+	},
+	{
+		"product_category" : "Headgear",
+		"month_str" : "2019-01",
+		"month_num" : 1,
+		"revenue" : 2819.89,
+		"orders" : 43,
+		"discount_pct" : 10.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Headgear",
+		"month_str" : "2019-02",
+		"month_num" : 2,
+		"revenue" : 5219.4,
+		"orders" : 56,
+		"discount_pct" : 20.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Headgear",
+		"month_str" : "2019-03",
+		"month_num" : 3,
+		"revenue" : 3886.0,
+		"orders" : 59,
+		"discount_pct" : 30.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Headgear",
+		"month_str" : "2019-04",
+		"month_num" : 4,
+		"revenue" : 12906.75,
+		"orders" : 60,
+		"discount_pct" : 10.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Headgear",
+		"month_str" : "2019-05",
+		"month_num" : 5,
+		"revenue" : 3598.89,
+		"orders" : 54,
+		"discount_pct" : 20.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Headgear",
+		"month_str" : "2019-06",
+		"month_num" : 6,
+		"revenue" : 1786.12,
+		"orders" : 61,
+		"discount_pct" : 30.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Headgear",
+		"month_str" : "2019-07",
+		"month_num" : 7,
+		"revenue" : 3101.59,
+		"orders" : 102,
+		"discount_pct" : 10.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Headgear",
+		"month_str" : "2019-08",
+		"month_num" : 8,
+		"revenue" : 22756.68,
+		"orders" : 98,
+		"discount_pct" : 20.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Headgear",
+		"month_str" : "2019-09",
+		"month_num" : 9,
+		"revenue" : 1550.27,
+		"orders" : 57,
+		"discount_pct" : 30.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Headgear",
+		"month_str" : "2019-10",
+		"month_num" : 10,
+		"revenue" : 951.29,
+		"orders" : 22,
+		"discount_pct" : 10.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Headgear",
+		"month_str" : "2019-11",
+		"month_num" : 11,
+		"revenue" : 693.2,
+		"orders" : 16,
+		"discount_pct" : 20.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Headgear",
+		"month_str" : "2019-12",
+		"month_num" : 12,
+		"revenue" : 1664.9,
+		"orders" : 46,
+		"discount_pct" : 30.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Housewares",
+		"month_str" : "2019-01",
+		"month_num" : 1,
+		"revenue" : 1577.74,
+		"orders" : 10,
+		"discount_pct" : 10.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Housewares",
+		"month_str" : "2019-02",
+		"month_num" : 2,
+		"revenue" : 174.24,
+		"orders" : 5,
+		"discount_pct" : 20.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Housewares",
+		"month_str" : "2019-03",
+		"month_num" : 3,
+		"revenue" : 957.5799999999999,
+		"orders" : 17,
+		"discount_pct" : 30.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Housewares",
+		"month_str" : "2019-04",
+		"month_num" : 4,
+		"revenue" : 178.75,
+		"orders" : 10,
+		"discount_pct" : 10.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Housewares",
+		"month_str" : "2019-05",
+		"month_num" : 5,
+		"revenue" : 635.96,
+		"orders" : 12,
+		"discount_pct" : 20.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Housewares",
+		"month_str" : "2019-06",
+		"month_num" : 6,
+		"revenue" : 487.56,
+		"orders" : 10,
+		"discount_pct" : 30.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Housewares",
+		"month_str" : "2019-07",
+		"month_num" : 7,
+		"revenue" : 1482.32,
+		"orders" : 22,
+		"discount_pct" : 10.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Housewares",
+		"month_str" : "2019-08",
+		"month_num" : 8,
+		"revenue" : 1161.7,
+		"orders" : 33,
+		"discount_pct" : 20.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Housewares",
+		"month_str" : "2019-09",
+		"month_num" : 9,
+		"revenue" : 38.480000000000004,
+		"orders" : 3,
+		"discount_pct" : 30.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Lifestyle",
+		"month_str" : "2019-01",
+		"month_num" : 1,
+		"revenue" : 9895.81,
+		"orders" : 129,
+		"discount_pct" : 10.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Lifestyle",
+		"month_str" : "2019-02",
+		"month_num" : 2,
+		"revenue" : 12487.81,
+		"orders" : 112,
+		"discount_pct" : 20.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Lifestyle",
+		"month_str" : "2019-03",
+		"month_num" : 3,
+		"revenue" : 11764.65,
+		"orders" : 133,
+		"discount_pct" : 30.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Lifestyle",
+		"month_str" : "2019-04",
+		"month_num" : 4,
+		"revenue" : 12053.81,
+		"orders" : 127,
+		"discount_pct" : 10.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Lifestyle",
+		"month_str" : "2019-05",
+		"month_num" : 5,
+		"revenue" : 8136.36,
+		"orders" : 145,
+		"discount_pct" : 20.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Lifestyle",
+		"month_str" : "2019-06",
+		"month_num" : 6,
+		"revenue" : 8744.71,
+		"orders" : 148,
+		"discount_pct" : 30.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Lifestyle",
+		"month_str" : "2019-07",
+		"month_num" : 7,
+		"revenue" : 13721.33,
+		"orders" : 208,
+		"discount_pct" : 10.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Lifestyle",
+		"month_str" : "2019-08",
+		"month_num" : 8,
+		"revenue" : 12504.94,
+		"orders" : 226,
+		"discount_pct" : 20.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Lifestyle",
+		"month_str" : "2019-09",
+		"month_num" : 9,
+		"revenue" : 10626.43,
+		"orders" : 184,
+		"discount_pct" : 30.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Lifestyle",
+		"month_str" : "2019-10",
+		"month_num" : 10,
+		"revenue" : 12130.1,
+		"orders" : 163,
+		"discount_pct" : 10.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Lifestyle",
+		"month_str" : "2019-11",
+		"month_num" : 11,
+		"revenue" : 2869.06,
+		"orders" : 78,
+		"discount_pct" : 20.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Lifestyle",
+		"month_str" : "2019-12",
+		"month_num" : 12,
+		"revenue" : 2686.85,
+		"orders" : 59,
+		"discount_pct" : 30.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "More Bags",
+		"month_str" : "2019-01",
+		"month_num" : 1,
+		"revenue" : 1446.4599999999998,
+		"orders" : 4,
+		"discount_pct" : 0.0,
+		"treated" : 0
+	},
+	{
+		"product_category" : "More Bags",
+		"month_str" : "2019-02",
+		"month_num" : 2,
+		"revenue" : 475.81999999999994,
+		"orders" : 4,
+		"discount_pct" : 0.0,
+		"treated" : 0
+	},
+	{
+		"product_category" : "More Bags",
+		"month_str" : "2019-03",
+		"month_num" : 3,
+		"revenue" : 630.29,
+		"orders" : 12,
+		"discount_pct" : 0.0,
+		"treated" : 0
+	},
+	{
+		"product_category" : "More Bags",
+		"month_str" : "2019-04",
+		"month_num" : 4,
+		"revenue" : 454.87,
+		"orders" : 11,
+		"discount_pct" : 0.0,
+		"treated" : 0
+	},
+	{
+		"product_category" : "More Bags",
+		"month_str" : "2019-05",
+		"month_num" : 5,
+		"revenue" : 435.22,
+		"orders" : 9,
+		"discount_pct" : 0.0,
+		"treated" : 0
+	},
+	{
+		"product_category" : "Nest",
+		"month_str" : "2019-08",
+		"month_num" : 8,
+		"revenue" : 21275.92,
+		"orders" : 86,
+		"discount_pct" : 20.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Nest",
+		"month_str" : "2019-09",
+		"month_num" : 9,
+		"revenue" : 72240.94,
+		"orders" : 273,
+		"discount_pct" : 30.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Nest",
+		"month_str" : "2019-10",
+		"month_num" : 10,
+		"revenue" : 110256.78,
+		"orders" : 416,
+		"discount_pct" : 10.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Nest",
+		"month_str" : "2019-11",
+		"month_num" : 11,
+		"revenue" : 179367.08,
+		"orders" : 579,
+		"discount_pct" : 20.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Nest",
+		"month_str" : "2019-12",
+		"month_num" : 12,
+		"revenue" : 151135.58000000002,
+		"orders" : 620,
+		"discount_pct" : 30.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Nest-Canada",
+		"month_str" : "2019-01",
+		"month_num" : 1,
+		"revenue" : 10007.92,
+		"orders" : 30,
+		"discount_pct" : 10.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Nest-Canada",
+		"month_str" : "2019-02",
+		"month_num" : 2,
+		"revenue" : 4169.75,
+		"orders" : 18,
+		"discount_pct" : 20.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Nest-Canada",
+		"month_str" : "2019-03",
+		"month_num" : 3,
+		"revenue" : 7857.599999999999,
+		"orders" : 22,
+		"discount_pct" : 30.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Nest-Canada",
+		"month_str" : "2019-04",
+		"month_num" : 4,
+		"revenue" : 5855.9,
+		"orders" : 16,
+		"discount_pct" : 10.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Nest-Canada",
+		"month_str" : "2019-05",
+		"month_num" : 5,
+		"revenue" : 3979.0499999999997,
+		"orders" : 18,
+		"discount_pct" : 20.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Nest-Canada",
+		"month_str" : "2019-06",
+		"month_num" : 6,
+		"revenue" : 9624.05,
+		"orders" : 36,
+		"discount_pct" : 30.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Nest-Canada",
+		"month_str" : "2019-07",
+		"month_num" : 7,
+		"revenue" : 8008.639999999999,
+		"orders" : 23,
+		"discount_pct" : 10.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Nest-Canada",
+		"month_str" : "2019-08",
+		"month_num" : 8,
+		"revenue" : 5158.799999999999,
+		"orders" : 18,
+		"discount_pct" : 20.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Nest-Canada",
+		"month_str" : "2019-09",
+		"month_num" : 9,
+		"revenue" : 3579.5,
+		"orders" : 13,
+		"discount_pct" : 30.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Nest-Canada",
+		"month_str" : "2019-10",
+		"month_num" : 10,
+		"revenue" : 5058.849999999999,
+		"orders" : 21,
+		"discount_pct" : 10.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Nest-Canada",
+		"month_str" : "2019-11",
+		"month_num" : 11,
+		"revenue" : 4995.799999999999,
+		"orders" : 20,
+		"discount_pct" : 20.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Nest-Canada",
+		"month_str" : "2019-12",
+		"month_num" : 12,
+		"revenue" : 5517.49,
+		"orders" : 23,
+		"discount_pct" : 30.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Nest-USA",
+		"month_str" : "2019-01",
+		"month_num" : 1,
+		"revenue" : 294900.72,
+		"orders" : 1288,
+		"discount_pct" : 10.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Nest-USA",
+		"month_str" : "2019-02",
+		"month_num" : 2,
+		"revenue" : 203461.03,
+		"orders" : 875,
+		"discount_pct" : 20.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Nest-USA",
+		"month_str" : "2019-03",
+		"month_num" : 3,
+		"revenue" : 207908.15,
+		"orders" : 894,
+		"discount_pct" : 30.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Nest-USA",
+		"month_str" : "2019-04",
+		"month_num" : 4,
+		"revenue" : 189115.89,
+		"orders" : 790,
+		"discount_pct" : 10.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Nest-USA",
+		"month_str" : "2019-05",
+		"month_num" : 5,
+		"revenue" : 180281.98,
+		"orders" : 785,
+		"discount_pct" : 20.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Nest-USA",
+		"month_str" : "2019-06",
+		"month_num" : 6,
+		"revenue" : 203033.31,
+		"orders" : 875,
+		"discount_pct" : 30.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Nest-USA",
+		"month_str" : "2019-07",
+		"month_num" : 7,
+		"revenue" : 216945.76,
+		"orders" : 922,
+		"discount_pct" : 10.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Nest-USA",
+		"month_str" : "2019-08",
+		"month_num" : 8,
+		"revenue" : 203975.89,
+		"orders" : 897,
+		"discount_pct" : 20.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Nest-USA",
+		"month_str" : "2019-09",
+		"month_num" : 9,
+		"revenue" : 175616.22,
+		"orders" : 817,
+		"discount_pct" : 30.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Nest-USA",
+		"month_str" : "2019-10",
+		"month_num" : 10,
+		"revenue" : 213146.71,
+		"orders" : 965,
+		"discount_pct" : 10.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Nest-USA",
+		"month_str" : "2019-11",
+		"month_num" : 11,
+		"revenue" : 273088.45,
+		"orders" : 1204,
+		"discount_pct" : 20.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Nest-USA",
+		"month_str" : "2019-12",
+		"month_num" : 12,
+		"revenue" : 292368.33999999997,
+		"orders" : 1314,
+		"discount_pct" : 30.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Notebooks & Journals",
+		"month_str" : "2019-01",
+		"month_num" : 1,
+		"revenue" : 7823.5599999999995,
+		"orders" : 45,
+		"discount_pct" : 10.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Notebooks & Journals",
+		"month_str" : "2019-02",
+		"month_num" : 2,
+		"revenue" : 6694.83,
+		"orders" : 43,
+		"discount_pct" : 20.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Notebooks & Journals",
+		"month_str" : "2019-03",
+		"month_num" : 3,
+		"revenue" : 5748.62,
+		"orders" : 49,
+		"discount_pct" : 30.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Notebooks & Journals",
+		"month_str" : "2019-04",
+		"month_num" : 4,
+		"revenue" : 24289.71,
+		"orders" : 58,
+		"discount_pct" : 10.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Notebooks & Journals",
+		"month_str" : "2019-05",
+		"month_num" : 5,
+		"revenue" : 6783.7,
+		"orders" : 51,
+		"discount_pct" : 20.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Notebooks & Journals",
+		"month_str" : "2019-06",
+		"month_num" : 6,
+		"revenue" : 5590.03,
+		"orders" : 44,
+		"discount_pct" : 30.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Notebooks & Journals",
+		"month_str" : "2019-07",
+		"month_num" : 7,
+		"revenue" : 25147.870000000003,
+		"orders" : 119,
+		"discount_pct" : 10.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Notebooks & Journals",
+		"month_str" : "2019-08",
+		"month_num" : 8,
+		"revenue" : 31112.440000000002,
+		"orders" : 154,
+		"discount_pct" : 20.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Notebooks & Journals",
+		"month_str" : "2019-09",
+		"month_num" : 9,
+		"revenue" : 8614.43,
+		"orders" : 46,
+		"discount_pct" : 30.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Notebooks & Journals",
+		"month_str" : "2019-10",
+		"month_num" : 10,
+		"revenue" : 44.49,
+		"orders" : 2,
+		"discount_pct" : 10.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Notebooks & Journals",
+		"month_str" : "2019-12",
+		"month_num" : 12,
+		"revenue" : 1045.44,
+		"orders" : 9,
+		"discount_pct" : 30.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Office",
+		"month_str" : "2019-01",
+		"month_num" : 1,
+		"revenue" : 43109.76,
+		"orders" : 300,
+		"discount_pct" : 10.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Office",
+		"month_str" : "2019-02",
+		"month_num" : 2,
+		"revenue" : 29832.23,
+		"orders" : 254,
+		"discount_pct" : 20.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Office",
+		"month_str" : "2019-03",
+		"month_num" : 3,
+		"revenue" : 41705.21,
+		"orders" : 326,
+		"discount_pct" : 30.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Office",
+		"month_str" : "2019-04",
+		"month_num" : 4,
+		"revenue" : 44876.57,
+		"orders" : 291,
+		"discount_pct" : 10.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Office",
+		"month_str" : "2019-05",
+		"month_num" : 5,
+		"revenue" : 31476.12,
+		"orders" : 321,
+		"discount_pct" : 20.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Office",
+		"month_str" : "2019-06",
+		"month_num" : 6,
+		"revenue" : 28658.71,
+		"orders" : 284,
+		"discount_pct" : 30.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Office",
+		"month_str" : "2019-07",
+		"month_num" : 7,
+		"revenue" : 31711.34,
+		"orders" : 321,
+		"discount_pct" : 10.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Office",
+		"month_str" : "2019-08",
+		"month_num" : 8,
+		"revenue" : 33965.58,
+		"orders" : 363,
+		"discount_pct" : 20.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Office",
+		"month_str" : "2019-09",
+		"month_num" : 9,
+		"revenue" : 20526.95,
+		"orders" : 266,
+		"discount_pct" : 30.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Office",
+		"month_str" : "2019-10",
+		"month_num" : 10,
+		"revenue" : 18455.47,
+		"orders" : 277,
+		"discount_pct" : 10.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Office",
+		"month_str" : "2019-11",
+		"month_num" : 11,
+		"revenue" : 28721.71,
+		"orders" : 285,
+		"discount_pct" : 20.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Office",
+		"month_str" : "2019-12",
+		"month_num" : 12,
+		"revenue" : 22202.66,
+		"orders" : 238,
+		"discount_pct" : 30.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Waze",
+		"month_str" : "2019-01",
+		"month_num" : 1,
+		"revenue" : 990.53,
+		"orders" : 39,
+		"discount_pct" : 10.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Waze",
+		"month_str" : "2019-02",
+		"month_num" : 2,
+		"revenue" : 694.4200000000001,
+		"orders" : 19,
+		"discount_pct" : 20.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Waze",
+		"month_str" : "2019-03",
+		"month_num" : 3,
+		"revenue" : 1409.04,
+		"orders" : 38,
+		"discount_pct" : 30.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Waze",
+		"month_str" : "2019-04",
+		"month_num" : 4,
+		"revenue" : 947.34,
+		"orders" : 27,
+		"discount_pct" : 10.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Waze",
+		"month_str" : "2019-05",
+		"month_num" : 5,
+		"revenue" : 859.29,
+		"orders" : 50,
+		"discount_pct" : 20.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Waze",
+		"month_str" : "2019-06",
+		"month_num" : 6,
+		"revenue" : 783.13,
+		"orders" : 30,
+		"discount_pct" : 30.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Waze",
+		"month_str" : "2019-07",
+		"month_num" : 7,
+		"revenue" : 388.14,
+		"orders" : 23,
+		"discount_pct" : 10.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Waze",
+		"month_str" : "2019-08",
+		"month_num" : 8,
+		"revenue" : 1018.72,
+		"orders" : 53,
+		"discount_pct" : 20.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Waze",
+		"month_str" : "2019-09",
+		"month_num" : 9,
+		"revenue" : 765.08,
+		"orders" : 29,
+		"discount_pct" : 30.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Waze",
+		"month_str" : "2019-10",
+		"month_num" : 10,
+		"revenue" : 1229.73,
+		"orders" : 35,
+		"discount_pct" : 10.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Waze",
+		"month_str" : "2019-11",
+		"month_num" : 11,
+		"revenue" : 1502.08,
+		"orders" : 53,
+		"discount_pct" : 20.0,
+		"treated" : 1
+	},
+	{
+		"product_category" : "Waze",
+		"month_str" : "2019-12",
+		"month_num" : 12,
+		"revenue" : 1078.1,
+		"orders" : 46,
+		"discount_pct" : 30.0,
+		"treated" : 1
+	}
+]}

@@ -1,0 +1,147 @@
+{
+"mart_monthly_kpi_summary": [
+	{
+		"month" : "2019-01-01",
+		"new_customers" : 215,
+		"order_count" : 2102,
+		"total_revenue" : 462866.9,
+		"total_spend" : 154928.95,
+		"online_spend" : 58328.95,
+		"aov" : 220.20,
+		"cac" : 720.60,
+		"roas" : 2.99,
+		"roas_online" : 7.94
+	},
+	{
+		"month" : "2019-02-01",
+		"new_customers" : 96,
+		"order_count" : 1664,
+		"total_revenue" : 360036.4,
+		"total_spend" : 137107.92,
+		"online_spend" : 55807.92,
+		"aov" : 216.37,
+		"cac" : 1428.21,
+		"roas" : 2.63,
+		"roas_online" : 6.45
+	},
+	{
+		"month" : "2019-03-01",
+		"new_customers" : 177,
+		"order_count" : 1991,
+		"total_revenue" : 410408.03,
+		"total_spend" : 122250.09,
+		"online_spend" : 48750.09,
+		"aov" : 206.13,
+		"cac" : 690.68,
+		"roas" : 3.36,
+		"roas_online" : 8.42
+	},
+	{
+		"month" : "2019-04-01",
+		"new_customers" : 163,
+		"order_count" : 1813,
+		"total_revenue" : 443100.16,
+		"total_spend" : 157026.83,
+		"online_spend" : 61026.83,
+		"aov" : 244.40,
+		"cac" : 963.35,
+		"roas" : 2.82,
+		"roas_online" : 7.26
+	},
+	{
+		"month" : "2019-05-01",
+		"new_customers" : 112,
+		"order_count" : 2034,
+		"total_revenue" : 349159.59,
+		"total_spend" : 118259.64,
+		"online_spend" : 52759.64,
+		"aov" : 171.66,
+		"cac" : 1055.89,
+		"roas" : 2.95,
+		"roas_online" : 6.62
+	},
+	{
+		"month" : "2019-06-01",
+		"new_customers" : 137,
+		"order_count" : 1940,
+		"total_revenue" : 358594.96,
+		"total_spend" : 134318.14,
+		"online_spend" : 53818.14,
+		"aov" : 184.84,
+		"cac" : 980.42,
+		"roas" : 2.67,
+		"roas_online" : 6.66
+	},
+	{
+		"month" : "2019-07-01",
+		"new_customers" : 94,
+		"order_count" : 2080,
+		"total_revenue" : 421362.0,
+		"total_spend" : 120217.85,
+		"online_spend" : 52717.85,
+		"aov" : 202.58,
+		"cac" : 1278.91,
+		"roas" : 3.50,
+		"roas_online" : 7.99
+	},
+	{
+		"month" : "2019-08-01",
+		"new_customers" : 135,
+		"order_count" : 2414,
+		"total_revenue" : 462309.94,
+		"total_spend" : 142904.15,
+		"online_spend" : 57404.15,
+		"aov" : 191.51,
+		"cac" : 1058.55,
+		"roas" : 3.24,
+		"roas_online" : 8.05
+	},
+	{
+		"month" : "2019-09-01",
+		"new_customers" : 78,
+		"order_count" : 1932,
+		"total_revenue" : 401553.82,
+		"total_spend" : 135514.54,
+		"online_spend" : 52514.54,
+		"aov" : 207.84,
+		"cac" : 1737.37,
+		"roas" : 2.96,
+		"roas_online" : 7.65
+	},
+	{
+		"month" : "2019-10-01",
+		"new_customers" : 87,
+		"order_count" : 2125,
+		"total_revenue" : 455643.16,
+		"total_spend" : 151224.65,
+		"online_spend" : 57724.65,
+		"aov" : 214.42,
+		"cac" : 1738.21,
+		"roas" : 3.01,
+		"roas_online" : 7.89
+	},
+	{
+		"month" : "2019-11-01",
+		"new_customers" : 68,
+		"order_count" : 2282,
+		"total_revenue" : 541254.55,
+		"total_spend" : 161144.96,
+		"online_spend" : 68144.96,
+		"aov" : 237.18,
+		"cac" : 2369.78,
+		"roas" : 3.36,
+		"roas_online" : 7.94
+	},
+	{
+		"month" : "2019-12-01",
+		"new_customers" : 106,
+		"order_count" : 2684,
+		"total_revenue" : 561140.18,
+		"total_spend" : 198648.75,
+		"online_spend" : 76648.75,
+		"aov" : 209.07,
+		"cac" : 1874.04,
+		"roas" : 2.82,
+		"roas_online" : 7.32
+	}
+]}

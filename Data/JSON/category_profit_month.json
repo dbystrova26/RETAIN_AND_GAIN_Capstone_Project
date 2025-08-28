@@ -1,0 +1,1866 @@
+{
+"category_profit_month": [
+	{
+		"month" : "2019-01-01",
+		"product_category" : "Accessories",
+		"revenue" : 58.0700000000000000,
+		"gross_profit" : 29.035000000000000000,
+		"coupon_dollars" : 580.7000000000000000,
+		"net_profit_after_coupons" : -551.665000000000000000,
+		"roas" : 0.05000000000000000000
+	},
+	{
+		"month" : "2019-01-01",
+		"product_category" : "Android",
+		"revenue" : 100.2400000000000000,
+		"gross_profit" : 50.120000000000000000,
+		"coupon_dollars" : 1002.4000000000000000,
+		"net_profit_after_coupons" : -952.280000000000000000,
+		"roas" : 0.05000000000000000000
+	},
+	{
+		"month" : "2019-01-01",
+		"product_category" : "Apparel",
+		"revenue" : 53831.060000000000,
+		"gross_profit" : 26915.53000000000000,
+		"coupon_dollars" : 538310.600000000000,
+		"net_profit_after_coupons" : -511395.07000000000000,
+		"roas" : 0.05000000000000000000
+	},
+	{
+		"month" : "2019-01-01",
+		"product_category" : "Backpacks",
+		"revenue" : 309.2100000000000000,
+		"gross_profit" : 154.605000000000000000,
+		"coupon_dollars" : 0E-16,
+		"net_profit_after_coupons" : 154.605000000000000000,
+		"roas" : null
+	},
+	{
+		"month" : "2019-01-01",
+		"product_category" : "Bags",
+		"revenue" : 13966.2000000000000000,
+		"gross_profit" : 6983.100000000000000000,
+		"coupon_dollars" : 139662.0000000000000000,
+		"net_profit_after_coupons" : -132678.900000000000000000,
+		"roas" : 0.05000000000000000000
+	},
+	{
+		"month" : "2019-01-01",
+		"product_category" : "Bottles",
+		"revenue" : 1080.4300000000000000,
+		"gross_profit" : 540.215000000000000000,
+		"coupon_dollars" : 10804.3000000000000000,
+		"net_profit_after_coupons" : -10264.085000000000000000,
+		"roas" : 0.05000000000000000000
+	},
+	{
+		"month" : "2019-01-01",
+		"product_category" : "Drinkware",
+		"revenue" : 19010.9600000000000000,
+		"gross_profit" : 9505.480000000000000000,
+		"coupon_dollars" : 190109.6000000000000000,
+		"net_profit_after_coupons" : -180604.120000000000000000,
+		"roas" : 0.05000000000000000000
+	},
+	{
+		"month" : "2019-01-01",
+		"product_category" : "Fun",
+		"revenue" : 408.9400000000000000,
+		"gross_profit" : 204.470000000000000000,
+		"coupon_dollars" : 0E-16,
+		"net_profit_after_coupons" : 204.470000000000000000,
+		"roas" : null
+	},
+	{
+		"month" : "2019-01-01",
+		"product_category" : "Gift Cards",
+		"revenue" : 283.6900000000000000,
+		"gross_profit" : 141.845000000000000000,
+		"coupon_dollars" : 2836.9000000000000000,
+		"net_profit_after_coupons" : -2695.055000000000000000,
+		"roas" : 0.05000000000000000000
+	},
+	{
+		"month" : "2019-01-01",
+		"product_category" : "Google",
+		"revenue" : 1245.7100000000000000,
+		"gross_profit" : 622.855000000000000000,
+		"coupon_dollars" : 0E-16,
+		"net_profit_after_coupons" : 622.855000000000000000,
+		"roas" : null
+	},
+	{
+		"month" : "2019-01-01",
+		"product_category" : "Headgear",
+		"revenue" : 2819.8900000000000000,
+		"gross_profit" : 1409.945000000000000000,
+		"coupon_dollars" : 28198.9000000000000000,
+		"net_profit_after_coupons" : -26788.955000000000000000,
+		"roas" : 0.05000000000000000000
+	},
+	{
+		"month" : "2019-01-01",
+		"product_category" : "Housewares",
+		"revenue" : 1577.7400000000000000,
+		"gross_profit" : 788.870000000000000000,
+		"coupon_dollars" : 15777.4000000000000000,
+		"net_profit_after_coupons" : -14988.530000000000000000,
+		"roas" : 0.05000000000000000000
+	},
+	{
+		"month" : "2019-01-01",
+		"product_category" : "Lifestyle",
+		"revenue" : 9895.8100000000000000,
+		"gross_profit" : 4947.905000000000000000,
+		"coupon_dollars" : 98958.1000000000000000,
+		"net_profit_after_coupons" : -94010.195000000000000000,
+		"roas" : 0.05000000000000000000
+	},
+	{
+		"month" : "2019-01-01",
+		"product_category" : "More Bags",
+		"revenue" : 1446.4600000000000000,
+		"gross_profit" : 723.230000000000000000,
+		"coupon_dollars" : 0E-16,
+		"net_profit_after_coupons" : 723.230000000000000000,
+		"roas" : null
+	},
+	{
+		"month" : "2019-01-01",
+		"product_category" : "Nest-Canada",
+		"revenue" : 10007.9200000000000000,
+		"gross_profit" : 5003.960000000000000000,
+		"coupon_dollars" : 100079.2000000000000000,
+		"net_profit_after_coupons" : -95075.240000000000000000,
+		"roas" : 0.05000000000000000000
+	},
+	{
+		"month" : "2019-01-01",
+		"product_category" : "Nest-USA",
+		"revenue" : 294900.720000000000,
+		"gross_profit" : 147450.36000000000000,
+		"coupon_dollars" : 2949007.200000000000,
+		"net_profit_after_coupons" : -2801556.84000000000000,
+		"roas" : 0.05000000000000000000
+	},
+	{
+		"month" : "2019-01-01",
+		"product_category" : "Notebooks & Journals",
+		"revenue" : 7823.5600000000000000,
+		"gross_profit" : 3911.780000000000000000,
+		"coupon_dollars" : 78235.6000000000000000,
+		"net_profit_after_coupons" : -74323.820000000000000000,
+		"roas" : 0.05000000000000000000
+	},
+	{
+		"month" : "2019-01-01",
+		"product_category" : "Office",
+		"revenue" : 43109.760000000000,
+		"gross_profit" : 21554.88000000000000,
+		"coupon_dollars" : 431097.600000000000,
+		"net_profit_after_coupons" : -409542.72000000000000,
+		"roas" : 0.05000000000000000000
+	},
+	{
+		"month" : "2019-01-01",
+		"product_category" : "Waze",
+		"revenue" : 990.5300000000000000,
+		"gross_profit" : 495.265000000000000000,
+		"coupon_dollars" : 9905.3000000000000000,
+		"net_profit_after_coupons" : -9410.035000000000000000,
+		"roas" : 0.05000000000000000000
+	},
+	{
+		"month" : "2019-02-01",
+		"product_category" : "Android",
+		"revenue" : 26.4900000000000000,
+		"gross_profit" : 13.245000000000000000,
+		"coupon_dollars" : 529.8000000000000000,
+		"net_profit_after_coupons" : -516.555000000000000000,
+		"roas" : 0.02500000000000000000
+	},
+	{
+		"month" : "2019-02-01",
+		"product_category" : "Apparel",
+		"revenue" : 51215.940000000000,
+		"gross_profit" : 25607.97000000000000,
+		"coupon_dollars" : 1024318.800000000000,
+		"net_profit_after_coupons" : -998710.83000000000000,
+		"roas" : 0.02500000000000000000
+	},
+	{
+		"month" : "2019-02-01",
+		"product_category" : "Backpacks",
+		"revenue" : 606.2200000000000000,
+		"gross_profit" : 303.110000000000000000,
+		"coupon_dollars" : 0E-16,
+		"net_profit_after_coupons" : 303.110000000000000000,
+		"roas" : null
+	},
+	{
+		"month" : "2019-02-01",
+		"product_category" : "Bags",
+		"revenue" : 22117.930000000000,
+		"gross_profit" : 11058.96500000000000,
+		"coupon_dollars" : 442358.600000000000,
+		"net_profit_after_coupons" : -431299.63500000000000,
+		"roas" : 0.02500000000000000000
+	},
+	{
+		"month" : "2019-02-01",
+		"product_category" : "Bottles",
+		"revenue" : 568.1100000000000000,
+		"gross_profit" : 284.055000000000000000,
+		"coupon_dollars" : 11362.2000000000000000,
+		"net_profit_after_coupons" : -11078.145000000000000000,
+		"roas" : 0.02500000000000000000
+	},
+	{
+		"month" : "2019-02-01",
+		"product_category" : "Drinkware",
+		"revenue" : 19715.7500000000000000,
+		"gross_profit" : 9857.875000000000000000,
+		"coupon_dollars" : 394315.0000000000000000,
+		"net_profit_after_coupons" : -384457.125000000000000000,
+		"roas" : 0.02500000000000000000
+	},
+	{
+		"month" : "2019-02-01",
+		"product_category" : "Fun",
+		"revenue" : 454.3000000000000000,
+		"gross_profit" : 227.150000000000000000,
+		"coupon_dollars" : 0E-16,
+		"net_profit_after_coupons" : 227.150000000000000000,
+		"roas" : null
+	},
+	{
+		"month" : "2019-02-01",
+		"product_category" : "Gift Cards",
+		"revenue" : 400.0000000000000000,
+		"gross_profit" : 200.000000000000000000,
+		"coupon_dollars" : 8000.0000000000000000,
+		"net_profit_after_coupons" : -7800.000000000000000000,
+		"roas" : 0.02500000000000000000
+	},
+	{
+		"month" : "2019-02-01",
+		"product_category" : "Google",
+		"revenue" : 1722.1300000000000000,
+		"gross_profit" : 861.065000000000000000,
+		"coupon_dollars" : 0E-16,
+		"net_profit_after_coupons" : 861.065000000000000000,
+		"roas" : null
+	},
+	{
+		"month" : "2019-02-01",
+		"product_category" : "Headgear",
+		"revenue" : 5219.4000000000000000,
+		"gross_profit" : 2609.700000000000000000,
+		"coupon_dollars" : 104388.0000000000000000,
+		"net_profit_after_coupons" : -101778.300000000000000000,
+		"roas" : 0.02500000000000000000
+	},
+	{
+		"month" : "2019-02-01",
+		"product_category" : "Housewares",
+		"revenue" : 174.2400000000000000,
+		"gross_profit" : 87.120000000000000000,
+		"coupon_dollars" : 3484.8000000000000000,
+		"net_profit_after_coupons" : -3397.680000000000000000,
+		"roas" : 0.02500000000000000000
+	},
+	{
+		"month" : "2019-02-01",
+		"product_category" : "Lifestyle",
+		"revenue" : 12487.8100000000000000,
+		"gross_profit" : 6243.905000000000000000,
+		"coupon_dollars" : 249756.2000000000000000,
+		"net_profit_after_coupons" : -243512.295000000000000000,
+		"roas" : 0.02500000000000000000
+	},
+	{
+		"month" : "2019-02-01",
+		"product_category" : "More Bags",
+		"revenue" : 475.8200000000000000,
+		"gross_profit" : 237.910000000000000000,
+		"coupon_dollars" : 0E-16,
+		"net_profit_after_coupons" : 237.910000000000000000,
+		"roas" : null
+	},
+	{
+		"month" : "2019-02-01",
+		"product_category" : "Nest-Canada",
+		"revenue" : 4169.7500000000000000,
+		"gross_profit" : 2084.875000000000000000,
+		"coupon_dollars" : 83395.0000000000000000,
+		"net_profit_after_coupons" : -81310.125000000000000000,
+		"roas" : 0.02500000000000000000
+	},
+	{
+		"month" : "2019-02-01",
+		"product_category" : "Nest-USA",
+		"revenue" : 203461.030000000000,
+		"gross_profit" : 101730.51500000000000,
+		"coupon_dollars" : 4069220.600000000000,
+		"net_profit_after_coupons" : -3967490.08500000000000,
+		"roas" : 0.02500000000000000000
+	},
+	{
+		"month" : "2019-02-01",
+		"product_category" : "Notebooks & Journals",
+		"revenue" : 6694.8300000000000000,
+		"gross_profit" : 3347.415000000000000000,
+		"coupon_dollars" : 133896.6000000000000000,
+		"net_profit_after_coupons" : -130549.185000000000000000,
+		"roas" : 0.02500000000000000000
+	},
+	{
+		"month" : "2019-02-01",
+		"product_category" : "Office",
+		"revenue" : 29832.230000000000,
+		"gross_profit" : 14916.11500000000000,
+		"coupon_dollars" : 596644.600000000000,
+		"net_profit_after_coupons" : -581728.48500000000000,
+		"roas" : 0.02500000000000000000
+	},
+	{
+		"month" : "2019-02-01",
+		"product_category" : "Waze",
+		"revenue" : 694.4200000000000000,
+		"gross_profit" : 347.210000000000000000,
+		"coupon_dollars" : 13888.4000000000000000,
+		"net_profit_after_coupons" : -13541.190000000000000000,
+		"roas" : 0.02500000000000000000
+	},
+	{
+		"month" : "2019-03-01",
+		"product_category" : "Accessories",
+		"revenue" : 66.4900000000000000,
+		"gross_profit" : 33.245000000000000000,
+		"coupon_dollars" : 1994.7000000000000000,
+		"net_profit_after_coupons" : -1961.455000000000000000,
+		"roas" : 0.01666666666666666667
+	},
+	{
+		"month" : "2019-03-01",
+		"product_category" : "Android",
+		"revenue" : 242.2200000000000000,
+		"gross_profit" : 121.110000000000000000,
+		"coupon_dollars" : 7266.6000000000000000,
+		"net_profit_after_coupons" : -7145.490000000000000000,
+		"roas" : 0.01666666666666666667
+	},
+	{
+		"month" : "2019-03-01",
+		"product_category" : "Apparel",
+		"revenue" : 76105.780000000000,
+		"gross_profit" : 38052.89000000000000,
+		"coupon_dollars" : 2283173.400000000000,
+		"net_profit_after_coupons" : -2245120.51000000000000,
+		"roas" : 0.01666666666666666667
+	},
+	{
+		"month" : "2019-03-01",
+		"product_category" : "Backpacks",
+		"revenue" : 738.2200000000000000,
+		"gross_profit" : 369.110000000000000000,
+		"coupon_dollars" : 0E-16,
+		"net_profit_after_coupons" : 369.110000000000000000,
+		"roas" : null
+	},
+	{
+		"month" : "2019-03-01",
+		"product_category" : "Bags",
+		"revenue" : 17635.0200000000000000,
+		"gross_profit" : 8817.510000000000000000,
+		"coupon_dollars" : 529050.6000000000000000,
+		"net_profit_after_coupons" : -520233.090000000000000000,
+		"roas" : 0.01666666666666666667
+	},
+	{
+		"month" : "2019-03-01",
+		"product_category" : "Bottles",
+		"revenue" : 710.9200000000000000,
+		"gross_profit" : 355.460000000000000000,
+		"coupon_dollars" : 21327.6000000000000000,
+		"net_profit_after_coupons" : -20972.140000000000000000,
+		"roas" : 0.01666666666666666667
+	},
+	{
+		"month" : "2019-03-01",
+		"product_category" : "Drinkware",
+		"revenue" : 28638.740000000000,
+		"gross_profit" : 14319.37000000000000,
+		"coupon_dollars" : 859162.200000000000,
+		"net_profit_after_coupons" : -844842.83000000000000,
+		"roas" : 0.01666666666666666667
+	},
+	{
+		"month" : "2019-03-01",
+		"product_category" : "Fun",
+		"revenue" : 898.8600000000000000,
+		"gross_profit" : 449.430000000000000000,
+		"coupon_dollars" : 0E-16,
+		"net_profit_after_coupons" : 449.430000000000000000,
+		"roas" : null
+	},
+	{
+		"month" : "2019-03-01",
+		"product_category" : "Gift Cards",
+		"revenue" : 375.0000000000000000,
+		"gross_profit" : 187.500000000000000000,
+		"coupon_dollars" : 11250.0000000000000000,
+		"net_profit_after_coupons" : -11062.500000000000000000,
+		"roas" : 0.01666666666666666667
+	},
+	{
+		"month" : "2019-03-01",
+		"product_category" : "Google",
+		"revenue" : 3129.6400000000000000,
+		"gross_profit" : 1564.820000000000000000,
+		"coupon_dollars" : 0E-16,
+		"net_profit_after_coupons" : 1564.820000000000000000,
+		"roas" : null
+	},
+	{
+		"month" : "2019-03-01",
+		"product_category" : "Headgear",
+		"revenue" : 3886.0000000000000000,
+		"gross_profit" : 1943.000000000000000000,
+		"coupon_dollars" : 116580.0000000000000000,
+		"net_profit_after_coupons" : -114637.000000000000000000,
+		"roas" : 0.01666666666666666667
+	},
+	{
+		"month" : "2019-03-01",
+		"product_category" : "Housewares",
+		"revenue" : 957.5800000000000000,
+		"gross_profit" : 478.790000000000000000,
+		"coupon_dollars" : 28727.4000000000000000,
+		"net_profit_after_coupons" : -28248.610000000000000000,
+		"roas" : 0.01666666666666666667
+	},
+	{
+		"month" : "2019-03-01",
+		"product_category" : "Lifestyle",
+		"revenue" : 11764.6500000000000000,
+		"gross_profit" : 5882.325000000000000000,
+		"coupon_dollars" : 352939.5000000000000000,
+		"net_profit_after_coupons" : -347057.175000000000000000,
+		"roas" : 0.01666666666666666667
+	},
+	{
+		"month" : "2019-03-01",
+		"product_category" : "More Bags",
+		"revenue" : 630.2900000000000000,
+		"gross_profit" : 315.145000000000000000,
+		"coupon_dollars" : 0E-16,
+		"net_profit_after_coupons" : 315.145000000000000000,
+		"roas" : null
+	},
+	{
+		"month" : "2019-03-01",
+		"product_category" : "Nest-Canada",
+		"revenue" : 7857.6000000000000000,
+		"gross_profit" : 3928.800000000000000000,
+		"coupon_dollars" : 235728.0000000000000000,
+		"net_profit_after_coupons" : -231799.200000000000000000,
+		"roas" : 0.01666666666666666667
+	},
+	{
+		"month" : "2019-03-01",
+		"product_category" : "Nest-USA",
+		"revenue" : 207908.150000000000,
+		"gross_profit" : 103954.07500000000000,
+		"coupon_dollars" : 6237244.500000000000,
+		"net_profit_after_coupons" : -6133290.42500000000000,
+		"roas" : 0.01666666666666666667
+	},
+	{
+		"month" : "2019-03-01",
+		"product_category" : "Notebooks & Journals",
+		"revenue" : 5748.6200000000000000,
+		"gross_profit" : 2874.310000000000000000,
+		"coupon_dollars" : 172458.6000000000000000,
+		"net_profit_after_coupons" : -169584.290000000000000000,
+		"roas" : 0.01666666666666666667
+	},
+	{
+		"month" : "2019-03-01",
+		"product_category" : "Office",
+		"revenue" : 41705.210000000000,
+		"gross_profit" : 20852.60500000000000,
+		"coupon_dollars" : 1251156.300000000000,
+		"net_profit_after_coupons" : -1230303.69500000000000,
+		"roas" : 0.01666666666666666667
+	},
+	{
+		"month" : "2019-03-01",
+		"product_category" : "Waze",
+		"revenue" : 1409.0400000000000000,
+		"gross_profit" : 704.520000000000000000,
+		"coupon_dollars" : 42271.2000000000000000,
+		"net_profit_after_coupons" : -41566.680000000000000000,
+		"roas" : 0.01666666666666666667
+	},
+	{
+		"month" : "2019-04-01",
+		"product_category" : "Accessories",
+		"revenue" : 191.9600000000000000,
+		"gross_profit" : 95.980000000000000000,
+		"coupon_dollars" : 1919.6000000000000000,
+		"net_profit_after_coupons" : -1823.620000000000000000,
+		"roas" : 0.05000000000000000000
+	},
+	{
+		"month" : "2019-04-01",
+		"product_category" : "Android",
+		"revenue" : 52.9800000000000000,
+		"gross_profit" : 26.490000000000000000,
+		"coupon_dollars" : 529.8000000000000000,
+		"net_profit_after_coupons" : -503.310000000000000000,
+		"roas" : 0.05000000000000000000
+	},
+	{
+		"month" : "2019-04-01",
+		"product_category" : "Apparel",
+		"revenue" : 101988.410000000000,
+		"gross_profit" : 50994.20500000000000,
+		"coupon_dollars" : 1019884.100000000000,
+		"net_profit_after_coupons" : -968889.89500000000000,
+		"roas" : 0.05000000000000000000
+	},
+	{
+		"month" : "2019-04-01",
+		"product_category" : "Backpacks",
+		"revenue" : 1191.4400000000000000,
+		"gross_profit" : 595.720000000000000000,
+		"coupon_dollars" : 0E-16,
+		"net_profit_after_coupons" : 595.720000000000000000,
+		"roas" : null
+	},
+	{
+		"month" : "2019-04-01",
+		"product_category" : "Bags",
+		"revenue" : 13134.3300000000000000,
+		"gross_profit" : 6567.165000000000000000,
+		"coupon_dollars" : 131343.3000000000000000,
+		"net_profit_after_coupons" : -124776.135000000000000000,
+		"roas" : 0.05000000000000000000
+	},
+	{
+		"month" : "2019-04-01",
+		"product_category" : "Bottles",
+		"revenue" : 745.1200000000000000,
+		"gross_profit" : 372.560000000000000000,
+		"coupon_dollars" : 7451.2000000000000000,
+		"net_profit_after_coupons" : -7078.640000000000000000,
+		"roas" : 0.05000000000000000000
+	},
+	{
+		"month" : "2019-04-01",
+		"product_category" : "Drinkware",
+		"revenue" : 30711.430000000000,
+		"gross_profit" : 15355.71500000000000,
+		"coupon_dollars" : 307114.300000000000,
+		"net_profit_after_coupons" : -291758.58500000000000,
+		"roas" : 0.05000000000000000000
+	},
+	{
+		"month" : "2019-04-01",
+		"product_category" : "Fun",
+		"revenue" : 2538.2900000000000000,
+		"gross_profit" : 1269.145000000000000000,
+		"coupon_dollars" : 0E-16,
+		"net_profit_after_coupons" : 1269.145000000000000000,
+		"roas" : null
+	},
+	{
+		"month" : "2019-04-01",
+		"product_category" : "Gift Cards",
+		"revenue" : 725.0000000000000000,
+		"gross_profit" : 362.500000000000000000,
+		"coupon_dollars" : 7250.0000000000000000,
+		"net_profit_after_coupons" : -6887.500000000000000000,
+		"roas" : 0.05000000000000000000
+	},
+	{
+		"month" : "2019-04-01",
+		"product_category" : "Google",
+		"revenue" : 1141.6100000000000000,
+		"gross_profit" : 570.805000000000000000,
+		"coupon_dollars" : 0E-16,
+		"net_profit_after_coupons" : 570.805000000000000000,
+		"roas" : null
+	},
+	{
+		"month" : "2019-04-01",
+		"product_category" : "Headgear",
+		"revenue" : 12906.7500000000000000,
+		"gross_profit" : 6453.375000000000000000,
+		"coupon_dollars" : 129067.5000000000000000,
+		"net_profit_after_coupons" : -122614.125000000000000000,
+		"roas" : 0.05000000000000000000
+	},
+	{
+		"month" : "2019-04-01",
+		"product_category" : "Housewares",
+		"revenue" : 178.7500000000000000,
+		"gross_profit" : 89.375000000000000000,
+		"coupon_dollars" : 1787.5000000000000000,
+		"net_profit_after_coupons" : -1698.125000000000000000,
+		"roas" : 0.05000000000000000000
+	},
+	{
+		"month" : "2019-04-01",
+		"product_category" : "Lifestyle",
+		"revenue" : 12053.8100000000000000,
+		"gross_profit" : 6026.905000000000000000,
+		"coupon_dollars" : 120538.1000000000000000,
+		"net_profit_after_coupons" : -114511.195000000000000000,
+		"roas" : 0.05000000000000000000
+	},
+	{
+		"month" : "2019-04-01",
+		"product_category" : "More Bags",
+		"revenue" : 454.8700000000000000,
+		"gross_profit" : 227.435000000000000000,
+		"coupon_dollars" : 0E-16,
+		"net_profit_after_coupons" : 227.435000000000000000,
+		"roas" : null
+	},
+	{
+		"month" : "2019-04-01",
+		"product_category" : "Nest-Canada",
+		"revenue" : 5855.9000000000000000,
+		"gross_profit" : 2927.950000000000000000,
+		"coupon_dollars" : 58559.0000000000000000,
+		"net_profit_after_coupons" : -55631.050000000000000000,
+		"roas" : 0.05000000000000000000
+	},
+	{
+		"month" : "2019-04-01",
+		"product_category" : "Nest-USA",
+		"revenue" : 189115.890000000000,
+		"gross_profit" : 94557.94500000000000,
+		"coupon_dollars" : 1891158.900000000000,
+		"net_profit_after_coupons" : -1796600.95500000000000,
+		"roas" : 0.05000000000000000000
+	},
+	{
+		"month" : "2019-04-01",
+		"product_category" : "Notebooks & Journals",
+		"revenue" : 24289.710000000000,
+		"gross_profit" : 12144.85500000000000,
+		"coupon_dollars" : 242897.100000000000,
+		"net_profit_after_coupons" : -230752.24500000000000,
+		"roas" : 0.05000000000000000000
+	},
+	{
+		"month" : "2019-04-01",
+		"product_category" : "Office",
+		"revenue" : 44876.570000000000,
+		"gross_profit" : 22438.28500000000000,
+		"coupon_dollars" : 448765.700000000000,
+		"net_profit_after_coupons" : -426327.41500000000000,
+		"roas" : 0.05000000000000000000
+	},
+	{
+		"month" : "2019-04-01",
+		"product_category" : "Waze",
+		"revenue" : 947.3400000000000000,
+		"gross_profit" : 473.670000000000000000,
+		"coupon_dollars" : 9473.4000000000000000,
+		"net_profit_after_coupons" : -8999.730000000000000000,
+		"roas" : 0.05000000000000000000
+	},
+	{
+		"month" : "2019-05-01",
+		"product_category" : "Accessories",
+		"revenue" : 190.9700000000000000,
+		"gross_profit" : 95.485000000000000000,
+		"coupon_dollars" : 3819.4000000000000000,
+		"net_profit_after_coupons" : -3723.915000000000000000,
+		"roas" : 0.02500000000000000000
+	},
+	{
+		"month" : "2019-05-01",
+		"product_category" : "Android",
+		"revenue" : 121.9500000000000000,
+		"gross_profit" : 60.975000000000000000,
+		"coupon_dollars" : 2439.0000000000000000,
+		"net_profit_after_coupons" : -2378.025000000000000000,
+		"roas" : 0.02500000000000000000
+	},
+	{
+		"month" : "2019-05-01",
+		"product_category" : "Apparel",
+		"revenue" : 74306.920000000000,
+		"gross_profit" : 37153.46000000000000,
+		"coupon_dollars" : 1486138.400000000000,
+		"net_profit_after_coupons" : -1448984.94000000000000,
+		"roas" : 0.02500000000000000000
+	},
+	{
+		"month" : "2019-05-01",
+		"product_category" : "Backpacks",
+		"revenue" : 1565.8200000000000000,
+		"gross_profit" : 782.910000000000000000,
+		"coupon_dollars" : 0E-16,
+		"net_profit_after_coupons" : 782.910000000000000000,
+		"roas" : null
+	},
+	{
+		"month" : "2019-05-01",
+		"product_category" : "Bags",
+		"revenue" : 11669.8200000000000000,
+		"gross_profit" : 5834.910000000000000000,
+		"coupon_dollars" : 233396.4000000000000000,
+		"net_profit_after_coupons" : -227561.490000000000000000,
+		"roas" : 0.02500000000000000000
+	},
+	{
+		"month" : "2019-05-01",
+		"product_category" : "Bottles",
+		"revenue" : 1506.8900000000000000,
+		"gross_profit" : 753.445000000000000000,
+		"coupon_dollars" : 30137.8000000000000000,
+		"net_profit_after_coupons" : -29384.355000000000000000,
+		"roas" : 0.02500000000000000000
+	},
+	{
+		"month" : "2019-05-01",
+		"product_category" : "Drinkware",
+		"revenue" : 19829.8700000000000000,
+		"gross_profit" : 9914.935000000000000000,
+		"coupon_dollars" : 396597.4000000000000000,
+		"net_profit_after_coupons" : -386682.465000000000000000,
+		"roas" : 0.02500000000000000000
+	},
+	{
+		"month" : "2019-05-01",
+		"product_category" : "Fun",
+		"revenue" : 805.9300000000000000,
+		"gross_profit" : 402.965000000000000000,
+		"coupon_dollars" : 0E-16,
+		"net_profit_after_coupons" : 402.965000000000000000,
+		"roas" : null
+	},
+	{
+		"month" : "2019-05-01",
+		"product_category" : "Gift Cards",
+		"revenue" : 1325.0000000000000000,
+		"gross_profit" : 662.500000000000000000,
+		"coupon_dollars" : 26500.0000000000000000,
+		"net_profit_after_coupons" : -25837.500000000000000000,
+		"roas" : 0.02500000000000000000
+	},
+	{
+		"month" : "2019-05-01",
+		"product_category" : "Google",
+		"revenue" : 1649.8500000000000000,
+		"gross_profit" : 824.925000000000000000,
+		"coupon_dollars" : 0E-16,
+		"net_profit_after_coupons" : 824.925000000000000000,
+		"roas" : null
+	},
+	{
+		"month" : "2019-05-01",
+		"product_category" : "Headgear",
+		"revenue" : 3598.8900000000000000,
+		"gross_profit" : 1799.445000000000000000,
+		"coupon_dollars" : 71977.8000000000000000,
+		"net_profit_after_coupons" : -70178.355000000000000000,
+		"roas" : 0.02500000000000000000
+	},
+	{
+		"month" : "2019-05-01",
+		"product_category" : "Housewares",
+		"revenue" : 635.9600000000000000,
+		"gross_profit" : 317.980000000000000000,
+		"coupon_dollars" : 12719.2000000000000000,
+		"net_profit_after_coupons" : -12401.220000000000000000,
+		"roas" : 0.02500000000000000000
+	},
+	{
+		"month" : "2019-05-01",
+		"product_category" : "Lifestyle",
+		"revenue" : 8136.3600000000000000,
+		"gross_profit" : 4068.180000000000000000,
+		"coupon_dollars" : 162727.2000000000000000,
+		"net_profit_after_coupons" : -158659.020000000000000000,
+		"roas" : 0.02500000000000000000
+	},
+	{
+		"month" : "2019-05-01",
+		"product_category" : "More Bags",
+		"revenue" : 435.2200000000000000,
+		"gross_profit" : 217.610000000000000000,
+		"coupon_dollars" : 0E-16,
+		"net_profit_after_coupons" : 217.610000000000000000,
+		"roas" : null
+	},
+	{
+		"month" : "2019-05-01",
+		"product_category" : "Nest-Canada",
+		"revenue" : 3979.0500000000000000,
+		"gross_profit" : 1989.525000000000000000,
+		"coupon_dollars" : 79581.0000000000000000,
+		"net_profit_after_coupons" : -77591.475000000000000000,
+		"roas" : 0.02500000000000000000
+	},
+	{
+		"month" : "2019-05-01",
+		"product_category" : "Nest-USA",
+		"revenue" : 180281.980000000000,
+		"gross_profit" : 90140.99000000000000,
+		"coupon_dollars" : 3605639.600000000000,
+		"net_profit_after_coupons" : -3515498.61000000000000,
+		"roas" : 0.02500000000000000000
+	},
+	{
+		"month" : "2019-05-01",
+		"product_category" : "Notebooks & Journals",
+		"revenue" : 6783.7000000000000000,
+		"gross_profit" : 3391.850000000000000000,
+		"coupon_dollars" : 135674.0000000000000000,
+		"net_profit_after_coupons" : -132282.150000000000000000,
+		"roas" : 0.02500000000000000000
+	},
+	{
+		"month" : "2019-05-01",
+		"product_category" : "Office",
+		"revenue" : 31476.120000000000,
+		"gross_profit" : 15738.06000000000000,
+		"coupon_dollars" : 629522.400000000000,
+		"net_profit_after_coupons" : -613784.34000000000000,
+		"roas" : 0.02500000000000000000
+	},
+	{
+		"month" : "2019-05-01",
+		"product_category" : "Waze",
+		"revenue" : 859.2900000000000000,
+		"gross_profit" : 429.645000000000000000,
+		"coupon_dollars" : 17185.8000000000000000,
+		"net_profit_after_coupons" : -16756.155000000000000000,
+		"roas" : 0.02500000000000000000
+	},
+	{
+		"month" : "2019-06-01",
+		"product_category" : "Accessories",
+		"revenue" : 263.7200000000000000,
+		"gross_profit" : 131.860000000000000000,
+		"coupon_dollars" : 7911.6000000000000000,
+		"net_profit_after_coupons" : -7779.740000000000000000,
+		"roas" : 0.01666666666666666667
+	},
+	{
+		"month" : "2019-06-01",
+		"product_category" : "Android",
+		"revenue" : 225.9000000000000000,
+		"gross_profit" : 112.950000000000000000,
+		"coupon_dollars" : 6777.0000000000000000,
+		"net_profit_after_coupons" : -6664.050000000000000000,
+		"roas" : 0.01666666666666666667
+	},
+	{
+		"month" : "2019-06-01",
+		"product_category" : "Apparel",
+		"revenue" : 60368.910000000000,
+		"gross_profit" : 30184.45500000000000,
+		"coupon_dollars" : 1811067.300000000000,
+		"net_profit_after_coupons" : -1780882.84500000000000,
+		"roas" : 0.01666666666666666667
+	},
+	{
+		"month" : "2019-06-01",
+		"product_category" : "Backpacks",
+		"revenue" : 336.8400000000000000,
+		"gross_profit" : 168.420000000000000000,
+		"coupon_dollars" : 0E-16,
+		"net_profit_after_coupons" : 168.420000000000000000,
+		"roas" : null
+	},
+	{
+		"month" : "2019-06-01",
+		"product_category" : "Bags",
+		"revenue" : 14270.1100000000000000,
+		"gross_profit" : 7135.055000000000000000,
+		"coupon_dollars" : 428103.3000000000000000,
+		"net_profit_after_coupons" : -420968.245000000000000000,
+		"roas" : 0.01666666666666666667
+	},
+	{
+		"month" : "2019-06-01",
+		"product_category" : "Bottles",
+		"revenue" : 799.7900000000000000,
+		"gross_profit" : 399.895000000000000000,
+		"coupon_dollars" : 23993.7000000000000000,
+		"net_profit_after_coupons" : -23593.805000000000000000,
+		"roas" : 0.01666666666666666667
+	},
+	{
+		"month" : "2019-06-01",
+		"product_category" : "Drinkware",
+		"revenue" : 20301.540000000000,
+		"gross_profit" : 10150.77000000000000,
+		"coupon_dollars" : 609046.200000000000,
+		"net_profit_after_coupons" : -598895.43000000000000,
+		"roas" : 0.01666666666666666667
+	},
+	{
+		"month" : "2019-06-01",
+		"product_category" : "Fun",
+		"revenue" : 863.0700000000000000,
+		"gross_profit" : 431.535000000000000000,
+		"coupon_dollars" : 0E-16,
+		"net_profit_after_coupons" : 431.535000000000000000,
+		"roas" : null
+	},
+	{
+		"month" : "2019-06-01",
+		"product_category" : "Gift Cards",
+		"revenue" : 1200.0000000000000000,
+		"gross_profit" : 600.000000000000000000,
+		"coupon_dollars" : 36000.0000000000000000,
+		"net_profit_after_coupons" : -35400.000000000000000000,
+		"roas" : 0.01666666666666666667
+	},
+	{
+		"month" : "2019-06-01",
+		"product_category" : "Google",
+		"revenue" : 1257.4600000000000000,
+		"gross_profit" : 628.730000000000000000,
+		"coupon_dollars" : 0E-16,
+		"net_profit_after_coupons" : 628.730000000000000000,
+		"roas" : null
+	},
+	{
+		"month" : "2019-06-01",
+		"product_category" : "Headgear",
+		"revenue" : 1786.1200000000000000,
+		"gross_profit" : 893.060000000000000000,
+		"coupon_dollars" : 53583.6000000000000000,
+		"net_profit_after_coupons" : -52690.540000000000000000,
+		"roas" : 0.01666666666666666667
+	},
+	{
+		"month" : "2019-06-01",
+		"product_category" : "Housewares",
+		"revenue" : 487.5600000000000000,
+		"gross_profit" : 243.780000000000000000,
+		"coupon_dollars" : 14626.8000000000000000,
+		"net_profit_after_coupons" : -14383.020000000000000000,
+		"roas" : 0.01666666666666666667
+	},
+	{
+		"month" : "2019-06-01",
+		"product_category" : "Lifestyle",
+		"revenue" : 8744.7100000000000000,
+		"gross_profit" : 4372.355000000000000000,
+		"coupon_dollars" : 262341.3000000000000000,
+		"net_profit_after_coupons" : -257968.945000000000000000,
+		"roas" : 0.01666666666666666667
+	},
+	{
+		"month" : "2019-06-01",
+		"product_category" : "Nest-Canada",
+		"revenue" : 9624.0500000000000000,
+		"gross_profit" : 4812.025000000000000000,
+		"coupon_dollars" : 288721.5000000000000000,
+		"net_profit_after_coupons" : -283909.475000000000000000,
+		"roas" : 0.01666666666666666667
+	},
+	{
+		"month" : "2019-06-01",
+		"product_category" : "Nest-USA",
+		"revenue" : 203033.310000000000,
+		"gross_profit" : 101516.65500000000000,
+		"coupon_dollars" : 6090999.300000000000,
+		"net_profit_after_coupons" : -5989482.64500000000000,
+		"roas" : 0.01666666666666666667
+	},
+	{
+		"month" : "2019-06-01",
+		"product_category" : "Notebooks & Journals",
+		"revenue" : 5590.0300000000000000,
+		"gross_profit" : 2795.015000000000000000,
+		"coupon_dollars" : 167700.9000000000000000,
+		"net_profit_after_coupons" : -164905.885000000000000000,
+		"roas" : 0.01666666666666666667
+	},
+	{
+		"month" : "2019-06-01",
+		"product_category" : "Office",
+		"revenue" : 28658.710000000000,
+		"gross_profit" : 14329.35500000000000,
+		"coupon_dollars" : 859761.300000000000,
+		"net_profit_after_coupons" : -845431.94500000000000,
+		"roas" : 0.01666666666666666667
+	},
+	{
+		"month" : "2019-06-01",
+		"product_category" : "Waze",
+		"revenue" : 783.1300000000000000,
+		"gross_profit" : 391.565000000000000000,
+		"coupon_dollars" : 23493.9000000000000000,
+		"net_profit_after_coupons" : -23102.335000000000000000,
+		"roas" : 0.01666666666666666667
+	},
+	{
+		"month" : "2019-07-01",
+		"product_category" : "Accessories",
+		"revenue" : 1978.8300000000000000,
+		"gross_profit" : 989.415000000000000000,
+		"coupon_dollars" : 19788.3000000000000000,
+		"net_profit_after_coupons" : -18798.885000000000000000,
+		"roas" : 0.05000000000000000000
+	},
+	{
+		"month" : "2019-07-01",
+		"product_category" : "Android",
+		"revenue" : 163.9100000000000000,
+		"gross_profit" : 81.955000000000000000,
+		"coupon_dollars" : 1639.1000000000000000,
+		"net_profit_after_coupons" : -1557.145000000000000000,
+		"roas" : 0.05000000000000000000
+	},
+	{
+		"month" : "2019-07-01",
+		"product_category" : "Apparel",
+		"revenue" : 83341.610000000000,
+		"gross_profit" : 41670.80500000000000,
+		"coupon_dollars" : 833416.100000000000,
+		"net_profit_after_coupons" : -791745.29500000000000,
+		"roas" : 0.05000000000000000000
+	},
+	{
+		"month" : "2019-07-01",
+		"product_category" : "Backpacks",
+		"revenue" : 781.9000000000000000,
+		"gross_profit" : 390.950000000000000000,
+		"coupon_dollars" : 0E-16,
+		"net_profit_after_coupons" : 390.950000000000000000,
+		"roas" : null
+	},
+	{
+		"month" : "2019-07-01",
+		"product_category" : "Bags",
+		"revenue" : 13915.7500000000000000,
+		"gross_profit" : 6957.875000000000000000,
+		"coupon_dollars" : 139157.5000000000000000,
+		"net_profit_after_coupons" : -132199.625000000000000000,
+		"roas" : 0.05000000000000000000
+	},
+	{
+		"month" : "2019-07-01",
+		"product_category" : "Bottles",
+		"revenue" : 1587.0700000000000000,
+		"gross_profit" : 793.535000000000000000,
+		"coupon_dollars" : 15870.7000000000000000,
+		"net_profit_after_coupons" : -15077.165000000000000000,
+		"roas" : 0.05000000000000000000
+	},
+	{
+		"month" : "2019-07-01",
+		"product_category" : "Drinkware",
+		"revenue" : 15543.5600000000000000,
+		"gross_profit" : 7771.780000000000000000,
+		"coupon_dollars" : 155435.6000000000000000,
+		"net_profit_after_coupons" : -147663.820000000000000000,
+		"roas" : 0.05000000000000000000
+	},
+	{
+		"month" : "2019-07-01",
+		"product_category" : "Fun",
+		"revenue" : 1252.5400000000000000,
+		"gross_profit" : 626.270000000000000000,
+		"coupon_dollars" : 0E-16,
+		"net_profit_after_coupons" : 626.270000000000000000,
+		"roas" : null
+	},
+	{
+		"month" : "2019-07-01",
+		"product_category" : "Gift Cards",
+		"revenue" : 500.0000000000000000,
+		"gross_profit" : 250.000000000000000000,
+		"coupon_dollars" : 5000.0000000000000000,
+		"net_profit_after_coupons" : -4750.000000000000000000,
+		"roas" : 0.05000000000000000000
+	},
+	{
+		"month" : "2019-07-01",
+		"product_category" : "Google",
+		"revenue" : 1789.8400000000000000,
+		"gross_profit" : 894.920000000000000000,
+		"coupon_dollars" : 0E-16,
+		"net_profit_after_coupons" : 894.920000000000000000,
+		"roas" : null
+	},
+	{
+		"month" : "2019-07-01",
+		"product_category" : "Headgear",
+		"revenue" : 3101.5900000000000000,
+		"gross_profit" : 1550.795000000000000000,
+		"coupon_dollars" : 31015.9000000000000000,
+		"net_profit_after_coupons" : -29465.105000000000000000,
+		"roas" : 0.05000000000000000000
+	},
+	{
+		"month" : "2019-07-01",
+		"product_category" : "Housewares",
+		"revenue" : 1482.3200000000000000,
+		"gross_profit" : 741.160000000000000000,
+		"coupon_dollars" : 14823.2000000000000000,
+		"net_profit_after_coupons" : -14082.040000000000000000,
+		"roas" : 0.05000000000000000000
+	},
+	{
+		"month" : "2019-07-01",
+		"product_category" : "Lifestyle",
+		"revenue" : 13721.3300000000000000,
+		"gross_profit" : 6860.665000000000000000,
+		"coupon_dollars" : 137213.3000000000000000,
+		"net_profit_after_coupons" : -130352.635000000000000000,
+		"roas" : 0.05000000000000000000
+	},
+	{
+		"month" : "2019-07-01",
+		"product_category" : "Nest-Canada",
+		"revenue" : 8008.6400000000000000,
+		"gross_profit" : 4004.320000000000000000,
+		"coupon_dollars" : 80086.4000000000000000,
+		"net_profit_after_coupons" : -76082.080000000000000000,
+		"roas" : 0.05000000000000000000
+	},
+	{
+		"month" : "2019-07-01",
+		"product_category" : "Nest-USA",
+		"revenue" : 216945.760000000000,
+		"gross_profit" : 108472.88000000000000,
+		"coupon_dollars" : 2169457.600000000000,
+		"net_profit_after_coupons" : -2060984.72000000000000,
+		"roas" : 0.05000000000000000000
+	},
+	{
+		"month" : "2019-07-01",
+		"product_category" : "Notebooks & Journals",
+		"revenue" : 25147.870000000000,
+		"gross_profit" : 12573.93500000000000,
+		"coupon_dollars" : 251478.700000000000,
+		"net_profit_after_coupons" : -238904.76500000000000,
+		"roas" : 0.05000000000000000000
+	},
+	{
+		"month" : "2019-07-01",
+		"product_category" : "Office",
+		"revenue" : 31711.340000000000,
+		"gross_profit" : 15855.67000000000000,
+		"coupon_dollars" : 317113.400000000000,
+		"net_profit_after_coupons" : -301257.73000000000000,
+		"roas" : 0.05000000000000000000
+	},
+	{
+		"month" : "2019-07-01",
+		"product_category" : "Waze",
+		"revenue" : 388.1400000000000000,
+		"gross_profit" : 194.070000000000000000,
+		"coupon_dollars" : 3881.4000000000000000,
+		"net_profit_after_coupons" : -3687.330000000000000000,
+		"roas" : 0.05000000000000000000
+	},
+	{
+		"month" : "2019-08-01",
+		"product_category" : "Accessories",
+		"revenue" : 390.0100000000000000,
+		"gross_profit" : 195.005000000000000000,
+		"coupon_dollars" : 7800.2000000000000000,
+		"net_profit_after_coupons" : -7605.195000000000000000,
+		"roas" : 0.02500000000000000000
+	},
+	{
+		"month" : "2019-08-01",
+		"product_category" : "Android",
+		"revenue" : 144.0300000000000000,
+		"gross_profit" : 72.015000000000000000,
+		"coupon_dollars" : 2880.6000000000000000,
+		"net_profit_after_coupons" : -2808.585000000000000000,
+		"roas" : 0.02500000000000000000
+	},
+	{
+		"month" : "2019-08-01",
+		"product_category" : "Apparel",
+		"revenue" : 77844.400000000000,
+		"gross_profit" : 38922.20000000000000,
+		"coupon_dollars" : 1556888.000000000000,
+		"net_profit_after_coupons" : -1517965.80000000000000,
+		"roas" : 0.02500000000000000000
+	},
+	{
+		"month" : "2019-08-01",
+		"product_category" : "Backpacks",
+		"revenue" : 1574.5300000000000000,
+		"gross_profit" : 787.265000000000000000,
+		"coupon_dollars" : 0E-16,
+		"net_profit_after_coupons" : 787.265000000000000000,
+		"roas" : null
+	},
+	{
+		"month" : "2019-08-01",
+		"product_category" : "Bags",
+		"revenue" : 18737.3500000000000000,
+		"gross_profit" : 9368.675000000000000000,
+		"coupon_dollars" : 374747.0000000000000000,
+		"net_profit_after_coupons" : -365378.325000000000000000,
+		"roas" : 0.02500000000000000000
+	},
+	{
+		"month" : "2019-08-01",
+		"product_category" : "Bottles",
+		"revenue" : 750.6100000000000000,
+		"gross_profit" : 375.305000000000000000,
+		"coupon_dollars" : 15012.2000000000000000,
+		"net_profit_after_coupons" : -14636.895000000000000000,
+		"roas" : 0.02500000000000000000
+	},
+	{
+		"month" : "2019-08-01",
+		"product_category" : "Drinkware",
+		"revenue" : 28493.960000000000,
+		"gross_profit" : 14246.98000000000000,
+		"coupon_dollars" : 569879.200000000000,
+		"net_profit_after_coupons" : -555632.22000000000000,
+		"roas" : 0.02500000000000000000
+	},
+	{
+		"month" : "2019-08-01",
+		"product_category" : "Fun",
+		"revenue" : 403.8600000000000000,
+		"gross_profit" : 201.930000000000000000,
+		"coupon_dollars" : 0E-16,
+		"net_profit_after_coupons" : 201.930000000000000000,
+		"roas" : null
+	},
+	{
+		"month" : "2019-08-01",
+		"product_category" : "Gift Cards",
+		"revenue" : 750.0000000000000000,
+		"gross_profit" : 375.000000000000000000,
+		"coupon_dollars" : 15000.0000000000000000,
+		"net_profit_after_coupons" : -14625.000000000000000000,
+		"roas" : 0.02500000000000000000
+	},
+	{
+		"month" : "2019-08-01",
+		"product_category" : "Google",
+		"revenue" : 290.5200000000000000,
+		"gross_profit" : 145.260000000000000000,
+		"coupon_dollars" : 0E-16,
+		"net_profit_after_coupons" : 145.260000000000000000,
+		"roas" : null
+	},
+	{
+		"month" : "2019-08-01",
+		"product_category" : "Headgear",
+		"revenue" : 22756.680000000000,
+		"gross_profit" : 11378.34000000000000,
+		"coupon_dollars" : 455133.600000000000,
+		"net_profit_after_coupons" : -443755.26000000000000,
+		"roas" : 0.02500000000000000000
+	},
+	{
+		"month" : "2019-08-01",
+		"product_category" : "Housewares",
+		"revenue" : 1161.7000000000000000,
+		"gross_profit" : 580.850000000000000000,
+		"coupon_dollars" : 23234.0000000000000000,
+		"net_profit_after_coupons" : -22653.150000000000000000,
+		"roas" : 0.02500000000000000000
+	},
+	{
+		"month" : "2019-08-01",
+		"product_category" : "Lifestyle",
+		"revenue" : 12504.9400000000000000,
+		"gross_profit" : 6252.470000000000000000,
+		"coupon_dollars" : 250098.8000000000000000,
+		"net_profit_after_coupons" : -243846.330000000000000000,
+		"roas" : 0.02500000000000000000
+	},
+	{
+		"month" : "2019-08-01",
+		"product_category" : "Nest",
+		"revenue" : 21275.920000000000,
+		"gross_profit" : 10637.96000000000000,
+		"coupon_dollars" : 425518.400000000000,
+		"net_profit_after_coupons" : -414880.44000000000000,
+		"roas" : 0.02500000000000000000
+	},
+	{
+		"month" : "2019-08-01",
+		"product_category" : "Nest-Canada",
+		"revenue" : 5158.8000000000000000,
+		"gross_profit" : 2579.400000000000000000,
+		"coupon_dollars" : 103176.0000000000000000,
+		"net_profit_after_coupons" : -100596.600000000000000000,
+		"roas" : 0.02500000000000000000
+	},
+	{
+		"month" : "2019-08-01",
+		"product_category" : "Nest-USA",
+		"revenue" : 203975.890000000000,
+		"gross_profit" : 101987.94500000000000,
+		"coupon_dollars" : 4079517.800000000000,
+		"net_profit_after_coupons" : -3977529.85500000000000,
+		"roas" : 0.02500000000000000000
+	},
+	{
+		"month" : "2019-08-01",
+		"product_category" : "Notebooks & Journals",
+		"revenue" : 31112.440000000000,
+		"gross_profit" : 15556.22000000000000,
+		"coupon_dollars" : 622248.800000000000,
+		"net_profit_after_coupons" : -606692.58000000000000,
+		"roas" : 0.02500000000000000000
+	},
+	{
+		"month" : "2019-08-01",
+		"product_category" : "Office",
+		"revenue" : 33965.580000000000,
+		"gross_profit" : 16982.79000000000000,
+		"coupon_dollars" : 679311.600000000000,
+		"net_profit_after_coupons" : -662328.81000000000000,
+		"roas" : 0.02500000000000000000
+	},
+	{
+		"month" : "2019-08-01",
+		"product_category" : "Waze",
+		"revenue" : 1018.7200000000000000,
+		"gross_profit" : 509.360000000000000000,
+		"coupon_dollars" : 20374.4000000000000000,
+		"net_profit_after_coupons" : -19865.040000000000000000,
+		"roas" : 0.02500000000000000000
+	},
+	{
+		"month" : "2019-09-01",
+		"product_category" : "Accessories",
+		"revenue" : 1495.2700000000000000,
+		"gross_profit" : 747.635000000000000000,
+		"coupon_dollars" : 44858.1000000000000000,
+		"net_profit_after_coupons" : -44110.465000000000000000,
+		"roas" : 0.01666666666666666667
+	},
+	{
+		"month" : "2019-09-01",
+		"product_category" : "Apparel",
+		"revenue" : 69378.380000000000,
+		"gross_profit" : 34689.19000000000000,
+		"coupon_dollars" : 2081351.400000000000,
+		"net_profit_after_coupons" : -2046662.21000000000000,
+		"roas" : 0.01666666666666666667
+	},
+	{
+		"month" : "2019-09-01",
+		"product_category" : "Backpacks",
+		"revenue" : 758.0800000000000000,
+		"gross_profit" : 379.040000000000000000,
+		"coupon_dollars" : 0E-16,
+		"net_profit_after_coupons" : 379.040000000000000000,
+		"roas" : null
+	},
+	{
+		"month" : "2019-09-01",
+		"product_category" : "Bags",
+		"revenue" : 11167.3800000000000000,
+		"gross_profit" : 5583.690000000000000000,
+		"coupon_dollars" : 335021.4000000000000000,
+		"net_profit_after_coupons" : -329437.710000000000000000,
+		"roas" : 0.01666666666666666667
+	},
+	{
+		"month" : "2019-09-01",
+		"product_category" : "Bottles",
+		"revenue" : 2057.8700000000000000,
+		"gross_profit" : 1028.935000000000000000,
+		"coupon_dollars" : 61736.1000000000000000,
+		"net_profit_after_coupons" : -60707.165000000000000000,
+		"roas" : 0.01666666666666666667
+	},
+	{
+		"month" : "2019-09-01",
+		"product_category" : "Drinkware",
+		"revenue" : 22302.100000000000,
+		"gross_profit" : 11151.05000000000000,
+		"coupon_dollars" : 669063.000000000000,
+		"net_profit_after_coupons" : -657911.95000000000000,
+		"roas" : 0.01666666666666666667
+	},
+	{
+		"month" : "2019-09-01",
+		"product_category" : "Fun",
+		"revenue" : 236.4400000000000000,
+		"gross_profit" : 118.220000000000000000,
+		"coupon_dollars" : 0E-16,
+		"net_profit_after_coupons" : 118.220000000000000000,
+		"roas" : null
+	},
+	{
+		"month" : "2019-09-01",
+		"product_category" : "Gift Cards",
+		"revenue" : 600.0000000000000000,
+		"gross_profit" : 300.000000000000000000,
+		"coupon_dollars" : 18000.0000000000000000,
+		"net_profit_after_coupons" : -17700.000000000000000000,
+		"roas" : 0.01666666666666666667
+	},
+	{
+		"month" : "2019-09-01",
+		"product_category" : "Headgear",
+		"revenue" : 1550.2700000000000000,
+		"gross_profit" : 775.135000000000000000,
+		"coupon_dollars" : 46508.1000000000000000,
+		"net_profit_after_coupons" : -45732.965000000000000000,
+		"roas" : 0.01666666666666666667
+	},
+	{
+		"month" : "2019-09-01",
+		"product_category" : "Housewares",
+		"revenue" : 38.4800000000000000,
+		"gross_profit" : 19.240000000000000000,
+		"coupon_dollars" : 1154.4000000000000000,
+		"net_profit_after_coupons" : -1135.160000000000000000,
+		"roas" : 0.01666666666666666667
+	},
+	{
+		"month" : "2019-09-01",
+		"product_category" : "Lifestyle",
+		"revenue" : 10626.4300000000000000,
+		"gross_profit" : 5313.215000000000000000,
+		"coupon_dollars" : 318792.9000000000000000,
+		"net_profit_after_coupons" : -313479.685000000000000000,
+		"roas" : 0.01666666666666666667
+	},
+	{
+		"month" : "2019-09-01",
+		"product_category" : "Nest",
+		"revenue" : 72240.940000000000,
+		"gross_profit" : 36120.47000000000000,
+		"coupon_dollars" : 2167228.200000000000,
+		"net_profit_after_coupons" : -2131107.73000000000000,
+		"roas" : 0.01666666666666666667
+	},
+	{
+		"month" : "2019-09-01",
+		"product_category" : "Nest-Canada",
+		"revenue" : 3579.5000000000000000,
+		"gross_profit" : 1789.750000000000000000,
+		"coupon_dollars" : 107385.0000000000000000,
+		"net_profit_after_coupons" : -105595.250000000000000000,
+		"roas" : 0.01666666666666666667
+	},
+	{
+		"month" : "2019-09-01",
+		"product_category" : "Nest-USA",
+		"revenue" : 175616.220000000000,
+		"gross_profit" : 87808.11000000000000,
+		"coupon_dollars" : 5268486.600000000000,
+		"net_profit_after_coupons" : -5180678.49000000000000,
+		"roas" : 0.01666666666666666667
+	},
+	{
+		"month" : "2019-09-01",
+		"product_category" : "Notebooks & Journals",
+		"revenue" : 8614.4300000000000000,
+		"gross_profit" : 4307.215000000000000000,
+		"coupon_dollars" : 258432.9000000000000000,
+		"net_profit_after_coupons" : -254125.685000000000000000,
+		"roas" : 0.01666666666666666667
+	},
+	{
+		"month" : "2019-09-01",
+		"product_category" : "Office",
+		"revenue" : 20526.950000000000,
+		"gross_profit" : 10263.47500000000000,
+		"coupon_dollars" : 615808.500000000000,
+		"net_profit_after_coupons" : -605545.02500000000000,
+		"roas" : 0.01666666666666666667
+	},
+	{
+		"month" : "2019-09-01",
+		"product_category" : "Waze",
+		"revenue" : 765.0800000000000000,
+		"gross_profit" : 382.540000000000000000,
+		"coupon_dollars" : 22952.4000000000000000,
+		"net_profit_after_coupons" : -22569.860000000000000000,
+		"roas" : 0.01666666666666666667
+	},
+	{
+		"month" : "2019-10-01",
+		"product_category" : "Accessories",
+		"revenue" : 1837.2100000000000000,
+		"gross_profit" : 918.605000000000000000,
+		"coupon_dollars" : 18372.1000000000000000,
+		"net_profit_after_coupons" : -17453.495000000000000000,
+		"roas" : 0.05000000000000000000
+	},
+	{
+		"month" : "2019-10-01",
+		"product_category" : "Apparel",
+		"revenue" : 35863.850000000000,
+		"gross_profit" : 17931.92500000000000,
+		"coupon_dollars" : 358638.500000000000,
+		"net_profit_after_coupons" : -340706.57500000000000,
+		"roas" : 0.05000000000000000000
+	},
+	{
+		"month" : "2019-10-01",
+		"product_category" : "Backpacks",
+		"revenue" : 1689.3900000000000000,
+		"gross_profit" : 844.695000000000000000,
+		"coupon_dollars" : 0E-16,
+		"net_profit_after_coupons" : 844.695000000000000000,
+		"roas" : null
+	},
+	{
+		"month" : "2019-10-01",
+		"product_category" : "Bags",
+		"revenue" : 16272.7800000000000000,
+		"gross_profit" : 8136.390000000000000000,
+		"coupon_dollars" : 162727.8000000000000000,
+		"net_profit_after_coupons" : -154591.410000000000000000,
+		"roas" : 0.05000000000000000000
+	},
+	{
+		"month" : "2019-10-01",
+		"product_category" : "Bottles",
+		"revenue" : 621.8100000000000000,
+		"gross_profit" : 310.905000000000000000,
+		"coupon_dollars" : 6218.1000000000000000,
+		"net_profit_after_coupons" : -5907.195000000000000000,
+		"roas" : 0.05000000000000000000
+	},
+	{
+		"month" : "2019-10-01",
+		"product_category" : "Drinkware",
+		"revenue" : 25462.610000000000,
+		"gross_profit" : 12731.30500000000000,
+		"coupon_dollars" : 254626.100000000000,
+		"net_profit_after_coupons" : -241894.79500000000000,
+		"roas" : 0.05000000000000000000
+	},
+	{
+		"month" : "2019-10-01",
+		"product_category" : "Fun",
+		"revenue" : 47.0900000000000000,
+		"gross_profit" : 23.545000000000000000,
+		"coupon_dollars" : 0E-16,
+		"net_profit_after_coupons" : 23.545000000000000000,
+		"roas" : null
+	},
+	{
+		"month" : "2019-10-01",
+		"product_category" : "Gift Cards",
+		"revenue" : 12575.0000000000000000,
+		"gross_profit" : 6287.500000000000000000,
+		"coupon_dollars" : 125750.0000000000000000,
+		"net_profit_after_coupons" : -119462.500000000000000000,
+		"roas" : 0.05000000000000000000
+	},
+	{
+		"month" : "2019-10-01",
+		"product_category" : "Headgear",
+		"revenue" : 951.2900000000000000,
+		"gross_profit" : 475.645000000000000000,
+		"coupon_dollars" : 9512.9000000000000000,
+		"net_profit_after_coupons" : -9037.255000000000000000,
+		"roas" : 0.05000000000000000000
+	},
+	{
+		"month" : "2019-10-01",
+		"product_category" : "Lifestyle",
+		"revenue" : 12130.1000000000000000,
+		"gross_profit" : 6065.050000000000000000,
+		"coupon_dollars" : 121301.0000000000000000,
+		"net_profit_after_coupons" : -115235.950000000000000000,
+		"roas" : 0.05000000000000000000
+	},
+	{
+		"month" : "2019-10-01",
+		"product_category" : "Nest",
+		"revenue" : 110256.780000000000,
+		"gross_profit" : 55128.39000000000000,
+		"coupon_dollars" : 1102567.800000000000,
+		"net_profit_after_coupons" : -1047439.41000000000000,
+		"roas" : 0.05000000000000000000
+	},
+	{
+		"month" : "2019-10-01",
+		"product_category" : "Nest-Canada",
+		"revenue" : 5058.8500000000000000,
+		"gross_profit" : 2529.425000000000000000,
+		"coupon_dollars" : 50588.5000000000000000,
+		"net_profit_after_coupons" : -48059.075000000000000000,
+		"roas" : 0.05000000000000000000
+	},
+	{
+		"month" : "2019-10-01",
+		"product_category" : "Nest-USA",
+		"revenue" : 213146.710000000000,
+		"gross_profit" : 106573.35500000000000,
+		"coupon_dollars" : 2131467.100000000000,
+		"net_profit_after_coupons" : -2024893.74500000000000,
+		"roas" : 0.05000000000000000000
+	},
+	{
+		"month" : "2019-10-01",
+		"product_category" : "Notebooks & Journals",
+		"revenue" : 44.4900000000000000,
+		"gross_profit" : 22.245000000000000000,
+		"coupon_dollars" : 444.9000000000000000,
+		"net_profit_after_coupons" : -422.655000000000000000,
+		"roas" : 0.05000000000000000000
+	},
+	{
+		"month" : "2019-10-01",
+		"product_category" : "Office",
+		"revenue" : 18455.4700000000000000,
+		"gross_profit" : 9227.735000000000000000,
+		"coupon_dollars" : 184554.7000000000000000,
+		"net_profit_after_coupons" : -175326.965000000000000000,
+		"roas" : 0.05000000000000000000
+	},
+	{
+		"month" : "2019-10-01",
+		"product_category" : "Waze",
+		"revenue" : 1229.7300000000000000,
+		"gross_profit" : 614.865000000000000000,
+		"coupon_dollars" : 12297.3000000000000000,
+		"net_profit_after_coupons" : -11682.435000000000000000,
+		"roas" : 0.05000000000000000000
+	},
+	{
+		"month" : "2019-11-01",
+		"product_category" : "Accessories",
+		"revenue" : 2438.5400000000000000,
+		"gross_profit" : 1219.270000000000000000,
+		"coupon_dollars" : 48770.8000000000000000,
+		"net_profit_after_coupons" : -47551.530000000000000000,
+		"roas" : 0.02500000000000000000
+	},
+	{
+		"month" : "2019-11-01",
+		"product_category" : "Apparel",
+		"revenue" : 24309.060000000000,
+		"gross_profit" : 12154.53000000000000,
+		"coupon_dollars" : 486181.200000000000,
+		"net_profit_after_coupons" : -474026.67000000000000,
+		"roas" : 0.02500000000000000000
+	},
+	{
+		"month" : "2019-11-01",
+		"product_category" : "Backpacks",
+		"revenue" : 383.9600000000000000,
+		"gross_profit" : 191.980000000000000000,
+		"coupon_dollars" : 0E-16,
+		"net_profit_after_coupons" : 191.980000000000000000,
+		"roas" : null
+	},
+	{
+		"month" : "2019-11-01",
+		"product_category" : "Bags",
+		"revenue" : 13935.0300000000000000,
+		"gross_profit" : 6967.515000000000000000,
+		"coupon_dollars" : 278700.6000000000000000,
+		"net_profit_after_coupons" : -271733.085000000000000000,
+		"roas" : 0.02500000000000000000
+	},
+	{
+		"month" : "2019-11-01",
+		"product_category" : "Drinkware",
+		"revenue" : 8950.5800000000000000,
+		"gross_profit" : 4475.290000000000000000,
+		"coupon_dollars" : 179011.6000000000000000,
+		"net_profit_after_coupons" : -174536.310000000000000000,
+		"roas" : 0.02500000000000000000
+	},
+	{
+		"month" : "2019-11-01",
+		"product_category" : "Headgear",
+		"revenue" : 693.2000000000000000,
+		"gross_profit" : 346.600000000000000000,
+		"coupon_dollars" : 13864.0000000000000000,
+		"net_profit_after_coupons" : -13517.400000000000000000,
+		"roas" : 0.02500000000000000000
+	},
+	{
+		"month" : "2019-11-01",
+		"product_category" : "Lifestyle",
+		"revenue" : 2869.0600000000000000,
+		"gross_profit" : 1434.530000000000000000,
+		"coupon_dollars" : 57381.2000000000000000,
+		"net_profit_after_coupons" : -55946.670000000000000000,
+		"roas" : 0.02500000000000000000
+	},
+	{
+		"month" : "2019-11-01",
+		"product_category" : "Nest",
+		"revenue" : 179367.080000000000,
+		"gross_profit" : 89683.54000000000000,
+		"coupon_dollars" : 3587341.600000000000,
+		"net_profit_after_coupons" : -3497658.06000000000000,
+		"roas" : 0.02500000000000000000
+	},
+	{
+		"month" : "2019-11-01",
+		"product_category" : "Nest-Canada",
+		"revenue" : 4995.8000000000000000,
+		"gross_profit" : 2497.900000000000000000,
+		"coupon_dollars" : 99916.0000000000000000,
+		"net_profit_after_coupons" : -97418.100000000000000000,
+		"roas" : 0.02500000000000000000
+	},
+	{
+		"month" : "2019-11-01",
+		"product_category" : "Nest-USA",
+		"revenue" : 273088.450000000000,
+		"gross_profit" : 136544.22500000000000,
+		"coupon_dollars" : 5461769.000000000000,
+		"net_profit_after_coupons" : -5325224.77500000000000,
+		"roas" : 0.02500000000000000000
+	},
+	{
+		"month" : "2019-11-01",
+		"product_category" : "Office",
+		"revenue" : 28721.710000000000,
+		"gross_profit" : 14360.85500000000000,
+		"coupon_dollars" : 574434.200000000000,
+		"net_profit_after_coupons" : -560073.34500000000000,
+		"roas" : 0.02500000000000000000
+	},
+	{
+		"month" : "2019-11-01",
+		"product_category" : "Waze",
+		"revenue" : 1502.0800000000000000,
+		"gross_profit" : 751.040000000000000000,
+		"coupon_dollars" : 30041.6000000000000000,
+		"net_profit_after_coupons" : -29290.560000000000000000,
+		"roas" : 0.02500000000000000000
+	},
+	{
+		"month" : "2019-12-01",
+		"product_category" : "Accessories",
+		"revenue" : 1172.0800000000000000,
+		"gross_profit" : 586.040000000000000000,
+		"coupon_dollars" : 35162.4000000000000000,
+		"net_profit_after_coupons" : -34576.360000000000000000,
+		"roas" : 0.01666666666666666667
+	},
+	{
+		"month" : "2019-12-01",
+		"product_category" : "Apparel",
+		"revenue" : 59455.920000000000,
+		"gross_profit" : 29727.96000000000000,
+		"coupon_dollars" : 1783677.600000000000,
+		"net_profit_after_coupons" : -1753949.64000000000000,
+		"roas" : 0.01666666666666666667
+	},
+	{
+		"month" : "2019-12-01",
+		"product_category" : "Bags",
+		"revenue" : 10137.7800000000000000,
+		"gross_profit" : 5068.890000000000000000,
+		"coupon_dollars" : 304133.4000000000000000,
+		"net_profit_after_coupons" : -299064.510000000000000000,
+		"roas" : 0.01666666666666666667
+	},
+	{
+		"month" : "2019-12-01",
+		"product_category" : "Drinkware",
+		"revenue" : 11874.9100000000000000,
+		"gross_profit" : 5937.455000000000000000,
+		"coupon_dollars" : 356247.3000000000000000,
+		"net_profit_after_coupons" : -350309.845000000000000000,
+		"roas" : 0.01666666666666666667
+	},
+	{
+		"month" : "2019-12-01",
+		"product_category" : "Gift Cards",
+		"revenue" : 800.1300000000000000,
+		"gross_profit" : 400.065000000000000000,
+		"coupon_dollars" : 24003.9000000000000000,
+		"net_profit_after_coupons" : -23603.835000000000000000,
+		"roas" : 0.01666666666666666667
+	},
+	{
+		"month" : "2019-12-01",
+		"product_category" : "Headgear",
+		"revenue" : 1664.9000000000000000,
+		"gross_profit" : 832.450000000000000000,
+		"coupon_dollars" : 49947.0000000000000000,
+		"net_profit_after_coupons" : -49114.550000000000000000,
+		"roas" : 0.01666666666666666667
+	},
+	{
+		"month" : "2019-12-01",
+		"product_category" : "Lifestyle",
+		"revenue" : 2686.8500000000000000,
+		"gross_profit" : 1343.425000000000000000,
+		"coupon_dollars" : 80605.5000000000000000,
+		"net_profit_after_coupons" : -79262.075000000000000000,
+		"roas" : 0.01666666666666666667
+	},
+	{
+		"month" : "2019-12-01",
+		"product_category" : "Nest",
+		"revenue" : 151135.580000000000,
+		"gross_profit" : 75567.79000000000000,
+		"coupon_dollars" : 4534067.400000000000,
+		"net_profit_after_coupons" : -4458499.61000000000000,
+		"roas" : 0.01666666666666666667
+	},
+	{
+		"month" : "2019-12-01",
+		"product_category" : "Nest-Canada",
+		"revenue" : 5517.4900000000000000,
+		"gross_profit" : 2758.745000000000000000,
+		"coupon_dollars" : 165524.7000000000000000,
+		"net_profit_after_coupons" : -162765.955000000000000000,
+		"roas" : 0.01666666666666666667
+	},
+	{
+		"month" : "2019-12-01",
+		"product_category" : "Nest-USA",
+		"revenue" : 292368.340000000000,
+		"gross_profit" : 146184.17000000000000,
+		"coupon_dollars" : 8771050.200000000000,
+		"net_profit_after_coupons" : -8624866.03000000000000,
+		"roas" : 0.01666666666666666667
+	},
+	{
+		"month" : "2019-12-01",
+		"product_category" : "Notebooks & Journals",
+		"revenue" : 1045.4400000000000000,
+		"gross_profit" : 522.720000000000000000,
+		"coupon_dollars" : 31363.2000000000000000,
+		"net_profit_after_coupons" : -30840.480000000000000000,
+		"roas" : 0.01666666666666666667
+	},
+	{
+		"month" : "2019-12-01",
+		"product_category" : "Office",
+		"revenue" : 22202.660000000000,
+		"gross_profit" : 11101.33000000000000,
+		"coupon_dollars" : 666079.800000000000,
+		"net_profit_after_coupons" : -654978.47000000000000,
+		"roas" : 0.01666666666666666667
+	},
+	{
+		"month" : "2019-12-01",
+		"product_category" : "Waze",
+		"revenue" : 1078.1000000000000000,
+		"gross_profit" : 539.050000000000000000,
+		"coupon_dollars" : 32343.0000000000000000,
+		"net_profit_after_coupons" : -31803.950000000000000000,
+		"roas" : 0.01666666666666666667
+	}
+]}

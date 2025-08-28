@@ -1,0 +1,1029 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<!-- build 20252.25.0514.2217                               -->
+<workbook original-version='18.1' source-build='2025.2.0 (20252.25.0514.2217)' source-platform='win' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <document-format-change-manifest>
+    <AnimationOnByDefault />
+    <MarkAnimation />
+    <ObjectModelEncapsulateLegacy />
+    <ObjectModelTableType />
+    <SchemaViewerObjectModel />
+    <SheetIdentifierTracking />
+    <WindowsPersistSimpleIdentifiers />
+  </document-format-change-manifest>
+  <preferences>
+    <preference name='ui.encoding.shelf.height' value='24' />
+    <preference name='ui.shelf.height' value='26' />
+  </preferences>
+  <datasources>
+    <datasource caption='mart_customers+' inline='true' name='federated.06s2cow1fq0c4f1fj3yra0xmzav9' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='mart_customers' name='textscan.1vjmrg702164nb1efxr4b0109rqo'>
+            <connection class='textscan' directory='D:/Projekt/neuefische/Capestone_project/RETAIN_AND_GAIN_Capstrone_Project/Data' filename='mart_customers.csv' password='' server='' />
+          </named-connection>
+        </named-connections>
+        <relation type='collection'>
+          <relation connection='textscan.1vjmrg702164nb1efxr4b0109rqo' name='mart_all_data.csv' table='[mart_all_data#csv]' type='table'>
+            <columns character-set='UTF-8' header='yes' locale='de_DE'>
+              <column datatype='integer' name='customer_id' ordinal='0' />
+              <column datatype='string' name='customer_gender' ordinal='1' />
+              <column datatype='string' name='customer_location' ordinal='2' />
+              <column datatype='integer' name='customer_tenure_months' ordinal='3' />
+              <column datatype='integer' name='transaction_id' ordinal='4' />
+              <column datatype='date' name='transaction_date' ordinal='5' />
+              <column datatype='string' name='produkt_sku' ordinal='6' />
+              <column datatype='string' name='product_category' ordinal='7' />
+              <column datatype='integer' name='quantity' ordinal='8' />
+              <column datatype='string' name='avg_price' ordinal='9' />
+              <column datatype='string' name='delivery_charges' ordinal='10' />
+              <column datatype='string' name='coupon_status' ordinal='11' />
+              <column datatype='integer' name='discount_pct' ordinal='12' />
+              <column datatype='string' name='gst_onsale' ordinal='13' />
+              <column datatype='integer' name='offline_spend_that_day' ordinal='14' />
+              <column datatype='string' name='online_spend_that_day' ordinal='15' />
+              <column datatype='string' name='transaction_year' ordinal='16' />
+              <column datatype='string' name='transaction_month' ordinal='17' />
+              <column datatype='string' name='transaction_month_str' ordinal='18' />
+              <column datatype='string' name='transaction_day_of_month' ordinal='19' />
+              <column datatype='string' name='transaction_day_of_week' ordinal='20' />
+            </columns>
+          </relation>
+          <relation connection='textscan.1vjmrg702164nb1efxr4b0109rqo' name='holiday_marks.csv' table='[holiday_marks#csv]' type='table'>
+            <columns character-set='UTF-8' header='yes' locale='de_DE'>
+              <column datatype='date' name='date_iso' ordinal='0' />
+              <column datatype='string' name='name' ordinal='1' />
+              <column datatype='string' name='description' ordinal='2' />
+              <column datatype='string' name='type' ordinal='3' />
+              <column datatype='boolean' name='national_holiday' ordinal='4' />
+              <column datatype='boolean' name='christian_holiday' ordinal='5' />
+              <column datatype='boolean' name='muslim_holiday' ordinal='6' />
+              <column datatype='boolean' name='worldwide_observance' ordinal='7' />
+            </columns>
+          </relation>
+          <relation connection='textscan.1vjmrg702164nb1efxr4b0109rqo' name='mart_customers.csv' table='[mart_customers#csv]' type='table'>
+            <columns character-set='UTF-8' header='yes' locale='de_DE'>
+              <column datatype='integer' name='customer_id' ordinal='0' />
+              <column datatype='string' name='gender' ordinal='1' />
+              <column datatype='string' name='location' ordinal='2' />
+              <column datatype='integer' name='tenure_months' ordinal='3' />
+            </columns>
+          </relation>
+          <relation connection='textscan.1vjmrg702164nb1efxr4b0109rqo' name='GammaGammaModel.csv' table='[GammaGammaModel#csv]' type='table'>
+            <columns character-set='UTF-8' header='yes' locale='de_DE'>
+              <column datatype='integer' name='customer_id' ordinal='0' />
+              <column datatype='string' name='frequency' ordinal='1' />
+              <column datatype='string' name='recency' ordinal='2' />
+              <column datatype='string' name='T' ordinal='3' />
+              <column datatype='string' name='monetary_value' ordinal='4' />
+              <column datatype='string' name='expected_purchases_180d' ordinal='5' />
+              <column datatype='string' name='expected_avg_order_value' ordinal='6' />
+              <column datatype='string' name='predicted_clv_180d' ordinal='7' />
+              <column datatype='string' name='profit_margin_5pct' ordinal='8' />
+              <column datatype='string' name='segment_name' ordinal='9' />
+            </columns>
+          </relation>
+        </relation>
+        <cols>
+          <map key='[T]' value='[GammaGammaModel.csv].[T]' />
+          <map key='[avg_price]' value='[mart_all_data.csv].[avg_price]' />
+          <map key='[christian_holiday]' value='[holiday_marks.csv].[christian_holiday]' />
+          <map key='[coupon_status]' value='[mart_all_data.csv].[coupon_status]' />
+          <map key='[customer_gender]' value='[mart_all_data.csv].[customer_gender]' />
+          <map key='[customer_id (GammaGammaModel.csv)]' value='[GammaGammaModel.csv].[customer_id]' />
+          <map key='[customer_id (mart_all_data.csv)]' value='[mart_all_data.csv].[customer_id]' />
+          <map key='[customer_id]' value='[mart_customers.csv].[customer_id]' />
+          <map key='[customer_location]' value='[mart_all_data.csv].[customer_location]' />
+          <map key='[customer_tenure_months]' value='[mart_all_data.csv].[customer_tenure_months]' />
+          <map key='[date_iso]' value='[holiday_marks.csv].[date_iso]' />
+          <map key='[delivery_charges]' value='[mart_all_data.csv].[delivery_charges]' />
+          <map key='[description]' value='[holiday_marks.csv].[description]' />
+          <map key='[discount_pct]' value='[mart_all_data.csv].[discount_pct]' />
+          <map key='[expected_avg_order_value]' value='[GammaGammaModel.csv].[expected_avg_order_value]' />
+          <map key='[expected_purchases_180d]' value='[GammaGammaModel.csv].[expected_purchases_180d]' />
+          <map key='[frequency]' value='[GammaGammaModel.csv].[frequency]' />
+          <map key='[gender]' value='[mart_customers.csv].[gender]' />
+          <map key='[gst_onsale]' value='[mart_all_data.csv].[gst_onsale]' />
+          <map key='[location]' value='[mart_customers.csv].[location]' />
+          <map key='[monetary_value]' value='[GammaGammaModel.csv].[monetary_value]' />
+          <map key='[muslim_holiday]' value='[holiday_marks.csv].[muslim_holiday]' />
+          <map key='[name]' value='[holiday_marks.csv].[name]' />
+          <map key='[national_holiday]' value='[holiday_marks.csv].[national_holiday]' />
+          <map key='[offline_spend_that_day]' value='[mart_all_data.csv].[offline_spend_that_day]' />
+          <map key='[online_spend_that_day]' value='[mart_all_data.csv].[online_spend_that_day]' />
+          <map key='[predicted_clv_180d]' value='[GammaGammaModel.csv].[predicted_clv_180d]' />
+          <map key='[product_category]' value='[mart_all_data.csv].[product_category]' />
+          <map key='[produkt_sku]' value='[mart_all_data.csv].[produkt_sku]' />
+          <map key='[profit_margin_5pct]' value='[GammaGammaModel.csv].[profit_margin_5pct]' />
+          <map key='[quantity]' value='[mart_all_data.csv].[quantity]' />
+          <map key='[recency]' value='[GammaGammaModel.csv].[recency]' />
+          <map key='[segment_name]' value='[GammaGammaModel.csv].[segment_name]' />
+          <map key='[tenure_months]' value='[mart_customers.csv].[tenure_months]' />
+          <map key='[transaction_date]' value='[mart_all_data.csv].[transaction_date]' />
+          <map key='[transaction_day_of_month]' value='[mart_all_data.csv].[transaction_day_of_month]' />
+          <map key='[transaction_day_of_week]' value='[mart_all_data.csv].[transaction_day_of_week]' />
+          <map key='[transaction_id]' value='[mart_all_data.csv].[transaction_id]' />
+          <map key='[transaction_month]' value='[mart_all_data.csv].[transaction_month]' />
+          <map key='[transaction_month_str]' value='[mart_all_data.csv].[transaction_month_str]' />
+          <map key='[transaction_year]' value='[mart_all_data.csv].[transaction_year]' />
+          <map key='[type]' value='[holiday_marks.csv].[type]' />
+          <map key='[worldwide_observance]' value='[holiday_marks.csv].[worldwide_observance]' />
+        </cols>
+        <metadata-records>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[mart_all_data.csv]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
+              <attribute datatype='string' name='collation'>&quot;de&quot;</attribute>
+              <attribute datatype='string' name='currency'>&quot;€&quot;</attribute>
+              <attribute datatype='string' name='decimal-char'>&quot;,&quot;</attribute>
+              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
+              <attribute datatype='string' name='locale'>&quot;de_DE&quot;</attribute>
+              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
+              <attribute datatype='string' name='thousands-char'>&quot;.&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[holiday_marks.csv]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
+              <attribute datatype='string' name='collation'>&quot;de&quot;</attribute>
+              <attribute datatype='string' name='currency'>&quot;€&quot;</attribute>
+              <attribute datatype='string' name='decimal-char'>&quot;,&quot;</attribute>
+              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
+              <attribute datatype='string' name='locale'>&quot;de_DE&quot;</attribute>
+              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
+              <attribute datatype='string' name='thousands-char'>&quot;.&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[mart_customers.csv]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
+              <attribute datatype='string' name='collation'>&quot;de&quot;</attribute>
+              <attribute datatype='string' name='currency'>&quot;€&quot;</attribute>
+              <attribute datatype='string' name='decimal-char'>&quot;,&quot;</attribute>
+              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
+              <attribute datatype='string' name='locale'>&quot;de_DE&quot;</attribute>
+              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
+              <attribute datatype='string' name='thousands-char'>&quot;.&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[GammaGammaModel.csv]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
+              <attribute datatype='string' name='collation'>&quot;de&quot;</attribute>
+              <attribute datatype='string' name='currency'>&quot;€&quot;</attribute>
+              <attribute datatype='string' name='decimal-char'>&quot;,&quot;</attribute>
+              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
+              <attribute datatype='string' name='locale'>&quot;de_DE&quot;</attribute>
+              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
+              <attribute datatype='string' name='thousands-char'>&quot;.&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>customer_id</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[customer_id (mart_all_data.csv)]</local-name>
+            <parent-name>[mart_all_data.csv]</parent-name>
+            <remote-alias>customer_id</remote-alias>
+            <ordinal>0</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[mart_all_data.csv_8DF428A98E9A4145BCE91A43A52CDE0E]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>customer_gender</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[customer_gender]</local-name>
+            <parent-name>[mart_all_data.csv]</parent-name>
+            <remote-alias>customer_gender</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LDE_RDE' />
+            <object-id>[mart_all_data.csv_8DF428A98E9A4145BCE91A43A52CDE0E]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>customer_location</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[customer_location]</local-name>
+            <parent-name>[mart_all_data.csv]</parent-name>
+            <remote-alias>customer_location</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LDE_RDE' />
+            <object-id>[mart_all_data.csv_8DF428A98E9A4145BCE91A43A52CDE0E]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>customer_tenure_months</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[customer_tenure_months]</local-name>
+            <parent-name>[mart_all_data.csv]</parent-name>
+            <remote-alias>customer_tenure_months</remote-alias>
+            <ordinal>3</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[mart_all_data.csv_8DF428A98E9A4145BCE91A43A52CDE0E]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>transaction_id</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[transaction_id]</local-name>
+            <parent-name>[mart_all_data.csv]</parent-name>
+            <remote-alias>transaction_id</remote-alias>
+            <ordinal>4</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[mart_all_data.csv_8DF428A98E9A4145BCE91A43A52CDE0E]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>transaction_date</remote-name>
+            <remote-type>133</remote-type>
+            <local-name>[transaction_date]</local-name>
+            <parent-name>[mart_all_data.csv]</parent-name>
+            <remote-alias>transaction_date</remote-alias>
+            <ordinal>5</ordinal>
+            <local-type>date</local-type>
+            <aggregation>Year</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[mart_all_data.csv_8DF428A98E9A4145BCE91A43A52CDE0E]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>produkt_sku</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[produkt_sku]</local-name>
+            <parent-name>[mart_all_data.csv]</parent-name>
+            <remote-alias>produkt_sku</remote-alias>
+            <ordinal>6</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LDE_RDE' />
+            <object-id>[mart_all_data.csv_8DF428A98E9A4145BCE91A43A52CDE0E]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>product_category</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[product_category]</local-name>
+            <parent-name>[mart_all_data.csv]</parent-name>
+            <remote-alias>product_category</remote-alias>
+            <ordinal>7</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LDE_RDE' />
+            <object-id>[mart_all_data.csv_8DF428A98E9A4145BCE91A43A52CDE0E]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>quantity</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[quantity]</local-name>
+            <parent-name>[mart_all_data.csv]</parent-name>
+            <remote-alias>quantity</remote-alias>
+            <ordinal>8</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[mart_all_data.csv_8DF428A98E9A4145BCE91A43A52CDE0E]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>avg_price</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[avg_price]</local-name>
+            <parent-name>[mart_all_data.csv]</parent-name>
+            <remote-alias>avg_price</remote-alias>
+            <ordinal>9</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LDE_RDE' />
+            <object-id>[mart_all_data.csv_8DF428A98E9A4145BCE91A43A52CDE0E]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>delivery_charges</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[delivery_charges]</local-name>
+            <parent-name>[mart_all_data.csv]</parent-name>
+            <remote-alias>delivery_charges</remote-alias>
+            <ordinal>10</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LDE_RDE' />
+            <object-id>[mart_all_data.csv_8DF428A98E9A4145BCE91A43A52CDE0E]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>coupon_status</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[coupon_status]</local-name>
+            <parent-name>[mart_all_data.csv]</parent-name>
+            <remote-alias>coupon_status</remote-alias>
+            <ordinal>11</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LDE_RDE' />
+            <object-id>[mart_all_data.csv_8DF428A98E9A4145BCE91A43A52CDE0E]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>discount_pct</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[discount_pct]</local-name>
+            <parent-name>[mart_all_data.csv]</parent-name>
+            <remote-alias>discount_pct</remote-alias>
+            <ordinal>12</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[mart_all_data.csv_8DF428A98E9A4145BCE91A43A52CDE0E]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>gst_onsale</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[gst_onsale]</local-name>
+            <parent-name>[mart_all_data.csv]</parent-name>
+            <remote-alias>gst_onsale</remote-alias>
+            <ordinal>13</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LDE_RDE' />
+            <object-id>[mart_all_data.csv_8DF428A98E9A4145BCE91A43A52CDE0E]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>offline_spend_that_day</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[offline_spend_that_day]</local-name>
+            <parent-name>[mart_all_data.csv]</parent-name>
+            <remote-alias>offline_spend_that_day</remote-alias>
+            <ordinal>14</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[mart_all_data.csv_8DF428A98E9A4145BCE91A43A52CDE0E]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>online_spend_that_day</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[online_spend_that_day]</local-name>
+            <parent-name>[mart_all_data.csv]</parent-name>
+            <remote-alias>online_spend_that_day</remote-alias>
+            <ordinal>15</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LDE_RDE' />
+            <object-id>[mart_all_data.csv_8DF428A98E9A4145BCE91A43A52CDE0E]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>transaction_year</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[transaction_year]</local-name>
+            <parent-name>[mart_all_data.csv]</parent-name>
+            <remote-alias>transaction_year</remote-alias>
+            <ordinal>16</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LDE_RDE' />
+            <object-id>[mart_all_data.csv_8DF428A98E9A4145BCE91A43A52CDE0E]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>transaction_month</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[transaction_month]</local-name>
+            <parent-name>[mart_all_data.csv]</parent-name>
+            <remote-alias>transaction_month</remote-alias>
+            <ordinal>17</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LDE_RDE' />
+            <object-id>[mart_all_data.csv_8DF428A98E9A4145BCE91A43A52CDE0E]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>transaction_month_str</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[transaction_month_str]</local-name>
+            <parent-name>[mart_all_data.csv]</parent-name>
+            <remote-alias>transaction_month_str</remote-alias>
+            <ordinal>18</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LDE_RDE' />
+            <object-id>[mart_all_data.csv_8DF428A98E9A4145BCE91A43A52CDE0E]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>transaction_day_of_month</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[transaction_day_of_month]</local-name>
+            <parent-name>[mart_all_data.csv]</parent-name>
+            <remote-alias>transaction_day_of_month</remote-alias>
+            <ordinal>19</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LDE_RDE' />
+            <object-id>[mart_all_data.csv_8DF428A98E9A4145BCE91A43A52CDE0E]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>transaction_day_of_week</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[transaction_day_of_week]</local-name>
+            <parent-name>[mart_all_data.csv]</parent-name>
+            <remote-alias>transaction_day_of_week</remote-alias>
+            <ordinal>20</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LDE_RDE' />
+            <object-id>[mart_all_data.csv_8DF428A98E9A4145BCE91A43A52CDE0E]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>date_iso</remote-name>
+            <remote-type>133</remote-type>
+            <local-name>[date_iso]</local-name>
+            <parent-name>[holiday_marks.csv]</parent-name>
+            <remote-alias>date_iso</remote-alias>
+            <ordinal>21</ordinal>
+            <local-type>date</local-type>
+            <aggregation>Year</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[holiday_marks.csv_EDC14217E7894838A988B3870A6EFCD7]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>name</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[name]</local-name>
+            <parent-name>[holiday_marks.csv]</parent-name>
+            <remote-alias>name</remote-alias>
+            <ordinal>22</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LDE_RDE' />
+            <object-id>[holiday_marks.csv_EDC14217E7894838A988B3870A6EFCD7]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>description</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[description]</local-name>
+            <parent-name>[holiday_marks.csv]</parent-name>
+            <remote-alias>description</remote-alias>
+            <ordinal>23</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LDE_RDE' />
+            <object-id>[holiday_marks.csv_EDC14217E7894838A988B3870A6EFCD7]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>type</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[type]</local-name>
+            <parent-name>[holiday_marks.csv]</parent-name>
+            <remote-alias>type</remote-alias>
+            <ordinal>24</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LDE_RDE' />
+            <object-id>[holiday_marks.csv_EDC14217E7894838A988B3870A6EFCD7]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>national_holiday</remote-name>
+            <remote-type>11</remote-type>
+            <local-name>[national_holiday]</local-name>
+            <parent-name>[holiday_marks.csv]</parent-name>
+            <remote-alias>national_holiday</remote-alias>
+            <ordinal>25</ordinal>
+            <local-type>boolean</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[holiday_marks.csv_EDC14217E7894838A988B3870A6EFCD7]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>christian_holiday</remote-name>
+            <remote-type>11</remote-type>
+            <local-name>[christian_holiday]</local-name>
+            <parent-name>[holiday_marks.csv]</parent-name>
+            <remote-alias>christian_holiday</remote-alias>
+            <ordinal>26</ordinal>
+            <local-type>boolean</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[holiday_marks.csv_EDC14217E7894838A988B3870A6EFCD7]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>muslim_holiday</remote-name>
+            <remote-type>11</remote-type>
+            <local-name>[muslim_holiday]</local-name>
+            <parent-name>[holiday_marks.csv]</parent-name>
+            <remote-alias>muslim_holiday</remote-alias>
+            <ordinal>27</ordinal>
+            <local-type>boolean</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[holiday_marks.csv_EDC14217E7894838A988B3870A6EFCD7]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>worldwide_observance</remote-name>
+            <remote-type>11</remote-type>
+            <local-name>[worldwide_observance]</local-name>
+            <parent-name>[holiday_marks.csv]</parent-name>
+            <remote-alias>worldwide_observance</remote-alias>
+            <ordinal>28</ordinal>
+            <local-type>boolean</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[holiday_marks.csv_EDC14217E7894838A988B3870A6EFCD7]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>customer_id</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[customer_id]</local-name>
+            <parent-name>[mart_customers.csv]</parent-name>
+            <remote-alias>customer_id</remote-alias>
+            <ordinal>29</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[mart_customers.csv_715FD4659B28419EAAB25A73A747F7F2]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>gender</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[gender]</local-name>
+            <parent-name>[mart_customers.csv]</parent-name>
+            <remote-alias>gender</remote-alias>
+            <ordinal>30</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LDE_RDE' />
+            <object-id>[mart_customers.csv_715FD4659B28419EAAB25A73A747F7F2]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>location</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[location]</local-name>
+            <parent-name>[mart_customers.csv]</parent-name>
+            <remote-alias>location</remote-alias>
+            <ordinal>31</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LDE_RDE' />
+            <object-id>[mart_customers.csv_715FD4659B28419EAAB25A73A747F7F2]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>tenure_months</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[tenure_months]</local-name>
+            <parent-name>[mart_customers.csv]</parent-name>
+            <remote-alias>tenure_months</remote-alias>
+            <ordinal>32</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[mart_customers.csv_715FD4659B28419EAAB25A73A747F7F2]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>customer_id</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[customer_id (GammaGammaModel.csv)]</local-name>
+            <parent-name>[GammaGammaModel.csv]</parent-name>
+            <remote-alias>customer_id</remote-alias>
+            <ordinal>33</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[GammaGammaModel.csv_4F23C064320D43CD8C82C901422A46AB]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>frequency</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[frequency]</local-name>
+            <parent-name>[GammaGammaModel.csv]</parent-name>
+            <remote-alias>frequency</remote-alias>
+            <ordinal>34</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LDE_RDE' />
+            <object-id>[GammaGammaModel.csv_4F23C064320D43CD8C82C901422A46AB]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>recency</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[recency]</local-name>
+            <parent-name>[GammaGammaModel.csv]</parent-name>
+            <remote-alias>recency</remote-alias>
+            <ordinal>35</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LDE_RDE' />
+            <object-id>[GammaGammaModel.csv_4F23C064320D43CD8C82C901422A46AB]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>T</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[T]</local-name>
+            <parent-name>[GammaGammaModel.csv]</parent-name>
+            <remote-alias>T</remote-alias>
+            <ordinal>36</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LDE_RDE' />
+            <object-id>[GammaGammaModel.csv_4F23C064320D43CD8C82C901422A46AB]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>monetary_value</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[monetary_value]</local-name>
+            <parent-name>[GammaGammaModel.csv]</parent-name>
+            <remote-alias>monetary_value</remote-alias>
+            <ordinal>37</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LDE_RDE' />
+            <object-id>[GammaGammaModel.csv_4F23C064320D43CD8C82C901422A46AB]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>expected_purchases_180d</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[expected_purchases_180d]</local-name>
+            <parent-name>[GammaGammaModel.csv]</parent-name>
+            <remote-alias>expected_purchases_180d</remote-alias>
+            <ordinal>38</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LDE_RDE' />
+            <object-id>[GammaGammaModel.csv_4F23C064320D43CD8C82C901422A46AB]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>expected_avg_order_value</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[expected_avg_order_value]</local-name>
+            <parent-name>[GammaGammaModel.csv]</parent-name>
+            <remote-alias>expected_avg_order_value</remote-alias>
+            <ordinal>39</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LDE_RDE' />
+            <object-id>[GammaGammaModel.csv_4F23C064320D43CD8C82C901422A46AB]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>predicted_clv_180d</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[predicted_clv_180d]</local-name>
+            <parent-name>[GammaGammaModel.csv]</parent-name>
+            <remote-alias>predicted_clv_180d</remote-alias>
+            <ordinal>40</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LDE_RDE' />
+            <object-id>[GammaGammaModel.csv_4F23C064320D43CD8C82C901422A46AB]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>profit_margin_5pct</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[profit_margin_5pct]</local-name>
+            <parent-name>[GammaGammaModel.csv]</parent-name>
+            <remote-alias>profit_margin_5pct</remote-alias>
+            <ordinal>41</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LDE_RDE' />
+            <object-id>[GammaGammaModel.csv_4F23C064320D43CD8C82C901422A46AB]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>segment_name</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[segment_name]</local-name>
+            <parent-name>[GammaGammaModel.csv]</parent-name>
+            <remote-alias>segment_name</remote-alias>
+            <ordinal>42</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LDE_RDE' />
+            <object-id>[GammaGammaModel.csv_4F23C064320D43CD8C82C901422A46AB]</object-id>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <column caption='GammaGammaModel.csv' datatype='table' name='[__tableau_internal_object_id__].[GammaGammaModel.csv_4F23C064320D43CD8C82C901422A46AB]' role='measure' type='quantitative' />
+      <column caption='holiday_marks.csv' datatype='table' name='[__tableau_internal_object_id__].[holiday_marks.csv_EDC14217E7894838A988B3870A6EFCD7]' role='measure' type='quantitative' />
+      <column caption='mart_all_data.csv' datatype='table' name='[__tableau_internal_object_id__].[mart_all_data.csv_8DF428A98E9A4145BCE91A43A52CDE0E]' role='measure' type='quantitative' />
+      <column caption='mart_customers.csv' datatype='table' name='[__tableau_internal_object_id__].[mart_customers.csv_715FD4659B28419EAAB25A73A747F7F2]' role='measure' type='quantitative' />
+      <column caption='Avg Price' datatype='string' name='[avg_price]' role='dimension' type='nominal' />
+      <column caption='Christian Holiday' datatype='boolean' name='[christian_holiday]' role='dimension' type='nominal' />
+      <column caption='Coupon Status' datatype='string' name='[coupon_status]' role='dimension' type='nominal' />
+      <column caption='Customer Gender' datatype='string' name='[customer_gender]' role='dimension' type='nominal' />
+      <column caption='customer id (GammaGammaModel.csv)' datatype='integer' name='[customer_id (GammaGammaModel.csv)]' role='dimension' type='ordinal' />
+      <column caption='Customer Id (Mart All Data.Csv)' datatype='integer' name='[customer_id (mart_all_data.csv)]' role='dimension' type='ordinal' />
+      <column caption='Customer Id' datatype='integer' name='[customer_id]' role='dimension' type='ordinal' />
+      <column caption='Customer Location' datatype='string' name='[customer_location]' role='dimension' type='nominal' />
+      <column caption='Customer Tenure Months' datatype='integer' name='[customer_tenure_months]' role='measure' type='quantitative' />
+      <column caption='Date Iso' datatype='date' name='[date_iso]' role='dimension' type='ordinal' />
+      <column caption='Delivery Charges' datatype='string' name='[delivery_charges]' role='dimension' type='nominal' />
+      <column caption='Description' datatype='string' name='[description]' role='dimension' type='nominal' />
+      <column caption='Discount Pct' datatype='integer' name='[discount_pct]' role='measure' type='quantitative' />
+      <column caption='Expected Avg Order Value' datatype='string' name='[expected_avg_order_value]' role='dimension' type='nominal' />
+      <column caption='Expected Purchases 180D' datatype='string' name='[expected_purchases_180d]' role='dimension' type='nominal' />
+      <column caption='Frequency' datatype='string' name='[frequency]' role='dimension' type='nominal' />
+      <column caption='Gender' datatype='string' name='[gender]' role='dimension' type='nominal' />
+      <column caption='Gst Onsale' datatype='string' name='[gst_onsale]' role='dimension' type='nominal' />
+      <column caption='Location' datatype='string' name='[location]' role='dimension' type='nominal' />
+      <column caption='Monetary Value' datatype='string' name='[monetary_value]' role='dimension' type='nominal' />
+      <column caption='Muslim Holiday' datatype='boolean' name='[muslim_holiday]' role='dimension' type='nominal' />
+      <column caption='Name' datatype='string' name='[name]' role='dimension' type='nominal' />
+      <column caption='National Holiday' datatype='boolean' name='[national_holiday]' role='dimension' type='nominal' />
+      <column caption='Offline Spend That Day' datatype='integer' name='[offline_spend_that_day]' role='dimension' type='quantitative' />
+      <column caption='Online Spend That Day' datatype='string' name='[online_spend_that_day]' role='dimension' type='nominal' />
+      <column caption='Predicted Clv 180D' datatype='string' name='[predicted_clv_180d]' role='dimension' type='nominal' />
+      <column caption='Product Category' datatype='string' name='[product_category]' role='dimension' type='nominal' />
+      <column caption='Produkt Sku' datatype='string' name='[produkt_sku]' role='dimension' type='nominal' />
+      <column caption='Profit Margin 5Pct' datatype='string' name='[profit_margin_5pct]' role='dimension' type='nominal' />
+      <column caption='Quantity' datatype='integer' name='[quantity]' role='measure' type='quantitative' />
+      <column caption='Recency' datatype='string' name='[recency]' role='dimension' type='nominal' />
+      <column caption='Segment Name' datatype='string' name='[segment_name]' role='dimension' type='nominal' />
+      <column caption='Tenure Months' datatype='integer' name='[tenure_months]' role='measure' type='quantitative' />
+      <column caption='Transaction Date' datatype='date' name='[transaction_date]' role='dimension' type='ordinal' />
+      <column caption='Transaction Day Of Month' datatype='string' name='[transaction_day_of_month]' role='dimension' type='nominal' />
+      <column caption='Transaction Day Of Week' datatype='string' name='[transaction_day_of_week]' role='dimension' type='nominal' />
+      <column caption='Transaction Id' datatype='integer' name='[transaction_id]' role='dimension' type='ordinal' />
+      <column caption='Transaction Month' datatype='string' name='[transaction_month]' role='dimension' type='nominal' />
+      <column caption='Transaction Month Str' datatype='string' name='[transaction_month_str]' role='dimension' type='nominal' />
+      <column caption='Transaction Year' datatype='string' name='[transaction_year]' role='dimension' type='nominal' />
+      <column caption='Type' datatype='string' name='[type]' role='dimension' type='nominal' />
+      <column caption='Worldwide Observance' datatype='boolean' name='[worldwide_observance]' role='dimension' type='nominal' />
+      <layout dim-ordering='alphabetic' measure-ordering='alphabetic' show-structure='true' />
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;Germany&quot;' />
+      </semantic-values>
+      <date-options start-of-week='monday' />
+      <object-graph>
+        <objects>
+          <object caption='GammaGammaModel.csv' id='GammaGammaModel.csv_4F23C064320D43CD8C82C901422A46AB'>
+            <properties context=''>
+              <relation connection='textscan.1vjmrg702164nb1efxr4b0109rqo' name='GammaGammaModel.csv' table='[GammaGammaModel#csv]' type='table'>
+                <columns character-set='UTF-8' header='yes' locale='de_DE'>
+                  <column datatype='integer' name='customer_id' ordinal='0' />
+                  <column datatype='string' name='frequency' ordinal='1' />
+                  <column datatype='string' name='recency' ordinal='2' />
+                  <column datatype='string' name='T' ordinal='3' />
+                  <column datatype='string' name='monetary_value' ordinal='4' />
+                  <column datatype='string' name='expected_purchases_180d' ordinal='5' />
+                  <column datatype='string' name='expected_avg_order_value' ordinal='6' />
+                  <column datatype='string' name='predicted_clv_180d' ordinal='7' />
+                  <column datatype='string' name='profit_margin_5pct' ordinal='8' />
+                  <column datatype='string' name='segment_name' ordinal='9' />
+                </columns>
+              </relation>
+            </properties>
+          </object>
+          <object caption='holiday_marks.csv' id='holiday_marks.csv_EDC14217E7894838A988B3870A6EFCD7'>
+            <properties context=''>
+              <relation connection='textscan.1vjmrg702164nb1efxr4b0109rqo' name='holiday_marks.csv' table='[holiday_marks#csv]' type='table'>
+                <columns character-set='UTF-8' header='yes' locale='de_DE'>
+                  <column datatype='date' name='date_iso' ordinal='0' />
+                  <column datatype='string' name='name' ordinal='1' />
+                  <column datatype='string' name='description' ordinal='2' />
+                  <column datatype='string' name='type' ordinal='3' />
+                  <column datatype='boolean' name='national_holiday' ordinal='4' />
+                  <column datatype='boolean' name='christian_holiday' ordinal='5' />
+                  <column datatype='boolean' name='muslim_holiday' ordinal='6' />
+                  <column datatype='boolean' name='worldwide_observance' ordinal='7' />
+                </columns>
+              </relation>
+            </properties>
+          </object>
+          <object caption='mart_all_data.csv' id='mart_all_data.csv_8DF428A98E9A4145BCE91A43A52CDE0E'>
+            <properties context=''>
+              <relation connection='textscan.1vjmrg702164nb1efxr4b0109rqo' name='mart_all_data.csv' table='[mart_all_data#csv]' type='table'>
+                <columns character-set='UTF-8' header='yes' locale='de_DE'>
+                  <column datatype='integer' name='customer_id' ordinal='0' />
+                  <column datatype='string' name='customer_gender' ordinal='1' />
+                  <column datatype='string' name='customer_location' ordinal='2' />
+                  <column datatype='integer' name='customer_tenure_months' ordinal='3' />
+                  <column datatype='integer' name='transaction_id' ordinal='4' />
+                  <column datatype='date' name='transaction_date' ordinal='5' />
+                  <column datatype='string' name='produkt_sku' ordinal='6' />
+                  <column datatype='string' name='product_category' ordinal='7' />
+                  <column datatype='integer' name='quantity' ordinal='8' />
+                  <column datatype='string' name='avg_price' ordinal='9' />
+                  <column datatype='string' name='delivery_charges' ordinal='10' />
+                  <column datatype='string' name='coupon_status' ordinal='11' />
+                  <column datatype='integer' name='discount_pct' ordinal='12' />
+                  <column datatype='string' name='gst_onsale' ordinal='13' />
+                  <column datatype='integer' name='offline_spend_that_day' ordinal='14' />
+                  <column datatype='string' name='online_spend_that_day' ordinal='15' />
+                  <column datatype='string' name='transaction_year' ordinal='16' />
+                  <column datatype='string' name='transaction_month' ordinal='17' />
+                  <column datatype='string' name='transaction_month_str' ordinal='18' />
+                  <column datatype='string' name='transaction_day_of_month' ordinal='19' />
+                  <column datatype='string' name='transaction_day_of_week' ordinal='20' />
+                </columns>
+              </relation>
+            </properties>
+          </object>
+          <object caption='mart_customers.csv' id='mart_customers.csv_715FD4659B28419EAAB25A73A747F7F2'>
+            <properties context=''>
+              <relation connection='textscan.1vjmrg702164nb1efxr4b0109rqo' name='mart_customers.csv' table='[mart_customers#csv]' type='table'>
+                <columns character-set='UTF-8' header='yes' locale='de_DE'>
+                  <column datatype='integer' name='customer_id' ordinal='0' />
+                  <column datatype='string' name='gender' ordinal='1' />
+                  <column datatype='string' name='location' ordinal='2' />
+                  <column datatype='integer' name='tenure_months' ordinal='3' />
+                </columns>
+              </relation>
+            </properties>
+          </object>
+        </objects>
+        <relationships>
+          <relationship>
+            <expression op='='>
+              <expression op='[customer_id]' />
+              <expression op='[customer_id (GammaGammaModel.csv)]' />
+            </expression>
+            <first-end-point object-id='mart_customers.csv_715FD4659B28419EAAB25A73A747F7F2' />
+            <second-end-point object-id='GammaGammaModel.csv_4F23C064320D43CD8C82C901422A46AB' />
+          </relationship>
+          <relationship>
+            <expression op='='>
+              <expression op='[transaction_date]' />
+              <expression op='[date_iso]' />
+            </expression>
+            <first-end-point object-id='mart_all_data.csv_8DF428A98E9A4145BCE91A43A52CDE0E' />
+            <second-end-point object-id='holiday_marks.csv_EDC14217E7894838A988B3870A6EFCD7' />
+          </relationship>
+          <relationship>
+            <expression op='='>
+              <expression op='[customer_id (mart_all_data.csv)]' />
+              <expression op='[customer_id]' />
+            </expression>
+            <first-end-point object-id='mart_all_data.csv_8DF428A98E9A4145BCE91A43A52CDE0E' />
+            <second-end-point object-id='mart_customers.csv_715FD4659B28419EAAB25A73A747F7F2' />
+          </relationship>
+        </relationships>
+      </object-graph>
+    </datasource>
+  </datasources>
+  <worksheets>
+    <worksheet name='Sheet 1'>
+      <table>
+        <view>
+          <datasources />
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+          </pane>
+        </panes>
+        <rows />
+        <cols />
+      </table>
+      <simple-id uuid='{3EE03F0B-ABFF-46D4-8A4C-D7F619CD3A5A}' />
+    </worksheet>
+  </worksheets>
+  <windows source-height='30'>
+    <window class='worksheet' maximized='true' name='Sheet 1'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{D6E85871-7027-497B-8D7F-F57312DB694A}' />
+    </window>
+  </windows>
+  <thumbnails>
+    <thumbnail height='192' name='Sheet 1' width='192'>
+      iVBORw0KGgoAAAANSUhEUgAAAMAAAADACAYAAABS3GwHAAAACXBIWXMAAA7DAAAOwwHHb6hk
+      AAACFUlEQVR4nO3TMQEAIAzAMMC/5yFjRxMFfXpnZg5Eve0A2GQA0gxAmgFIMwBpBiDNAKQZ
+      gDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFI
+      MwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQD
+      kGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBp
+      BiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA
+      0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDN
+      AKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxA
+      mgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZ
+      gDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFI
+      MwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKR9Y+0F
+      fBUOM1sAAAAASUVORK5CYII=
+    </thumbnail>
+  </thumbnails>
+</workbook>
