@@ -1,0 +1,1469 @@
+"customer_id","gender","location","tenure_months"
+"17,850",M,Illinois,12
+"13,047",M,California,43
+"12,583",M,Illinois,33
+"13,748",F,California,30
+"15,100",M,California,49
+"15,291",M,California,32
+"14,688",F,New York,46
+"17,809",F,New Jersey,24
+"15,311",F,Illinois,40
+"14,527",M,California,43
+"16,098",M,Illinois,49
+"18,074",F,California,10
+"17,420",F,New York,19
+"16,029",F,Washington DC,40
+"16,250",F,California,30
+"12,431",F,New Jersey,14
+"17,511",F,Illinois,25
+"17,548",M,Illinois,50
+"13,705",F,Illinois,39
+"13,747",F,Illinois,21
+"13,408",M,Illinois,30
+"13,767",F,Illinois,29
+"17,924",M,New Jersey,26
+"13,448",F,California,41
+"15,862",F,California,24
+"15,513",F,Illinois,21
+"12,791",F,Washington DC,26
+"16,218",M,Illinois,40
+"14,045",F,California,14
+"14,307",F,California,28
+"17,908",F,California,15
+"17,920",F,California,18
+"12,838",F,California,31
+"13,255",M,California,15
+"16,583",F,California,27
+"18,085",M,Illinois,34
+"13,758",M,Washington DC,46
+"13,694",F,California,44
+"15,983",M,New York,25
+"14,849",F,New Jersey,45
+"17,968",M,New York,33
+"16,210",M,New York,49
+"17,897",M,Washington DC,19
+"17,377",M,Illinois,34
+"16,552",F,California,27
+"17,181",F,New York,49
+"17,951",F,Illinois,36
+"14,729",M,Washington DC,43
+"12,748",F,Illinois,28
+"15,012",F,California,42
+"12,868",F,California,8
+"17,572",F,Illinois,49
+"14,078",F,New York,7
+"14,001",F,New York,10
+"12,662",M,Illinois,21
+"15,525",M,New York,48
+"14,237",F,Illinois,39
+"17,905",M,New York,42
+"15,485",M,New York,25
+"12,433",M,California,32
+"16,955",F,New York,15
+"15,350",M,California,48
+"15,605",F,California,21
+"18,144",F,California,26
+"15,922",M,Illinois,29
+"14,594",M,California,5
+"15,165",F,New Jersey,36
+"14,911",F,California,34
+"16,456",M,California,47
+"17,841",M,California,21
+"12,472",F,New Jersey,2
+"17,346",F,New Jersey,12
+"17,643",F,California,33
+"17,873",M,California,26
+"13,093",M,California,35
+"12,921",M,New York,49
+"13,468",M,New York,33
+"17,760",F,New Jersey,45
+"16,928",F,California,19
+"16,048",M,New Jersey,12
+"16,274",F,California,43
+"14,496",F,California,47
+"14,696",M,New York,48
+"16,539",M,California,2
+"17,025",F,Illinois,45
+"13,777",F,California,7
+"17,690",F,Illinois,6
+"12,947",M,California,48
+"17,460",F,California,35
+"18,229",M,New York,16
+"14,142",F,Illinois,21
+"17,069",F,California,10
+"13,065",F,Illinois,32
+"14,606",F,Illinois,33
+"16,835",M,Illinois,11
+"15,235",F,New Jersey,23
+"13,576",M,New York,23
+"18,011",M,California,7
+"13,090",M,New Jersey,4
+"15,694",F,New York,41
+"14,741",M,California,32
+"13,715",M,California,23
+"14,092",F,Illinois,41
+"17,732",F,Illinois,8
+"12,855",F,New York,33
+"15,752",F,New York,27
+"17,855",F,New York,13
+"14,047",F,California,10
+"17,925",M,New York,12
+"13,941",F,New York,38
+"17,017",M,California,40
+"14,135",F,Illinois,21
+"13,108",F,Illinois,45
+"12,471",F,California,11
+"15,601",F,Illinois,46
+"13,418",F,New York,22
+"14,766",M,New York,24
+"15,658",M,Illinois,24
+"14,388",F,California,6
+"14,901",F,Illinois,4
+"18,041",M,Washington DC,30
+"15,955",F,California,49
+"15,070",F,Washington DC,39
+"16,244",F,New York,36
+"15,111",M,New Jersey,9
+"14,390",M,Illinois,37
+"16,546",F,California,42
+"15,260",F,Illinois,45
+"13,305",F,Illinois,38
+"14,491",F,California,6
+"14,060",F,Illinois,22
+"15,923",F,Illinois,34
+"16,752",M,New York,42
+"17,287",F,Washington DC,45
+"15,363",M,New York,32
+"12,915",F,Washington DC,3
+"15,544",M,Illinois,22
+"15,738",M,New Jersey,16
+"16,042",F,Illinois,16
+"17,381",M,New Jersey,17
+"15,827",F,Illinois,3
+"14,180",F,California,11
+"13,117",M,New Jersey,30
+"16,916",F,New York,7
+"17,964",M,New Jersey,5
+"14,466",F,Illinois,18
+"17,235",M,California,12
+"16,510",F,California,39
+"17,802",F,California,13
+"15,107",F,New York,20
+"17,976",M,Washington DC,12
+"14,449",M,New Jersey,39
+"15,838",F,Illinois,9
+"16,781",F,New York,38
+"17,547",M,Illinois,41
+"13,491",F,Illinois,16
+"16,186",F,New York,18
+"17,685",M,Washington DC,37
+"17,581",M,California,25
+"15,732",F,Illinois,21
+"13,138",F,California,21
+"15,823",M,New York,27
+"17,567",F,California,9
+"15,061",M,California,7
+"16,203",M,California,9
+"15,640",F,California,30
+"15,574",F,New York,5
+"16,770",F,Illinois,26
+"17,838",F,California,14
+"17,228",M,Illinois,42
+"14,829",M,California,15
+"17,412",F,California,19
+"14,031",F,Illinois,17
+"14,775",F,Illinois,25
+"12,971",F,Washington DC,43
+"15,834",M,Illinois,12
+"17,659",F,California,33
+"15,299",M,Illinois,25
+"15,646",M,California,10
+"13,958",F,New Jersey,22
+"14,443",F,New Jersey,41
+"14,156",F,California,5
+"16,995",F,California,50
+"13,402",M,Illinois,42
+"18,168",F,Illinois,5
+"17,757",F,New York,45
+"14,625",F,Illinois,14
+"13,011",F,New York,18
+"13,798",M,California,37
+"15,384",M,California,30
+"14,264",M,Illinois,16
+"13,295",F,New York,33
+"16,754",F,New Jersey,5
+"16,634",F,New York,33
+"18,239",M,New York,20
+"14,576",F,Illinois,26
+"13,145",F,California,4
+"14,395",M,New Jersey,4
+"14,865",F,New Jersey,8
+"15,093",M,California,46
+"12,738",M,New York,42
+"16,150",F,Washington DC,34
+"17,552",F,New York,44
+"14,236",F,Illinois,18
+"17,961",F,California,10
+"14,573",M,California,40
+"17,135",F,California,45
+"17,396",F,California,13
+"14,213",F,California,25
+"12,967",F,New York,34
+"12,686",M,Illinois,30
+"14,679",M,California,26
+"15,240",M,New York,40
+"18,225",F,New Jersey,28
+"13,370",M,Washington DC,41
+"16,883",F,Washington DC,37
+"13,520",F,Illinois,19
+"12,841",F,California,19
+"16,905",F,New York,33
+"12,427",F,New York,37
+"17,967",F,Illinois,6
+"16,891",M,Illinois,12
+"14,589",F,New York,48
+"14,680",F,California,37
+"17,884",F,Illinois,37
+"12,557",M,New York,50
+"14,083",M,Illinois,41
+"13,013",M,Illinois,13
+"14,210",F,New York,18
+"16,477",F,Washington DC,50
+"12,600",M,New York,39
+"16,013",M,New York,31
+"17,949",F,New Jersey,15
+"12,779",F,California,28
+"16,926",M,California,48
+"17,787",M,California,8
+"12,682",F,Illinois,33
+"14,723",M,Illinois,4
+"17,954",F,New York,22
+"17,819",M,Illinois,13
+"12,712",M,Illinois,37
+"15,373",M,Washington DC,24
+"16,140",F,California,34
+"17,198",F,New York,18
+"17,238",F,Illinois,20
+"12,793",F,Illinois,39
+"15,769",F,Illinois,25
+"14,396",M,New Jersey,9
+"14,898",F,California,25
+"12,725",F,New Jersey,48
+"16,725",F,Illinois,48
+"12,395",F,New Jersey,10
+"16,455",F,Illinois,23
+"13,081",F,New York,5
+"15,545",F,California,39
+"17,243",M,Illinois,9
+"15,465",F,Illinois,14
+"15,708",F,Illinois,49
+"13,089",F,New Jersey,25
+"16,033",F,Illinois,48
+"13,838",F,California,5
+"15,351",F,Washington DC,29
+"18,055",F,Washington DC,18
+"15,038",F,California,37
+"18,109",F,New York,9
+"13,069",F,New York,38
+"16,241",M,New York,34
+"14,800",M,Illinois,21
+"16,839",F,New York,10
+"16,168",M,Washington DC,24
+"16,931",F,New Jersey,37
+"16,814",M,California,22
+"13,269",F,California,41
+"14,813",F,New York,32
+"12,567",F,Washington DC,23
+"17,062",M,Illinois,44
+"15,332",F,California,30
+"14,810",M,California,21
+"16,353",M,Washington DC,6
+"18,118",M,Illinois,24
+"13,831",F,California,35
+"13,506",M,New Jersey,30
+"17,796",F,Washington DC,5
+"15,716",F,Illinois,2
+"18,156",F,California,26
+"15,221",F,California,7
+"16,983",F,New York,21
+"17,059",M,California,24
+"16,327",M,California,44
+"17,211",F,Illinois,29
+"17,026",M,California,23
+"15,570",F,New Jersey,34
+"15,880",F,New York,33
+"16,718",F,California,39
+"15,808",F,California,6
+"17,858",M,Illinois,34
+"16,393",F,Illinois,20
+"14,161",F,Illinois,41
+"17,863",F,Illinois,50
+"16,411",F,Illinois,40
+"16,402",M,Illinois,31
+"15,023",F,Illinois,40
+"17,402",F,California,37
+"15,426",F,Illinois,17
+"12,647",M,New York,28
+"15,894",M,Illinois,44
+"15,867",M,New York,11
+"14,506",F,California,34
+"15,555",F,Illinois,34
+"13,034",F,Illinois,40
+"15,889",F,California,21
+"15,953",M,New Jersey,23
+"16,143",F,California,9
+"12,720",F,Illinois,20
+"16,422",F,California,35
+"12,747",F,Illinois,9
+"15,502",F,New York,27
+"12,763",F,California,48
+"14,081",F,California,49
+"17,965",F,Illinois,7
+"14,404",M,Illinois,32
+"13,579",F,New York,49
+"13,174",M,Illinois,25
+"15,987",F,California,32
+"17,677",M,New York,3
+"13,652",F,Washington DC,35
+"12,586",M,California,3
+"17,428",F,California,14
+"16,161",M,New York,10
+"16,858",F,Illinois,47
+"18,219",F,New York,32
+"14,293",F,California,18
+"14,748",F,Illinois,31
+"16,638",F,New York,34
+"17,674",M,Illinois,2
+"12,808",M,California,32
+"13,094",M,Washington DC,10
+"15,899",F,Washington DC,24
+"12,708",F,California,25
+"15,898",M,Illinois,27
+"17,691",F,Illinois,48
+"17,227",F,New Jersey,19
+"15,039",F,Illinois,19
+"15,919",F,Washington DC,24
+"13,497",F,New York,22
+"15,860",F,New York,46
+"14,189",F,New York,7
+"15,304",M,California,12
+"14,867",F,Illinois,50
+"14,344",F,New York,15
+"12,474",F,New York,17
+"16,719",F,New York,40
+"15,048",M,California,17
+"15,301",F,New Jersey,19
+"14,708",F,Illinois,16
+"16,898",M,Illinois,40
+"14,825",F,California,34
+"18,113",M,New York,3
+"17,596",F,California,38
+"15,078",F,New York,6
+"14,085",F,New York,5
+"17,860",F,New Jersey,49
+"13,155",F,California,8
+"15,028",F,California,8
+"16,919",F,New York,10
+"17,259",M,Illinois,8
+"17,019",M,New York,25
+"14,487",F,Illinois,41
+"16,722",F,New Jersey,45
+"15,882",F,New York,45
+"14,667",F,California,30
+"16,710",F,New York,30
+"16,550",F,New York,34
+"15,984",F,California,25
+"17,682",M,Illinois,39
+"16,658",F,Illinois,40
+"17,068",F,Washington DC,31
+"15,356",F,California,32
+"17,223",F,California,10
+"16,817",M,California,20
+"13,030",M,California,39
+"17,191",M,Illinois,13
+"15,194",M,Illinois,33
+"14,409",M,New York,15
+"16,654",F,California,15
+"16,861",F,New York,41
+"16,138",F,California,20
+"13,481",M,Illinois,6
+"13,495",M,New York,25
+"17,519",F,New Jersey,46
+"17,218",F,Illinois,31
+"17,812",M,Illinois,20
+"14,215",F,New York,29
+"15,602",F,New Jersey,10
+"17,320",F,California,40
+"16,782",F,New York,45
+"12,913",F,New York,21
+"17,869",M,California,50
+"13,564",M,California,26
+"14,850",F,California,21
+"15,021",F,Illinois,35
+"13,963",F,Illinois,40
+"17,450",F,California,17
+"17,091",F,California,37
+"17,470",F,California,48
+"17,616",F,New York,6
+"15,649",M,California,22
+"12,681",M,Illinois,27
+"14,907",M,Illinois,46
+"17,735",M,New Jersey,49
+"16,059",M,Illinois,44
+"17,720",F,Illinois,28
+"15,018",F,California,22
+"14,733",M,New York,30
+"13,756",F,California,6
+"14,176",F,New York,13
+"13,319",F,Illinois,27
+"15,353",F,California,46
+"18,119",F,California,20
+"17,491",F,New Jersey,31
+"14,282",F,New Jersey,37
+"13,569",M,Illinois,14
+"15,498",F,New York,14
+"14,673",M,New York,9
+"13,488",F,California,22
+"16,221",F,California,9
+"15,002",M,Illinois,41
+"15,965",F,Illinois,26
+"15,024",F,New York,9
+"17,675",F,New York,17
+"13,769",F,New York,20
+"16,904",F,California,17
+"16,086",F,New York,47
+"13,786",M,Illinois,21
+"13,880",F,New York,40
+"13,173",F,California,8
+"15,858",F,California,18
+"15,180",F,California,41
+"12,347",M,New York,20
+"14,739",F,New York,27
+"16,293",M,Illinois,13
+"17,419",F,New York,48
+"16,775",F,Illinois,19
+"16,306",M,New York,13
+"16,950",F,Illinois,26
+"17,591",F,New York,25
+"12,839",F,California,45
+"13,807",F,Illinois,33
+"16,125",M,California,22
+"15,081",M,Illinois,24
+"18,102",F,Illinois,48
+"16,365",F,California,49
+"17,870",M,New Jersey,40
+"14,821",M,Illinois,41
+"16,863",F,Illinois,22
+"13,078",F,California,28
+"13,267",M,California,46
+"13,050",F,Illinois,10
+"12,709",M,Washington DC,36
+"15,628",F,California,4
+"12,386",M,California,38
+"14,796",F,Illinois,3
+"16,779",M,Washington DC,11
+"13,599",F,California,46
+"13,329",M,Illinois,2
+"18,077",M,Illinois,34
+"14,744",F,California,31
+"17,406",F,Illinois,3
+"15,750",F,California,7
+"13,983",M,California,30
+"13,842",F,New York,5
+"12,441",F,Illinois,39
+"13,199",M,California,47
+"14,032",M,New York,50
+"17,706",M,New Jersey,29
+"16,081",M,New York,14
+"16,525",F,California,47
+"14,952",F,New York,28
+"17,975",M,Illinois,6
+"16,122",M,California,43
+"13,126",F,Washington DC,37
+"15,973",M,Illinois,9
+"16,558",M,California,35
+"16,713",M,Illinois,5
+"16,893",F,New York,50
+"15,529",M,California,16
+"18,043",F,New York,18
+"16,016",M,California,19
+"17,722",F,Illinois,12
+"17,324",M,New Jersey,49
+"17,341",F,New York,13
+"14,051",M,Illinois,6
+"15,916",F,Illinois,37
+"16,233",F,New York,23
+"16,385",M,California,19
+"15,032",F,California,4
+"17,213",M,Illinois,25
+"18,061",M,Washington DC,4
+"13,113",M,New Jersey,44
+"16,553",M,Illinois,39
+"13,455",F,New York,38
+"14,217",F,New York,10
+"17,262",F,California,22
+"14,299",F,Washington DC,18
+"18,259",F,California,5
+"17,676",M,New York,15
+"16,679",M,New York,28
+"18,269",M,Illinois,25
+"12,766",F,Illinois,22
+"15,298",F,Illinois,2
+"18,193",F,California,31
+"13,523",F,Illinois,13
+"12,870",F,California,28
+"15,005",F,New York,30
+"15,581",F,California,18
+"15,680",M,California,32
+"13,649",F,California,34
+"17,894",F,California,37
+"13,270",M,Illinois,7
+"14,618",M,Illinois,13
+"14,866",F,Illinois,43
+"13,077",F,New York,45
+"13,115",F,Illinois,26
+"13,531",F,New Jersey,48
+"13,848",M,New York,35
+"13,140",M,New York,34
+"15,713",M,California,3
+"17,999",F,New Jersey,30
+"15,347",M,California,48
+"17,340",F,California,36
+"13,984",F,New York,34
+"15,996",F,Illinois,26
+"14,030",F,California,5
+"16,252",F,Illinois,37
+"16,596",F,New York,18
+"16,700",M,New York,7
+"16,011",M,New Jersey,10
+"17,655",F,New York,2
+"16,717",F,New York,42
+"14,243",M,New York,46
+"12,963",M,New York,9
+"15,079",F,California,45
+"14,437",F,New York,3
+"12,942",F,New Jersey,4
+"15,660",M,New Jersey,13
+"18,092",M,California,34
+"15,358",F,New Jersey,35
+"12,481",F,California,49
+"12,721",F,California,5
+"12,621",M,California,44
+"18,071",M,Illinois,24
+"12,683",M,Illinois,15
+"12,755",F,Illinois,37
+"13,854",F,Illinois,44
+"12,797",M,California,34
+"13,369",F,New York,24
+"12,494",F,California,28
+"17,857",M,Illinois,47
+"17,411",F,Illinois,16
+"14,932",M,New Jersey,35
+"12,429",F,New Jersey,43
+"14,987",F,California,3
+"14,355",F,New York,7
+"17,526",M,California,22
+"14,896",F,Washington DC,40
+"14,440",F,New Jersey,10
+"13,240",F,California,24
+"14,479",F,California,17
+"16,065",F,New York,41
+"17,430",F,Illinois,36
+"16,520",F,Washington DC,37
+"15,945",F,New York,13
+"15,181",F,New Jersey,20
+"15,856",M,Illinois,4
+"13,102",F,New York,10
+"14,205",M,Illinois,26
+"17,702",F,Illinois,28
+"15,271",F,Illinois,37
+"13,982",F,Illinois,13
+"15,288",M,California,50
+"17,978",F,Illinois,15
+"16,795",F,California,20
+"16,519",F,Illinois,45
+"17,816",F,Illinois,29
+"13,021",M,Illinois,29
+"16,255",M,Illinois,7
+"17,671",F,New York,34
+"17,646",M,New Jersey,13
+"12,649",M,Illinois,33
+"16,350",F,Illinois,31
+"12,872",M,New Jersey,20
+"17,339",F,California,21
+"18,230",F,California,36
+"16,499",F,Illinois,31
+"17,097",M,California,33
+"15,192",F,Illinois,37
+"14,441",M,New Jersey,19
+"15,279",M,California,10
+"16,579",M,California,50
+"15,380",M,California,9
+"17,442",M,California,34
+"17,950",F,New York,39
+"12,826",M,California,33
+"17,456",F,New Jersey,34
+"17,307",F,New York,17
+"15,811",F,Illinois,27
+"13,327",F,Illinois,14
+"17,700",F,New York,21
+"13,136",F,California,48
+"15,535",F,Illinois,24
+"12,605",F,New York,37
+"15,329",F,California,48
+"15,211",M,California,40
+"15,596",F,California,39
+"16,163",F,Illinois,22
+"16,907",F,California,16
+"17,576",F,California,23
+"14,713",F,Illinois,42
+"14,702",F,New York,50
+"13,230",M,California,30
+"13,969",F,New York,15
+"17,530",F,Illinois,28
+"15,805",M,Illinois,33
+"17,696",F,California,2
+"17,076",M,New York,46
+"17,827",M,California,32
+"16,265",M,California,38
+"17,880",M,California,12
+"13,000",M,New Jersey,32
+"17,790",F,Washington DC,34
+"12,731",F,California,28
+"14,419",M,New York,20
+"14,082",F,New York,31
+"17,912",M,New Jersey,7
+"15,723",F,Washington DC,4
+"16,656",F,Illinois,46
+"14,037",M,California,24
+"14,256",F,Illinois,7
+"14,543",M,Illinois,11
+"16,062",F,New York,20
+"18,116",F,Illinois,38
+"16,019",F,California,34
+"18,178",F,New York,33
+"18,065",F,Illinois,47
+"13,148",M,New York,16
+"12,989",F,California,5
+"14,107",M,Illinois,11
+"15,881",M,New York,34
+"12,785",F,New Jersey,36
+"16,727",F,California,11
+"15,514",M,Illinois,22
+"13,787",F,New Jersey,35
+"17,865",M,Illinois,12
+"17,220",F,New York,19
+"16,565",F,Illinois,2
+"16,873",M,California,6
+"14,062",F,California,18
+"15,179",F,Illinois,19
+"18,016",F,Illinois,16
+"14,448",F,California,42
+"15,503",F,New York,45
+"17,251",M,California,46
+"16,923",F,New York,23
+"14,159",F,California,13
+"17,126",F,Illinois,32
+"15,224",F,Illinois,28
+"14,577",M,California,36
+"12,753",F,New York,13
+"17,236",F,California,28
+"17,372",F,New York,4
+"16,367",M,California,20
+"12,875",F,New Jersey,24
+"17,917",F,California,40
+"16,010",M,California,5
+"17,085",F,California,19
+"13,668",F,Illinois,15
+"14,684",F,Illinois,4
+"17,188",M,Illinois,8
+"15,547",M,New York,40
+"15,998",F,New York,16
+"14,413",F,Illinois,34
+"18,004",F,Illinois,30
+"13,959",M,California,38
+"16,665",F,Illinois,31
+"15,454",M,Illinois,39
+"15,044",F,California,31
+"17,937",M,New York,38
+"14,608",F,California,48
+"17,618",F,Illinois,17
+"14,505",F,California,8
+"18,037",M,New Jersey,46
+"13,198",M,California,50
+"12,540",F,Illinois,25
+"13,225",F,New York,50
+"15,361",M,New York,2
+"15,689",M,California,16
+"14,290",F,New York,17
+"13,209",F,California,18
+"13,999",F,Illinois,48
+"14,498",F,Illinois,25
+"15,854",M,New York,44
+"16,701",F,Washington DC,14
+"16,927",F,Illinois,45
+"17,990",F,New York,20
+"14,544",M,California,6
+"17,338",F,New Jersey,40
+"17,231",F,California,5
+"17,799",F,Illinois,14
+"14,565",F,California,39
+"16,726",F,California,19
+"17,303",F,Illinois,39
+"14,639",M,Illinois,46
+"17,611",M,New York,26
+"17,179",F,New Jersey,31
+"17,524",F,California,4
+"12,476",M,Illinois,14
+"17,293",M,Illinois,16
+"17,890",F,Illinois,27
+"17,375",M,New Jersey,21
+"17,371",M,New Jersey,24
+"17,969",F,California,11
+"15,159",F,Illinois,29
+"13,211",F,Illinois,33
+"15,777",F,Illinois,24
+"14,525",F,New Jersey,48
+"13,324",F,Illinois,24
+"13,802",F,New Jersey,40
+"13,948",F,Illinois,9
+"13,008",F,Illinois,48
+"14,206",F,Illinois,24
+"16,202",F,New York,44
+"16,442",F,New York,46
+"18,075",F,New York,12
+"15,468",F,Illinois,23
+"16,570",M,New York,15
+"14,524",F,New York,15
+"18,141",M,California,28
+"12,434",F,Illinois,32
+"16,810",F,New York,12
+"14,961",M,Washington DC,34
+"17,041",F,New York,15
+"16,458",M,Illinois,12
+"16,083",M,California,21
+"16,262",M,California,11
+"17,194",F,New Jersey,19
+"14,057",M,New York,39
+"14,871",M,California,27
+"13,178",F,California,9
+"18,044",F,California,9
+"16,812",F,New York,40
+"16,191",M,Illinois,19
+"12,370",F,New York,21
+"14,298",M,Illinois,41
+"17,158",M,California,17
+"14,415",M,New Jersey,47
+"16,899",F,Illinois,36
+"16,531",M,New Jersey,28
+"17,404",F,New Jersey,11
+"16,556",F,New York,19
+"16,805",F,Illinois,15
+"16,503",F,Illinois,29
+"17,739",F,California,7
+"13,238",M,California,19
+"12,829",M,New Jersey,15
+"13,097",M,California,33
+"12,867",M,Illinois,32
+"15,392",M,California,50
+"13,846",F,New Jersey,4
+"14,401",F,California,20
+"16,145",F,California,9
+"17,629",F,New York,11
+"14,150",M,Illinois,48
+"13,496",F,New York,21
+"13,611",F,New York,5
+"16,954",F,California,6
+"17,454",M,New Jersey,15
+"17,449",F,Illinois,24
+"17,230",M,California,29
+"12,865",M,New Jersey,34
+"15,950",M,Illinois,44
+"15,512",F,California,42
+"17,525",M,New York,11
+"13,458",F,California,33
+"14,426",F,California,13
+"16,003",F,California,10
+"13,092",F,Washington DC,2
+"13,426",M,Illinois,38
+"15,101",F,New York,40
+"17,033",M,California,47
+"13,221",F,New York,35
+"14,201",F,California,12
+"17,692",F,New Jersey,11
+"15,822",F,Illinois,4
+"16,134",F,New York,5
+"17,551",M,Illinois,32
+"18,050",F,California,48
+"14,913",M,Washington DC,4
+"12,666",M,California,13
+"15,641",F,Illinois,6
+"13,124",M,New York,4
+"17,214",F,California,28
+"15,456",M,California,28
+"15,062",F,California,22
+"12,928",F,Illinois,21
+"15,727",F,Illinois,40
+"17,980",M,New York,47
+"15,290",F,New York,3
+"17,752",F,California,38
+"15,615",M,Washington DC,19
+"12,577",F,New Jersey,10
+"17,044",F,Washington DC,29
+"13,829",F,New York,38
+"17,633",F,Illinois,17
+"13,266",F,Washington DC,12
+"17,820",F,Illinois,35
+"15,664",M,New York,10
+"17,189",F,New York,42
+"17,496",F,Illinois,7
+"16,607",F,California,31
+"13,317",F,Illinois,17
+"13,890",F,New York,31
+"17,001",F,California,18
+"15,246",F,California,2
+"16,996",F,New York,13
+"15,482",F,New York,18
+"16,037",F,California,15
+"14,841",F,California,50
+"16,670",F,Illinois,48
+"16,985",F,Illinois,5
+"16,705",F,California,18
+"16,470",F,New York,13
+"14,414",F,New Jersey,7
+"15,563",F,Illinois,41
+"12,980",M,California,23
+"16,746",M,New York,16
+"14,878",M,New York,12
+"16,743",F,California,9
+"17,146",M,California,5
+"12,877",F,New Jersey,23
+"15,394",F,New Jersey,38
+"14,621",F,New Jersey,41
+"15,379",F,California,10
+"14,309",F,New Jersey,49
+"17,288",M,California,3
+"14,709",M,New York,45
+"15,157",F,New Jersey,43
+"17,744",F,New York,42
+"16,316",F,Illinois,44
+"15,620",M,Illinois,48
+"15,789",F,Illinois,28
+"16,560",M,California,49
+"13,534",F,California,20
+"17,580",M,Illinois,30
+"14,777",M,Illinois,40
+"15,759",M,Washington DC,26
+"14,373",F,Illinois,40
+"18,176",M,New York,19
+"15,366",M,California,37
+"14,735",M,Illinois,46
+"16,271",M,New York,24
+"18,223",M,Washington DC,44
+"15,532",F,California,23
+"16,816",F,Illinois,31
+"16,684",M,California,43
+"14,334",M,California,41
+"16,945",F,Illinois,9
+"14,643",F,Washington DC,4
+"15,197",F,Illinois,45
+"14,220",F,California,19
+"13,874",F,California,39
+"18,260",M,New York,43
+"17,848",M,Illinois,25
+"17,392",M,Illinois,6
+"12,348",M,California,39
+"14,985",F,New York,4
+"13,004",F,California,37
+"14,560",M,Illinois,40
+"12,931",F,New York,44
+"13,627",F,Illinois,49
+"12,551",M,Illinois,41
+"12,782",F,Illinois,19
+"14,769",F,Illinois,26
+"15,780",M,California,19
+"12,417",F,California,37
+"17,315",F,New York,10
+"16,711",F,Illinois,34
+"12,726",M,Illinois,25
+"15,204",M,New Jersey,29
+"17,888",M,New York,37
+"17,007",F,Illinois,3
+"15,160",F,Illinois,30
+"14,016",M,California,41
+"13,033",M,California,50
+"12,691",F,California,7
+"13,869",F,New Jersey,6
+"14,146",M,California,29
+"12,705",F,New Jersey,45
+"16,885",M,New York,27
+"17,913",F,New York,29
+"12,668",F,California,32
+"14,472",F,Washington DC,10
+"17,358",F,Illinois,6
+"16,686",M,New York,31
+"18,245",F,Washington DC,5
+"17,343",M,New York,32
+"18,256",M,California,45
+"16,153",M,Illinois,29
+"12,377",F,California,27
+"14,646",M,California,45
+"12,944",F,California,43
+"15,312",F,Illinois,47
+"14,099",M,New York,32
+"14,113",M,Illinois,23
+"13,104",F,New York,20
+"17,204",F,Illinois,29
+"13,027",F,New York,15
+"17,621",M,California,25
+"17,090",F,New Jersey,23
+"14,119",M,California,8
+"15,527",F,New York,21
+"18,097",F,New York,6
+"15,460",F,New York,4
+"15,034",M,New York,2
+"12,423",M,New York,9
+"12,678",M,New York,27
+"15,208",M,Illinois,16
+"17,306",F,California,9
+"14,737",F,New Jersey,21
+"13,029",F,New York,35
+"16,270",F,Illinois,37
+"13,487",M,Washington DC,6
+"12,515",F,New York,28
+"17,400",F,California,45
+"17,593",F,New York,22
+"13,953",F,Illinois,16
+"14,533",F,Illinois,30
+"12,734",F,California,27
+"14,944",F,California,18
+"17,239",F,California,28
+"14,532",F,Illinois,44
+"12,383",M,New York,32
+"15,562",F,New York,26
+"15,587",M,Illinois,6
+"13,922",F,New Jersey,11
+"13,817",M,California,14
+"12,585",F,New Jersey,4
+"13,165",F,Illinois,31
+"13,304",M,California,12
+"13,313",M,California,42
+"16,875",F,California,3
+"16,282",F,California,20
+"12,957",F,Illinois,44
+"14,462",F,Illinois,42
+"13,397",M,California,40
+"13,680",M,Washington DC,34
+"12,483",F,New York,39
+"15,164",M,New York,28
+"17,457",F,Illinois,47
+"14,732",F,New York,33
+"14,221",F,New York,39
+"14,553",F,California,25
+"13,253",M,Illinois,38
+"17,389",F,New York,2
+"12,578",F,Illinois,8
+"15,841",M,New York,6
+"16,112",F,Illinois,16
+"13,629",F,New York,22
+"16,600",M,Illinois,32
+"15,661",F,California,24
+"16,532",F,New York,7
+"15,266",F,Illinois,22
+"14,653",M,California,2
+"16,771",M,Illinois,39
+"17,585",F,California,26
+"15,046",F,New Jersey,4
+"13,082",M,Illinois,45
+"15,464",F,Illinois,40
+"18,226",F,New Jersey,40
+"18,062",F,California,25
+"12,415",M,Illinois,29
+"12,503",F,Illinois,36
+"17,368",M,Illinois,8
+"14,258",F,California,31
+"15,719",F,Illinois,16
+"13,368",M,California,43
+"17,634",F,Illinois,32
+"16,676",F,New York,4
+"16,424",M,New Jersey,29
+"18,283",F,New Jersey,36
+"12,735",M,Washington DC,5
+"13,764",M,New York,14
+"13,656",M,Illinois,44
+"12,413",F,New Jersey,15
+"14,312",M,Illinois,27
+"13,280",F,California,43
+"15,845",M,Illinois,22
+"16,094",F,Illinois,16
+"13,187",F,Illinois,50
+"16,567",F,California,20
+"14,828",F,New York,25
+"12,530",M,California,29
+"16,551",F,California,10
+"16,889",F,Illinois,23
+"16,473",F,Illinois,36
+"13,750",M,New York,20
+"12,501",M,Illinois,8
+"15,607",F,Illinois,40
+"15,139",M,New Jersey,16
+"12,489",M,California,2
+"17,707",F,Illinois,4
+"18,198",F,Illinois,29
+"12,484",M,California,44
+"18,179",F,New York,6
+"17,284",F,New York,38
+"13,233",M,Illinois,30
+"14,889",M,Illinois,6
+"12,480",M,California,22
+"14,672",M,New York,8
+"13,593",M,California,28
+"13,162",F,New York,14
+"13,183",F,New York,42
+"17,095",M,California,35
+"12,939",F,Illinois,19
+"15,611",F,New York,4
+"17,114",M,California,19
+"15,059",F,Illinois,20
+"16,326",M,Washington DC,6
+"17,128",F,New York,47
+"14,761",F,California,17
+"17,555",F,Illinois,27
+"12,651",M,New York,44
+"16,735",M,New Jersey,42
+"16,833",F,California,46
+"17,800",F,Illinois,12
+"16,748",M,Illinois,41
+"14,755",F,New Jersey,50
+"16,549",F,New Jersey,17
+"13,565",F,New Jersey,8
+"15,799",M,New Jersey,31
+"18,032",F,Illinois,37
+"13,451",M,California,12
+"14,794",F,New York,31
+"12,539",M,Illinois,13
+"12,500",F,Washington DC,46
+"18,171",M,New York,21
+"16,279",F,Illinois,40
+"12,524",F,Washington DC,20
+"17,811",M,California,35
+"16,850",M,California,22
+"14,321",F,Washington DC,24
+"15,326",M,Illinois,45
+"17,849",M,California,8
+"13,672",F,New Jersey,45
+"14,229",M,Illinois,29
+"13,107",F,California,20
+"16,497",F,California,16
+"16,303",F,Illinois,12
+"15,281",F,California,36
+"12,736",F,New York,3
+"13,473",F,New York,5
+"14,320",F,Illinois,29
+"12,393",F,Illinois,39
+"17,742",F,Illinois,35
+"16,351",F,New York,20
+"12,601",F,California,10
+"13,144",M,California,38
+"15,346",F,California,15
+"15,370",F,New York,38
+"12,643",M,New York,48
+"14,295",F,Illinois,7
+"16,034",F,New York,26
+"17,365",F,New York,11
+"15,189",F,Washington DC,11
+"14,669",F,New York,39
+"18,095",F,Illinois,14
+"15,518",F,New Jersey,7
+"15,749",F,Illinois,44
+"14,209",F,California,29
+"15,569",M,California,32
+"12,728",F,California,5
+"17,569",F,California,41
+"13,784",M,New York,30
+"12,724",M,California,19
+"13,862",M,California,32
+"16,791",F,Illinois,7
+"16,235",M,California,34
+"14,270",M,New York,6
+"12,665",F,Illinois,10
+"12,523",F,Illinois,35
+"16,655",M,Illinois,40
+"16,359",F,New York,49
+"16,554",F,Illinois,4
+"12,359",M,New York,41
+"15,939",F,California,11
+"14,587",F,Illinois,30
+"14,715",F,New Jersey,2
+"14,185",F,California,19
+"12,437",F,New Jersey,50
+"14,040",F,New York,10
+"12,652",M,New York,21
+"14,514",F,Illinois,29
+"15,171",F,New Jersey,48
+"14,167",M,California,29
+"17,048",F,Illinois,39
+"17,364",M,New York,39
+"13,284",F,Illinois,14
+"16,500",M,New Jersey,6
+"12,951",F,New York,18
+"15,835",F,New York,46
+"18,190",M,California,8
+"13,993",M,Illinois,49
+"14,114",M,California,18
+"15,447",F,California,34
+"16,315",M,California,35
+"14,978",M,Illinois,36
+"16,395",M,Washington DC,18
+"15,510",F,New Jersey,15
+"13,614",M,Illinois,20
+"13,246",F,California,25
+"15,687",M,New York,20
+"16,493",F,California,37
+"12,490",F,New York,26
+"12,672",F,California,43
+"13,385",F,Illinois,26
+"15,626",F,New Jersey,8
+"12,553",F,Illinois,8
+"15,213",M,Washington DC,41
+"14,175",M,California,37
+"18,106",F,California,49
+"15,033",M,Illinois,10
+"14,329",F,California,22
+"16,401",M,Illinois,40
+"16,206",F,California,28
+"13,782",M,New Jersey,17
+"12,924",M,California,45
+"16,593",F,Illinois,4
+"13,700",M,Illinois,42
+"13,064",M,New Jersey,15
+"13,048",M,Illinois,45
+"18,069",F,Illinois,10
+"13,634",M,Illinois,21
+"16,843",M,New York,31
+"17,064",M,Illinois,7
+"17,609",M,New York,21
+"15,673",M,New York,24
+"12,626",F,California,30
+"14,976",M,New Jersey,17
+"12,388",M,Illinois,31
+"13,527",F,California,44
+"15,696",M,Illinois,12
+"15,316",F,California,28
+"12,673",M,California,4
+"15,296",M,California,40
+"17,988",F,Illinois,45
+"12,820",M,California,24
+"13,001",F,Illinois,45
+"14,101",M,California,25
+"14,238",M,New York,21
+"17,730",F,Illinois,30
+"13,929",F,Washington DC,21
+"14,657",M,Illinois,2
+"13,859",M,New York,45
+"18,212",F,California,37
+"14,292",M,New Jersey,22
+"13,883",M,California,36
+"18,233",F,New Jersey,2
+"17,018",M,Illinois,26
+"14,242",F,Illinois,26
+"12,356",F,Illinois,31
+"12,346",F,New York,31
+"13,898",F,New Jersey,23
+"16,948",F,Illinois,2
+"16,997",F,New Jersey,35
+"12,527",F,Illinois,25
+"15,395",M,Illinois,4
+"12,510",F,California,25
+"13,693",M,Illinois,3
+"13,263",M,New Jersey,16
+"14,428",F,Illinois,23
+"12,451",M,Washington DC,49
+"12,422",M,Illinois,50
+"17,708",M,New York,44
+"14,090",F,California,32
+"15,606",F,Washington DC,15
+"15,831",F,California,39
+"13,310",M,New Jersey,15
+"14,916",F,Illinois,42
+"17,602",M,Illinois,40
+"14,572",F,California,43
+"13,502",F,California,32
+"14,784",F,New Jersey,25
+"15,938",F,Illinois,34
+"12,637",F,California,13
+"17,418",M,Illinois,26
+"14,779",M,Illinois,17
+"16,321",M,New York,18
+"15,262",F,California,40
+"17,862",F,Illinois,17
+"16,892",M,Illinois,16
+"12,402",F,California,22
+"17,771",F,New York,33
+"15,422",M,California,6
+"14,770",M,New York,39
+"16,912",F,Washington DC,16
+"15,174",M,Illinois,34
+"14,895",M,California,42
+"12,594",F,California,13
+"17,504",F,Illinois,9
+"16,387",F,California,20
+"12,664",M,Illinois,14
+"16,618",F,New York,11
+"17,277",F,California,31
+"14,088",M,Washington DC,39
+"17,094",M,Illinois,35
+"14,692",F,California,16
+"12,970",F,California,2
+"17,889",F,New Jersey,40
+"17,644",F,Illinois,5
+"17,714",F,New York,6
+"12,916",F,New York,2
+"17,769",M,New York,32
+"14,450",F,New York,29
+"16,085",M,California,15
+"13,659",F,Illinois,8
+"15,167",M,California,2
+"15,443",M,Illinois,27
+"14,224",F,Illinois,3
+"13,742",F,California,6
+"17,673",F,Illinois,12
+"12,727",M,Illinois,6
+"14,068",M,California,32
+"13,068",F,California,47
+"14,368",F,New York,4
+"15,497",F,New Jersey,2
+"12,559",F,California,25
+"13,819",F,California,7
+"14,501",F,Illinois,20
+"14,782",M,California,12
+"17,861",F,Illinois,37
+"14,439",F,New York,48
+"18,161",F,California,47
+"15,820",F,New Jersey,8
+"18,136",M,Illinois,28
+"16,660",F,New Jersey,3
+"12,693",F,Illinois,4
+"12,625",M,New Jersey,26
+"13,396",M,Illinois,25
+"12,935",F,New York,23
+"16,730",F,Washington DC,9
+"14,541",F,California,24
+"13,551",F,Illinois,46
+"12,421",F,California,38
+"15,797",F,California,27
+"15,052",F,Illinois,33
+"14,130",F,New York,50
+"15,222",F,California,26
+"13,615",F,California,11
+"13,901",F,California,10
+"13,158",F,New York,47
+"14,257",F,Illinois,38
+"15,218",M,New York,11
+"15,110",F,New Jersey,8
+"14,534",M,California,14
+"15,967",F,New York,12
+"16,757",F,Illinois,22
+"12,854",M,New York,42
+"13,815",F,California,33
+"18,008",F,California,25
+"18,277",F,Illinois,47
+"14,389",M,Washington DC,38
+"13,703",F,Illinois,18
+"15,339",F,Illinois,47
+"12,744",M,New York,16
+"16,222",F,New York,45
+"14,341",F,Illinois,3
+"13,168",F,Illinois,24
+"16,943",M,Washington DC,34
+"17,515",F,California,44
+"17,082",F,California,30
+"14,248",M,Illinois,34
+"12,609",F,Illinois,3
+"13,002",F,Washington DC,44
+"16,133",F,New Jersey,22
+"13,049",M,New York,3
+"14,548",F,California,48
+"13,405",F,New York,7
+"14,049",M,Illinois,45
+"16,043",F,California,19
+"15,812",F,Illinois,32
+"13,837",F,California,5
+"17,118",F,New Jersey,49
+"14,616",F,New York,33
+"14,233",F,New Jersey,2
+"17,075",F,California,24
+"16,714",M,New Jersey,38
+"13,098",F,California,5
+"17,027",F,California,32
+"12,591",F,California,25
+"17,786",F,California,9
+"16,124",F,New York,34
+"16,409",F,Illinois,45
+"13,754",M,New York,7
+"15,227",M,Washington DC,42
+"12,997",F,California,45
+"15,215",F,California,15
+"16,918",M,Washington DC,47
+"16,882",M,Illinois,28
+"14,442",F,California,44
+"16,496",M,California,16
+"12,764",F,Illinois,25
+"17,311",F,California,6
+"15,910",F,California,8
+"16,949",M,New York,44
+"14,970",F,New York,46
+"14,701",M,Illinois,43
+"12,645",F,New Jersey,50
+"12,468",F,California,9
+"16,767",M,Washington DC,29
+"14,738",M,Illinois,13
+"17,540",F,New York,37
+"14,239",F,California,46
+"18,125",F,Illinois,3
+"13,328",M,Illinois,18
+"15,549",F,Illinois,5
+"15,864",F,California,17
+"14,662",M,California,36
+"17,180",F,Illinois,35
+"15,057",M,Illinois,12
+"12,574",F,California,48
+"13,330",F,New York,47
+"13,552",F,New York,50
+"12,853",M,New York,11
+"13,538",M,New York,32
+"16,755",F,California,33
+"14,133",F,Illinois,32
+"16,523",M,New York,6
+"14,659",F,New York,42
+"13,141",F,Illinois,25
+"15,365",M,Illinois,30
+"13,707",F,Illinois,28
+"13,709",F,New York,22
+"17,329",F,Illinois,9
+"14,805",M,New York,20
+"16,897",M,New Jersey,49
+"15,579",F,California,21
+"14,595",F,New York,33
+"13,161",F,Illinois,4
+"15,415",M,Illinois,27
+"17,431",M,Illinois,7
+"17,463",F,New York,27
+"14,502",M,Illinois,22
+"12,528",F,New York,43
+"15,448",M,New York,24
+"17,314",M,Washington DC,24
+"17,373",M,New Jersey,11
+"18,145",F,Illinois,36
+"14,467",F,Illinois,34
+"12,908",M,Washington DC,32
+"15,144",F,Illinois,35
+"14,776",F,New York,42
+"16,403",F,California,26
+"16,407",M,California,48
+"17,619",F,New York,30
+"12,778",F,Illinois,42
+"17,256",F,New York,43
+"17,604",F,California,28
+"14,006",F,New Jersey,3
+"13,600",F,California,13
+"15,058",M,New Jersey,8
+"17,147",F,Illinois,24
+"13,881",F,Illinois,22
+"16,612",F,California,17
+"14,627",F,Illinois,46
+"17,356",F,Illinois,8
+"12,477",F,California,10
+"12,836",M,Illinois,6
+"13,939",M,Illinois,36
+"16,745",F,New York,29
+"13,606",F,California,28
+"13,494",M,California,33
+"12,929",F,Illinois,26
+"16,419",F,California,50
+"17,035",F,New York,10
+"15,203",M,California,19
+"16,515",F,New Jersey,19
+"12,373",F,New York,23
+"18,202",F,New Jersey,18
+"12,775",M,California,21
+"14,549",F,Illinois,22
+"15,981",F,California,13
+"16,110",M,Illinois,29
+"17,376",F,New Jersey,34
+"13,110",F,New York,36
+"16,716",F,California,44
+"12,676",F,California,38
+"15,940",F,California,32
+"15,971",F,Illinois,39
+"14,665",F,Illinois,4
+"14,457",F,New Jersey,4
+"15,589",F,California,11
+"14,411",F,New York,17
+"17,560",F,California,19
+"15,226",F,Illinois,37
+"14,460",F,California,38
+"16,156",F,New York,24
+"13,728",F,New York,2
+"14,127",F,Illinois,17
+"16,378",F,Illinois,4
+"13,894",F,New York,16
+"13,824",M,Illinois,42
+"18,250",M,Illinois,15
+"15,270",F,Illinois,36
+"14,188",F,California,50
+"18,017",M,Illinois,37
+"15,421",F,California,49
+"17,446",F,New York,42
+"12,414",M,New York,43
+"14,798",F,California,37
+"12,990",F,California,47
+"12,350",M,California,25
+"16,992",F,California,7
+"17,337",F,California,44
+"16,405",F,California,20
+"17,071",F,Illinois,15
+"13,873",M,Illinois,24
+"17,362",F,California,46
+"13,394",M,Washington DC,6
+"12,502",F,California,23
+"16,333",F,New York,41
+"16,030",F,New York,50
+"14,044",M,California,49
+"13,800",F,California,27
+"17,672",M,California,39
+"12,464",M,New York,26
+"13,581",F,California,47
+"14,540",F,New Jersey,12
+"13,539",M,New York,24
+"15,885",F,California,39
+"14,497",M,California,42
+"17,507",F,California,25
+"13,208",F,Illinois,4
+"17,334",F,Washington DC,8
+"13,871",F,New York,17
+"16,938",F,New Jersey,7
+"12,754",F,California,11
+"12,410",M,California,8
+"17,929",M,California,4
+"14,778",M,Illinois,26
+"17,517",F,California,20
+"17,226",F,Illinois,22
+"13,137",M,California,37
+"13,725",F,Illinois,48
+"13,309",M,Illinois,14
+"12,842",F,New Jersey,27
+"16,109",F,New York,50
+"17,291",F,Illinois,14
+"15,090",F,Illinois,17
+"15,199",F,New Jersey,41
+"13,911",M,Illinois,30
+"14,194",M,Illinois,19
+"14,842",F,New Jersey,14
+"13,584",M,Illinois,35
+"17,105",F,New Jersey,38
+"14,438",F,New York,41
+"12,956",F,Illinois,48
+"15,781",M,New Jersey,19
+"14,410",F,New York,45
+"14,600",F,California,7

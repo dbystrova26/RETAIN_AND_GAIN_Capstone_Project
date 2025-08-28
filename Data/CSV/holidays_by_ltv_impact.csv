@@ -1,0 +1,31 @@
+"holiday","group","avg_ltv"
+Victory Day,no_holiday,865.60004
+International Youth Day,no_holiday,865.60004
+Lunar New Year,no_holiday,865.8133
+World Youth Skills Day,no_holiday,854.953
+International Day for Preventing the Exploitation of the Environment in War and Armed Conflict,no_holiday,860.05096
+Memorial Day,no_holiday,874.3003
+Ronald Reagan Day,no_holiday,857.6571
+International Day of Zero Tolerance for Female Genital Mutilation,no_holiday,857.6571
+National Girls and Women in Sports Day,no_holiday,857.6571
+Sustainable Gastronomy Day,no_holiday,852.6936
+Labor Day,no_holiday,863.2928
+Ganesh Chaturthi,no_holiday,863.2928
+Sweetest Day,no_holiday,858.5652
+International Day of United Nations Peacekeepers,no_holiday,866.232
+New Year's Eve,no_holiday,864.20776
+Victory Day,with_holiday,"6,823.725"
+International Youth Day,with_holiday,"6,823.725"
+Lunar New Year,with_holiday,"6,719.5854"
+World Youth Skills Day,with_holiday,"6,438.9893"
+International Day for Preventing the Exploitation of the Environment in War and Armed Conflict,with_holiday,"6,064.1245"
+Memorial Day,with_holiday,"5,976.6475"
+Ronald Reagan Day,with_holiday,"5,780.092"
+International Day of Zero Tolerance for Female Genital Mutilation,with_holiday,"5,780.092"
+National Girls and Women in Sports Day,with_holiday,"5,780.092"
+Sustainable Gastronomy Day,with_holiday,"5,455.3203"
+Labor Day,with_holiday,"5,115.5693"
+Ganesh Chaturthi,with_holiday,"5,115.5693"
+Sweetest Day,with_holiday,"4,383.759"
+International Day of United Nations Peacekeepers,with_holiday,"4,255.5664"
+New Year's Eve,with_holiday,"4,183.918"

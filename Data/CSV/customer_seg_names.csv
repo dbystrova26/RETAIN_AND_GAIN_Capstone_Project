@@ -1,0 +1,7 @@
+"frequency_segment","value_segment","customer_seg_name"
+Freq_Seg1,Value_Seg1,At Risk Low
+Freq_Seg1,Value_Seg2,At Risk Medium
+Freq_Seg1,Value_Seg3,Potential Loyalists
+Freq_Seg2,Value_Seg1,Frequent Low
+Freq_Seg2,Value_Seg2,Core Customers
+Freq_Seg2,Value_Seg3,Champions
